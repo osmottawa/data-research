@@ -6,6 +6,8 @@ the UK Government's Open Government Licence for Public Sector Information and ha
 adapted for use by The Regional Municipality of Peel with the permission of the
 UK National Archives.
 
+- [ODbL Compatibility](http://wiki.openstreetmap.org/wiki/Import/ODbL_Compatibility)
+
 - [Open Data Licence for The Regional Municipality of Peel
 (Version 1.0)](http://opendata.peelregion.ca/terms-of-use.aspx)
 
