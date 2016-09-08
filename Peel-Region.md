@@ -30,6 +30,34 @@ The data used for this import are two Shapefiles one containing building outline
 **Data license:** See above with also written permission (text below)
 
 **Permission text:**
+    
+    Farrugia, Kevin <kevin.farrugia@peelregion.ca>
+    Jul 11
+    
+    Hi Denis,
+     
+    Good news – I am able to release the building footprints for the Town of Caledon.  You can find them here: http://opendata.peelregion.ca/data-categories/facilities-and-structures/caledon-building-footprints.aspx The only information with the data is the area (metres squared) and perimeter (metres) of each polygon.
+     
+    Some notes about the data:
+    ·         In most cases the address point should be within the polygon of the main building on the property, but also be aware that the address dataset includes units so in some cases there will be many addresses to one polygon.
+    
+    ·         Buildings that share walls (row houses, town houses, or the ‘Main Street’ buildings) are digitized as one footprint, rather than being split at each firewall or shared wall.  This also has implications where there would be many addresses to one polygon.
+    
+     
+    We’ll be contacting Brampton and Mississauga to see they’re able or willing to release their footprints at some point too.
+     
+    Of course, if members of your OSM Meetup would like to add them to OSM it would be great!  I can help out either as part of my regular work (questions, GIS-related modifications) when I can fit it in or outside of work (adding buildings/addresses, QA, etc.).
+     
+    Have a good day,
+     
+    Kevin Farrugia
+    Jr. Planner/GIS Analyst
+    Regional Municipality of Peel
+    Information Management Division - Service Innovation, Information and Technology
+    10 Peel Centre Drive, Suite A, 6th Floor
+    Brampton, ON L6T 4B9
+    e-mail: Kevin.Farrugia@peelregion.ca | Tel: (905) 791-7800 x. 4061
+    http://opendata.peelregion.ca
 
 ### OSM Data Files
 Not prepared yet
