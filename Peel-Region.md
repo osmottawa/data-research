@@ -19,7 +19,7 @@ UK National Archives.
 The goal of this import is to add building footprints as well as address data of the town of Caledon, Ontario
 
 ### Schedule
-- ? 2016: discussion period of two weeks, starting when posted to imports@ list and talk-ca@ list
+- 8 September 2016: discussion period of two weeks, starting when posted to imports@ list and talk-ca@ list
 - if positive result of discussion: import after end of discussion period
 
 ### Import Data
