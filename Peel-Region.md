@@ -60,7 +60,14 @@ The data used for this import are two Shapefiles one containing building outline
     http://opendata.peelregion.ca
 
 ### OSM Data Files
-Not prepared yet
+The data will be served by https://addxy.com/ as JOSM xml files via a link in the tasking manager. The data consumed by the website is available here:
+
+[caledon-building-footprints:](https://gist.githubusercontent.com/DenisCarriere/218598adeccf51ed09313fd2c9f28350)
+
+[caledon-address-points:](https://gist.githubusercontent.com/DenisCarriere/312775d66fc136f4d91b26e5c7b8fd65)
+
+[caledon-building-address:](https://gist.githubusercontent.com/DenisCarriere/263312e80d9b3d17376ee2b64a0a7ff7)
+
 
 ### Import Type
 This is a one-time import, will be prepared via script and tasked via a tasking manager
