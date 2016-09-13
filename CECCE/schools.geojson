@@ -931,7 +931,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Johnson Drive",
-				addr:street:fr": "Promenade Johnson",
+				"addr:street:fr": "Promenade Johnson",
                 "ref": 701670,
                 "school:language": "french"
             },
