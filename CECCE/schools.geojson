@@ -794,34 +794,6 @@
         {
             "type": "Feature",
             "properties": {
-                "addr:housenumber": 1908,
-                "amenity": "school",
-                "addr:postcode": "K6V 5T1",
-                "name": "École élémentaire catholique Ange-Gabriel",
-                "isced:level": 2,
-                "school:jurisdiction": "Brockville",
-                "source": "CECCE",
-                "source:ref": "CECCE",
-                "operator": "Conseil des écoles catholiques du Centre-Est",
-                "religion": "christian",
-                "addr:street": "Sharpe's Lane",
-                "addr:street:fr": "Ruelle Sharpe",
-                "ref": 701645,
-                "school:language": "french",
-                "contact:twitter": "@ecolecatholique",
-                "contact:facebook": "ecolecatholique"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.6536245,
-                    44.6122474
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "addr:housenumber": 1830,
                 "amenity": "school",
                 "addr:postcode": "K4A 3T6",
