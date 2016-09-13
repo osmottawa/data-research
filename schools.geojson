@@ -1,0 +1,1761 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1515,
+                "amenity": "school",
+                "addr:postal": "K6V6H9",
+                "name": "Académie cath. Ange-Gabriel, pav élé.",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Brockville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Kensington Pky",
+                "ref": 735632,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7181156,
+                    44.6113113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1515,
+                "amenity": "school",
+                "addr:postal": "K6V6H9",
+                "name": "Académie cath. Ange-Gabriel, pav. int.",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Brockville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Kensington Pky",
+                "ref": 767978,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7181156,
+                    44.6113113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1515,
+                "amenity": "school",
+                "addr:postal": "K6V6H9",
+                "name": "Académie cath. Ange-Gabriel, pav. sec.",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Brockville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Kensington Pky",
+                "ref": 855949,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7181156,
+                    44.6113113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 801,
+                "amenity": "school",
+                "addr:postal": "K1K4R3",
+                "name": "Centre professionnel et technique Minto",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Aviation Pky",
+                "ref": 705373,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6274474,
+                    45.4391689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1257,
+                "amenity": "school",
+                "addr:postal": "K8A5R3",
+                "name": "Centre scolaire catholique Jeanne-Lajoie, pavillon secondaire",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Pembroke",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Pembroke O",
+                "ref": 696021,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1482384,
+                    45.8330355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1255,
+                "amenity": "school",
+                "addr:postal": "K8A5R3",
+                "name": "Centre scolaire catholique Jeanne-Lajoie, pavillon élémentaire",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Pembroke",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Pembroke O",
+                "ref": 696005,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1500142,
+                    45.8357941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 411,
+                "amenity": "school",
+                "addr:postal": "K2H8X1",
+                "name": "Collège catholique Franco-Ouest - École secondaire",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Seyton Dr",
+                "ref": 694827,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8342684,
+                    45.3145435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6401,
+                "amenity": "school",
+                "addr:postal": "K1W0H8",
+                "name": "Collège catholique Mer Bleue",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Renaud Rd",
+                "ref": 846435,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5032839,
+                    45.4355874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 704,
+                "amenity": "school",
+                "addr:postal": "K1K2H3",
+                "name": "Collège catholique Samuel-Genest",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Carson's Rd",
+                "ref": 695955,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6295133,
+                    45.4434895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1999,
+                "amenity": "school",
+                "addr:postal": "K4A3Y6",
+                "name": "Pavillon Béatrice-Desloges",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Provence",
+                "ref": 705276,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.45839060000002,
+                    45.4684864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 623,
+                "amenity": "school",
+                "addr:postal": "K1G1N7",
+                "name": "Pavillon Franco-Cité 7e-8e",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Smyth Rd",
+                "ref": 752550,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6423356,
+                    45.3997719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 411,
+                "amenity": "school",
+                "addr:postal": "K2H8X1",
+                "name": "Pavillon Franco-Ouest 7e-8e",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Seyton Dr",
+                "ref": 750107,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8342684,
+                    45.3145435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6588,
+                "amenity": "school",
+                "addr:postal": "K1C1J4",
+                "name": "Pavillon Garneau 7e/8e",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Carrière",
+                "ref": 752576,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5243763,
+                    45.466003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 711,
+                "amenity": "school",
+                "addr:postal": "K7M8N6",
+                "name": "Pavillon Marie-Rivier",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Kingston",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Dalton",
+                "ref": 705241,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5228689,
+                    44.27096909999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 5315,
+                "amenity": "school",
+                "addr:postal": "K2S0X3",
+                "name": "Pavillon Paul-Desmarais",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Stittsville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Abbott E",
+                "ref": 685986,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.896757,
+                    45.2744469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1110,
+                "amenity": "school",
+                "addr:postal": "K2J0H9",
+                "name": "Pavillon Pierre-Savard 7e/8e",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Longfields Dr",
+                "ref": 718973,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7370906,
+                    45.2727227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 704,
+                "amenity": "school",
+                "addr:postal": "K1K2H3",
+                "name": "Pavillon Samuel-Genest",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Carson's Rd",
+                "ref": 751120,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6295133,
+                    45.4434895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6401,
+                "amenity": "school",
+                "addr:postal": "K1W0H8",
+                "name": "Pavillon catholique Mer Bleue",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Renaud Rd",
+                "ref": 752899,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5032839,
+                    45.4355874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 181,
+                "amenity": "school",
+                "addr:postal": "K1K1N1",
+                "name": "Programme de langue internationale à l'élémentaire",
+                "isced:level": "ConEd",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Donald",
+                "ref": 994288,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66131980000002,
+                    45.4274078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1257,
+                "amenity": "school",
+                "addr:postal": "K8A5R3",
+                "name": "École intermédiaire Jeanne-Lajoie, pavillon intermédiaire",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Pembroke",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Pembroke O",
+                "ref": 696030,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1482384,
+                    45.8330355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1999,
+                "amenity": "school",
+                "addr:postal": "K4A3Y6",
+                "name": "École secondaire catholique Béatrice-Desloges",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Provence",
+                "ref": 705314,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.45839060000002,
+                    45.4684864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 623,
+                "amenity": "school",
+                "addr:postal": "K1G1N7",
+                "name": "École secondaire catholique Franco-Cité",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Smyth Rd",
+                "ref": 705233,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6423356,
+                    45.3997719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6588,
+                "amenity": "school",
+                "addr:postal": "K1C1J4",
+                "name": "École secondaire catholique Garneau",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Carrière",
+                "ref": 710903,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5243763,
+                    45.466003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 711,
+                "amenity": "school",
+                "addr:postal": "K7M8N6",
+                "name": "École secondaire catholique Marie-Rivier",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Kingston",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Dalton",
+                "ref": 750085,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5228689,
+                    44.27096909999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 5315,
+                "amenity": "school",
+                "addr:postal": "K2S0X3",
+                "name": "École secondaire catholique Paul-Desmarais",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Stittsville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Abbott E",
+                "ref": 758231,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.896757,
+                    45.2744469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1110,
+                "amenity": "school",
+                "addr:postal": "K2J0H9",
+                "name": "École secondaire catholique Pierre-Savard",
+                "isced:level": "Sec",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Longfields Dr",
+                "ref": 832670,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7370906,
+                    45.2727227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6664,
+                "amenity": "school",
+                "addr:postal": "K1C1J4",
+                "name": "École élementaire catholique Saint-Joseph d'Orléans",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Carrière",
+                "ref": 703095,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5222949,
+                    45.4665355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 676,
+                "amenity": "school",
+                "addr:postal": "K4A0J8",
+                "name": "École élémentaire catholique Alain-Fortin",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orleans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Lakeridge Dr",
+                "ref": 731385,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4741483,
+                    45.4474034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1908,
+                "amenity": "school",
+                "addr:postal": "K6V5T1",
+                "name": "École élémentaire catholique Ange-Gabriel",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Brockville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Sharpe Way",
+                "ref": 701645,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6536245,
+                    44.6122474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1830,
+                "amenity": "school",
+                "addr:postal": "K4A3T6",
+                "name": "École élémentaire catholique Arc-en-ciel",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Boul Portobello",
+                "ref": 705047,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4708366,
+                    45.47141269999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 4170,
+                "amenity": "school",
+                "addr:postal": "K1V0Z5",
+                "name": "École élémentaire catholique Bernard-Grandmaître",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Gloucester",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Spratt Rd",
+                "ref": 769765,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6824518,
+                    45.2847845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 880,
+                "amenity": "school",
+                "addr:postal": "K1V6Y3",
+                "name": "École élémentaire catholique George-Étienne-Cartier",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Thorndale Dr",
+                "ref": 864730,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6725823,
+                    45.36408549999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 349,
+                "amenity": "school",
+                "addr:postal": "K1L1B1",
+                "name": "École élémentaire catholique Horizon-Jeunesse",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Vanier",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Olmstead",
+                "ref": 701688,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6598242,
+                    45.4325264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 10,
+                "amenity": "school",
+                "addr:postal": "K7C3Z6",
+                "name": "École élémentaire catholique J.-L.-Couroux",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Carleton Place",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Findlay",
+                "ref": 722901,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.1288622,
+                    45.1287046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 651,
+                "amenity": "school",
+                "addr:postal": "K2J0W7",
+                "name": "École élémentaire catholique Jean-Robert-Gauthier",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Chapman Mills Dr",
+                "ref": 705136,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7313294,
+                    45.2701757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 45,
+                "amenity": "school",
+                "addr:postal": "K8V6V7",
+                "name": "École élémentaire catholique L'Envol",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Trenton",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Johnson Dr",
+                "ref": 701670,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5549522,
+                    44.11110439999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6220,
+                "amenity": "school",
+                "addr:postal": "K1C8E4",
+                "name": "École élémentaire catholique L'Étoile-de-l'Est",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Beauséjour Dr",
+                "ref": 865648,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5322551,
+                    45.45667690000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 614,
+                "amenity": "school",
+                "addr:postal": "K1J6Z6",
+                "name": "École élémentaire catholique La Vérendrye",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Gloucester",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Eastvale Dr",
+                "ref": 725536,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.598115,
+                    45.4601877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 2540,
+                "amenity": "school",
+                "addr:postal": "K1V8C5",
+                "name": "École élémentaire catholique Lamoureux - Enseignement personnalisé",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Kaladar",
+                "ref": 725633,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6708201,
+                    45.3738086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 14,
+                "amenity": "school",
+                "addr:postal": "K2E7P8",
+                "name": "École élémentaire catholique Laurier-Carrière",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Four Seasons Dr",
+                "ref": 734314,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7129715,
+                    45.3523564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1345,
+                "amenity": "school",
+                "addr:postal": "K1V6T3",
+                "name": "École élémentaire catholique Marius-Barbeau",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Notting Hill",
+                "ref": 753157,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6562175,
+                    45.3710584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 51,
+                "amenity": "school",
+                "addr:postal": "K7K5Y3",
+                "name": "École élémentaire catholique Mgr-Rémi-Gaulin",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Kingston",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Virginia",
+                "ref": 705420,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4864364,
+                    44.2696804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 350,
+                "amenity": "school",
+                "addr:postal": "K1K0W9",
+                "name": "École élémentaire catholique Montfort",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Den Haag Dr",
+                "ref": 732397,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6304143,
+                    45.440619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6280,
+                "amenity": "school",
+                "addr:postal": "K4B1H9",
+                "name": "École élémentaire catholique Notre-Dame-des-Champs",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Navan",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Renaud Rd",
+                "ref": 735920,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5092138,
+                    45.432163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 665,
+                "amenity": "school",
+                "addr:postal": "K4A0Z3",
+                "name": "École élémentaire catholique Notre-Place",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Des Aubépines Dr",
+                "ref": 796656,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4854476,
+                    45.4465482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 601,
+                "amenity": "school",
+                "addr:postal": "K2J4X1",
+                "name": "École élémentaire catholique Pierre-Elliott-Trudeau",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Longfields Dr",
+                "ref": 688762,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.744541,
+                    45.286748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1450,
+                "amenity": "school",
+                "addr:postal": "K1E1E6",
+                "name": "École élémentaire catholique Reine-des-Bois",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Duford Dr",
+                "ref": 705365,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5098414,
+                    45.471906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 186,
+                "amenity": "school",
+                "addr:postal": "K2L2C7",
+                "name": "École élémentaire catholique Roger-Saint-Denis",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Kanata",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Barrow Cres",
+                "ref": 753203,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.882671,
+                    45.312331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 35,
+                "amenity": "school",
+                "addr:postal": "K1Y1T8",
+                "name": "École élémentaire catholique Saint-François-d'Assise",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Melrose",
+                "ref": 793027,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7241772,
+                    45.4022549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 5750,
+                "amenity": "school",
+                "addr:postal": "K0A3H0",
+                "name": "École élémentaire catholique Saint-Guillaume",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Cumberland",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Buckland Rd",
+                "ref": 701971,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3537892,
+                    45.3558584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 5473,
+                "amenity": "school",
+                "addr:postal": "K2S0A8",
+                "name": "École élémentaire catholique Saint-Jean-Paul II",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Stittsville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Abbott E",
+                "ref": 156159,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9034762,
+                    45.2706116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6479,
+                "amenity": "school",
+                "addr:postal": "K0A1K0",
+                "name": "École élémentaire catholique Saint-Laurent",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Cumberland",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Russell Rd",
+                "ref": 709123,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.456204,
+                    45.3693447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 100,
+                "amenity": "school",
+                "addr:postal": "K2K0G8",
+                "name": "École élémentaire catholique Saint-Rémi",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Kanata",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Walden Dr",
+                "ref": 752625,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9223407,
+                    45.327385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 235,
+                "amenity": "school",
+                "addr:postal": "K1N0C1",
+                "name": "École élémentaire catholique Sainte-Anne",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Beausoleil Dr",
+                "ref": 860573,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6815936,
+                    45.432188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 3781,
+                "amenity": "school",
+                "addr:postal": "K1T1K5",
+                "name": "École élémentaire catholique Sainte-Bernadette",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Gloucester",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Sixth",
+                "ref": 709387,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6242402,
+                    45.3523266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 2198,
+                "amenity": "school",
+                "addr:postal": "K1G2H7",
+                "name": "École élémentaire catholique Sainte-Geneviève",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Arch",
+                "ref": 861871,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6306135,
+                    45.3891718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 2450,
+                "amenity": "school",
+                "addr:postal": "K2J5W5",
+                "name": "École élémentaire catholique Sainte-Kateri",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Nepean",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "River Mist Rd",
+                "ref": 733402,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7360465,
+                    45.2444632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 306,
+                "amenity": "school",
+                "addr:postal": "K0G1N0",
+                "name": "École élémentaire catholique Sainte-Marguerite-Bourgeoys",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Merrickville",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Read",
+                "ref": 730980,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8416077,
+                    44.9141954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 2599,
+                "amenity": "school",
+                "addr:postal": "K1B3J8",
+                "name": "École élémentaire catholique Sainte-Marie",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Gloucester",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Innes Rd",
+                "ref": 709646,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.566574,
+                    45.43258549999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 9575,
+                "amenity": "school",
+                "addr:postal": "K4R1E5",
+                "name": "École élémentaire catholique Sainte-Thérèse-d'Avila",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Russell",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Marionville Rd",
+                "ref": 740845,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3553509,
+                    45.1823184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1303,
+                "amenity": "school",
+                "addr:postal": "K2C2V8",
+                "name": "École élémentaire catholique Terre-des-Jeunes",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Fellows Rd",
+                "ref": 861480,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7681885,
+                    45.3520717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1445,
+                "amenity": "school",
+                "addr:postal": "K1E1E8",
+                "name": "École élémentaire catholique d'enseignement personnalisé La Source",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orleans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Duford Dr",
+                "ref": 703753,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.508581,
+                    45.472723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 920,
+                "amenity": "school",
+                "addr:postal": "K2B5K3",
+                "name": "École élémentaire catholique d'enseignement personnalisé Édouard-Bond",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Parkhaven",
+                "ref": 786634,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7756653,
+                    45.362344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 866,
+                "amenity": "school",
+                "addr:postal": "K4A4T6",
+                "name": "École élémentaire catholique de la Découverte",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Av Scala",
+                "ref": 705390,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4614906,
+                    45.4648987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 1487,
+                "amenity": "school",
+                "addr:postal": "K1B4K6",
+                "name": "École élémentaire catholique des Pins",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Ridgebrook Dr",
+                "ref": 764264,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.604354,
+                    45.421493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 720,
+                "amenity": "school",
+                "addr:postal": "K4A1L8",
+                "name": "École élémentaire catholique des Pionniers",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Merkley Dr",
+                "ref": 703168,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4816206,
+                    45.473832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 6030,
+                "amenity": "school",
+                "addr:postal": "K1C2T1",
+                "name": "École élémentaire catholique des Voyageurs",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Orléans",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Voyageur Dr",
+                "ref": 741671,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5523056,
+                    45.4735868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 100,
+                "amenity": "school",
+                "addr:postal": "K2M2H4",
+                "name": "École élémentaire catholique Élisabeth-Bruyère",
+                "isced:level": "Elem",
+                "school:jurisdiction": "Kanata",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Stonehaven Dr",
+                "ref": 705055,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8465606,
+                    45.2872878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 181,
+                "amenity": "school",
+                "addr:postal": "K1K1N1",
+                "name": "Éducation permanente",
+                "isced:level": "ConEd",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Donald",
+                "ref": 992330,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66131980000002,
+                    45.4274078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "addr:housenumber": 181,
+                "amenity": "school",
+                "addr:postal": "K1K1N1",
+                "name": "Éducation sans frontiers - éte",
+                "isced:level": "ConEd",
+                "school:jurisdiction": "Ottawa",
+                "source": "CECCE",
+                "source:ref": "CECCE",
+                "operator": "Conseil des écoles catholiques du Centre-Est",
+                "religion": "christian",
+                "addr:street": "Rue Donald",
+                "ref": 981281,
+                "school:language": "french"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66131980000002,
+                    45.4274078
+                ]
+            }
+        }
+    ]
+}
