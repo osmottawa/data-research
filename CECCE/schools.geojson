@@ -332,8 +332,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-				"addr:street": "Carrière Road",
-                "addr:street:fr": "Chemin Carrière",
+				"addr:street": "Carrière Street",
+                "addr:street:fr": "Rue Carrière",
                 "ref": 752576,
                 "school:language": "french"
             },
@@ -384,8 +384,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-				"addr:street": "Abbott Road East",
-                "addr:street:fr": "Chemin Abbott Est",
+				"addr:street": "Abbott Street East",
+                "addr:street:fr": "Rue Abbott Est",
                 "ref": 685986,
                 "school:language": "french"
             },
@@ -644,7 +644,7 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-				"addr:street": "Abbott Street Street East",
+				"addr:street": "Abbott Street East",
                 "addr:street:fr": "Rue Abbott Est",
                 "ref": 758231,
                 "school:language": "french"
@@ -748,8 +748,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Sharpe Way",
-				"addr:street:fr": "Voie Sharpe",
+                "addr:street": "Sharpe's Lane",
+				"addr:street:fr": "Ruelle Sharpe",
                 "ref": 701645,
                 "school:language": "french"
             },
