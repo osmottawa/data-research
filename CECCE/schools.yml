@@ -1,0 +1,29 @@
+name:
+    field: SCHOOL_NAME
+'addr:postal':
+    field: POSTAL_CODE
+'addr:street':
+    title: True
+    field: STREET
+'addr:housenumber':
+    int: True
+    field: STREET_NO
+'isced:level':
+    field: SCHOOL_TYPE_CODE
+ref:
+    int: True
+    field: SCHOOL_ORG_ID
+'source:ref':
+    text: 'CECCE'
+source:
+    text: 'CECCE'
+operator:
+    text: 'Conseil des écoles catholiques du Centre-Est'
+amenity:
+    text: 'school'
+'school:jurisdiction':
+    field: JURISDICTION_NAME
+'school:language':
+    text: 'french'
+religion:
+    text: 'christian'
