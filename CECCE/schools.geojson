@@ -12,7 +12,7 @@
             "properties": {
                 "addr:housenumber": 1515,
                 "amenity": "school",
-                "addr:postal": "K6V 6H9",
+                "addr:postcode": "K6V 6H9",
                 "name": "Académie cath. Ange-Gabriel, pav élé.",
                 "isced:level": 2,
                 "school:jurisdiction": "Brockville",
@@ -40,7 +40,7 @@
             "properties": {
                 "addr:housenumber": 1515,
                 "amenity": "school",
-                "addr:postal": "K6V 6H9",
+                "addr:postcode": "K6V 6H9",
                 "name": "Académie cath. Ange-Gabriel, pav. int.",
                 "isced:level": 2,
                 "school:jurisdiction": "Brockville",
@@ -68,7 +68,7 @@
             "properties": {
                 "addr:housenumber": 1515,
                 "amenity": "school",
-                "addr:postal": "K6V 6H9",
+                "addr:postcode": "K6V 6H9",
                 "name": "Académie cath. Ange-Gabriel, pav. sec.",
                 "isced:level": 3,
                 "school:jurisdiction": "Brockville",
@@ -96,7 +96,7 @@
             "properties": {
                 "addr:housenumber": 801,
                 "amenity": "school",
-                "addr:postal": "K1K 4R3",
+                "addr:postcode": "K1K 4R3",
                 "name": "Centre professionnel et technique Minto",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
@@ -124,7 +124,7 @@
             "properties": {
                 "addr:housenumber": 1257,
                 "amenity": "school",
-                "addr:postal": "K8A 5R3",
+                "addr:postcode": "K8A 5R3",
                 "name": "Centre scolaire catholique Jeanne-Lajoie, pavillon secondaire",
                 "isced:level": 3,
                 "school:jurisdiction": "Pembroke",
@@ -152,7 +152,7 @@
             "properties": {
                 "addr:housenumber": 1255,
                 "amenity": "school",
-                "addr:postal": "K8A 5R3",
+                "addr:postcode": "K8A 5R3",
                 "name": "Centre scolaire catholique Jeanne-Lajoie, pavillon élémentaire",
                 "isced:level": 2,
                 "school:jurisdiction": "Pembroke",
@@ -180,7 +180,7 @@
             "properties": {
                 "addr:housenumber": 411,
                 "amenity": "school",
-                "addr:postal": "K2H 8X1",
+                "addr:postcode": "K2H 8X1",
                 "name": "Collège catholique Franco-Ouest - École secondaire",
                 "isced:level": 3,
                 "school:jurisdiction": "Nepean",
@@ -208,7 +208,7 @@
             "properties": {
                 "addr:housenumber": 6401,
                 "amenity": "school",
-                "addr:postal": "K1W 0H8",
+                "addr:postcode": "K1W 0H8",
                 "name": "Collège catholique Mer Bleue",
                 "isced:level": 3,
                 "school:jurisdiction": "Orléans",
@@ -236,7 +236,7 @@
             "properties": {
                 "addr:housenumber": 704,
                 "amenity": "school",
-                "addr:postal": "K1K 2H3",
+                "addr:postcode": "K1K 2H3",
                 "name": "Collège catholique Samuel-Genest",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
@@ -264,7 +264,7 @@
             "properties": {
                 "addr:housenumber": 1999,
                 "amenity": "school",
-                "addr:postal": "K4A 3Y6",
+                "addr:postcode": "K4A 3Y6",
                 "name": "Pavillon Béatrice-Desloges",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -292,7 +292,7 @@
             "properties": {
                 "addr:housenumber": 623,
                 "amenity": "school",
-                "addr:postal": "K1G 1N7",
+                "addr:postcode": "K1G 1N7",
                 "name": "Pavillon Franco-Cité 7e-8e",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -320,7 +320,7 @@
             "properties": {
                 "addr:housenumber": 411,
                 "amenity": "school",
-                "addr:postal": "K2H 8X1",
+                "addr:postcode": "K2H 8X1",
                 "name": "Pavillon Franco-Ouest 7e-8e",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -348,7 +348,7 @@
             "properties": {
                 "addr:housenumber": 6588,
                 "amenity": "school",
-                "addr:postal": "K1C 1J4",
+                "addr:postcode": "K1C 1J4",
                 "name": "Pavillon Garneau 7e/8e",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -376,7 +376,7 @@
             "properties": {
                 "addr:housenumber": 711,
                 "amenity": "school",
-                "addr:postal": "K7M 8N6",
+                "addr:postcode": "K7M 8N6",
                 "name": "Pavillon Marie-Rivier",
                 "isced:level": 2,
                 "school:jurisdiction": "Kingston",
@@ -404,7 +404,7 @@
             "properties": {
                 "addr:housenumber": 5315,
                 "amenity": "school",
-                "addr:postal": "K2S 0X3",
+                "addr:postcode": "K2S 0X3",
                 "name": "Pavillon Paul-Desmarais",
                 "isced:level": 2,
                 "school:jurisdiction": "Stittsville",
@@ -432,7 +432,7 @@
             "properties": {
                 "addr:housenumber": 1110,
                 "amenity": "school",
-                "addr:postal": "K2J 0H9",
+                "addr:postcode": "K2J 0H9",
                 "name": "Pavillon Pierre-Savard 7e/8e",
                 "isced:level": 2,
                 "school:jurisdiction": "Nepean",
@@ -460,7 +460,7 @@
             "properties": {
                 "addr:housenumber": 704,
                 "amenity": "school",
-                "addr:postal": "K1K 2H3",
+                "addr:postcode": "K1K 2H3",
                 "name": "Pavillon Samuel-Genest",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -488,7 +488,7 @@
             "properties": {
                 "addr:housenumber": 6401,
                 "amenity": "school",
-                "addr:postal": "K1W 0H8",
+                "addr:postcode": "K1W 0H8",
                 "name": "Pavillon catholique Mer Bleue",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -516,7 +516,7 @@
             "properties": {
                 "addr:housenumber": 181,
                 "amenity": "school",
-                "addr:postal": "K1K 1N1",
+                "addr:postcode": "K1K 1N1",
                 "name": "Programme de langue internationale à l'élémentaire",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
@@ -544,7 +544,7 @@
             "properties": {
                 "addr:housenumber": 1257,
                 "amenity": "school",
-                "addr:postal": "K8A 5R3",
+                "addr:postcode": "K8A 5R3",
                 "name": "École intermédiaire Jeanne-Lajoie, pavillon intermédiaire",
                 "isced:level": 2,
                 "school:jurisdiction": "Pembroke",
@@ -572,7 +572,7 @@
             "properties": {
                 "addr:housenumber": 1999,
                 "amenity": "school",
-                "addr:postal": "K4A 3Y6",
+                "addr:postcode": "K4A 3Y6",
                 "name": "École secondaire catholique Béatrice-Desloges",
                 "isced:level": 3,
                 "school:jurisdiction": "Orléans",
@@ -600,7 +600,7 @@
             "properties": {
                 "addr:housenumber": 623,
                 "amenity": "school",
-                "addr:postal": "K1G 1N7",
+                "addr:postcode": "K1G 1N7",
                 "name": "École secondaire catholique Franco-Cité",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
@@ -628,7 +628,7 @@
             "properties": {
                 "addr:housenumber": 6588,
                 "amenity": "school",
-                "addr:postal": "K1C 1J4",
+                "addr:postcode": "K1C 1J4",
                 "name": "École secondaire catholique Garneau",
                 "isced:level": 3,
                 "school:jurisdiction": "Orléans",
@@ -656,7 +656,7 @@
             "properties": {
                 "addr:housenumber": 711,
                 "amenity": "school",
-                "addr:postal": "K7M 8N6",
+                "addr:postcode": "K7M 8N6",
                 "name": "École secondaire catholique Marie-Rivier",
                 "isced:level": 3,
                 "school:jurisdiction": "Kingston",
@@ -684,7 +684,7 @@
             "properties": {
                 "addr:housenumber": 5315,
                 "amenity": "school",
-                "addr:postal": "K2S 0X3",
+                "addr:postcode": "K2S 0X3",
                 "name": "École secondaire catholique Paul-Desmarais",
                 "isced:level": 3,
                 "school:jurisdiction": "Stittsville",
@@ -712,7 +712,7 @@
             "properties": {
                 "addr:housenumber": 1110,
                 "amenity": "school",
-                "addr:postal": "K2J 0H9",
+                "addr:postcode": "K2J 0H9",
                 "name": "École secondaire catholique Pierre-Savard",
                 "isced:level": 3,
                 "school:jurisdiction": "Nepean",
@@ -740,7 +740,7 @@
             "properties": {
                 "addr:housenumber": 6664,
                 "amenity": "school",
-                "addr:postal": "K1C 1J4",
+                "addr:postcode": "K1C 1J4",
                 "name": "École élementaire catholique Saint-Joseph d'Orléans",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -768,7 +768,7 @@
             "properties": {
                 "addr:housenumber": 676,
                 "amenity": "school",
-                "addr:postal": "K4A 0J8",
+                "addr:postcode": "K4A 0J8",
                 "name": "École élémentaire catholique Alain-Fortin",
                 "isced:level": 2,
                 "school:jurisdiction": "Orleans",
@@ -796,7 +796,7 @@
             "properties": {
                 "addr:housenumber": 1908,
                 "amenity": "school",
-                "addr:postal": "K6V 5T1",
+                "addr:postcode": "K6V 5T1",
                 "name": "École élémentaire catholique Ange-Gabriel",
                 "isced:level": 2,
                 "school:jurisdiction": "Brockville",
@@ -824,7 +824,7 @@
             "properties": {
                 "addr:housenumber": 1830,
                 "amenity": "school",
-                "addr:postal": "K4A 3T6",
+                "addr:postcode": "K4A 3T6",
                 "name": "École élémentaire catholique Arc-en-ciel",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -852,7 +852,7 @@
             "properties": {
                 "addr:housenumber": 4170,
                 "amenity": "school",
-                "addr:postal": "K1V 0Z5",
+                "addr:postcode": "K1V 0Z5",
                 "name": "École élémentaire catholique Bernard-Grandmaître",
                 "isced:level": 2,
                 "school:jurisdiction": "Gloucester",
@@ -880,7 +880,7 @@
             "properties": {
                 "addr:housenumber": 880,
                 "amenity": "school",
-                "addr:postal": "K1V 6Y3",
+                "addr:postcode": "K1V 6Y3",
                 "name": "École élémentaire catholique George-Étienne-Cartier",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -908,7 +908,7 @@
             "properties": {
                 "addr:housenumber": 349,
                 "amenity": "school",
-                "addr:postal": "K1L 1B1",
+                "addr:postcode": "K1L 1B1",
                 "name": "École élémentaire catholique Horizon-Jeunesse",
                 "isced:level": 2,
                 "school:jurisdiction": "Vanier",
@@ -936,7 +936,7 @@
             "properties": {
                 "addr:housenumber": 10,
                 "amenity": "school",
-                "addr:postal": "K7C 3Z6",
+                "addr:postcode": "K7C 3Z6",
                 "name": "École élémentaire catholique J.-L.-Couroux",
                 "isced:level": 2,
                 "school:jurisdiction": "Carleton Place",
@@ -964,7 +964,7 @@
             "properties": {
                 "addr:housenumber": 651,
                 "amenity": "school",
-                "addr:postal": "K2J 0W7",
+                "addr:postcode": "K2J 0W7",
                 "name": "École élémentaire catholique Jean-Robert-Gauthier",
                 "isced:level": 2,
                 "school:jurisdiction": "Nepean",
@@ -992,7 +992,7 @@
             "properties": {
                 "addr:housenumber": 45,
                 "amenity": "school",
-                "addr:postal": "K8V 6V7",
+                "addr:postcode": "K8V 6V7",
                 "name": "École élémentaire catholique L'Envol",
                 "isced:level": 2,
                 "school:jurisdiction": "Trenton",
@@ -1020,7 +1020,7 @@
             "properties": {
                 "addr:housenumber": 6220,
                 "amenity": "school",
-                "addr:postal": "K1C 8E4",
+                "addr:postcode": "K1C 8E4",
                 "name": "École élémentaire catholique L'Étoile-de-l'Est",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1048,7 +1048,7 @@
             "properties": {
                 "addr:housenumber": 614,
                 "amenity": "school",
-                "addr:postal": "K1J 6Z6",
+                "addr:postcode": "K1J 6Z6",
                 "name": "École élémentaire catholique La Vérendrye",
                 "isced:level": 2,
                 "school:jurisdiction": "Gloucester",
@@ -1076,7 +1076,7 @@
             "properties": {
                 "addr:housenumber": 2540,
                 "amenity": "school",
-                "addr:postal": "K1V 8C5",
+                "addr:postcode": "K1V 8C5",
                 "name": "École élémentaire catholique Lamoureux - Enseignement personnalisé",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1104,7 +1104,7 @@
             "properties": {
                 "addr:housenumber": 14,
                 "amenity": "school",
-                "addr:postal": "K2E 7P8",
+                "addr:postcode": "K2E 7P8",
                 "name": "École élémentaire catholique Laurier-Carrière",
                 "isced:level": 2,
                 "school:jurisdiction": "Nepean",
@@ -1132,7 +1132,7 @@
             "properties": {
                 "addr:housenumber": 1345,
                 "amenity": "school",
-                "addr:postal": "K1V 6T3",
+                "addr:postcode": "K1V 6T3",
                 "name": "École élémentaire catholique Marius-Barbeau",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1160,7 +1160,7 @@
             "properties": {
                 "addr:housenumber": 51,
                 "amenity": "school",
-                "addr:postal": "K7K 5Y3",
+                "addr:postcode": "K7K 5Y3",
                 "name": "École élémentaire catholique Mgr-Rémi-Gaulin",
                 "isced:level": 2,
                 "school:jurisdiction": "Kingston",
@@ -1188,7 +1188,7 @@
             "properties": {
                 "addr:housenumber": 350,
                 "amenity": "school",
-                "addr:postal": "K1K 0W9",
+                "addr:postcode": "K1K 0W9",
                 "name": "École élémentaire catholique Montfort",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1216,7 +1216,7 @@
             "properties": {
                 "addr:housenumber": 6280,
                 "amenity": "school",
-                "addr:postal": "K4B 1H9",
+                "addr:postcode": "K4B 1H9",
                 "name": "École élémentaire catholique Notre-Dame-des-Champs",
                 "isced:level": 2,
                 "school:jurisdiction": "Navan",
@@ -1244,7 +1244,7 @@
             "properties": {
                 "addr:housenumber": 665,
                 "amenity": "school",
-                "addr:postal": "K4A 0Z3",
+                "addr:postcode": "K4A 0Z3",
                 "name": "École élémentaire catholique Notre-Place",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1272,7 +1272,7 @@
             "properties": {
                 "addr:housenumber": 601,
                 "amenity": "school",
-                "addr:postal": "K2J 4X1",
+                "addr:postcode": "K2J 4X1",
                 "name": "École élémentaire catholique Pierre-Elliott-Trudeau",
                 "isced:level": 2,
                 "school:jurisdiction": "Nepean",
@@ -1300,7 +1300,7 @@
             "properties": {
                 "addr:housenumber": 1450,
                 "amenity": "school",
-                "addr:postal": "K1E 1E6",
+                "addr:postcode": "K1E 1E6",
                 "name": "École élémentaire catholique Reine-des-Bois",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1328,7 +1328,7 @@
             "properties": {
                 "addr:housenumber": 186,
                 "amenity": "school",
-                "addr:postal": "K2L 2C7",
+                "addr:postcode": "K2L 2C7",
                 "name": "École élémentaire catholique Roger-Saint-Denis",
                 "isced:level": 2,
                 "school:jurisdiction": "Kanata",
@@ -1356,7 +1356,7 @@
             "properties": {
                 "addr:housenumber": 35,
                 "amenity": "school",
-                "addr:postal": "K1Y 1T8",
+                "addr:postcode": "K1Y 1T8",
                 "name": "École élémentaire catholique Saint-François-d'Assise",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1384,7 +1384,7 @@
             "properties": {
                 "addr:housenumber": 5750,
                 "amenity": "school",
-                "addr:postal": "K0A 3H0",
+                "addr:postcode": "K0A 3H0",
                 "name": "École élémentaire catholique Saint-Guillaume",
                 "isced:level": 2,
                 "school:jurisdiction": "Cumberland",
@@ -1412,7 +1412,7 @@
             "properties": {
                 "addr:housenumber": 5473,
                 "amenity": "school",
-                "addr:postal": "K2S 0A8",
+                "addr:postcode": "K2S 0A8",
                 "name": "École élémentaire catholique Saint-Jean-Paul II",
                 "isced:level": 2,
                 "school:jurisdiction": "Stittsville",
@@ -1440,7 +1440,7 @@
             "properties": {
                 "addr:housenumber": 6479,
                 "amenity": "school",
-                "addr:postal": "K0A 1K0",
+                "addr:postcode": "K0A 1K0",
                 "name": "École élémentaire catholique Saint-Laurent",
                 "isced:level": 2,
                 "school:jurisdiction": "Cumberland",
@@ -1468,7 +1468,7 @@
             "properties": {
                 "addr:housenumber": 100,
                 "amenity": "school",
-                "addr:postal": "K2K 0G8",
+                "addr:postcode": "K2K 0G8",
                 "name": "École élémentaire catholique Saint-Rémi",
                 "isced:level": 2,
                 "school:jurisdiction": "Kanata",
@@ -1496,7 +1496,7 @@
             "properties": {
                 "addr:housenumber": 235,
                 "amenity": "school",
-                "addr:postal": "K1N 0C1",
+                "addr:postcode": "K1N 0C1",
                 "name": "École élémentaire catholique Sainte-Anne",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1524,7 +1524,7 @@
             "properties": {
                 "addr:housenumber": 3781,
                 "amenity": "school",
-                "addr:postal": "K1T 1K5",
+                "addr:postcode": "K1T 1K5",
                 "name": "École élémentaire catholique Sainte-Bernadette",
                 "isced:level": 2,
                 "school:jurisdiction": "Gloucester",
@@ -1552,7 +1552,7 @@
             "properties": {
                 "addr:housenumber": 2198,
                 "amenity": "school",
-                "addr:postal": "K1G 2H7",
+                "addr:postcode": "K1G 2H7",
                 "name": "École élémentaire catholique Sainte-Geneviève",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1580,7 +1580,7 @@
             "properties": {
                 "addr:housenumber": 2450,
                 "amenity": "school",
-                "addr:postal": "K2J 5W5",
+                "addr:postcode": "K2J 5W5",
                 "name": "École élémentaire catholique Sainte-Kateri",
                 "isced:level": 2,
                 "school:jurisdiction": "Nepean",
@@ -1608,7 +1608,7 @@
             "properties": {
                 "addr:housenumber": 306,
                 "amenity": "school",
-                "addr:postal": "K0G 1N0",
+                "addr:postcode": "K0G 1N0",
                 "name": "École élémentaire catholique Sainte-Marguerite-Bourgeoys",
                 "isced:level": 2,
                 "school:jurisdiction": "Merrickville",
@@ -1636,7 +1636,7 @@
             "properties": {
                 "addr:housenumber": 2599,
                 "amenity": "school",
-                "addr:postal": "K1B 3J8",
+                "addr:postcode": "K1B 3J8",
                 "name": "École élémentaire catholique Sainte-Marie",
                 "isced:level": 2,
                 "school:jurisdiction": "Gloucester",
@@ -1664,7 +1664,7 @@
             "properties": {
                 "addr:housenumber": 9575,
                 "amenity": "school",
-                "addr:postal": "K4R 1E5",
+                "addr:postcode": "K4R 1E5",
                 "name": "École élémentaire catholique Sainte-Thérèse-d'Avila",
                 "isced:level": 2,
                 "school:jurisdiction": "Russell",
@@ -1692,7 +1692,7 @@
             "properties": {
                 "addr:housenumber": 1303,
                 "amenity": "school",
-                "addr:postal": "K2C 2V8",
+                "addr:postcode": "K2C 2V8",
                 "name": "École élémentaire catholique Terre-des-Jeunes",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1720,7 +1720,7 @@
             "properties": {
                 "addr:housenumber": 1445,
                 "amenity": "school",
-                "addr:postal": "K1E 1E8",
+                "addr:postcode": "K1E 1E8",
                 "name": "École élémentaire catholique d'enseignement personnalisé La Source",
                 "isced:level": 2,
                 "school:jurisdiction": "Orleans",
@@ -1748,7 +1748,7 @@
             "properties": {
                 "addr:housenumber": 920,
                 "amenity": "school",
-                "addr:postal": "K2B 5K3",
+                "addr:postcode": "K2B 5K3",
                 "name": "École élémentaire catholique d'enseignement personnalisé Édouard-Bond",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1776,7 +1776,7 @@
             "properties": {
                 "addr:housenumber": 866,
                 "amenity": "school",
-                "addr:postal": "K4A 4T6",
+                "addr:postcode": "K4A 4T6",
                 "name": "École élémentaire catholique de la Découverte",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1804,7 +1804,7 @@
             "properties": {
                 "addr:housenumber": 1487,
                 "amenity": "school",
-                "addr:postal": "K1B 4K6",
+                "addr:postcode": "K1B 4K6",
                 "name": "École élémentaire catholique des Pins",
                 "isced:level": 2,
                 "school:jurisdiction": "Ottawa",
@@ -1832,7 +1832,7 @@
             "properties": {
                 "addr:housenumber": 720,
                 "amenity": "school",
-                "addr:postal": "K4A 1L8",
+                "addr:postcode": "K4A 1L8",
                 "name": "École élémentaire catholique des Pionniers",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1860,7 +1860,7 @@
             "properties": {
                 "addr:housenumber": 6030,
                 "amenity": "school",
-                "addr:postal": "K1C 2T1",
+                "addr:postcode": "K1C 2T1",
                 "name": "École élémentaire catholique des Voyageurs",
                 "isced:level": 2,
                 "school:jurisdiction": "Orléans",
@@ -1888,7 +1888,7 @@
             "properties": {
                 "addr:housenumber": 100,
                 "amenity": "school",
-                "addr:postal": "K2M 2H4",
+                "addr:postcode": "K2M 2H4",
                 "name": "École élémentaire catholique Élisabeth-Bruyère",
                 "isced:level": 2,
                 "school:jurisdiction": "Kanata",
@@ -1916,7 +1916,7 @@
             "properties": {
                 "addr:housenumber": 181,
                 "amenity": "school",
-                "addr:postal": "K1K 1N1",
+                "addr:postcode": "K1K 1N1",
                 "name": "Éducation permanente",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
@@ -1944,7 +1944,7 @@
             "properties": {
                 "addr:housenumber": 181,
                 "amenity": "school",
-                "addr:postal": "K1K 1N1",
+                "addr:postcode": "K1K 1N1",
                 "name": "Éducation sans frontiers - éte",
                 "isced:level": 3,
                 "school:jurisdiction": "Ottawa",
