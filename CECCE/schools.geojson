@@ -21,6 +21,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Kensington Parkway",
+				"addr:street:fr": "Promenade Kensington",
                 "ref": 735632,
                 "school:language": "french"
             },
@@ -46,6 +47,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Kensington Parkway",
+				"addr:street:fr": "Promenade Kensington",
                 "ref": 767978,
                 "school:language": "french"
             },
@@ -71,6 +73,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Kensington Parkway",
+				"addr:street:fr": "Promenade Kensington",
                 "ref": 855949,
                 "school:language": "french"
             },
@@ -96,6 +99,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Aviation Parkway",
+				"addr:street:fr": "Promenade Aviation",
                 "ref": 705373,
                 "school:language": "french"
             },
@@ -120,7 +124,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Pembroke Street West",
+				"addr:street": "Pembroke Street West",
+                "addr:street:fr": "Rue Pembroke Ouest",
                 "ref": 696021,
                 "school:language": "french"
             },
@@ -145,7 +150,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Pembroke Street West",
+				"addr:street": "Pembroke Street West",
+                "addr:street:fr": "Rue Pembroke Ouest",
                 "ref": 696005,
                 "school:language": "french"
             },
@@ -171,6 +177,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Seyton Drive",
+				"addr:street:fr": "Promenade Seyton",
                 "ref": 694827,
                 "school:language": "french"
             },
@@ -196,6 +203,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Renaud Road",
+				"addr:street:fr": "Chemin Renaud",
                 "ref": 846435,
                 "school:language": "french"
             },
@@ -221,6 +229,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Carson's Road",
+				"addr:street:fr": "Chemin Carson's",
                 "ref": 695955,
                 "school:language": "french"
             },
@@ -245,7 +254,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Provence Avenue",
+				"addr:street": "Provence Avenue",
+                "addr:street:fr": "Avenue Provence",
                 "ref": 705276,
                 "school:language": "french"
             },
@@ -271,6 +281,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Smyth Road",
+				"addr:street:fr": "Chemin Smyth",
                 "ref": 752550,
                 "school:language": "french"
             },
@@ -296,6 +307,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Seyton Drive",
+				"addr:street:fr": "Promenade Seyton",
                 "ref": 750107,
                 "school:language": "french"
             },
@@ -320,7 +332,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Carrière Street",
+				"addr:street": "Carrière Road",
+                "addr:street:fr": "Chemin Carrière",
                 "ref": 752576,
                 "school:language": "french"
             },
@@ -345,7 +358,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Dalton Avenue",
+				"addr:street": "Dalton Avenue",
+                "addr:street:fr": "Avenue Dalton",
                 "ref": 705241,
                 "school:language": "french"
             },
@@ -370,7 +384,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Abbott Street East",
+				"addr:street": "Abbott Road East",
+                "addr:street:fr": "Chemin Abbott Est",
                 "ref": 685986,
                 "school:language": "french"
             },
@@ -396,6 +411,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Longfields Drive",
+				"addr:street:fr": "Promenade Longfields",
                 "ref": 718973,
                 "school:language": "french"
             },
@@ -421,6 +437,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Carson's Road",
+				"addr:street:fr": "Chemin Carson's",
                 "ref": 751120,
                 "school:language": "french"
             },
@@ -446,6 +463,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Renaud Road",
+				"addr:street:fr": "Chemin Renaud",
                 "ref": 752899,
                 "school:language": "french"
             },
@@ -470,7 +488,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Donald Road",
+				"addr:street": "Donald Street",
+                "addr:street:fr": "Rue Donald",
                 "ref": 994288,
                 "school:language": "french"
             },
@@ -495,7 +514,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Pembroke Street West",
+				"addr:street": "Pembroke Street West",
+                "addr:street:fr": "Rue Pembroke Ouest",
                 "ref": 696030,
                 "school:language": "french"
             },
@@ -520,7 +540,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Provence Avenue",
+				"addr:street": "Provence Avenue",
+                "addr:street:fr": "Avenue Provence",
                 "ref": 705314,
                 "school:language": "french"
             },
@@ -546,6 +567,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Smyth Road",
+				"addr:street:fr": "Chemin Smyth",
                 "ref": 705233,
                 "school:language": "french"
             },
@@ -570,7 +592,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Carrière Street",
+				"addr:street": "Carrière Street",
+                "addr:street:fr": "Rue Carrière",
                 "ref": 710903,
                 "school:language": "french"
             },
@@ -595,7 +618,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Dalton Avenue",
+				"addr:street": "Dalton Avenue",
+                "addr:street:fr": "Avenue Dalton",
                 "ref": 750085,
                 "school:language": "french"
             },
@@ -620,7 +644,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Abbott Street East",
+				"addr:street": "Abbott Street Street East",
+                "addr:street:fr": "Rue Abbott Est",
                 "ref": 758231,
                 "school:language": "french"
             },
@@ -646,6 +671,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Longfields Drive",
+				"addr:street:fr": "Promenade Longfields",
                 "ref": 832670,
                 "school:language": "french"
             },
@@ -670,7 +696,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Carrière Street",
+				"addr:street": "Carrière Street",
+                "addr:street:fr": "Rue Carrière",
                 "ref": 703095,
                 "school:language": "french"
             },
@@ -696,6 +723,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Lakeridge Drive",
+				"addr:street:fr": "Promenade Lakeridge",
                 "ref": 731385,
                 "school:language": "french"
             },
@@ -720,7 +748,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Sharpe's Lane",
+                "addr:street": "Sharpe Way",
+				"addr:street:fr": "Voie Sharpe",
                 "ref": 701645,
                 "school:language": "french"
             },
@@ -745,7 +774,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Portobello Boulevard",
+				"addr:street": "Portobello Boulevard",
+                "addr:street:fr": "Boulevard Portobello",
                 "ref": 705047,
                 "school:language": "french"
             },
@@ -771,6 +801,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Spratt Road",
+				"addr:street:fr": "Chemin Spratt",
                 "ref": 769765,
                 "school:language": "french"
             },
@@ -796,6 +827,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Thorndale Drive",
+				"addr:street:fr": "Promenade Thorndale",
                 "ref": 864730,
                 "school:language": "french"
             },
@@ -820,7 +852,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Olmstead Road",
+				"addr:street": "Olmstead Street",
+                "addr:street:fr": "Rue Olmstead",
                 "ref": 701688,
                 "school:language": "french"
             },
@@ -845,7 +878,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Findlay Avenue",
+				"addr:street": "Findlay Avenue",
+                "addr:street:fr": "Avenue Findlay",
                 "ref": 722901,
                 "school:language": "french"
             },
@@ -871,6 +905,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Chapman Mills Drive",
+				"addr:street:fr": "Promenade Chapman Mills",
                 "ref": 705136,
                 "school:language": "french"
             },
@@ -896,6 +931,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Johnson Drive",
+				addr:street:fr": "Promenade Johnson",
                 "ref": 701670,
                 "school:language": "french"
             },
@@ -921,6 +957,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Beauséjour Drive",
+				"addr:street:fr": "Promenade Beauséjour",
                 "ref": 865648,
                 "school:language": "french"
             },
@@ -946,6 +983,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Eastvale Drive",
+				"addr:street:fr": "Promenade Eastvale",
                 "ref": 725536,
                 "school:language": "french"
             },
@@ -970,7 +1008,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Kaladar Avenue",
+				"addr:street": "Kaladar Avenue",
+                "addr:street:fr": "Avenue Kaladar",
                 "ref": 725633,
                 "school:language": "french"
             },
@@ -996,6 +1035,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Four Seasons Drive",
+				"addr:street:fr": "Promenade Four Seasons",
                 "ref": 734314,
                 "school:language": "french"
             },
@@ -1020,7 +1060,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Notting Hill Avenue",
+				"addr:street": "Notting Hill Avenue",
+                "addr:street:fr": "Avenue Notting Hill",
                 "ref": 753157,
                 "school:language": "french"
             },
@@ -1045,7 +1086,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Virginia Road",
+				"addr:street": "Virginia Street",
+                "addr:street:fr": "Rue Virginia",
                 "ref": 705420,
                 "school:language": "french"
             },
@@ -1071,6 +1113,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Den Haag Drive",
+				"addr:street:fr": "Promenade Den Haag",
                 "ref": 732397,
                 "school:language": "french"
             },
@@ -1096,6 +1139,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Renaud Road",
+				"addr:street:fr": "Chemin Renaud",
                 "ref": 735920,
                 "school:language": "french"
             },
@@ -1121,6 +1165,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Des Aubépines Drive",
+				"addr:street:fr": "Promenade Des Aubépines",
                 "ref": 796656,
                 "school:language": "french"
             },
@@ -1146,6 +1191,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Longfields Drive",
+				"addr:street:fr": "Promenade Longfields",
                 "ref": 688762,
                 "school:language": "french"
             },
@@ -1171,6 +1217,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Duford Drive",
+				"addr:street:fr": "Promenade Duford",
                 "ref": 705365,
                 "school:language": "french"
             },
@@ -1196,6 +1243,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Barrow Crescent",
+				"addr:street:fr": "Croissant Barrow",
                 "ref": 753203,
                 "school:language": "french"
             },
@@ -1220,7 +1268,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Melrose Avenue",
+				"addr:street": "Melrose Avenue",
+                "addr:street:fr": "Avenue Melrose",
                 "ref": 793027,
                 "school:language": "french"
             },
@@ -1246,6 +1295,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Buckland Road",
+				"addr:street:fr": "Chemin Buckland",
                 "ref": 701971,
                 "school:language": "french"
             },
@@ -1270,7 +1320,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Abbott Street East",
+				"addr:street": "Abbott Street East",
+                "addr:street:fr": "Rue Abbott Est",
                 "ref": 156159,
                 "school:language": "french"
             },
@@ -1296,6 +1347,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Russell Road",
+				"addr:street:fr": "Chemin Russell",
                 "ref": 709123,
                 "school:language": "french"
             },
@@ -1321,6 +1373,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Walden Drive",
+				"addr:street:fr": "Promenade Walden",
                 "ref": 752625,
                 "school:language": "french"
             },
@@ -1346,6 +1399,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Beausoleil Drive",
+				"addr:street:fr": "Promenade Beausoleil",
                 "ref": 860573,
                 "school:language": "french"
             },
@@ -1370,7 +1424,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Sixth Road",
+				"addr:street": "Sixth Street",
+                "addr:street:fr": "Rue Sixth",
                 "ref": 709387,
                 "school:language": "french"
             },
@@ -1395,7 +1450,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Arch Road",
+				"addr:street": "Arch Street",
+                "addr:street:fr": "Rue Arch",
                 "ref": 861871,
                 "school:language": "french"
             },
@@ -1421,6 +1477,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "River Mist Road",
+				"addr:street:fr": "Chemin River Mist",
                 "ref": 733402,
                 "school:language": "french"
             },
@@ -1446,6 +1503,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Read Street",
+				"addr:street:fr": "Rue Read",
                 "ref": 730980,
                 "school:language": "french"
             },
@@ -1471,6 +1529,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Innes Road",
+				"addr:street:fr": "Rue Innes",
                 "ref": 709646,
                 "school:language": "french"
             },
@@ -1496,6 +1555,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Marionville Road",
+				"addr:street:fr": "Chemin Marionville",
                 "ref": 740845,
                 "school:language": "french"
             },
@@ -1521,6 +1581,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Fellows Road",
+				"addr:street:fr": "Chemin Fellows",
                 "ref": 861480,
                 "school:language": "french"
             },
@@ -1546,6 +1607,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Duford Drive",
+				"addr:street:fr": "Promenade Duford",
                 "ref": 703753,
                 "school:language": "french"
             },
@@ -1570,7 +1632,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Parkhaven Avenue",
+				"addr:street": "Parkhaven Avenue",
+                "addr:street:fr": "Avenue Parkhaven",
                 "ref": 786634,
                 "school:language": "french"
             },
@@ -1595,7 +1658,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Scala Avenue",
+				"addr:street": "Scala Avenue",
+                "addr:street:fr": "Avenue Scala",
                 "ref": 705390,
                 "school:language": "french"
             },
@@ -1621,6 +1685,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Ridgebrook Drive",
+				"addr:street:fr": "Promenade Ridgebrook",
                 "ref": 764264,
                 "school:language": "french"
             },
@@ -1646,6 +1711,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Merkley Drive",
+				"addr:street:fr": "Promenade Merkley",
                 "ref": 703168,
                 "school:language": "french"
             },
@@ -1671,6 +1737,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Voyageur Drive",
+				"addr:street:fr": "Promenade Voyageur",
                 "ref": 741671,
                 "school:language": "french"
             },
@@ -1696,6 +1763,7 @@
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
                 "addr:street": "Stonehaven Drive",
+				"addr:street:fr": "Promenade Stonehaven",
                 "ref": 705055,
                 "school:language": "french"
             },
@@ -1720,7 +1788,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Donald Road",
+				"addr:street": "Donald Street",
+                "addr:street:fr": "Rue Donald",
                 "ref": 992330,
                 "school:language": "french"
             },
@@ -1745,7 +1814,8 @@
                 "source:ref": "CECCE",
                 "operator": "Conseil des écoles catholiques du Centre-Est",
                 "religion": "christian",
-                "addr:street": "Donald Road",
+				"addr:street": "Donald Street",
+                "addr:street:fr": "Rue Donald",
                 "ref": 981281,
                 "school:language": "french"
             },
