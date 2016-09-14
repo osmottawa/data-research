@@ -2,7 +2,7 @@ import requests
 import os
 import json
 
-# Get Stops
+# Get OC Transpo Stops
 r = requests.post('http://www.octranspo.com/map/map_data', data={'type': 'stops'})
 stops = {
     'type': 'FeatureCollection',
@@ -28,5 +28,5 @@ for stop in r.json():
         }
         stops['features'].append(feature)
 
-with open('stops.geojson', 'w') as f:
+with open('oc-transpo-stops.geojson', 'w') as f:
     f.write(json.dumps(stops, indent=4))
