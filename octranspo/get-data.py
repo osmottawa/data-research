@@ -19,7 +19,8 @@ for stop in r.json():
                 'operator': 'OC Transpo',
                 'source': 'OC Transpo',
                 'source:ref': 'OC Transpo',
-                'ref': stop['info']
+                'ref': stop['info'],
+                'public_transport': 'stop_position'
             },
             'geometry': {
                 'type': 'Point',
