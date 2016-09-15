@@ -1,13 +1,14 @@
 import requests
 import json
 import codecs
+from collections import OrderedDict
 
 # Get OC Transpo Stops
 r = requests.post('http://www.octranspo.com/map/map_data', data={'type': 'stops'})
-stops = {
-    'type': 'FeatureCollection',
-    'features': []
-}
+stops = OrderedDict([
+    ('type', 'FeatureCollection'),
+    ('features', [])
+])
 
 # Add features to stops
 for stop in r.json():
@@ -20,23 +21,25 @@ for stop in r.json():
         name = name.strip()
 
         # Build Feature GeoJSON
-        feature = {
-            'type': 'Feature',
-            'properties': {
-                'name': name,
-                'operator': 'OC Transpo',
-                'source': 'OC Transpo',
-                'source:ref': 'OC Transpo',
-                'ref': stop['info'],
-                'public_transport': 'platform',
-                'highway': 'bus_stop',
-                'bus': 'yes'
-            },
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [lng, lat]
-            }
-        }
+        properties = OrderedDict([
+            ('name', name),
+            ('operator', 'OC Transpo'),
+            ('source', 'OC Transpo'),
+            ('source:ref', 'OC Transpo'),
+            ('ref', stop['info']),
+            ('public_transport', 'platform'),
+            ('highway', 'bus_stop'),
+            ('bus', 'yes'),
+        ])
+        geometry = OrderedDict([
+            ('type', 'Point'),
+            ('coordinates', [lng, lat])
+        ])
+        feature = OrderedDict([
+            ('type', 'Feature'),
+            ('properties', properties),
+            ('geometry', geometry)
+        ])
         stops['features'].append(feature)
 
 # Sort bus stops in order
