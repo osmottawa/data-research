@@ -1,8 +1,6 @@
 import requests
-import os
 import json
 import codecs
-from operator import itemgetter
 
 # Get OC Transpo Stops
 r = requests.post('http://www.octranspo.com/map/map_data', data={'type': 'stops'})
@@ -19,11 +17,11 @@ for stop in r.json():
 
         # Remove any french characters poorly parsed by OC Transpo
         name = stop['name'].replace(u'&Atilde;&copy;', u'é').replace(u'\\', u'/').replace(u'&Atilde;&uml;', u'è').replace(u'&amp;', u'&').replace(u'&Atilde;&acute;', u'ô')
+        name = name.strip()
 
         # Build Feature GeoJSON
         feature = {
             'type': 'Feature',
-            'ref': name,
             'properties': {
                 'name': name,
                 'operator': 'OC Transpo',
