@@ -20,7 +20,8 @@ for stop in r.json():
                 'source': 'OC Transpo',
                 'source:ref': 'OC Transpo',
                 'ref': stop['info'],
-                'public_transport': 'stop_position'
+                'public_transport': 'platform',
+                'highway': 'bus_stop'
             },
             'geometry': {
                 'type': 'Point',
