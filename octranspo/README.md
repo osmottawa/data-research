@@ -16,9 +16,16 @@ Discussions about OC Transpo data.
 - `name` = `<name>`
 - `operator` = 'OC Transpo'
 - `source` = 'OC Transpo'
-- `public_transport` = 'stop_position'
+- `bus` = 'yes'
+- `highway` = 'bus_stop'
+- `public_transport` = 'platform'
 - `source:ref` = 'OC Transpo'
 - `ref` = `<number>`
+
+**Researched tags**
+
+- `shelter` = 'yes' if the stop has a real time electronic passenger information display.
+- `bench` = 'yes' if users can sit on bench at the bus stop.
 
 ### Extra Details
 
