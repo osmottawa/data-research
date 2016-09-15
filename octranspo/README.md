@@ -5,7 +5,7 @@ Discussions about OC Transpo data.
 
 ### Stages
 
-**Stage 1**: Import all bus stops locations
+**Stage 1**: Import all bus stops locations ([Tasking Manager 31](http://tasks.osmcanada.ca/project/31))
 
 **Stage 2**: Connect all bus routes to the bus stop locations
 
