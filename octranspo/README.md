@@ -15,7 +15,7 @@ Discussions about OC Transpo data.
 
 - `name` = `<name>`
 - `operator` = 'OC Transpo'
-- `source` = 'OC Transpo'
+- `source` = 'City of Ottawa'
 - `bus` = 'yes'
 - `highway` = 'bus_stop'
 - `public_transport` = 'platform'
