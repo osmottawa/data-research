@@ -24,7 +24,7 @@ for stop in r.json():
         properties = OrderedDict([
             ('name', name),
             ('operator', 'OC Transpo'),
-            ('source', 'OC Transpo'),
+            ('source', 'City of Ottawa'),
             ('source:ref', 'OC Transpo'),
             ('ref', stop['info']),
             ('public_transport', 'platform'),
