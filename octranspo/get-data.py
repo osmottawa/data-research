@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import codecs
 from operator import itemgetter
 
 # Get OC Transpo Stops
@@ -9,15 +10,22 @@ stops = {
     'type': 'FeatureCollection',
     'features': []
 }
+
+# Add features to stops
 for stop in r.json():
     if ('lat' in stop and 'lng' in stop):
-        lat = float(stop.pop('lat'))
-        lng = float(stop.pop('lng'))
+        lat = float(stop['lat'])
+        lng = float(stop['lng'])
+
+        # Remove any french characters poorly parsed by OC Transpo
+        name = stop['name'].replace(u'&Atilde;&copy;', u'é').replace(u'\\', u'/').replace(u'&Atilde;&uml;', u'è').replace(u'&amp;', u'&').replace(u'&Atilde;&acute;', u'ô')
+
+        # Build Feature GeoJSON
         feature = {
             'type': 'Feature',
-            'ref': stop['name'],
+            'ref': name,
             'properties': {
-                'name': stop['name'],
+                'name': name,
                 'operator': 'OC Transpo',
                 'source': 'OC Transpo',
                 'source:ref': 'OC Transpo',
@@ -37,5 +45,5 @@ for stop in r.json():
 stops['features'] = sorted(stops['features'], key=lambda k: k['properties']['name']) 
 
 # Save File
-with open('oc-transpo-stops.geojson', 'w') as f:
+with codecs.open('oc-transpo-stops.geojson', 'wb', 'utf-8') as f:
     f.write(json.dumps(stops, indent=4))
