@@ -1,4 +1,5 @@
 # Details of OSM imports
 
-- [Peel Region Building Import](/Peel-Region)
+- [Peel Region Buildings](/Peel-Region)
 - [CECCE schools](/CECCE)
+- [OC Transpo](/octranspo)

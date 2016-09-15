@@ -38,3 +38,11 @@ If you need an example look in gatineau for bus line 11:
 http://www.openstreetmap.org/#map=18/45.45561/-75.75176&layers=T
 
 Bus stops need to be tagged both on the side of the road(shelter/signs) and on the way itself(stopping position of the bus: only if you are doing the relation if are doing only bus stops they are on the side of road)
+
+### Get Data
+
+Using `python3` we can fetch the latest data.
+
+```bash
+$ python3 get-data.py
+```
