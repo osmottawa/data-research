@@ -13,13 +13,9 @@ for stop in r.json():
     if ('lat' in stop and 'lng' in stop):
         lat = float(stop.pop('lat'))
         lng = float(stop.pop('lng'))
-        try:
-            ref = int(stop['info'])
-        except:
-            ref = 0
         feature = {
             'type': 'Feature',
-            'ref': ref,
+            'ref': stop['name'],
             'properties': {
                 'name': stop['name'],
                 'operator': 'OC Transpo',
@@ -27,7 +23,8 @@ for stop in r.json():
                 'source:ref': 'OC Transpo',
                 'ref': stop['info'],
                 'public_transport': 'platform',
-                'highway': 'bus_stop'
+                'highway': 'bus_stop',
+                'bus': 'yes'
             },
             'geometry': {
                 'type': 'Point',
@@ -36,8 +33,8 @@ for stop in r.json():
         }
         stops['features'].append(feature)
 
-# Sort bus stops in order of Refs
-stops['features'] = sorted(stops['features'], key=itemgetter('ref'), reverse=False)
+# Sort bus stops in order
+stops['features'] = sorted(stops['features'], key=lambda k: k['properties']['name']) 
 
 # Save File
 with open('oc-transpo-stops.geojson', 'w') as f:
