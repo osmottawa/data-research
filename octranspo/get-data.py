@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+from operator import itemgetter
 
 # Get OC Transpo Stops
 r = requests.post('http://www.octranspo.com/map/map_data', data={'type': 'stops'})
@@ -12,8 +13,13 @@ for stop in r.json():
     if ('lat' in stop and 'lng' in stop):
         lat = float(stop.pop('lat'))
         lng = float(stop.pop('lng'))
+        try:
+            ref = int(stop['info'])
+        except:
+            ref = 0
         feature = {
             'type': 'Feature',
+            'ref': ref,
             'properties': {
                 'name': stop['name'],
                 'operator': 'OC Transpo',
@@ -30,5 +36,9 @@ for stop in r.json():
         }
         stops['features'].append(feature)
 
+# Sort bus stops in order of Refs
+stops['features'] = sorted(stops['features'], key=itemgetter('ref'), reverse=False)
+
+# Save File
 with open('oc-transpo-stops.geojson', 'w') as f:
     f.write(json.dumps(stops, indent=4))
