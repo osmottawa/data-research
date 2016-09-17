@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "@turf/turf": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/2eadb7eb019a22daf12435c76aba39738476b2ac/turf/turf.d.ts",
+    "geojson": "registry:dt/geojson#0.0.0+20160619034323",
+    "node": "registry:dt/node#6.0.0+20160915134512"
+  }
+}

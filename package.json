@@ -1,0 +1,24 @@
+{
+  "name": "imports",
+  "version": "1.0.0",
+  "description": "- [Peel Region Buildings](/Peel-Region) - [CECCE schools](/CECCE) - [OC Transpo](/octranspo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmottawa/imports.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmottawa/imports/issues"
+  },
+  "homepage": "https://github.com/osmottawa/imports#readme",
+  "dependencies": {
+    "@turf/turf": "^3.5.2",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.3"
+  }
+}
