@@ -6,10 +6,11 @@ const features: GeoJSON.Feature<any>[] = []
 
 stops.features.map(stop => {
     const ref: string = stop.properties.ref
-    // if (ref.length === 4) {}
-    // else if (ref.length === 3) {
-    //     stop.properties.ref = `0${ ref }`
-    //     console.log('WARNING - Padded reference number:', stop.properties.name)
+    if (ref.length === 4) {}
+    else if (ref.length === 3) {
+        stop.properties.ref = `0${ ref }`
+        console.log('WARNING - Padded reference number:', stop.properties.name)
+    }
     // } else {
     //     stop.properties.ref = null
     //     stop.properties['source:ref'] = null
