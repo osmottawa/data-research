@@ -2587,11 +2587,12 @@
                 "name": "Agri-Food Canada",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -13667,11 +13668,12 @@
                 "name": "Broadview / Notre Dame H.S.",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -15167,11 +15169,12 @@
                 "name": "Cambrian Loop",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -15727,11 +15730,12 @@
                 "name": "Canadian Tire Centre",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -30487,11 +30491,12 @@
                 "name": "Eagleson / Eagleson Park & Ride",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -41927,11 +41932,12 @@
                 "name": "Hillcrest High School",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -42487,11 +42493,12 @@
                 "name": "Holly Acres / Ramp",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -69167,11 +69174,12 @@
                 "name": "Node 5824",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",
@@ -80487,11 +80495,12 @@
                 "name": "Richardson / All Saints H.S.",
                 "operator": "OC Transpo",
                 "source": "City of Ottawa",
-                "source:ref": "OC Transpo",
-                "ref": "",
+                "source:ref": null,
+                "ref": null,
                 "public_transport": "platform",
                 "highway": "bus_stop",
-                "bus": "yes"
+                "bus": "yes",
+                "fixme": "No reference number"
             },
             "geometry": {
                 "type": "Point",

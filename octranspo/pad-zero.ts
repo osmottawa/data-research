@@ -10,13 +10,12 @@ stops.features.map(stop => {
     else if (ref.length === 3) {
         stop.properties.ref = `0${ ref }`
         console.log('WARNING - Padded reference number:', stop.properties.name)
+    } else {
+        stop.properties.ref = null
+        stop.properties['source:ref'] = null
+        stop.properties.fixme = 'No reference number'
+        console.log('WARNING - No Reference number:', stop.properties.name)
     }
-    // } else {
-    //     stop.properties.ref = null
-    //     stop.properties['source:ref'] = null
-    //     stop.properties.fixme = 'No reference number'
-    //     console.log('WARNING - No Reference number:', stop.properties.name)
-    // }
     features.push(stop)
 })
 
