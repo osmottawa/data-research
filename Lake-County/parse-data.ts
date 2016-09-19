@@ -14,14 +14,17 @@ features.features.map(feature => {
         const name = changeCase.title(feature.properties['BaseStreet'])
         const suffix = suffixLookup[feature.properties['SuffixType']]
         const direction = directionsLookup[feature.properties['PrefixDire']]
-        const properties = {
+        const ref = feature.properties['SegID']
+        const properties: any = {
             source: 'Lake County',
-            highway: 'residential',
-            ref: feature.properties['SegID'],
-            'source:ref': 'Lake County',
-            alt_name: feature.properties['AliasName'],
-            maxspeed: `${ feature.properties['SpeedLimit'] } mph`,
+            highway: 'residential',            
+            alt_name: feature.properties['AliasName'] ? feature.properties['AliasName'] : undefined,
+            maxspeed: feature.properties['SpeedLimit'] ? `${ feature.properties['SpeedLimit'] } mph` : undefined,
             name: [name, suffix, direction].join(' ').trim()
+        }
+        if (ref) {
+            properties.ref = ref
+            properties['source:ref'] = 'Lake County'
         }
         results.features.push(lineString(coords, properties))
     })
