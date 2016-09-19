@@ -56,7 +56,9 @@ data.map(items => {
             source: 'City of Ottawa',
             public_transport: 'platform',
             highway: 'bus_stop',
-            bus: 'yes'
+            bus: 'yes',
+            stop_id: properties['stop_id'],
+            'source:stop_id': 'gtfs'
         }
         // Handle Ref
         const ref = parseRef(properties['stop_code'])
@@ -73,4 +75,4 @@ data.map(items => {
     }
 })
 
-fs.writeFileSync('oc-transpo-stops.json', JSON.stringify(features, null, 4))
+fs.writeFileSync(path.join(__dirname, 'oc-transpo-stops.json'), JSON.stringify(features, null, 4))
