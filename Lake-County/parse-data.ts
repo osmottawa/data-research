@@ -17,8 +17,7 @@ features.features.map(feature => {
         const ref = feature.properties['SegID']
         const properties: any = {
             source: 'Lake County',
-            highway: 'residential',            
-            alt_name: feature.properties['AliasName'] ? feature.properties['AliasName'] : undefined,
+            highway: 'residential',
             maxspeed: feature.properties['SpeedLimit'] ? `${ feature.properties['SpeedLimit'] } mph` : undefined,
             name: [name, suffix, direction].join(' ').trim()
         }
