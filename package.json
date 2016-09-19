@@ -19,6 +19,7 @@
   "dependencies": {
     "@turf/turf": "^3.5.2",
     "babyparse": "^0.4.6",
+    "change-case": "^3.0.0",
     "csv": "^1.1.0",
     "es6-promise": "^3.3.1",
     "form-data": "^2.0.0",

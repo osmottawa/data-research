@@ -1,17 +1,10 @@
 {
   "globalDependencies": {
-    "@turf/turf": "https://github.com/DefinitelyTyped/DefinitelyTyped/raw/2eadb7eb019a22daf12435c76aba39738476b2ac/turf/turf.d.ts",
-    "babyparse": "registry:dt/babyparse#0.0.0+20160316171810",
-    "bluebird": "registry:dt/bluebird#3.0.0+20160907110115",
-    "form-data": "registry:dt/form-data#0.0.0+20160724024111",
+    "change-case": "registry:dt/change-case#0.0.0+20160316155526",
     "geojson": "registry:dt/geojson#0.0.0+20160619034323",
-    "isomorphic-fetch": "registry:dt/isomorphic-fetch#0.0.0+20160830175641",
     "js-yaml": "registry:dt/js-yaml#3.5.2+20160316171810",
     "lodash": "registry:dt/lodash#4.14.0+20160830145422",
     "node": "registry:dt/node#6.0.0+20160915134512",
-    "proj4": "https://raw.githubusercontent.com/DenisCarriere/DefinitelyTyped/proj4/proj4/proj4.d.ts",
-    "request": "registry:dt/request#0.0.0+20160726020908",
-    "request-promise": "registry:dt/request-promise#3.0.0+20160906190103",
-    "shapefile": "https://raw.githubusercontent.com/DenisCarriere/DefinitelyTyped/shapefile/shapefile/shapefile.d.ts"
+    "turf": "https://raw.githubusercontent.com/DenisCarriere/DefinitelyTyped/turf/turf/turf.d.ts"
   }
 }
