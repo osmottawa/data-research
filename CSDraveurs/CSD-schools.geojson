@@ -28,7 +28,8 @@
             "addr:housenumber":"306",
             "amenity":"school",
             "addr:postcode":"J8P 6A2",
-            "addr:street":"rue Jacques-Buteux"
+            "addr:street":"rue Jacques-Buteux",
+            "addr:street:en":"Jacques-Buteux Street"
          }
       },
       {
@@ -52,7 +53,8 @@
             "addr:housenumber":"299",
             "amenity":"school",
             "addr:postcode":"J8V 2P8",
-            "addr:street":"rue Ernest-Gaboury"
+            "addr:street":"rue Ernest-Gaboury",
+            "addr:street:en":"Ernest-Gaboury Street"
          }
       },
       {
@@ -76,7 +78,8 @@
             "addr:housenumber":"605",
             "amenity":"school",
             "addr:postcode":"J8R 2V9",
-            "addr:street":"rue Davidson Est"
+            "addr:street":"rue Davidson Est",
+            "addr:street:en":"Davidson East Street"
          }
       },
       {
@@ -100,7 +103,8 @@
             "addr:housenumber":"180",
             "amenity":"school",
             "addr:postcode":"J8P 2R2",
-            "addr:street":"rue Magnus Ouest"
+            "addr:street":"rue Magnus Ouest",
+            "addr:street:en":"Magnus West Street"
          }
       },
       {
@@ -124,7 +128,8 @@
             "addr:housenumber":"179",
             "amenity":"school",
             "addr:postcode":"J8P 2V5",
-            "addr:street":"boul. Saint-René Ouest"
+            "addr:street":"Boulevard Saint-René Ouest",
+            "addr:street:en":"Saint-René West Boulevard"
          }
       },
       {
@@ -148,7 +153,8 @@
             "addr:housenumber":"20",
             "amenity":"school",
             "addr:postcode":"J8N 4J8",
-            "addr:street":"chemin du Parc"
+            "addr:street":"chemin du Parc",
+            "addr:street:en":"Du Parc Road"
          }
       },
       {
@@ -172,7 +178,8 @@
             "addr:housenumber":"500",
             "amenity":"school",
             "addr:postcode":"J8P 7C4",
-            "addr:street":"rue Joseph-Demontigny"
+            "addr:street":"rue Joseph-Demontigny",
+            "addr:street:en":"Joseph-Demontigny Street"
          }
       },
       {
@@ -196,7 +203,8 @@
             "addr:housenumber":"112",
             "amenity":"school",
             "addr:postcode":"J8V 3T5",
-            "addr:street":"rue Du Commandeur"
+            "addr:street":"rue Du Commandeur",
+            "addr:street:en":"Du Commandeur Street"
          }
       },
       {
@@ -220,7 +228,8 @@
             "addr:housenumber":"257",
             "amenity":"school",
             "addr:postcode":"J8P 3S4",
-            "addr:street":"rue Luck"
+            "addr:street":"rue Luck",
+            "addr:street:en":"Luck Street"
          }
       },
       {
@@ -244,7 +253,8 @@
             "addr:housenumber":"563",
             "amenity":"school",
             "addr:postcode":"J8P 3Y9",
-            "addr:street":"rue Clément"
+            "addr:street":"rue Clément",
+            "addr:street:en":"Clément Street"
          }
       },
       {
@@ -268,7 +278,8 @@
             "addr:housenumber":"30",
             "amenity":"school",
             "addr:postcode":"J8T 1K8",
-            "addr:street":"rue de Savoie"
+            "addr:street":"rue de Savoie",
+            "addr:street:en":"De Savoie Street"
          }
       },
       {
@@ -292,7 +303,8 @@
             "addr:housenumber":"59",
             "amenity":"school",
             "addr:postcode":"J8T 4V2",
-            "addr:street":"rue de Provence"
+            "addr:street":"rue de Provence",
+            "addr:street:en":"De Provence Street"
          }
       },
       {
@@ -316,7 +328,8 @@
             "addr:housenumber":"23",
             "amenity":"school",
             "addr:postcode":"J8P 2H7",
-            "addr:street":"rue Forget"
+            "addr:street":"rue Forget",
+            "addr:street:en":"Forget Street"
          }
       },
       {
@@ -340,7 +353,8 @@
             "addr:housenumber":"445",
             "amenity":"school",
             "addr:postcode":"J8R 3P2",
-            "addr:street":"rue Nobert"
+            "addr:street":"rue Nobert",
+            "addr:street:en":"Nobert Street"
          }
       },
       {
@@ -364,7 +378,8 @@
             "addr:housenumber":"114",
             "amenity":"school",
             "addr:postcode":"J8P 5G5",
-            "addr:street":"rue Élisabeth Est"
+            "addr:street":"rue Élisabeth Est",
+            "addr:street:en":"Élisabeth East Street"
          }
       },
       {
@@ -388,7 +403,8 @@
             "addr:housenumber":"1165",
             "amenity":"school",
             "addr:postcode":"J8R 1N1",
-            "addr:street":"boul. St-René Est"
+            "addr:street":"Boulevard St-René Est",
+            "addr:street:en":"St-René East Boulevard"
          }
       },
       {
@@ -412,7 +428,8 @@
             "addr:housenumber":"25",
             "amenity":"school",
             "addr:postcode":"J8T 3C2",
-            "addr:street":"rue Saint-Arthur"
+            "addr:street":"rue Saint-Arthur",
+            "addr:street:en":"Saint-Arthur Street"            
          }
       },
       {
@@ -436,7 +453,8 @@
             "addr:housenumber":"9",
             "amenity":"school",
             "addr:postcode":"J8T 1X6",
-            "addr:street":"rue Sainte-Yvonne"
+            "addr:street":"rue Sainte-Yvonne",
+            "addr:street:en":"Sainte-Yvonne Street"
          }
       },
       {
@@ -460,7 +478,8 @@
             "addr:housenumber":"88",
             "amenity":"school",
             "addr:postcode":"J8V 2M4",
-            "addr:street":"rue de Cannes"
+            "addr:street":"rue de Cannes",
+            "addr:street:en":"De Cannes Street"
          }
       },
       {
@@ -484,7 +503,8 @@
             "addr:housenumber":"20",
             "amenity":"school",
             "addr:postcode":"J8N 7E7",
-            "addr:street":"chemin de l'École"
+            "addr:street":"chemin de l'École",
+            "addr:street:en":"De l'École Road"
          }
       },
       {
@@ -508,7 +528,8 @@
             "addr:housenumber":"184",
             "amenity":"school",
             "addr:postcode":"J8T 6J9",
-            "addr:street":"rue Nelligan"
+            "addr:street":"rue Nelligan",
+            "addr:street:en":"Nelligan Street"
          }
       },
       {
@@ -532,7 +553,8 @@
             "addr:housenumber":"143",
             "amenity":"school",
             "addr:postcode":"J8P 7G6",
-            "addr:street":"rue des Sables"
+            "addr:street":"rue des Sables",
+            "addr:street:en":"Des Sables Street"
          }
       },
       {
@@ -556,7 +578,8 @@
             "addr:housenumber":"22",
             "amenity":"school",
             "addr:postcode":"J8T 6G8",
-            "addr:street":"rue De L'Acadie"
+            "addr:street":"rue De L'Acadie",
+            "addr:street:en":"De L'Acadie Street"
          }
       },
       {
@@ -580,7 +603,8 @@
             "addr:housenumber":"44",
             "amenity":"school",
             "addr:postcode":"J8T 6H2",
-            "addr:street":"rue de Juan-les-Pins"
+            "addr:street":"rue de Juan-les-Pins",
+            "addr:street:en":"De Juan-les-Pins Street"
          }
       },
       {
@@ -604,7 +628,8 @@
             "addr:housenumber":"31",
             "amenity":"school",
             "addr:postcode":"J8T 3Z4",
-            "addr:street":"rue de l'Abbé-Ginguet"
+            "addr:street":"rue de l'Abbé-Ginguet",
+            "addr:street:en":"De l'Abbé-Ginguet Street"
          }
       },
       {
@@ -628,7 +653,8 @@
             "addr:housenumber":"1",
             "amenity":"school",
             "addr:postcode":"J8V 1A8",
-            "addr:street":"rue Saint-Alexandre"
+            "addr:street":"rue Saint-Alexandre",
+            "addr:street:en":"Saint-Alexandre Street"
          }
       },
       {
@@ -652,7 +678,8 @@
             "addr:housenumber":"51",
             "amenity":"school",
             "addr:postcode":"J8V 3E8",
-            "addr:street":"chemin Sainte-Élisabeth"
+            "addr:street":"chemin Sainte-Élisabeth",
+            "addr:street:en":"Sainte-Élisabeth Road"
          }
       },
 	  {
@@ -665,6 +692,7 @@
             "addr:postcode":"J8V 1J6",
             "name":"Polyvalente de l'Érablière",
             "addr:street":"rue de Cannes",
+            "addr:street:en":"De Cannes Street",
             "operator":"Commission scolaire des Draveurs",
             "source":"CSD",
             "addr:housenumber":"500",
@@ -688,7 +716,8 @@
             "isced:level":"2-3",
             "addr:postcode":"J8R 3S8",
             "name":"École secondaire du Versant",
-            "addr:street":"boul. de la Cité",
+            "addr:street":"Boulevard de la Cité",
+            "addr:street:en":"De la Cité Boulevard",
             "operator":"Commission scolaire des Draveurs",
             "source":"CSD",
             "addr:housenumber":"808",
@@ -713,6 +742,7 @@
             "addr:postcode":"J8T 3N2",
             "name":"Polyvalente Le Carrefour",
             "addr:street":"chemin de La Savane",
+            "addr:street:en":"De La Savane Road",
             "operator":"Commission scolaire des Draveurs",
             "source":"CSD",
             "addr:housenumber":"50",
@@ -736,7 +766,8 @@
             "isced:level":"2-3",
             "addr:postcode":"J8P 6K7",
             "name":"Polyvalente Nicolas-Gatineau",
-            "addr:street":"boul. de la Vérendrye",
+            "addr:street":"Boulevard de la Vérendrye",
+            "addr:street:en":"De la Vérendrye Boulevard",
             "operator":"Commission scolaire des Draveurs",
             "source":"CSD",
             "addr:housenumber":"360",
@@ -766,6 +797,7 @@
             "name":"Centre L'Escale",
             "school:language":"french",
             "addr:street":"rue Du Barry",
+            "addr:street:en":"Du Barry Street",
             "isced:level":"3",
             "phone":"+1 819 243-2151",
             "operator":"Commission scolaire des Draveurs",
@@ -790,6 +822,7 @@
             "name":"Centre Nouvel-Horizon",
             "school:language":"french",
             "addr:street":"rue de la Baie",
+            "addr:street:en":"De la Baie Street",
             "isced:level":"3",
             "phone":"+1 819 561-9395",
             "operator":"Commission scolaire des Draveurs",
