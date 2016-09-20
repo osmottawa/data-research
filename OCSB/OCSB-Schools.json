@@ -1,0 +1,2297 @@
+{
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features" : [{
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Assumption School",
+				"website" : "http://asu.ocsb.ca",
+				"school:language" : "english",
+				"addr:housenumber" : "236",
+				"addr:street" : "Lévis Avenue",
+				"addr:street:fr" : "Avenue Lévis",
+				"religion" : "christian",
+				"fax" : "+1 613-741-0683",
+				"phone" : "+1 613-746-4822",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1L 6H8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6606915,
+					45.4349195
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Chapel Hill Catholic School",
+				"website" : "http://cha.ocsb.ca",
+				"school:language" : "english",
+				"addr:housenumber" : "1534",
+				"addr:street" : "Forest Valley Drive",
+				"addr:street:fr" : "Promenade Forest Valley",
+				"religion" : "christian",
+				"fax" : "+1 613-837-1453",
+				"phone" : "+1 613-837-3773",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1C 6G9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.53784999999999,
+					45.451093
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Convent Glen Catholic School",
+				"website" : "http://con.ocsb.ca",
+				"school:language" : "english",
+				"addr:housenumber" : "6212",
+				"addr:street" : "Jeanne d'Arc Boulevard North",
+				"addr:street:fr" : "Boulevard Jeanne d'Arc Nord",
+				"religion" : "christian",
+				"fax" : "+1 613-824-5223",
+				"phone" : "+1 613-824-8541",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1C 2K1",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.54704699999999,
+					45.473501
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Corpus Christi School",
+				"website" : "/cch.ocsb.ca",
+				"school:language" : "english",
+				"addr:housenumber" : "650",
+				"addr:street" : "Lyon Street South",
+				"addr:street:fr" : "Rue Lyon Sud",
+				"religion" : "christian",
+				"fax" : "+1 613-230-7848",
+				"phone" : "+1 613-232-9743",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1S 3Z7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6923997,
+					45.4036064
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Divine Infant Catholic School",
+				"website" : "http://div.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "8100",
+				"addr:street" : "Jeanne d'Arc Boulevard North",
+				"addr:street:fr" : "Boulevard Jeanne d'Arc Nord",
+				"religion" : "christian",
+				"fax" : "+1 613-830-3624",
+				"phone" : "+1 613-824-1060",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1E 2C6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.513989,
+					45.487227
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Dr. F. J. McDonald Catholic School",
+				"website" : "http://dfj.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2860",
+				"addr:street" : "Ahearn Avenue",
+				"addr:street:fr" : "Avenue Ahearn",
+				"religion" : "christian",
+				"fax" : "+1 613-829-3782",
+				"phone" : "+1 613-829-3878",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2B 6Z9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.8010058,
+					45.3600663
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Georges Vanier Catholic School",
+				"website" : "http://geo.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "40",
+				"addr:street" : "Varley Drive",
+				"addr:street:fr" : "Promenade Varley",
+				"religion" : "christian",
+				"fax" : "+1 613-592-2738",
+				"phone" : "+1 613-592-4371",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2K 1G5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9070729,
+					45.3322753
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Good Shepherd Catholic School",
+				"website" : "http://goo.ocsb.ca",
+				"school:language" : "english",
+				"addr:housenumber" : "92",
+				"addr:street" : "Bearbrook Road",
+				"addr:street:fr" : "Chemin Bearbrook",
+				"religion" : "christian",
+				"fax" : "+1 613-824-1387",
+				"phone" : "+1 613-824-4531",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1B 3B9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.5657281,
+					45.4332409
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Guardian Angels Catholic School",
+				"website" : "http://gua.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "7",
+				"addr:street" : "Baywood Drive",
+				"addr:street:fr" : "Promenade Baywood",
+				"religion" : "christian",
+				"fax" : "+1 613-836-6359",
+				"phone" : "+1 613-836-7423",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2S 1K5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9068451,
+					45.2496782
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Holy Cross School",
+				"website" : "http://hcr.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2820",
+				"addr:street" : "Springland Drive",
+				"addr:street:fr" : "Promenade Springland",
+				"religion" : "christian",
+				"fax" : "+1 613-733-1831",
+				"phone" : "+1 613-733-5887",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1V 9S7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6845215,
+					45.3634983
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Holy Family School",
+				"website" : "http://hfa.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "245",
+				"addr:street" : "Owl Drive",
+				"addr:street:fr" : "Promenade Owl",
+				"religion" : "christian",
+				"fax" : "+1 613-521-0798",
+				"phone" : "+1 613-521-0475",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1V 9K3",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6640687,
+					45.3529954
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Holy Redeemer School",
+				"website" : "http://red.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "75",
+				"addr:street" : "McCurdy Drive",
+				"addr:street:fr" : "Promenade McCurdy",
+				"religion" : "christian",
+				"fax" : "+1 613-591-9427",
+				"phone" : "+1 613-591-3256",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2L 2K7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9003922,
+					45.30323629999999
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Holy Spirit School",
+				"website" : "http://spi.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1383",
+				"addr:street" : "Stittsville Main Street",
+				"religion" : "christian",
+				"fax" : "+1 613-831-3162",
+				"phone" : "+1 613-831-1853",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2S 1A6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9260369,
+					45.263962
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Monsignor Paul Baxter School",
+				"website" : "http://mpb.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "333",
+				"addr:street" : "Beatrice Drive",
+				"addr:street:fr" : "Promenade Beatrice",
+				"religion" : "christian",
+				"fax" : "+1 613-825-9942",
+				"phone" : "+1 613-825-7544",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 4W1",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.72894560000002,
+					45.2807112
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Our Lady of Fatima School",
+				"website" : "http://olf.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2135",
+				"addr:street" : "Knightsbridge Road",
+				"addr:street:fr" : "Chemin Knightsbridge",
+				"religion" : "christian",
+				"fax" : "+1 613-722-0453",
+				"phone" : "+1 613-722-4075",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2A 0R3",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.77328039999999,
+					45.3772052
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Our Lady of Mount Carmel School",
+				"website" : "http://olm.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "675",
+				"addr:street" : "Gardenvale Road",
+				"addr:street:fr" : "Chemin Gardenvale",
+				"religion" : "christian",
+				"fax" : "+1 613-745-3828",
+				"phone" : "+1 613-745-4884",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1K 1C9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.634964,
+					45.4343322
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Our Lady of Peace School",
+				"website" : "http://pea.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "3877",
+				"addr:street" : "Old Richmond Road",
+				"addr:street:fr" : "Chemin Old Richmond",
+				"religion" : "christian",
+				"fax" : "+1 613-828-5778",
+				"phone" : "+1 613-828-4037",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2H 5C1",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.82672219999999,
+					45.3210729
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Our Lady of Victory School",
+				"website" : "http://olv.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1175",
+				"addr:street" : "Soderlind Street",
+				"addr:street:fr" : "Rue Soderlind",
+				"religion" : "christian",
+				"fax" : "+1 613-828-5236",
+				"phone" : "+1 613-828-5594",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2C 3B4",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.78042289999999,
+					45.3496248
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Our Lady of Wisdom School",
+				"website" : "http://wis.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1574",
+				"addr:street" : "Saint Georges Street",
+				"addr:street:fr" : "Rue Saint Georges",
+				"religion" : "christian",
+				"fax" : "+1 613-824-9010",
+				"phone" : "+1 613-824-9700",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1E 2M9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.5027738,
+					45.4672399
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Prince of Peace School",
+				"website" : "http://pop.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1620",
+				"addr:street" : "Heatherington Road",
+				"addr:street:fr" : "Chemin Heatherington",
+				"religion" : "christian",
+				"fax" : "+1 613-731-8696",
+				"phone" : "+1 613-731-4733",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1V 9P5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.65120499999999,
+					45.3729069
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Andrew School",
+				"website" : "http://and.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "201",
+				"addr:street" : "Crestway Drive",
+				"addr:street:fr" : "Promenade Crestway",
+				"religion" : "christian",
+				"fax" : "+1 613-843-0303",
+				"phone" : "+1 613-843-0050",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2G 7C8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.70925489999999,
+					45.2848437
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Anne School",
+				"website" : "http://ann.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "500",
+				"addr:street" : "Stonehaven Drive",
+				"addr:street:fr" : "Promenade Stonehaven",
+				"religion" : "christian",
+				"fax" : "+1 613-271-8017",
+				"phone" : "+1 613-271-0308",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2M 2V6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.844118,
+					45.2822179
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Anthony School",
+				"website" : "http://san.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "391",
+				"addr:street" : "Booth Street",
+				"addr:street:fr" : "Rue Booth",
+				"religion" : "christian",
+				"fax" : "+1 613-236-9466",
+				"phone" : "+1 613-235-0340",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1R 7K7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.70877329999999,
+					45.4060341
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Augustine School",
+				"website" : "http://sau.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1020",
+				"addr:street" : "Arnot Road",
+				"addr:street:fr" : "Chemin Arnot",
+				"religion" : "christian",
+				"fax" : "+1 613-225-4107",
+				"phone" : "+1 613-225-8020",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2C 0H4",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.712137,
+					45.3675969
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Benedict School",
+				"website" : "http://ben.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2525",
+				"addr:street" : "River Mist Road",
+				"addr:street:fr" : "Chemin River Mist",
+				"religion" : "christian",
+				"fax" : "+1 613-692-1130",
+				"phone" : "+1 613-692-1005",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 0T5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7368404,
+					45.2454051
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Bernard School",
+				"website" : "http://ber.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1722",
+				"addr:street" : "Saint Bernard Street",
+				"addr:street:fr" : "Rue Saint Bernard",
+				"religion" : "christian",
+				"fax" : "+1 613-521-5780",
+				"phone" : "+1 613-521-5894",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1T 1Y6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6259628,
+					45.3515449
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Brigid School",
+				"website" : "http://sbr.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "200",
+				"addr:street" : "Springfield Road",
+				"addr:street:fr" : "Chemin Springfield",
+				"religion" : "christian",
+				"fax" : "+1 613-746-4980",
+				"phone" : "+1 613-746-4888",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1M 1C2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.67789379999999,
+					45.4460698
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Brother André Catholic School",
+				"website" : "http://ban.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1923",
+				"addr:street" : "Elmridge Drive",
+				"addr:street:fr" : "Promenade Elmridge",
+				"religion" : "christian",
+				"fax" : "+1 613-745-4794",
+				"phone" : "+1 613-741-0100",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1J 9L5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.5982597,
+					45.44440849999999
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Catherine School",
+				"website" : "http://cat.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2751",
+				"addr:street" : "8th Line Road",
+				"addr:street:fr" : "Chemin 8th Line Road",
+				"religion" : "christian",
+				"fax" : "+1 613-821-5088",
+				"phone" : "+1 613-821-1002",
+				"school:jurisdiction" : "Metcalfe",
+				"addr:postcode" : "K0A 2P0",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.4703086,
+					45.2315098
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Cecilia School",
+				"website" : "http://sce.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "3940",
+				"addr:street" : "Cambrian Road",
+				"addr:street:fr" : "Chemin Cambrian",
+				"religion" : "christian",
+				"fax" : "+1 613-692-0073",
+				"phone" : "+1 613-692-6164",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 0E9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7323718,
+					45.2540692
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Clare School",
+				"website" : "http://cla.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2133",
+				"addr:street" : "Gardenway Drive",
+				"addr:street:fr" : "Promenade Gardenway",
+				"religion" : "christian",
+				"fax" : "+1 613-834-4424",
+				"phone" : "+1 613-834-6334",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K4A 3M2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.4745636,
+					45.4693765
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Daniel School",
+				"website" : "http://sda.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1313",
+				"addr:street" : "Field Street",
+				"addr:street:fr" : "Rue Field",
+				"religion" : "christian",
+				"fax" : "+1 613-225-4705",
+				"phone" : "+1 613-225-4603",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2C 2P9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7631655,
+					45.3545956
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Dominic School",
+				"website" : "http://dom.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2276",
+				"addr:street" : "Esprit Drive",
+				"addr:street:fr" : "Promenade Esprit",
+				"religion" : "christian",
+				"fax" : "+1 613-424-3785",
+				"phone" : "+1 613-424-3670",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K4A 0A5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.4710923,
+					45.4517506
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Elizabeth Ann Seton School",
+				"website" : "http://eli.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "41",
+				"addr:street" : "Weybridge Drive",
+				"addr:street:fr" : "Promenade Weybridge",
+				"religion" : "christian",
+				"fax" : "+1 613-825-3903",
+				"phone" : "+1 613-825-3596",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 2Z8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7692947,
+					45.27097699999999
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Elizabeth School",
+				"website" : "http://sel.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1366",
+				"addr:street" : "Coldrey Avenue",
+				"addr:street:fr" : "Avenue Coldrey",
+				"religion" : "christian",
+				"fax" : "+1 613-728-5344",
+				"phone" : "+1 613-728-4744",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1Z 7P5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.73666159999999,
+					45.3820286
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Emily School",
+				"website" : "http://emi.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "499",
+				"addr:street" : "Chapman Mills Drive",
+				"addr:street:fr" : "Promenade Chapman Mills",
+				"religion" : "christian",
+				"fax" : "+1 613-825-1924",
+				"phone" : "+1 613-825-4300",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 0J2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7248178,
+					45.2722021
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Francis of Assisi School",
+				"website" : "http://fra.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "795",
+				"addr:street" : "Watters Road",
+				"addr:street:fr" : "Chemin Watters",
+				"religion" : "christian",
+				"fax" : "+1 613-830-5698",
+				"phone" : "+1 613-830-3215",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K4A 2T2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.48006529999999,
+					45.4785495
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Gabriel School",
+				"website" : "http://gab.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "400",
+				"addr:street" : "Keyrock Drive",
+				"addr:street:fr" : "Promenade Keyrock",
+				"religion" : "christian",
+				"fax" : "+1 613-271-8040",
+				"phone" : "+1 613-271-6181",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2T 0G6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9330288,
+					45.3231026
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Gemma School",
+				"website" : "http://gem.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1794",
+				"addr:street" : "McMaster Avenue",
+				"addr:street:fr" : "Avenue McMaster",
+				"religion" : "christian",
+				"fax" : "+1 613-731-8842",
+				"phone" : "+1 613-731-8841",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1H 6R9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.64496729999999,
+					45.3871642
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. George School",
+				"website" : "http://sge.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "130",
+				"addr:street" : "Keyworth Avenue",
+				"addr:street:fr" : "Avenue Keyworth",
+				"religion" : "christian",
+				"fax" : "+1 613-728-5024",
+				"phone" : "+1 613-728-8291",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1Y 0E8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7456646,
+					45.4020848
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Gregory School",
+				"website" : "http://gre.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "148",
+				"addr:street" : "Meadowlands Drive West",
+				"addr:street:fr" : "Promenade Meadowlands Ouest",
+				"religion" : "christian",
+				"fax" : "+1 613-224-5692",
+				"phone" : "+1 613-224-3011",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2G 2S5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7519856,
+					45.3436305
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Isidore School",
+				"website" : "http://isi.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1105",
+				"addr:street" : "March Road",
+				"addr:street:fr" : "Chemin March",
+				"religion" : "christian",
+				"fax" : "+1 613-592-0929",
+				"phone" : "+1 613-592-1798",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2K 3A7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.93235489999999,
+					45.3549738
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. James School",
+				"website" : "http://jam.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "50",
+				"addr:street" : "Stonehaven Drive",
+				"addr:street:fr" : "Promenade Stonehaven",
+				"religion" : "christian",
+				"fax" : "+1 613-599-9070",
+				"phone" : "+1 613-599-6600",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2M 1R6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.8611161,
+					45.2913977
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Jerome School",
+				"website" : "http://jer.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "4330",
+				"addr:street" : "Spratt Road",
+				"addr:street:fr" : "Chemin Spratt",
+				"religion" : "christian",
+				"fax" : "+1 613-822-9569",
+				"phone" : "+1 613-822-1116",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1V 1S4",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6890759,
+					45.2766835
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. John Paul II School",
+				"website" : "http://schools.ocsb.ca/jpa",
+				"school:language" : "english",
+				"addr:housenumber" : "1500",
+				"addr:street" : "Beaverpond Drive",
+				"addr:street:fr" : "Promenade Beaverpond",
+				"religion" : "christian",
+				"fax" : "+1 613-744-5735",
+				"phone" : "+1 613-744-3591",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1B 3R9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.60119619999999,
+					45.42289969999999
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. John the Apostle School",
+				"website" : "http://apo.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "30",
+				"addr:street" : "Costello Avenue",
+				"addr:street:fr" : "Avenue Costello",
+				"religion" : "christian",
+				"fax" : "+1 613-828-2216",
+				"phone" : "+1 613-828-0644",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2H 7C5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7938241,
+					45.3340457
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. John XXIII School",
+				"website" : "http://schools.ocsb.ca/joh",
+				"school:language" : "english",
+				"addr:housenumber" : "165",
+				"addr:street" : "Knoxdale Road",
+				"addr:street:fr" : "Chemin Knoxdale",
+				"religion" : "christian",
+				"fax" : "+1 613-226-3287",
+				"phone" : "+1 613-226-6223",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2G 1B1",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.76913710000001,
+					45.3275396
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Kateri Tekakwitha Catholic School",
+				"website" : "http://kat.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "6400",
+				"addr:street" : "Beauséjour Drive",
+				"addr:street:fr" : "Promenade Beauséjour",
+				"religion" : "christian",
+				"fax" : "+1 613-830-1436",
+				"phone" : "+1 613-830-2454",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1C 4W2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.5233071,
+					45.4582767
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Leonard School",
+				"website" : "http://leo.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "5344",
+				"addr:street" : "Long Island Road",
+				"addr:street:fr" : "Chemin Long Island",
+				"religion" : "christian",
+				"fax" : "+1 613-692-4743",
+				"phone" : "+1 613-692-3521",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K4M 1J7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6907344,
+					45.2368404
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Luke School",
+				"website" : "http://slu.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2485",
+				"addr:street" : "Dwight Crescent",
+				"addr:street:fr" : "Croissant Dwight",
+				"religion" : "christian",
+				"fax" : "+1 613-731-1387",
+				"phone" : "+1 613-731-3541",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1G 1C7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6157575,
+					45.395104
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Luke School, Nepean",
+				"website" : "http://luk.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "60",
+				"addr:street" : "Mountshannon Drive",
+				"addr:street:fr" : "Promenade Mountshannon",
+				"religion" : "christian",
+				"fax" : "+1 613-825-4170",
+				"phone" : "+1 613-825-2520",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 4C2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7354323,
+					45.2910409
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Marguerite d’Youville School",
+				"website" : "http://smy.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "89",
+				"addr:street" : "Lorry Greenberg Drive",
+				"addr:street:fr" : "Promenade Lorry Greenberg",
+				"religion" : "christian",
+				"fax" : "+1 613-737-6450",
+				"phone" : "+1 613-737-1141",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1T",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.624431,
+					45.3674202
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Martin de Porres School",
+				"website" : "http://mrt.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "20",
+				"addr:street" : "McKitrick Drive",
+				"addr:street:fr" : "Promenade McKitrick",
+				"religion" : "christian",
+				"fax" : "+1 613-836-0843",
+				"phone" : "+1 613-836-4754",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2L 1T7",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.8839294,
+					45.2922372
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Mary School",
+				"website" : "http://mry.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "5536",
+				"addr:street" : "Bank Street",
+				"addr:street:fr" : "Rue Bank",
+				"religion" : "christian",
+				"fax" : "+1 613-822-0288",
+				"phone" : "+1 613-822-2985",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1X 1G9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.571067,
+					45.281077
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Michael School",
+				"website" : "http://smi.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "437",
+				"addr:street" : "Donald Street",
+				"addr:street:fr" : "Rue Donald",
+				"religion" : "christian",
+				"fax" : "+1 613-749-1710",
+				"phone" : "+1 613-749-1642",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1K 1L8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6486199,
+					45.4284901
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Michael School, Corkery",
+				"website" : "http://mic.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1572",
+				"addr:street" : "Corkery Road",
+				"addr:street:fr" : "Chemin Corkery",
+				"religion" : "christian",
+				"fax" : "+1 613-256-7060",
+				"phone" : "+1 613-256-3672",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K0A 1L0",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-76.1025657,
+					45.2846733
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Michael School, Fitzroy",
+				"website" : "http://mif.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "159",
+				"addr:street" : "Kedey Street",
+				"addr:street:fr" : "Rue Kedey",
+				"religion" : "christian",
+				"fax" : "+1 613-623-1984",
+				"phone" : "+1 613-623-3114",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K0A 1X0",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-76.21605699999999,
+					45.4715187
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Monica School",
+				"website" : "http://mon.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2000",
+				"addr:street" : "Merivale Road",
+				"addr:street:fr" : "Chemin Merivale",
+				"religion" : "christian",
+				"fax" : "+1 613-226-5157",
+				"phone" : "+1 613-226-5174",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2G 1G5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.71800739999999,
+					45.3224471
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Patrick School",
+				"website" : "http://pat.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "68",
+				"addr:street" : "Larkin Drive",
+				"addr:street:fr" : "Promenade Larkin",
+				"religion" : "christian",
+				"fax" : "+1 613-825-1552",
+				"phone" : "+1 613-825-4012",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2J 1A9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.760702,
+					45.283445
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Philip School",
+				"website" : "http://phi.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "8",
+				"addr:street" : "Maitland Street",
+				"addr:street:fr" : "Rue Maitland",
+				"religion" : "christian",
+				"fax" : "+1 613-838-3263",
+				"phone" : "+1 613-838-2466",
+				"school:jurisdiction" : "Richmond",
+				"addr:postcode" : "K0A 2Z0",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-79.745274,
+					43.730707
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Rita School",
+				"website" : "http://rit.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "3",
+				"addr:street" : "Inverness Avenue",
+				"addr:street:fr" : "Avenue Inverness",
+				"religion" : "christian",
+				"fax" : "+1 613-224-6344",
+				"phone" : "+1 613-224-6341",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2E 6N6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.7115465,
+					45.35966819999999
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Rose of Lima School",
+				"website" : "http://ros.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "50",
+				"addr:street" : "Bayshore Drive",
+				"addr:street:fr" : "Promenade Bayshore",
+				"religion" : "christian",
+				"fax" : "+1 613-828-0032",
+				"phone" : "+1 613-828-5158",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2B 6M8",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.8066336,
+					45.3507747
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Stephen School",
+				"website" : "http://ste.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1145",
+				"addr:street" : "Stittsville Main Street",
+				"addr:street:fr" : "Rue Stittsville Main",
+				"religion" : "christian",
+				"fax" : "+1 613-831-9185",
+				"phone" : "+1 613-831-8844",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K2S 0M5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.9315972,
+					45.2746181
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Theresa School",
+				"website" : "http://the.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "2000",
+				"addr:street" : "Portobello Boulevard",
+				"addr:street:fr" : "Boulevard Portobello",
+				"religion" : "christian",
+				"fax" : "+1 613-837-6362",
+				"phone" : "+1 613-837-4114",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K4A 4M9",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.4671037,
+					45.4637128
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "St. Thomas More School",
+				"website" : "http://stm.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "1620",
+				"addr:street" : "Blohm Drive",
+				"addr:street:fr" : "Promenade Blohm",
+				"religion" : "christian",
+				"fax" : "+1 613-739-1937",
+				"phone" : "+1 613-739-7131",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1G 5N6",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.60625,
+					45.3747661
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Thomas D’Arcy McGee Catholic School",
+				"website" : "http://mcg.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "635",
+				"addr:street" : "La Vérendrye Drive",
+				"addr:street:fr" : "Promenade La Vérendrye",
+				"religion" : "christian",
+				"fax" : "+1 613-749-3314",
+				"phone" : "+1 613-749-2251",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1J 7C2",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6046902,
+					45.4536737
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"amenity" : "school",
+				"name" : "Uplands Catholic School",
+				"website" : "http://upl.ocsb.ca/",
+				"school:language" : "english",
+				"addr:housenumber" : "17",
+				"addr:street" : "De Niverville Private",
+				"addr:street:fr" : "Chemin Privée De Niverville",
+				"religion" : "christian",
+				"fax" : "+1 613-523-5778",
+				"phone" : "+1 613-523-5807",
+				"school:jurisdiction" : "Ottawa",
+				"addr:postcode" : "K1V 7L5",
+				"operator" : "Ottawa Catholic School Board",
+				"isced:level" : "1",
+				"source" : "OCSB"
+			},
+			"geometry" : {
+				"coordinates" : [
+					-75.6675628,
+					45.3346866
+				],
+				"type" : "Point"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-75.73031809999999, 45.3534397],
+				"type" : "Point"
+			},
+			"properties" : {
+				"isced:level" : "2",
+				"school:language" : "english",
+				"addr:housenumber" : "128",
+				"website" : "http://rya.ocsb.ca/",
+				"phone" : "+1 613-224-8833",
+				"school:jurisdiction" : "Ottawa",
+				"addr:street" : "Chesterton Drive",
+				"addr:street:fr" : "Promenade Chesterton",
+				"religion" : "christian",
+				"name" : "Frank Ryan Catholic Intermediate School",
+				"fax" : "+1 613-224-0799",
+				"addr:postcode" : "K2E 6M7",
+				"amenity" : "school",
+				"operator" : "Ottawa Catholic School Board",
+				"source" : "OCSB"
+			},
+			"type" : "Feature"
+		}, {
+			"geometry" : {
+				"coordinates" : [-75.7385178, 45.3620876],
+				"type" : "Point"
+			},
+			"properties" : {
+				"isced:level" : "2",
+				"school:language" : "english",
+				"addr:housenumber" : "1485",
+				"website" : "http://spe.ocsb.ca/",
+				"phone" : "+1 613-733-3736",
+				"school:jurisdiction" : "Ottawa",
+				"addr:street" : "Heron Road",
+				"addr:street:fr" : "Chemin Heron",
+				"religion" : "christian",
+				"name" : "St. Patrick’s Intermediate School",
+				"fax" : "+1 613-733-2125",
+				"addr:postcode" : "K1V 6A6",
+				"amenity" : "school",
+				"operator" : "Ottawa Catholic School Board",
+				"source" : "OCSB"
+			},
+			"type" : "Feature"
+		}, {
+			"properties" : {
+				"addr:housenumber" : "5115",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "All Saints High School",
+				"religion" : "christian",
+				"fax" : "+1 613-591-8127",
+				"website" : "http://ash.ocsb.ca",
+				"amenity" : "school",
+				"addr:street" : "Kanata Avenue",
+				"addr:street:fr" : "Avenue Kanata",
+				"phone" : "+1 613- 271-4254",
+				"school:language" : "english",
+				"addr:postcode" : "K2K 3K5",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.9249758, 45.3223521]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "180",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Holy Trinity Catholic High School",
+				"religion" : "christian",
+				"fax" : "+1 613-592-4839",
+				"website" : "http://trh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Katimavik Road",
+				"addr:street:fr" : "Chemin Katimavik",
+				"phone" : "+1 613-591-9955",
+				"school:language" : "english",
+				"addr:postcode" : "K2L 4A7",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.9016185, 45.3080604]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "140",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Immaculata High School",
+				"religion" : "christian",
+				"fax" : "+1 613-563-8884",
+				"website" : "http://imh.ocsb.ca",
+				"amenity" : "school",
+				"addr:street" : "Main Street",
+				"addr:street:fr" : "Rue Main",
+				"phone" : "+1 613-237-2001",
+				"school:language" : "english",
+				"addr:postcode" : "K1S 1B9",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.6792825, 45.4112129]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "2072",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Lester B. Pearson Catholic High School",
+				"religion" : "christian",
+				"fax" : "+1 613-741-9593",
+				"website" : "http://lbh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Jasmine Crescent",
+				"addr:street:fr" : "Croissant Jasmine",
+				"phone" : "+1 613-741-4525",
+				"school:language" : "english",
+				"addr:postcode" : "K1J 8M5",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.5963901, 45.4429892]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "440",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Mother Teresa High School ",
+				"religion" : "christian",
+				"fax" : "+1 613-823-4365",
+				"website" : "http://teh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Longfields Drive",
+				"addr:street:fr" : "Promenade Longfields",
+				"phone" : "+1 613-823-1663",
+				"school:language" : "english",
+				"addr:postcode" : "K2J 4T1",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.7393165, 45.2849219]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "710",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Notre Dame High School",
+				"religion" : "christian",
+				"fax" : "+1 613-722-7471",
+				"website" : "http://ndh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Broadview Avenue",
+				"addr:street:fr" : "Avenue Broadview",
+				"phone" : "+1 613-722-6565",
+				"school:language" : "english",
+				"addr:postcode" : "K2A 2M3",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.7562968, 45.3786535]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "5870",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "Sacred Heart High School",
+				"religion" : "christian",
+				"fax" : "+1 613-831-6647",
+				"website" : "http://shh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Abbott Street East",
+				"addr:street:fr" : "Rue Abbott Est",
+				"phone" : "+1 613-831-6643",
+				"school:language" : "english",
+				"addr:postcode" : "K2S 1X4",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.9100467, 45.26355909999999]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "3740",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Francis Xavier High School",
+				"religion" : "christian",
+				"fax" : "+1 (613) 822-0214",
+				"website" : "http://fxh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Spratt Road",
+				"addr:street:fr" : "Chemin Spratt",
+				"phone" : "+1 (613) 822-7900",
+				"school:language" : "english",
+				"addr:postcode" : "K1V 2M1",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.6691388, 45.2904157]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "3333",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Joseph High School",
+				"religion" : "christian",
+				"fax" : "+1 613-823-9573",
+				"website" : "http://sjh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Greenbank Road",
+				"addr:street:fr" : "Chemin Greenbank",
+				"phone" : "+1 613-823-4797",
+				"school:language" : "english",
+				"addr:postcode" : "K2J 4J1",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.741237, 45.263092]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "1040",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Manotick",
+				"isced:level" : "2-3",
+				"name" : "St. Mark High School",
+				"religion" : "christian",
+				"fax" : "+1 613-692-2447",
+				"website" : "http://mrh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Dozois Road",
+				"addr:street:fr" : "Chemin Dozois",
+				"phone" : "+1 613-692-2551",
+				"school:language" : "english",
+				"addr:postcode" : "K4M 1B2",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.64902579999999, 45.2435032]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "6532",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Matthew High School",
+				"religion" : "christian",
+				"fax" : "+1 613-830-8333",
+				"website" : "http://mth.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Bilberry Drive",
+				"addr:street:fr" : "Promenade Bilberry",
+				"phone" : "+1 613-837-3161",
+				"school:language" : "english",
+				"addr:postcode" : "K1C 4P3",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.5331681, 45.48137010000001]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "2525",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "3",
+				"name" : "St. Patrick's High School",
+				"religion" : "christian",
+				"fax" : "+1 613-526-3198",
+				"website" : "http://sph.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Alta Vista Drive",
+				"addr:street:fr" : "Promenade Alta Vista",
+				"phone" : "+1 613-733-0501",
+				"school:language" : "english",
+				"addr:postcode" : "K1V 7T3",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.6607282, 45.3779297]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "2704",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Paul High School",
+				"religion" : "christian",
+				"fax" : "+1 613-820-9390",
+				"website" : "http://pah.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Draper Avenue",
+				"addr:street:fr" : "Avenue Draper",
+				"phone" : "+1 613-820-9705",
+				"school:language" : "english",
+				"addr:postcode" : "K2H 7A1",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.7934965, 45.3404776]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "750",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Peter High School",
+				"religion" : "christian",
+				"fax" : "+1 613-837-7235",
+				"website" : "http://peh.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Charlemagne Boulevard",
+				"addr:street:fr" : "Boulevard Charlemagne",
+				"phone" : "+1 613-837-9377",
+				"school:language" : "english",
+				"addr:postcode" : "K4A 3M4",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.475583, 45.475718]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "1481",
+				"operator" : "Ottawa Catholic School Board",
+				"school:jurisdiction" : "Ottawa",
+				"isced:level" : "2-3",
+				"name" : "St. Pius X High School",
+				"religion" : "christian",
+				"fax" : "+1 613-225-9105",
+				"website" : "http://pih.ocsb.ca/",
+				"amenity" : "school",
+				"addr:street" : "Fisher Avenue",
+				"addr:street:fr" : "Avenue Fisher",
+				"phone" : "+1 613-225-8105",
+				"school:language" : "english",
+				"addr:postcode" : "K2C 1X4",
+				"source" : "OCSB"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-75.71201359999999, 45.3654924]
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "437",
+				"religion" : "christian",
+				"fax" : "+1 613-747-0258",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1K 1L8",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-747-6885",
+				"addr:street" : "Donald Street",
+				"addr:street:fr" : "Rue Donald",
+				"website" : "http://mfm.ocsb.ca",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "M.F. McHugh Education Centre"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.6486199, 45.4284901],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "1461",
+				"religion" : "christian",
+				"fax" : "+1 613-731-6636",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1V 6A6",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-731-3237",
+				"addr:street" : "Heron Road",
+				"addr:street:fr" : "Chemin Heron",
+				"website" : "http://www.continuingeducation.ottawacatholicschools.ca/",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "Queen of Angels Adult School"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.65483549999999, 45.3797763],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "158",
+				"religion" : "christian",
+				"fax" : "+1 613-228-9551",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1Y 3S8",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-228-6908",
+				"addr:street" : "Beech Street",
+				"addr:street:fr" : "Rue Beech",
+				"website" : "http://www.continuingeducation.ottawacatholicschools.ca/",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "St. Ambrose Centre of Excellence"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.7141036, 45.3991813],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "570",
+				"religion" : "christian",
+				"fax" : "+1 613-741-8553",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K2G 3R4",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-741-6808",
+				"addr:street" : "West Hunt Club Road",
+				"addr:street:fr" : "Chemin West Hunt Club",
+				"website" : "http://www.continuingeducation.ottawacatholicschools.ca/",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "St. Joseph's Adult School"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.7276807, 45.3326779],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "20",
+				"religion" : "christian",
+				"fax" : "+1 613-234-8125",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1S 0B7",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-234-2768",
+				"addr:street" : "Graham Avenue",
+				"addr:street:fr" : "Avenue Graham",
+				"website" : "http://ads.ocsb.ca",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "St. Nicholas Adult High School (Central)"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.68108389999999, 45.4115445],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "221",
+				"religion" : "christian",
+				"fax" : "+1 613-228-9967",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1Z 7V4",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-228-8888",
+				"addr:street" : "Anna Avenue",
+				"addr:street:fr" : "Avenue Anna",
+				"website" : "http://ads.ocsb.ca",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "St. Nicholas Adult High School (West)"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.7293907, 45.38251],
+				"type" : "Point"
+			}
+		}, {
+			"properties" : {
+				"addr:housenumber" : "290",
+				"religion" : "christian",
+				"fax" : "+1 613-594-8768",
+				"operator" : "Ottawa Catholic School Board",
+				"addr:postcode" : "K1R 5G3",
+				"isced:level" : "3",
+				"school:language" : "english",
+				"phone" : "+1 613-594-5773",
+				"addr:street" : "Nepean Street",
+				"addr:street:fr" : "Rue Nepean",
+				"website" : "http://www.continuingeducation.ottawacatholicschools.ca/",
+				"school:jurisdiction" : "Ottawa",
+				"amenity" : "school",
+				"name" : "St. Patrick's Adult School"
+			},
+			"type" : "Feature",
+			"geometry" : {
+				"coordinates" : [-75.701165, 45.415759],
+				"type" : "Point"
+			}
+		}
+	]
+}
