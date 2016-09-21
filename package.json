@@ -1,17 +1,17 @@
 {
   "name": "imports",
   "version": "1.0.0",
-  "description": "- [Peel Region Buildings](/Peel-Region) - [CECCE schools](/CECCE) - [OC Transpo](/octranspo)",
-  "main": "index.js",
+  "description": "OSM Canada imports",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "npm run typings",
+    "typings": "./node_modules/typings/dist/bin.js install"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/osmottawa/imports.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/osmottawa/imports/issues"
   },
