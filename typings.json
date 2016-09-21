@@ -3,6 +3,7 @@
     "babyparse": "https://raw.githubusercontent.com/DenisCarriere/DefinitelyTyped/babyparse/babyparse/babyparse.d.ts",
     "change-case": "registry:dt/change-case#0.0.0+20160316155526",
     "geojson": "registry:dt/geojson#0.0.0+20160619034323",
+    "geojson2osm": "registry:dt/geojson2osm#0.0.5+20160907121608",
     "js-yaml": "registry:dt/js-yaml#3.5.2+20160316171810",
     "lodash": "registry:dt/lodash#4.14.0+20160830145422",
     "node": "registry:dt/node#6.0.0+20160919063032",
