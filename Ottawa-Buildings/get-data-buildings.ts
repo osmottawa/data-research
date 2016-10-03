@@ -26,10 +26,11 @@ function encodeData(data: any) {
 }
 
 async function main() {
-  const writer = fs.createWriteStream(path.join(__dirname, 'buildings.json'))
+  const writer = fs.createWriteStream(path.join(__dirname, 'ottawa-buildings.geojson'))
   const api_url = 'http://maps.ottawa.ca/arcgis/rest/services/TopographicMapping/MapServer/3/query'
   let count = 0
   let first = false
+  let blank = 0
   const max = 250
   const features: Array<GeoJSON.Feature<GeoJSON.Polygon>> = []
 
@@ -44,7 +45,6 @@ async function main() {
       objectIds: range(count, count + max).join(','),
       geometryType: 'esriGeometryEnvelope',
       spatialRel: 'esriSpatialRelIntersects',
-      outFields: '*',
       returnGeometry: 'true',
       returnTrueCurves: 'false',
       returnIdsOnly: 'false',
@@ -54,9 +54,12 @@ async function main() {
       f: 'pjson',
     }
     const url = `${ api_url }?${ encodeData(params)}`
-    const r:InterfaceESRIResults = await rp.get(url)
+    const results:InterfaceESRIResults = await rp.get(url)
       .then(data => JSON.parse(data))
-    r.features.map(feature => {
+      .catch(error => console.log(error))
+
+    // Iterate over result
+    results.features.map(feature => {
       const attributes = {
         building: 'yes',
         source: 'City of Ottawa'
@@ -68,12 +71,17 @@ async function main() {
       } else writer.write(`,\n    ${ JSON.stringify(poly)}`)
     })
 
-    // Stop or Start over
-    if (!r.features.length) break
+    // Stop or Start over process
+    if (!results.features.length) {
+      blank ++
+      console.log('blank')
+    }
+    if (blank > 50) {
+      console.log('break')
+      break
+    }
     console.log(count)
     count += max
-
-    // if (count > 1000) break
   }
   writer.write(`
   ]
