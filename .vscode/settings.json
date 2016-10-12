@@ -10,7 +10,6 @@
         "**/dist": true,
         "**/node_modules": true,
         "**/uploads": true,
-        "**/coverage": true,
-        "**/*.js": { "when": "$(basename).ts"}
+        "**/coverage": true
     }
 }

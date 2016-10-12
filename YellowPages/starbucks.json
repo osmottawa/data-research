@@ -1,0 +1,2255 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965828,
+                    45.39109
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3964436,
+                    44.188332
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.439427,
+                    45.443945
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.471655,
+                    45.4883
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.836015,
+                    45.47341
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.621934,
+                    45.476332
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.718272,
+                    45.275418
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.57166,
+                    45.505105
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5685298,
+                    45.5904673
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5663144,
+                    45.5069009
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6628993,
+                    45.507143
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5552377,
+                    45.5060224
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.867567,
+                    45.287077
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.498236,
+                    44.263657
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.120758,
+                    45.13289
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6449583,
+                    45.4128994
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.649318,
+                    45.421365
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.698642,
+                    45.421147
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.692932,
+                    45.425677
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.688868,
+                    45.416132
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.699653,
+                    45.419227
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.682898,
+                    45.393417
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5786229,
+                    45.4943558
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9117728,
+                    45.3102398
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.555067,
+                    44.258197
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.725372,
+                    45.334277
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9163,
+                    45.308991
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.498212,
+                    45.457451
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.757338,
+                    45.390563
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62371,
+                    45.400051
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.787964,
+                    45.34938
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.482312,
+                    44.231529
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696005,
+                    45.421234
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.890963,
+                    45.296419
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8306329,
+                    45.4618542
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7034087,
+                    45.4978949
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.581587,
+                    46.116329
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5815017,
+                    45.5255955
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.736546,
+                    45.3627201
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6486803,
+                    45.52663
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.4701411,
+                    45.473429
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5687096,
+                    45.5991325
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5884969,
+                    45.4864767
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5827733,
+                    45.4908437
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5731576,
+                    45.5001232
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.617479,
+                    45.43222
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.595909,
+                    45.519884
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.611956,
+                    45.4315357
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.571126,
+                    45.5018346
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.693115,
+                    45.411686
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5656333,
+                    45.5008849
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.934648,
+                    45.356712
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5680717,
+                    45.5019407
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.654977,
+                    45.358105
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5746511,
+                    45.4832583
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.748131,
+                    45.274339
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.853569,
+                    45.44811
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.567405,
+                    44.25058
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5746591,
+                    45.5485455
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5794171,
+                    45.4956857
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5758242,
+                    45.4970631
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5653768,
+                    45.5007074
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.698291,
+                    45.421769
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.345512,
+                    44.28149
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.697201,
+                    45.419522
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.710003,
+                    45.401816
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.585909,
+                    45.488919
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.799689,
+                    45.486349
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.555449,
+                    45.5193097
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5582781,
+                    45.5056927
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.688284,
+                    45.403207
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69803,
+                    45.477341
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.760191,
+                    45.348215
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6921741,
+                    45.4259914
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7031411,
+                    45.418665
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5711028,
+                    45.5046155
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5640973,
+                    45.5153959
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.339597,
+                    44.283371
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6825485,
+                    45.4235382
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.567725,
+                    45.4979444
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7000809,
+                    45.3884697
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63691,
+                    45.423347
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5839757,
+                    45.5332065
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6873524,
+                    44.612485
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.487595,
+                    44.232393
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.436898,
+                    45.444155
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.38196,
+                    45.50491
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8218094,
+                    45.4663576
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.622394,
+                    45.496193
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5736938,
+                    45.4992444
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5693538,
+                    45.5036268
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5735638,
+                    45.50034
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578269,
+                    45.529263
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5716337,
+                    45.502109
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.693479,
+                    45.421605
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.703184,
+                    45.419991
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.665461,
+                    45.321058
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.497438,
+                    44.227738
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8637993,
+                    45.4577435
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5765857,
+                    45.4991232
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5725182,
+                    45.508951
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.630692,
+                    45.482347
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5670572,
+                    45.498351
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7165706,
+                    45.4653549
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6242957,
+                    45.4971976
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.714646,
+                    45.338413
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6999392,
+                    45.461104
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7341833,
+                    45.4037956
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.445667,
+                    45.575882
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.714312,
+                    45.42716
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5647212,
+                    45.5015525
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.578438,
+                    45.521736
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1544279,
+                    45.8922321
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5591645,
+                    45.500848
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.564482,
+                    45.501016
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.492632,
+                    44.231231
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5711028,
+                    45.5046155
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.564217,
+                    45.501167
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5640973,
+                    45.5153959
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5612076,
+                    45.5015702
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5716337,
+                    45.502109
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8088494,
+                    45.4161265
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.571126,
+                    45.5018346
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6978665,
+                    45.4181703
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5725219,
+                    45.5139052
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "name:en": "Starbucks Coffee",
+                "name:fr": "Café Starbucks",
+                "cuisine": "coffee_shop",
+                "website": "http://www.starbucks.ca/",
+                "amenity": "cafe"
+            }
+        }
+    ]
+}
