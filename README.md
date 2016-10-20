@@ -1,4 +1,4 @@
-# Details of OSM imports
+# Data research
 
 - [Peel Region Buildings](/Peel-Region)
 - [CECCE schools](/CECCE)
