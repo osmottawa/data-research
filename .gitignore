@@ -9,8 +9,12 @@ typings/*
 coverage/
 built/
 dist/
+*.js
+*.js.map
 *.png
 *.jpg
+*.geojson
+yarn.lock
 *.tif
 *.mbtiles
 *.mbtiles-journal

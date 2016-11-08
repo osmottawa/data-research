@@ -6,7 +6,6 @@
         "noImplicitAny": true,
         "removeComments": false,
         "preserveConstEnums": true,
-        "outDir": "dist/",
         "sourceMap": true,
         "noEmitOnError": true
     },
@@ -14,7 +13,6 @@
         "node_modules"
     ],
     "filesGlob": [
-        "./**/*.ts",
-        "typings/index.d.ts"
+        "./**/*.ts"
     ]
 }
