@@ -14,10 +14,9 @@ dist/
 *.png
 *.jpg
 *.geojson
+*.mbtiles
 yarn.lock
 *.tif
-*.mbtiles
-*.mbtiles-journal
 .nyc_output
 nohup.out
 node_modules

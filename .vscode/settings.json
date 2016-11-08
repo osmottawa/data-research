@@ -1,6 +1,7 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "editor.tabSize": 2,
+    "typescript.tsdk": "./node_modules/typescript/lib",
     "files.exclude": {
         "**/.git": true,
         "**/.DS_Store": true,
@@ -9,8 +10,7 @@
         "**/dist": true,
         "**/node_modules": true,
         "**/uploads": true,
-        "**/coverage": true,
-        "**/*.js": { "when": "$(basename).ts"}
+        "**/coverage": true
     }
 ,
 "typescript.tsdk": "./node_modules/typescript/lib"

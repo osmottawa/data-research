@@ -1,0 +1,836 @@
+{
+   "crs":{
+      "type":"name",
+      "properties":{
+         "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+   },
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.662765,
+               45.487857,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 643-9378",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Carle",
+            "isced:level":"1",
+            "phone":"+1 819 643-3422",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"306",
+            "amenity":"school",
+            "addr:postcode":"J8P 6A2",
+            "addr:street":"rue Jacques-Buteux",
+            "addr:street:en":"Jacques-Buteux Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.696704,
+               45.496751,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-7541",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de l'Envolée",
+            "isced:level":"1",
+            "phone":"+1 819 568-5764",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"299",
+            "amenity":"school",
+            "addr:postcode":"J8V 2P8",
+            "addr:street":"rue Ernest-Gaboury",
+            "addr:street:en":"Ernest-Gaboury Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.636373,
+               45.505571,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-7131",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de l'Escalade",
+            "isced:level":"1",
+            "phone":"+1 819 663-5558",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"605",
+            "amenity":"school",
+            "addr:postcode":"J8R 2V9",
+            "addr:street":"rue Davidson Est",
+            "addr:street:en":"Davidson East Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.653662,
+               45.494142,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-7554",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de l'Odyssée (Jean XXIII)",
+            "isced:level":"1",
+            "phone":"+1 819 663-9226",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"180",
+            "amenity":"school",
+            "addr:postcode":"J8P 2R2",
+            "addr:street":"rue Magnus Ouest",
+            "addr:street:en":"Magnus West Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.653679,
+               45.492134,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 643-3583",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de l'Odyssée* (Saint-René-Goupil)",
+            "isced:level":"1",
+            "phone":"+1 819 643-5242",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"179",
+            "amenity":"school",
+            "addr:postcode":"J8P 2V5",
+            "addr:street":"Boulevard Saint-René Ouest",
+            "addr:street:en":"Saint-René West Boulevard"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.717216,
+               45.685467,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 457-1668",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de la Colline",
+            "isced:level":"1",
+            "phone":"+1 819 503-8020",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"20",
+            "amenity":"school",
+            "addr:postcode":"J8N 4J8",
+            "addr:street":"chemin du Parc",
+            "addr:street:en":"Du Parc Road"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.671297,
+               45.494877,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-7195",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de la Montée",
+            "isced:level":"1",
+            "phone":"+1 819 663-6000",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"500",
+            "amenity":"school",
+            "addr:postcode":"J8P 7C4",
+            "addr:street":"rue Joseph-Demontigny",
+            "addr:street:en":"Joseph-Demontigny Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.760689,
+               45.545643000000005,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 827-8261",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de la Rose-des-Vents",
+            "isced:level":"1",
+            "phone":"+1 819 503-8090",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"112",
+            "amenity":"school",
+            "addr:postcode":"J8V 3T5",
+            "addr:street":"rue Du Commandeur",
+            "addr:street:en":"Du Commandeur Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.629014,
+               45.486831,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-5327",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de la Traversée (Lavigne)",
+            "isced:level":"1",
+            "phone":"+1 819 663-5326",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"257",
+            "amenity":"school",
+            "addr:postcode":"J8P 3S4",
+            "addr:street":"rue Luck",
+            "addr:street:en":"Luck Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.630628,
+               45.481554,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-4469",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de la Traversée* (Ste-Maria-Goretti)",
+            "isced:level":"1",
+            "phone":"+1 819 663-5983",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"563",
+            "amenity":"school",
+            "addr:postcode":"J8P 3Y9",
+            "addr:street":"rue Clément",
+            "addr:street:en":"Clément Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.717505,
+               45.476661,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-1460",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de Touraine (George-Étienne-Cartier)",
+            "isced:level":"1",
+            "phone":"+1 819 568-5121",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"30",
+            "amenity":"school",
+            "addr:postcode":"J8T 1K8",
+            "addr:street":"rue de Savoie",
+            "addr:street:en":"De Savoie Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.723063,
+               45.473983,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-4330",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École de Touraine* (Riviera)",
+            "isced:level":"1",
+            "phone":"+1 819 568-4331",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"59",
+            "amenity":"school",
+            "addr:postcode":"J8T 4V2",
+            "addr:street":"rue de Provence",
+            "addr:street:en":"De Provence Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.609348,
+               45.50010600000001,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-7992",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École des Belles-Rives",
+            "isced:level":"1",
+            "phone":"+1 819 663-3360",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"23",
+            "amenity":"school",
+            "addr:postcode":"J8P 2H7",
+            "addr:street":"rue Forget",
+            "addr:street:en":"Forget Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.670547,
+               45.502739,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-7277",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École des Cépages",
+            "isced:level":"1",
+            "phone":"+1 819 663-1973",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"445",
+            "amenity":"school",
+            "addr:postcode":"J8R 3P2",
+            "addr:street":"rue Nobert",
+            "addr:street:en":"Nobert Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.649323,
+               45.486493,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 663-3896",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École des Trois-Saisons",
+            "isced:level":"1",
+            "phone":"+1 819 663-4229",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"114",
+            "amenity":"school",
+            "addr:postcode":"J8P 5G5",
+            "addr:street":"rue Élisabeth Est",
+            "addr:street:en":"Élisabeth East Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.59147900000002,
+               45.504852,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 669-1495",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Du Bois Joli",
+            "isced:level":"1",
+            "phone":"+1 819 669-1207",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"1165",
+            "amenity":"school",
+            "addr:postcode":"J8R 1N1",
+            "addr:street":"Boulevard St-René Est",
+            "addr:street:en":"St-René East Boulevard"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.69028,
+               45.47103,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-1546",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École du Nouveau-Monde*(Renaud)",
+            "isced:level":"1",
+            "phone":"+1 819 568-0844",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"25",
+            "amenity":"school",
+            "addr:postcode":"J8T 3C2",
+            "addr:street":"rue Saint-Arthur",
+            "addr:street:en":"Saint-Arthur Street"            
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.689124,
+               45.471933,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-7295",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École du Nouveau-Monde (Saint-Rosaire)",
+            "isced:level":"1",
+            "phone":"+1 819 568-0233",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"9",
+            "amenity":"school",
+            "addr:postcode":"J8T 1X6",
+            "addr:street":"rue Sainte-Yvonne",
+            "addr:street:en":"Sainte-Yvonne Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.724297,
+               45.497203,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 246-3992",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École du Vallon",
+            "isced:level":"1",
+            "phone":"+1 819 246-1992",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"88",
+            "amenity":"school",
+            "addr:postcode":"J8V 2M4",
+            "addr:street":"rue de Cannes",
+            "addr:street:en":"De Cannes Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.619529,
+               45.599889,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 671-0014",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École l'Équipage",
+            "isced:level":"1",
+            "phone":"+1 819 503-8022",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"20",
+            "amenity":"school",
+            "addr:postcode":"J8N 7E7",
+            "addr:street":"chemin de l'École",
+            "addr:street:en":"De l'École Road"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.695488,
+               45.48544,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-1835",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École L'Oiseau Bleu",
+            "isced:level":"1",
+            "phone":"+1 819 568-2101",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"184",
+            "amenity":"school",
+            "addr:postcode":"J8T 6J9",
+            "addr:street":"rue Nelligan",
+            "addr:street:en":"Nelligan Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.592139,
+               45.496210000000005,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 643-4678",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École La Sablonnière",
+            "isced:level":"1",
+            "phone":"+1 819 643-1882",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"143",
+            "amenity":"school",
+            "addr:postcode":"J8P 7G6",
+            "addr:street":"rue des Sables",
+            "addr:street:en":"Des Sables Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.70369500000001,
+               45.486697,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 246-0591",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École La Source",
+            "isced:level":"1",
+            "phone":"+1 819 568-7861",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"22",
+            "amenity":"school",
+            "addr:postcode":"J8T 6G8",
+            "addr:street":"rue De L'Acadie",
+            "addr:street:en":"De L'Acadie Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.734038,
+               45.485741,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 568-4441",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Le Petit Prince",
+            "isced:level":"1",
+            "phone":"+1 819 568-3777",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"44",
+            "amenity":"school",
+            "addr:postcode":"J8T 6H2",
+            "addr:street":"rue de Juan-les-Pins",
+            "addr:street:en":"De Juan-les-Pins Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.708987,
+               45.470831,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 561-1939",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Le Tremplin",
+            "isced:level":"1",
+            "phone":"+1 819 561-2435",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"31",
+            "amenity":"school",
+            "addr:postcode":"J8T 3Z4",
+            "addr:street":"rue de l'Abbé-Ginguet",
+            "addr:street:en":"De l'Abbé-Ginguet Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.75394,
+               45.49415,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 561-1037",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Massé",
+            "isced:level":"1",
+            "phone":"+1 819 561-3313",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"1",
+            "amenity":"school",
+            "addr:postcode":"J8V 1A8",
+            "addr:street":"rue Saint-Alexandre",
+            "addr:street:en":"Saint-Alexandre Street"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.773199,
+               45.564522,
+               0
+            ]
+         },
+         "properties":{
+            "fax":"+1 819 827-0227",
+            "operator":"Commission scolaire des Draveurs",
+            "name":"École Sainte-Élisabeth",
+            "isced:level":"1",
+            "phone":"+1 819 503-8024",
+            "source":"CSD",
+            "school:language":"french",
+            "addr:housenumber":"51",
+            "amenity":"school",
+            "addr:postcode":"J8V 3E8",
+            "addr:street":"chemin Sainte-Élisabeth",
+            "addr:street:en":"Sainte-Élisabeth Road"
+         }
+      },
+	  {
+         "type":"Feature",
+         "properties":{
+            "fax":"+1 819 561-9058",
+            "phone":"+1 819 561-2320",
+            "school:language":"french",
+            "isced:level":"2-3",
+            "addr:postcode":"J8V 1J6",
+            "name":"Polyvalente de l'Érablière",
+            "addr:street":"rue de Cannes",
+            "addr:street:en":"De Cannes Street",
+            "operator":"Commission scolaire des Draveurs",
+            "source":"CSD",
+            "addr:housenumber":"500",
+            "amenity":"school"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.738952,
+               45.492503,
+               0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "fax":"+1 819 243-4408",
+            "phone":"+1 819 243-1144",
+            "school:language":"french",
+            "isced:level":"2-3",
+            "addr:postcode":"J8R 3S8",
+            "name":"École secondaire du Versant",
+            "addr:street":"Boulevard de la Cité",
+            "addr:street:en":"De la Cité Boulevard",
+            "operator":"Commission scolaire des Draveurs",
+            "source":"CSD",
+            "addr:housenumber":"808",
+            "amenity":"school"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.682465,
+               45.493247,
+               0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "fax":"+1 819 568-6399",
+            "phone":"+1 819 568-9012",
+            "school:language":"french",
+            "isced:level":"2-3",
+            "addr:postcode":"J8T 3N2",
+            "name":"Polyvalente Le Carrefour",
+            "addr:street":"chemin de La Savane",
+            "addr:street:en":"De La Savane Road",
+            "operator":"Commission scolaire des Draveurs",
+            "source":"CSD",
+            "addr:housenumber":"50",
+            "amenity":"school"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.698901,
+               45.473945,
+               0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "fax":"+1 819 663-5513",
+            "phone":"+1 819 663-9241",
+            "school:language":"french",
+            "isced:level":"2-3",
+            "addr:postcode":"J8P 6K7",
+            "name":"Polyvalente Nicolas-Gatineau",
+            "addr:street":"Boulevard de la Vérendrye",
+            "addr:street:en":"De la Vérendrye Boulevard",
+            "operator":"Commission scolaire des Draveurs",
+            "source":"CSD",
+            "addr:housenumber":"360",
+            "amenity":"school"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.646276,
+               45.500542,
+               0
+            ]
+         }
+      },
+	  {
+         "geometry":{
+            "coordinates":[
+               -75.709512,
+               45.482341,
+               0
+            ],
+            "type":"Point"
+         },
+         "properties":{
+            "amenity":"school",
+            "fax":"+1 819 243-0624",
+            "name":"Centre L'Escale",
+            "school:language":"french",
+            "addr:street":"rue Du Barry",
+            "addr:street:en":"Du Barry Street",
+            "isced:level":"3",
+            "phone":"+1 819 243-2151",
+            "operator":"Commission scolaire des Draveurs",
+            "addr:housenumber":"85",
+            "source":"CSD",
+            "addr:postcode":"J8T 3N5"
+         },
+         "type":"Feature"
+      },
+      {
+         "geometry":{
+            "coordinates":[
+               -75.695801,
+               45.461154,
+               0
+            ],
+            "type":"Point"
+         },
+         "properties":{
+            "amenity":"school",
+            "fax":"+1 819 561-2511",
+            "name":"Centre Nouvel-Horizon",
+            "school:language":"french",
+            "addr:street":"rue de la Baie",
+            "addr:street:en":"De la Baie Street",
+            "isced:level":"3",
+            "phone":"+1 819 561-9395",
+            "operator":"Commission scolaire des Draveurs",
+            "addr:housenumber":"100",
+            "source":"CSD",
+            "addr:postcode":"J8T 3H7"
+         },
+         "type":"Feature"
+      }
+   ]
+}
