@@ -61,7 +61,11 @@ function writeGeoJSON(filepath: string, geojson: GeoJSON.FeatureCollection<GeoJS
  */
 const states = readGeoJSON('overpass-query.geojson')
 states.features = states.features.filter(feature => {
-  if (feature.properties.id.match(/way/)) { return false }
-  return (feature.properties.boundary === 'administrative' && feature.properties.admin_level === '4')
+  return (
+    feature.properties.boundary === 'administrative' &&
+    feature.properties.admin_level === '4' &&
+    feature.properties.id.match(/relation/)
+  )
 })
 writeGeoJSON('ca-states.geojson', states, ['name:en', 'boundary', 'admin_level', 'name', 'ISO3166-2', 'ref', 'wikidata', 'wikipedia', 'state_code', 'is_in:country', 'is_in:country_code', 'is_in:continent'])
+console.log(states.features.length)
