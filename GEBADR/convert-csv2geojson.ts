@@ -7,6 +7,6 @@ csv2geojson.csv2geojson(csvString, {
     latfield: 'latitude',
     lonfield: 'longitude',
     delimiter: ';'
-}, function(err: any, data: any) {
+}, function(err: any, data: GeoJSON.FeatureCollection<GeoJSON.Point>) {
   helpers.writeFileSync('address-points.geojson', data)
 });

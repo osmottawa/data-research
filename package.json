@@ -35,7 +35,7 @@
     "csv2geojson": "^5.0.2",
     "es6-promise": "^3.3.1",
     "form-data": "^2.0.0",
-    "geojson-helpers": "^0.1.7",
+    "geojson-helpers": "^0.2.1",
     "geojson2osm": "0.0.5",
     "global-mercator": "^0.4.2",
     "isomorphic-fetch": "^2.2.1",
