@@ -42,8 +42,9 @@ const collection: GeoJSON.FeatureCollection<GeoJSON.Point> = turf.featureCollect
 
 interface Exceptions {
   [key: string] : {
-    housenumber: string
-    street: string
+    housenumber?: string
+    street?: string
+    phone?: string
   }
 }
 
@@ -92,6 +93,12 @@ const exceptions: Exceptions = {
     housenumber: '32555',
     street: 'London Avenue',
   },
+  '200 West Esplanade' : {
+    phone: undefined,
+  },
+  '170 Schoolhouse Street': {
+    phone: undefined,
+  }
 }
 
 source.results.collection1.map(result => {
@@ -105,23 +112,24 @@ source.results.collection1.map(result => {
   const unit = fullroad.match(/Unit ([\da-zA-Z]+)/) ? fullroad.match(/Unit ([\da-zA-Z]+)/)[1] : undefined
   let street = housenumber ? fullroad.replace(housenumber, '').trim().replace(/^,/, '').trim().replace(`Unit ${ unit }`, '').trim().replace(/,$/, '').trim() : undefined 
 
+  // Phone
+  const phoneMatch = result.phone.text && result.phone.text.match(/\((\d+)\) (\d+)-(\d+)/)
+  let phone = phoneMatch && phoneMatch.slice(1, 4).join('-')
+  const website = result.theatreInfo.href
+
   // Exceptions
   const exception = exceptions[fullroad]
   if (exception) {
     street = exception.street
     housenumber = exception.housenumber
+    phone = exception.phone
   }
-
-  // Phone
-  const phone = result.phone.text
-  const website = result.theatreInfo.href
 
   // Map
   const name = result.map.alt
   const center = result.map.src.match(/center=([\d\.,\-]+)/)[1]
   const [lat, lng] = center.split(',').map(i => Number(i))
 
-  if (!housenumber) { console.log(fullroad) }
   // GeoJSON
   const properties = {
     name,
@@ -131,14 +139,13 @@ source.results.collection1.map(result => {
     'addr:street': street,
     'addr:postal_code': postal_code,
     'addr:unit': unit,
+    'addr:city': city,
     'phone': phone,
     'website': website,
-    'fixme': (housenumber) ? undefined : 'No housenumber',
-    '!!DELETE-ME!!': result.address,
-    'is_in:city': city,
-    'is_in:iso_3166_2': `CA-${province}`,
-    'is_in:state_code': province,
-    'is_in:country': 'CA'
+    // 'fixme': (housenumber) ? undefined : 'No housenumber',
+    // 'is_in:iso_3166_2': `CA-${province}`,
+    // 'is_in:state_code': province,
+    // 'is_in:country': 'CA'
   }
   const point = turf.point([lng, lat], properties)
   collection.features.push(point)

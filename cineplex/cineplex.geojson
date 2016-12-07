@@ -11,13 +11,9 @@
                 "addr:street": "Marche Way",
                 "addr:postal_code": "K1S 5J3",
                 "addr:unit": "107",
-                "phone": "(613) 232-2770",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lansdowne-and-vip",
-                "!!DELETE-ME!!": "325 Marche Way, Unit 107, Ottawa, ON, K1S 5J3",
-                "is_in:city": "Ottawa",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Ottawa",
+                "phone": "613-232-2770",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lansdowne-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -36,13 +32,9 @@
                 "addr:housenumber": "115",
                 "addr:street": "boulevard Du Plateau",
                 "addr:postal_code": "J9A 3G1",
-                "phone": "(819) 770-1090",
-                "website": "http://www.cineplex.com/Theatre/cinema-starcite-gatineau",
-                "!!DELETE-ME!!": "115 boulevard Du Plateau, Hull, QC, J9A 3G1",
-                "is_in:city": "Hull",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Hull",
+                "phone": "819-770-1090",
+                "website": "http://www.cineplex.com/Theatre/cinema-starcite-gatineau"
             },
             "geometry": {
                 "type": "Point",
@@ -61,13 +53,9 @@
                 "addr:housenumber": "2385",
                 "addr:street": "City Park Drive",
                 "addr:postal_code": "K1J 1G1",
-                "phone": "(613) 749-5112",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-ottawa-formerly-silvercity-gloucester",
-                "!!DELETE-ME!!": "2385 City Park Drive, Gloucester, ON, K1J 1G1",
-                "is_in:city": "Gloucester",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Gloucester",
+                "phone": "613-749-5112",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-ottawa-formerly-silvercity-gloucester"
             },
             "geometry": {
                 "type": "Point",
@@ -86,13 +74,9 @@
                 "addr:housenumber": "2214",
                 "addr:street": "Bank Street",
                 "addr:postal_code": "K1V 1J6",
-                "phone": "(613) 736-1115",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-keys-cinemas",
-                "!!DELETE-ME!!": "2214 Bank Street, Ottawa, ON, K1V 1J6",
-                "is_in:city": "Ottawa",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Ottawa",
+                "phone": "613-736-1115",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-keys-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -111,13 +95,9 @@
                 "addr:housenumber": "3090",
                 "addr:street": "Carling Avenue",
                 "addr:postal_code": "K2B 7K2",
-                "phone": "(613) 596-9475",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ottawa",
-                "!!DELETE-ME!!": "3090 Carling Avenue, Ottawa, ON, K2B 7K2",
-                "is_in:city": "Ottawa",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Ottawa",
+                "phone": "613-596-9475",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ottawa"
             },
             "geometry": {
                 "type": "Point",
@@ -136,13 +116,9 @@
                 "addr:housenumber": "131",
                 "addr:street": "Riocan Avenue",
                 "addr:postal_code": "K2J 5G5",
-                "phone": "(613) 825-2463",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-barrhaven-cinemas",
-                "!!DELETE-ME!!": "131 Riocan Avenue, Barrhaven, ON, K2J 5G5",
-                "is_in:city": "Barrhaven",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Barrhaven",
+                "phone": "613-825-2463",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-barrhaven-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -161,13 +137,9 @@
                 "addr:housenumber": "1325",
                 "addr:street": "Second Street East",
                 "addr:postal_code": "K6H 2B6",
-                "phone": "(613) 932-4500",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cornwall",
-                "!!DELETE-ME!!": "1325 Second Street East, Cornwall, ON, K6H 2B6",
-                "is_in:city": "Cornwall",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Cornwall",
+                "phone": "613-932-4500",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cornwall"
             },
             "geometry": {
                 "type": "Point",
@@ -186,13 +158,9 @@
                 "addr:housenumber": "1000",
                 "addr:street": "Island Mall, 2399 Parkedale Avenue",
                 "addr:postal_code": "K6V 2G9",
-                "phone": "(613) 498-2217",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brockville",
-                "!!DELETE-ME!!": "1000 Island Mall, 2399 Parkedale Avenue, Brockville, ON, K6V 2G9",
-                "is_in:city": "Brockville",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Brockville",
+                "phone": "613-498-2217",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brockville"
             },
             "geometry": {
                 "type": "Point",
@@ -211,13 +179,9 @@
                 "addr:housenumber": "391",
                 "addr:street": "boulevard Harwood",
                 "addr:postal_code": "J7V 7W1",
-                "phone": "(450) 455-9853",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-carrefour-dorion",
-                "!!DELETE-ME!!": "391 boulevard Harwood, Dorion, QC, J7V 7W1",
-                "is_in:city": "Dorion",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Dorion",
+                "phone": "450-455-9853",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-carrefour-dorion"
             },
             "geometry": {
                 "type": "Point",
@@ -236,13 +200,9 @@
                 "addr:housenumber": "3200",
                 "addr:street": "rue Jean Yves",
                 "addr:postal_code": "H9J 2R6",
-                "phone": "(514) 694-8922",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-kirkland",
-                "!!DELETE-ME!!": "3200 rue Jean Yves, Kirkland, QC, H9J 2R6",
-                "is_in:city": "Kirkland",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Kirkland",
+                "phone": "514-694-8922",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-kirkland"
             },
             "geometry": {
                 "type": "Point",
@@ -261,13 +221,9 @@
                 "addr:housenumber": "626",
                 "addr:street": "Gardiners Road",
                 "addr:postal_code": "K7M 3X9",
-                "phone": "(613) 634-0152",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-gardiners-road-cinemas",
-                "!!DELETE-ME!!": "626 Gardiners Road, Kingston, ON, K7M 3X9",
-                "is_in:city": "Kingston",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Kingston",
+                "phone": "613-634-0152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-gardiners-road-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -286,13 +242,9 @@
                 "addr:housenumber": "2800",
                 "addr:street": "avenue Du Cosmod,me",
                 "addr:postal_code": "H7T 2X1",
-                "phone": "(450) 978-0212",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-laval",
-                "!!DELETE-ME!!": "2800 avenue Du Cosmodôme, Laval, QC, H7T 2X1",
-                "is_in:city": "Laval",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Laval",
+                "phone": "450-978-0212",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-laval"
             },
             "geometry": {
                 "type": "Point",
@@ -311,13 +263,8 @@
                 "addr:housenumber": "5800",
                 "addr:street": "boulevard Cavendish",
                 "addr:postal_code": "H4W 2T5",
-                "phone": "(514) 485-7111",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall",
-                "!!DELETE-ME!!": "Le Mail Cavendish, 5800 boulevard Cavendish, 5800 boulevard Cavendish, Cote Saint-Luc, QC, H4W 2T5",
-                "is_in:city": "Cote Saint-Luc",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Cote Saint-Luc",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall"
             },
             "geometry": {
                 "type": "Point",
@@ -336,13 +283,9 @@
                 "addr:housenumber": "7077",
                 "addr:street": "boulevard Newman",
                 "addr:postal_code": "H8N 1X1",
-                "phone": "(514) 366-2444",
-                "website": "http://www.cineplex.com/Theatre/cinema-famous-players-carrefour-angrignon",
-                "!!DELETE-ME!!": "7077 boulevard Newman, LaSalle, QC, H8N 1X1",
-                "is_in:city": "LaSalle",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "LaSalle",
+                "phone": "514-366-2444",
+                "website": "http://www.cineplex.com/Theatre/cinema-famous-players-carrefour-angrignon"
             },
             "geometry": {
                 "type": "Point",
@@ -361,13 +304,9 @@
                 "addr:housenumber": "7816",
                 "addr:street": "Boulevard Champlain, Local 62",
                 "addr:postal_code": "H8P 1B3",
-                "phone": "(514) 365-5659",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-place-la-salle",
-                "!!DELETE-ME!!": "7816 Boulevard Champlain, Local 62, LaSalle, QC, H8P 1B3",
-                "is_in:city": "LaSalle",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "LaSalle",
+                "phone": "514-365-5659",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-place-la-salle"
             },
             "geometry": {
                 "type": "Point",
@@ -386,13 +325,9 @@
                 "addr:housenumber": "2313",
                 "addr:street": "St. Catherine St. West Suite 101",
                 "addr:postal_code": "H3H 1N2",
-                "phone": "(514) 904-1274",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-forum",
-                "!!DELETE-ME!!": "2313 St. Catherine St. West Suite 101, Montréal, QC, H3H 1N2",
-                "is_in:city": "Montréal",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Montréal",
+                "phone": "514-904-1274",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-forum"
             },
             "geometry": {
                 "type": "Point",
@@ -411,13 +346,9 @@
                 "addr:housenumber": "977",
                 "addr:street": "rue Sainte-Catherine Ouest",
                 "addr:postal_code": "H3B 4W3",
-                "phone": "(514) 842-0549",
-                "website": "http://www.cineplex.com/Theatre/cinema-banque-scotia-montreal",
-                "!!DELETE-ME!!": "977 rue Sainte-Catherine Ouest, Montréal, QC, H3B 4W3",
-                "is_in:city": "Montréal",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Montréal",
+                "phone": "514-842-0549",
+                "website": "http://www.cineplex.com/Theatre/cinema-banque-scotia-montreal"
             },
             "geometry": {
                 "type": "Point",
@@ -436,13 +367,9 @@
                 "addr:housenumber": "350",
                 "addr:street": "rue Emery",
                 "addr:postal_code": "H2X 1J1",
-                "phone": "(514) 849-2244",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin",
-                "!!DELETE-ME!!": "350 rue Emery, Montréal, QC, H2X 1J1",
-                "is_in:city": "Montréal",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Montréal",
+                "phone": "514-849-2244",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin"
             },
             "geometry": {
                 "type": "Point",
@@ -461,13 +388,9 @@
                 "addr:housenumber": "4825",
                 "addr:street": "avenue Pierre De Coubertin",
                 "addr:postal_code": "H1V 3V4",
-                "phone": "(514) 899-8979",
-                "website": "http://www.cineplex.com/Theatre/cinema-starcite-montreal",
-                "!!DELETE-ME!!": "4825 avenue Pierre De Coubertin, Montréal, QC, H1V 3V4",
-                "is_in:city": "Montréal",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Montréal",
+                "phone": "514-899-8979",
+                "website": "http://www.cineplex.com/Theatre/cinema-starcite-montreal"
             },
             "geometry": {
                 "type": "Point",
@@ -486,13 +409,9 @@
                 "addr:housenumber": "20",
                 "addr:street": "boulevard de Mortagne",
                 "addr:postal_code": "J4B 5K6",
-                "phone": "(450) 449-6404",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-boucherville",
-                "!!DELETE-ME!!": "20 boulevard de Mortagne, Boucherville, QC, J4B 5K6",
-                "is_in:city": "Boucherville",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Boucherville",
+                "phone": "450-449-6404",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-boucherville"
             },
             "geometry": {
                 "type": "Point",
@@ -511,13 +430,9 @@
                 "addr:housenumber": "9350",
                 "addr:street": "boulevard Leduc",
                 "addr:postal_code": "J4Y 0B3",
-                "phone": "(450) 678-5542",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-brossard-et-vip",
-                "!!DELETE-ME!!": "9350 boulevard Leduc, Brossard, QC, J4Y 0B3",
-                "is_in:city": "Brossard",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Brossard",
+                "phone": "450-678-5542",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-brossard-et-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -536,13 +451,9 @@
                 "addr:housenumber": "1495",
                 "addr:street": "boulevard St-Bruno",
                 "addr:postal_code": "J3V 6J1",
-                "phone": "(450) 653-7756",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stbruno",
-                "!!DELETE-ME!!": "1495 boulevard St-Bruno, St-Bruno, QC, J3V 6J1",
-                "is_in:city": "St-Bruno",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "St-Bruno",
+                "phone": "450-653-7756",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stbruno"
             },
             "geometry": {
                 "type": "Point",
@@ -561,13 +472,9 @@
                 "addr:housenumber": "286",
                 "addr:street": "rue Richelieu",
                 "addr:postal_code": "J3B 6Y4",
-                "phone": "(450) 358-3030",
-                "website": "http://www.cineplex.com/Theatre/cinema-capitol-stjean",
-                "!!DELETE-ME!!": "286 rue Richelieu, St. Jean, QC, J3B 6Y4",
-                "is_in:city": "St. Jean",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "St. Jean",
+                "phone": "450-358-3030",
+                "website": "http://www.cineplex.com/Theatre/cinema-capitol-stjean"
             },
             "geometry": {
                 "type": "Point",
@@ -586,13 +493,9 @@
                 "addr:housenumber": "160",
                 "addr:street": "Bell Boulevard",
                 "addr:postal_code": "K8P 5L2",
-                "phone": "(613) 969-8469",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-belleville",
-                "!!DELETE-ME!!": "160 Bell Boulevard, Belleville, ON, K8P 5L2",
-                "is_in:city": "Belleville",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Belleville",
+                "phone": "613-969-8469",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-belleville"
             },
             "geometry": {
                 "type": "Point",
@@ -611,13 +514,9 @@
                 "addr:housenumber": "320",
                 "addr:street": "Water Street",
                 "addr:postal_code": "K9H 7N9",
-                "phone": "(705) 749-2000",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-peterborough",
-                "!!DELETE-ME!!": "320 Water Street, Peterborough, ON, K9H 7N9",
-                "is_in:city": "Peterborough",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Peterborough",
+                "phone": "705-749-2000",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-peterborough"
             },
             "geometry": {
                 "type": "Point",
@@ -636,13 +535,9 @@
                 "addr:housenumber": "111",
                 "addr:street": "Clarington Boulevard",
                 "addr:postal_code": "L1C 4Z3",
-                "phone": "(905) 697-0308",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-clarington-place-cinemas",
-                "!!DELETE-ME!!": "111 Clarington Boulevard, Clarington, ON, L1C 4Z3",
-                "is_in:city": "Clarington",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Clarington",
+                "phone": "905-697-0308",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-clarington-place-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -661,13 +556,9 @@
                 "addr:housenumber": "4204",
                 "addr:street": "Bertrand-Fabi",
                 "addr:postal_code": "J1N 3Y2",
-                "phone": "(819) 821-4481",
-                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-sherbrooke",
-                "!!DELETE-ME!!": "4204 Bertrand-Fabi, Rock Forest, QC, J1N 3Y2",
-                "is_in:city": "Rock Forest",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Rock Forest",
+                "phone": "819-821-4481",
+                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-sherbrooke"
             },
             "geometry": {
                 "type": "Point",
@@ -686,13 +577,9 @@
                 "addr:housenumber": "1351",
                 "addr:street": "Grandview Street North",
                 "addr:postal_code": "L1K 0G1",
-                "phone": "(905) 432-3486",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-oshawa-cinemas",
-                "!!DELETE-ME!!": "1351 Grandview Street North, Oshawa, ON, L1K 0G1",
-                "is_in:city": "Oshawa",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Oshawa",
+                "phone": "905-432-3486",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-oshawa-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -711,13 +598,9 @@
                 "addr:housenumber": "1121",
                 "addr:street": "boulevard Jutras Est",
                 "addr:postal_code": "G6S 1J1",
-                "phone": "(819) 357-7000",
-                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-victoriaville",
-                "!!DELETE-ME!!": "1121 boulevard Jutras Est, Victoriaville, QC, G6S 1J1",
-                "is_in:city": "Victoriaville",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Victoriaville",
+                "phone": "819-357-7000",
+                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-victoriaville"
             },
             "geometry": {
                 "type": "Point",
@@ -736,13 +619,9 @@
                 "addr:housenumber": "300",
                 "addr:street": "Lakeshore Drive",
                 "addr:postal_code": "P1A 3V2",
-                "phone": "(705) 476-6410",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-north-bay",
-                "!!DELETE-ME!!": "300 Lakeshore Drive, North Bay, ON, P1A 3V2",
-                "is_in:city": "North Bay",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "North Bay",
+                "phone": "705-476-6410",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-north-bay"
             },
             "geometry": {
                 "type": "Point",
@@ -761,13 +640,9 @@
                 "addr:housenumber": "865",
                 "addr:street": "West Ridge Boulevard",
                 "addr:postal_code": "L3V 8B3",
-                "phone": "(705) 326-8908",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orillia",
-                "!!DELETE-ME!!": "865 West Ridge Boulevard, Orillia, ON, L3V 8B3",
-                "is_in:city": "Orillia",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Orillia",
+                "phone": "705-326-8908",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orillia"
             },
             "geometry": {
                 "type": "Point",
@@ -786,13 +661,9 @@
                 "addr:housenumber": "248",
                 "addr:street": "Kingston Road East, Highway 2",
                 "addr:postal_code": "L1S 1G1",
-                "phone": "(905) 426-7772",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-ajax-cinemas",
-                "!!DELETE-ME!!": "248 Kingston Road East, Highway 2, Ajax, ON, L1S 1G1",
-                "is_in:city": "Ajax",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Ajax",
+                "phone": "905-426-7772",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-ajax-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -811,13 +682,8 @@
                 "addr:housenumber": "1355",
                 "addr:street": "Kingston Road",
                 "addr:postal_code": "L1V 1B8",
-                "phone": "(905) 839-2977",
-                "website": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas",
-                "!!DELETE-ME!!": "Pickering Towne Centre, 1355 Kingston Road, 1355 Kingston Rd., Pickering, ON, L1V 1B8",
-                "is_in:city": "Pickering",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Pickering",
+                "website": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -836,13 +702,9 @@
                 "addr:housenumber": "785",
                 "addr:street": "Milner Avenue",
                 "addr:postal_code": "M1B 3C3",
-                "phone": "(416) 281-1444",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-morningside-cinemas",
-                "!!DELETE-ME!!": "785 Milner Avenue, Scarborough, ON, M1B 3C3",
-                "is_in:city": "Scarborough",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Scarborough",
+                "phone": "416-281-1444",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-morningside-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -861,13 +723,9 @@
                 "addr:housenumber": "507",
                 "addr:street": "Cundles Road East",
                 "addr:postal_code": "L4M 0G9",
-                "phone": "(705) 302-0159",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-north-barrie",
-                "!!DELETE-ME!!": "507 Cundles Road East, Barrie, ON, L4M 0G9",
-                "is_in:city": "Barrie",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Barrie",
+                "phone": "705-302-0159",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-north-barrie"
             },
             "geometry": {
                 "type": "Point",
@@ -886,13 +744,9 @@
                 "addr:housenumber": "18195",
                 "addr:street": "Yonge Street",
                 "addr:postal_code": "L9N 0H9",
-                "phone": "(905) 953-2792",
-                "website": "http://www.cineplex.com/Theatre/silvercity-newmarket-cinemas",
-                "!!DELETE-ME!!": "18195 Yonge Street, East Gwillimbury, ON, L9N 0H9",
-                "is_in:city": "East Gwillimbury",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "East Gwillimbury",
+                "phone": "905-953-2792",
+                "website": "http://www.cineplex.com/Theatre/silvercity-newmarket-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -911,13 +765,9 @@
                 "addr:housenumber": "15460",
                 "addr:street": "Bayview Avenue",
                 "addr:postal_code": "L4G 7J1",
-                "phone": "(905) 841-1789",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aurora-cinemas",
-                "!!DELETE-ME!!": "15460 Bayview Avenue, Aurora, ON, L4G 7J1",
-                "is_in:city": "Aurora",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Aurora",
+                "phone": "905-841-1789",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aurora-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -936,13 +786,9 @@
                 "addr:housenumber": "320",
                 "addr:street": "Bayfield St",
                 "addr:postal_code": "L4M 3C1",
-                "phone": "(705) 726-3456",
-                "website": "http://www.cineplex.com/Theatre/bayfield-cinemas",
-                "!!DELETE-ME!!": "320 Bayfield St, Barrie, ON, L4M 3C1",
-                "is_in:city": "Barrie",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Barrie",
+                "phone": "705-726-3456",
+                "website": "http://www.cineplex.com/Theatre/bayfield-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -961,13 +807,8 @@
                 "addr:housenumber": "300",
                 "addr:street": "Borough Drive",
                 "addr:postal_code": "M1P 4P5",
-                "phone": "(416) 290-5217",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough",
-                "!!DELETE-ME!!": "Scarborough Town Centre, 300 Borough Drive, Scarborough, ON, M1P 4P5",
-                "is_in:city": "Scarborough",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Scarborough",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough"
             },
             "geometry": {
                 "type": "Point",
@@ -986,13 +827,9 @@
                 "addr:housenumber": "179",
                 "addr:street": "Enterprise Blvd., Suite 169",
                 "addr:postal_code": "L6G 0E7",
-                "phone": "(905) 479-1778",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip",
-                "!!DELETE-ME!!": "179 Enterprise Blvd., Suite 169, Markham, ON, L6G 0E7",
-                "is_in:city": "Markham",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Markham",
+                "phone": "905-479-1778",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1011,13 +848,9 @@
                 "addr:housenumber": "72",
                 "addr:street": "Commerce Park Drive",
                 "addr:postal_code": "L4N 8W8",
-                "phone": "(705) 728-1171",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-barrie",
-                "!!DELETE-ME!!": "72 Commerce Park Drive, Barrie, ON, L4N 8W8",
-                "is_in:city": "Barrie",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Barrie",
+                "phone": "705-728-1171",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-barrie"
             },
             "geometry": {
                 "type": "Point",
@@ -1036,13 +869,8 @@
                 "addr:housenumber": "9226",
                 "addr:street": "Highway 93",
                 "addr:postal_code": "L4R 4K4",
-                "phone": "(705) 527-5927",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland",
-                "!!DELETE-ME!!": "Highway 93, RR2, Box2, Midland, ON, L4R 4K4",
-                "is_in:city": "Midland",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Midland",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland"
             },
             "geometry": {
                 "type": "Point",
@@ -1061,13 +889,9 @@
                 "addr:housenumber": "22",
                 "addr:street": "Lebovic Avenue",
                 "addr:postal_code": "M1L 4V9",
-                "phone": "(416) 752-4494",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eglinton-town-centre-cinemas",
-                "!!DELETE-ME!!": "22 Lebovic Avenue , Toronto, ON, M1L 4V9",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-752-4494",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eglinton-town-centre-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1087,13 +911,9 @@
                 "addr:street": "Sheppard Avenue East",
                 "addr:postal_code": "M2J 5A7",
                 "addr:unit": "Y007",
-                "phone": "(416) 644-7746",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fairview-mall",
-                "!!DELETE-ME!!": "1800 Sheppard Avenue East, Unit Y007, Toronto, ON, M2J 5A7",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-644-7746",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fairview-mall"
             },
             "geometry": {
                 "type": "Point",
@@ -1112,13 +932,9 @@
                 "addr:housenumber": "8725",
                 "addr:street": "Yonge Street",
                 "addr:postal_code": "L4C 6Z1",
-                "phone": "(905) 709-8755",
-                "website": "http://www.cineplex.com/Theatre/silvercity-richmond-hill-cinemas",
-                "!!DELETE-ME!!": "8725 Yonge Street, Richmond Hill, ON, L4C 6Z1",
-                "is_in:city": "Richmond Hill",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Richmond Hill",
+                "phone": "905-709-8755",
+                "website": "http://www.cineplex.com/Theatre/silvercity-richmond-hill-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1138,13 +954,8 @@
                 "addr:street": "Marie Labatte Road",
                 "addr:postal_code": "M3C 0H9",
                 "addr:unit": "B7",
-                "phone": "(416) 644-0660",
-                "website": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills",
-                "!!DELETE-ME!!": "Shops at Don Mills, 12 Marie Labatte Road, Unit B7, Toronto, ON, M3C 0H9",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "website": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills"
             },
             "geometry": {
                 "type": "Point",
@@ -1163,13 +974,9 @@
                 "addr:housenumber": "1651",
                 "addr:street": "Queen Street East",
                 "addr:postal_code": "M4L 1G5",
-                "phone": "(416) 699-1327",
-                "website": "http://www.cineplex.com/Theatre/the-beach-cinemas-alliance-cinemas",
-                "!!DELETE-ME!!": "1651 Queen Street East, Toronto, ON, M4L 1G5",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-699-1327",
+                "website": "http://www.cineplex.com/Theatre/the-beach-cinemas-alliance-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1188,13 +995,9 @@
                 "addr:housenumber": "5095",
                 "addr:street": "Yonge St., 3rd Floor",
                 "addr:postal_code": "M2N 6Z4",
-                "phone": "(416) 847-0218",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-empress-walk",
-                "!!DELETE-ME!!": "5095 Yonge St., 3rd Floor, Toronto, ON, M2N 6Z4",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-847-0218",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-empress-walk"
             },
             "geometry": {
                 "type": "Point",
@@ -1213,13 +1016,9 @@
                 "addr:housenumber": "2300",
                 "addr:street": "Yonge Street",
                 "addr:postal_code": "M4P 1E4",
-                "phone": "(416) 544-1236",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongeeglinton-and-vip-formerly-silvercity",
-                "!!DELETE-ME!!": "2300 Yonge Street, Toronto, ON, M4P 1E4",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-544-1236",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongeeglinton-and-vip-formerly-silvercity"
             },
             "geometry": {
                 "type": "Point",
@@ -1238,13 +1037,9 @@
                 "addr:housenumber": "2190",
                 "addr:street": "Yonge Street",
                 "addr:postal_code": "M4S 2C6",
-                "phone": "(416) 646-2913",
-                "website": "http://www.cineplex.com/Theatre/famous-players-canada-square-cinemas",
-                "!!DELETE-ME!!": "2190 Yonge Street, Toronto, ON, M4S 2C6",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-646-2913",
+                "website": "http://www.cineplex.com/Theatre/famous-players-canada-square-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1263,13 +1058,9 @@
                 "addr:housenumber": "55",
                 "addr:street": "Bloor Street West",
                 "addr:postal_code": "M4W 1A5",
-                "phone": "(416) 961-6304",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-varsity-and-vip",
-                "!!DELETE-ME!!": "55 Bloor Street West, Toronto, ON, M4W 1A5",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-961-6304",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-varsity-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1288,13 +1079,9 @@
                 "addr:housenumber": "10",
                 "addr:street": "Dundas Street East, Suite 402",
                 "addr:postal_code": "M5B 2G9",
-                "phone": "(416) 977-9262",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongedundas-and-vip",
-                "!!DELETE-ME!!": "10 Dundas Street East, Suite 402 , Toronto, ON, M5B 2G9",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-977-9262",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongedundas-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1313,13 +1100,8 @@
                 "addr:housenumber": "3401",
                 "addr:street": "Dufferin Street",
                 "addr:postal_code": "M6A 2T9",
-                "phone": "(416) 787-2052",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale",
-                "!!DELETE-ME!!": "Yorkdale Shopping Centre, 3401 Dufferin Street , c/o Yorkdale Shopping Centre, Toronto, ON, M6A 2T9",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale"
             },
             "geometry": {
                 "type": "Point",
@@ -1338,13 +1120,9 @@
                 "addr:housenumber": "259",
                 "addr:street": "Richmond Street West",
                 "addr:postal_code": "M5V 3M6",
-                "phone": "(416) 368-5600",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-toronto",
-                "!!DELETE-ME!!": "259 Richmond Street West, Toronto, ON, M5V 3M6",
-                "is_in:city": "Toronto",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Toronto",
+                "phone": "416-368-5600",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-toronto"
             },
             "geometry": {
                 "type": "Point",
@@ -1363,13 +1141,9 @@
                 "addr:housenumber": "3555",
                 "addr:street": "Highway 7 West",
                 "addr:postal_code": "L4L 6B1",
-                "phone": "(905) 851-1001",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-vaughan",
-                "!!DELETE-ME!!": "3555 Highway 7 West, Vaughan, ON, L4L 6B1",
-                "is_in:city": "Vaughan",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Vaughan",
+                "phone": "905-851-1001",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-vaughan"
             },
             "geometry": {
                 "type": "Point",
@@ -1388,13 +1162,9 @@
                 "addr:housenumber": "1025",
                 "addr:street": "The Queensway",
                 "addr:postal_code": "M8Z 6C7",
-                "phone": "(416) 503-0424",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-queensway-and-vip",
-                "!!DELETE-ME!!": "1025 The Queensway, Etobicoke, ON, M8Z 6C7",
-                "is_in:city": "Etobicoke",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Etobicoke",
+                "phone": "416-503-0424",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-queensway-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1413,13 +1183,9 @@
                 "addr:housenumber": "1200",
                 "addr:street": "autoroute Duplessis",
                 "addr:postal_code": "G2G 2B5",
-                "phone": "(418) 871-1550",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stefoy",
-                "!!DELETE-ME!!": "1200 autoroute Duplessis, St. Foy, QC, G2G 2B5",
-                "is_in:city": "St. Foy",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "St. Foy",
+                "phone": "418-871-1550",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stefoy"
             },
             "geometry": {
                 "type": "Point",
@@ -1438,13 +1204,9 @@
                 "addr:housenumber": "6",
                 "addr:street": "Mountain Road",
                 "addr:postal_code": "L9Y 4S8",
-                "phone": "(705) 443-8478",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-collingwood",
-                "!!DELETE-ME!!": "6 Mountain Road, Collingwood, ON, L9Y 4S8",
-                "is_in:city": "Collingwood",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Collingwood",
+                "phone": "705-443-8478",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-collingwood"
             },
             "geometry": {
                 "type": "Point",
@@ -1463,13 +1225,9 @@
                 "addr:housenumber": "20",
                 "addr:street": "Biscayne Crescent, Highway 410 , Steeles Ave",
                 "addr:postal_code": "L6W 4S1",
-                "phone": "(905) 455-1590",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-orion-gate-cinemas",
-                "!!DELETE-ME!!": "20 Biscayne Crescent, Highway 410 & Steeles Ave, Brampton, ON, L6W 4S1",
-                "is_in:city": "Brampton",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Brampton",
+                "phone": "905-455-1590",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-orion-gate-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1488,13 +1246,9 @@
                 "addr:housenumber": "50",
                 "addr:street": "Great Lakes Drive",
                 "addr:postal_code": "L6R 2K7",
-                "phone": "(905) 789-6785",
-                "website": "http://www.cineplex.com/Theatre/silvercity-brampton-cinemas",
-                "!!DELETE-ME!!": "50 Great Lakes Drive, Brampton, ON, L6R 2K7",
-                "is_in:city": "Brampton",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Brampton",
+                "phone": "905-789-6785",
+                "website": "http://www.cineplex.com/Theatre/silvercity-brampton-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1513,13 +1267,9 @@
                 "addr:housenumber": "5401",
                 "addr:street": "boulevard des Galeries",
                 "addr:postal_code": "G2K 1N4",
-                "phone": "(418) 624-4629",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale",
-                "!!DELETE-ME!!": "5401 boulevard des Galeries, Québec, QC, G2K 1N4",
-                "is_in:city": "Québec",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Québec",
+                "phone": "418-624-4629",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
             },
             "geometry": {
                 "type": "Point",
@@ -1538,13 +1288,9 @@
                 "addr:housenumber": "110",
                 "addr:street": "Courtneypark Dr E",
                 "addr:postal_code": "L5T 2Y3",
-                "phone": "(905) 362-1234",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-courtney-park",
-                "!!DELETE-ME!!": "110 Courtneypark Dr E, Mississauga, ON, L5T 2Y3",
-                "is_in:city": "Mississauga",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Mississauga",
+                "phone": "905-362-1234",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-courtney-park"
             },
             "geometry": {
                 "type": "Point",
@@ -1563,13 +1309,9 @@
                 "addr:housenumber": "309",
                 "addr:street": "Rathburn Road West",
                 "addr:postal_code": "L5B 4C1",
-                "phone": "(905) 275-3456",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mississauga",
-                "!!DELETE-ME!!": "309 Rathburn Road West, Mississauga, ON, L5B 4C1",
-                "is_in:city": "Mississauga",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Mississauga",
+                "phone": "905-275-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mississauga"
             },
             "geometry": {
                 "type": "Point",
@@ -1588,13 +1330,9 @@
                 "addr:housenumber": "7555",
                 "addr:street": "Montrose Road",
                 "addr:postal_code": "L2H 2E9",
-                "phone": "(905) 357-1900",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-niagara-square-cinemas",
-                "!!DELETE-ME!!": "7555 Montrose Road, Niagara Falls, ON, L2H 2E9",
-                "is_in:city": "Niagara Falls",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Niagara Falls",
+                "phone": "905-357-1900",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-niagara-square-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1613,13 +1351,9 @@
                 "addr:housenumber": "2081",
                 "addr:street": "Winston Park Dr.",
                 "addr:postal_code": "L6H 6P5",
-                "phone": "(905) 829-2009",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-winston-churchill",
-                "!!DELETE-ME!!": "2081 Winston Park Dr., Oakville, ON, L6H 6P5",
-                "is_in:city": "Oakville",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Oakville",
+                "phone": "905-829-2009",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-winston-churchill"
             },
             "geometry": {
                 "type": "Point",
@@ -1638,13 +1372,9 @@
                 "addr:housenumber": "825",
                 "addr:street": "rue Clémenceau",
                 "addr:postal_code": "G1C 2K6",
-                "phone": "(418) 661-9494",
-                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-beauport",
-                "!!DELETE-ME!!": "825 rue Clémenceau, Beauport, QC, G1C 2K6",
-                "is_in:city": "Beauport",
-                "is_in:iso_3166_2": "CA-QC",
-                "is_in:state_code": "QC",
-                "is_in:country": "CA"
+                "addr:city": "Beauport",
+                "phone": "418-661-9494",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-beauport"
             },
             "geometry": {
                 "type": "Point",
@@ -1663,13 +1393,8 @@
                 "addr:housenumber": "85",
                 "addr:street": "Fifth Avenue",
                 "addr:postal_code": "L9W 5B7",
-                "phone": "(519) 941-2333",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville",
-                "!!DELETE-ME!!": "Fairgrounds Shopping Centre, 85 Fifth Avenue, 85 Fifth Ave., Orangeville, ON, L9W 5B7",
-                "is_in:city": "Orangeville",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Orangeville",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville"
             },
             "geometry": {
                 "type": "Point",
@@ -1688,13 +1413,9 @@
                 "addr:housenumber": "800",
                 "addr:street": "Niagara Street",
                 "addr:postal_code": "L3C 1M3",
-                "phone": "(905) 735-5286",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-seaway-mall-cinemas",
-                "!!DELETE-ME!!": "800 Niagara Street, Welland, ON, L3C 1M3",
-                "is_in:city": "Welland",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Welland",
+                "phone": "905-735-5286",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-seaway-mall-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1713,13 +1434,9 @@
                 "addr:housenumber": "1175",
                 "addr:street": "Maple Avenue",
                 "addr:postal_code": "L9T 0A5",
-                "phone": "(905) 864-1666",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-milton",
-                "!!DELETE-ME!!": "1175 Maple Avenue, Milton, ON, L9T 0A5",
-                "is_in:city": "Milton",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Milton",
+                "phone": "905-864-1666",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-milton"
             },
             "geometry": {
                 "type": "Point",
@@ -1738,13 +1455,9 @@
                 "addr:housenumber": "3531",
                 "addr:street": "Wyecroft Road",
                 "addr:postal_code": "L6L 0B7",
-                "phone": "(905) 827-7173",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oakville-and-vip",
-                "!!DELETE-ME!!": "3531 Wyecroft Road, Oakville, ON, L6L 0B7",
-                "is_in:city": "Oakville",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Oakville",
+                "phone": "905-827-7173",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oakville-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1763,13 +1476,9 @@
                 "addr:housenumber": "1250",
                 "addr:street": "Brant Street",
                 "addr:postal_code": "L7P 1X8",
-                "phone": "(905) 319-8677",
-                "website": "http://www.cineplex.com/Theatre/silvercity-burlington-cinemas",
-                "!!DELETE-ME!!": "1250 Brant Street, Burlington, ON, L7P 1X8",
-                "is_in:city": "Burlington",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Burlington",
+                "phone": "905-319-8677",
+                "website": "http://www.cineplex.com/Theatre/silvercity-burlington-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1788,13 +1497,9 @@
                 "addr:housenumber": "795",
                 "addr:street": "Paramount Drive",
                 "addr:postal_code": "L8J 0B4",
-                "phone": "(905) 560-0239",
-                "website": "http://www.cineplex.com/Theatre/silvercity-hamilton-mountain-cinemas",
-                "!!DELETE-ME!!": "795 Paramount Drive, Stoney Creek, ON, L8J 0B4",
-                "is_in:city": "Stoney Creek",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Stoney Creek",
+                "phone": "905-560-0239",
+                "website": "http://www.cineplex.com/Theatre/silvercity-hamilton-mountain-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1813,13 +1518,9 @@
                 "addr:housenumber": "85",
                 "addr:street": "Clair Road East",
                 "addr:postal_code": "N1L 0J7",
-                "phone": "(519) 821-3468",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-pergola-commons",
-                "!!DELETE-ME!!": "85 Clair Road East, Guelph, ON, N1L 0J7",
-                "is_in:city": "Guelph",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Guelph",
+                "phone": "519-821-3468",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-pergola-commons"
             },
             "geometry": {
                 "type": "Point",
@@ -1838,13 +1539,9 @@
                 "addr:housenumber": "771",
                 "addr:street": "Golf Links Road",
                 "addr:postal_code": "L9G 3K9",
-                "phone": "(905) 304-5888",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ancaster-formerly-silvercity-ancaster",
-                "!!DELETE-ME!!": "771 Golf Links Road, Ancaster, ON, L9G 3K9",
-                "is_in:city": "Ancaster",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Ancaster",
+                "phone": "905-304-5888",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ancaster-formerly-silvercity-ancaster"
             },
             "geometry": {
                 "type": "Point",
@@ -1863,13 +1560,9 @@
                 "addr:housenumber": "485",
                 "addr:street": "Woodlawn Road West",
                 "addr:postal_code": "N1K 1E9",
-                "phone": "(519) 763-9188",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-guelph",
-                "!!DELETE-ME!!": "485 Woodlawn Road West, Guelph, ON, N1K 1E9",
-                "is_in:city": "Guelph",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Guelph",
+                "phone": "519-763-9188",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-guelph"
             },
             "geometry": {
                 "type": "Point",
@@ -1888,13 +1581,9 @@
                 "addr:housenumber": "355",
                 "addr:street": "Barrydowne Road",
                 "addr:postal_code": "P3B 4K4",
-                "phone": "(705) 521-0649",
-                "website": "http://www.cineplex.com/Theatre/silvercity-sudbury-cinemas",
-                "!!DELETE-ME!!": "355 Barrydowne Road, Sudbury, ON, P3B 4K4",
-                "is_in:city": "Sudbury",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Sudbury",
+                "phone": "705-521-0649",
+                "website": "http://www.cineplex.com/Theatre/silvercity-sudbury-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -1913,13 +1602,9 @@
                 "addr:housenumber": "1020",
                 "addr:street": "10th Street West",
                 "addr:postal_code": "N4K 5S1",
-                "phone": "(519) 371-5222",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-owen-sound",
-                "!!DELETE-ME!!": "1020 10th Street West, Owen Sound, ON, N4K 5S1",
-                "is_in:city": "Owen Sound",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Owen Sound",
+                "phone": "519-371-5222",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-owen-sound"
             },
             "geometry": {
                 "type": "Point",
@@ -1938,13 +1623,9 @@
                 "addr:housenumber": "355",
                 "addr:street": "Hespeler Road",
                 "addr:postal_code": "N1R 6B3",
-                "phone": "(519) 740-3456",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cambridge",
-                "!!DELETE-ME!!": "355 Hespeler Road, Cambridge, ON, N1R 6B3",
-                "is_in:city": "Cambridge",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Cambridge",
+                "phone": "519-740-3456",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cambridge"
             },
             "geometry": {
                 "type": "Point",
@@ -1963,13 +1644,9 @@
                 "addr:housenumber": "225",
                 "addr:street": "Fairway Road South",
                 "addr:postal_code": "N2C 1X2",
-                "phone": "(226) 240-3825",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-kitchener-and-vip",
-                "!!DELETE-ME!!": "225 Fairway Road South, Kitchener, ON, N2C 1X2",
-                "is_in:city": "Kitchener",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Kitchener",
+                "phone": "226-240-3825",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-kitchener-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -1988,13 +1665,9 @@
                 "addr:housenumber": "550",
                 "addr:street": "King Street North",
                 "addr:postal_code": "N2L 5W6",
-                "phone": "(519) 883-8843",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-waterloo",
-                "!!DELETE-ME!!": "550 King Street North, Waterloo, ON, N2L 5W6",
-                "is_in:city": "Waterloo",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Waterloo",
+                "phone": "519-883-8843",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-waterloo"
             },
             "geometry": {
                 "type": "Point",
@@ -2013,13 +1686,9 @@
                 "addr:housenumber": "300",
                 "addr:street": "King George Road",
                 "addr:postal_code": "N3R 5L7",
-                "phone": "(519) 759-7011",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brantford",
-                "!!DELETE-ME!!": "300 King George Road, Brantford, ON, N3R 5L7",
-                "is_in:city": "Brantford",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Brantford",
+                "phone": "519-759-7011",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brantford"
             },
             "geometry": {
                 "type": "Point",
@@ -2038,13 +1707,9 @@
                 "addr:housenumber": "1680",
                 "addr:street": "Richmond Street",
                 "addr:postal_code": "N6G 3Y9",
-                "phone": "(519) 673-4125",
-                "website": "http://www.cineplex.com/Theatre/silvercity-london-cinemas",
-                "!!DELETE-ME!!": "1680 Richmond Street, London, ON, N6G 3Y9",
-                "is_in:city": "London",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "London",
+                "phone": "519-673-4125",
+                "website": "http://www.cineplex.com/Theatre/silvercity-london-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2063,13 +1728,9 @@
                 "addr:housenumber": "755",
                 "addr:street": "Wonderland Road South",
                 "addr:postal_code": "N6K 1M6",
-                "phone": "(519) 474-2152",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westmount-cinemas-and-vip",
-                "!!DELETE-ME!!": "755 Wonderland Road South, London, ON, N6K 1M6",
-                "is_in:city": "London",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "London",
+                "phone": "519-474-2152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westmount-cinemas-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -2088,13 +1749,9 @@
                 "addr:housenumber": "417",
                 "addr:street": "Wellington Street",
                 "addr:postal_code": "N5R 5J5",
-                "phone": "(519) 631-5777",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-st-thomas",
-                "!!DELETE-ME!!": "417 Wellington Street, St. Thomas, ON, N5R 5J5",
-                "is_in:city": "St. Thomas",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "St. Thomas",
+                "phone": "519-631-5777",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-st-thomas"
             },
             "geometry": {
                 "type": "Point",
@@ -2113,13 +1770,9 @@
                 "addr:housenumber": "1380",
                 "addr:street": "London Road",
                 "addr:postal_code": "N7S 1P7",
-                "phone": "(519) 541-0959",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sarnia",
-                "!!DELETE-ME!!": "1380 London Road, Sarnia, ON, N7S 1P7",
-                "is_in:city": "Sarnia",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Sarnia",
+                "phone": "519-541-0959",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sarnia"
             },
             "geometry": {
                 "type": "Point",
@@ -2138,13 +1791,9 @@
                 "addr:housenumber": "760",
                 "addr:street": "St. Clair Street",
                 "addr:postal_code": "N7L 0E8",
-                "phone": "(519) 354-0282",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chatham",
-                "!!DELETE-ME!!": "760 St. Clair Street, Chatham, ON, N7L 0E8",
-                "is_in:city": "Chatham",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Chatham",
+                "phone": "519-354-0282",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chatham"
             },
             "geometry": {
                 "type": "Point",
@@ -2163,13 +1812,9 @@
                 "addr:housenumber": "293",
                 "addr:street": "Bay Street",
                 "addr:postal_code": "P6A 1X3",
-                "phone": "(705) 949-7949",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sault-ste-marie",
-                "!!DELETE-ME!!": "293 Bay Street, Sault Ste. Mari, ON, P6A 1X3",
-                "is_in:city": "Sault Ste. Mari",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Sault Ste. Mari",
+                "phone": "705-949-7949",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sault-ste-marie"
             },
             "geometry": {
                 "type": "Point",
@@ -2188,13 +1833,9 @@
                 "addr:housenumber": "4611",
                 "addr:street": "Walker Road",
                 "addr:postal_code": "N8W 3T6",
-                "phone": "(519) 966-6888",
-                "website": "http://www.cineplex.com/Theatre/silvercity-windsor-cinemas",
-                "!!DELETE-ME!!": "4611 Walker Road, Windsor, ON, N8W 3T6",
-                "is_in:city": "Windsor",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Windsor",
+                "phone": "519-966-6888",
+                "website": "http://www.cineplex.com/Theatre/silvercity-windsor-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2213,13 +1854,9 @@
                 "addr:housenumber": "3100",
                 "addr:street": "Howard Avenue",
                 "addr:postal_code": "N8X 3Y8",
-                "phone": "(519) 967-0197",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-devonshire-mall-cinemas",
-                "!!DELETE-ME!!": "3100 Howard Avenue, Windsor, ON, N8X 3Y8",
-                "is_in:city": "Windsor",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Windsor",
+                "phone": "519-967-0197",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-devonshire-mall-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2238,13 +1875,9 @@
                 "addr:housenumber": "1381",
                 "addr:street": "Regent Street",
                 "addr:postal_code": "E3C 1A2",
-                "phone": "(506) 458-9704",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fredericton",
-                "!!DELETE-ME!!": "1381 Regent Street, Fredericton, NB, E3C 1A2",
-                "is_in:city": "Fredericton",
-                "is_in:iso_3166_2": "CA-NB",
-                "is_in:state_code": "NB",
-                "is_in:country": "CA"
+                "addr:city": "Fredericton",
+                "phone": "506-458-9704",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fredericton"
             },
             "geometry": {
                 "type": "Point",
@@ -2263,13 +1896,9 @@
                 "addr:housenumber": "175",
                 "addr:street": "McAllister Drive",
                 "addr:postal_code": "E2J 2S6",
-                "phone": "(506) 657-3456",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-saint-john",
-                "!!DELETE-ME!!": "175 McAllister Drive, Saint John, NB, E2J 2S6",
-                "is_in:city": "Saint John",
-                "is_in:iso_3166_2": "CA-NB",
-                "is_in:state_code": "NB",
-                "is_in:country": "CA"
+                "addr:city": "Saint John",
+                "phone": "506-657-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-saint-john"
             },
             "geometry": {
                 "type": "Point",
@@ -2288,13 +1917,9 @@
                 "addr:housenumber": "136",
                 "addr:street": "Starrs Road",
                 "addr:postal_code": "B5A 4E5",
-                "phone": "(902) 742-7819",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yarmouth",
-                "!!DELETE-ME!!": "136 Starrs Road, Yarmouth, NS, B5A 4E5",
-                "is_in:city": "Yarmouth",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Yarmouth",
+                "phone": "902-742-7819",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yarmouth"
             },
             "geometry": {
                 "type": "Point",
@@ -2313,13 +1938,9 @@
                 "addr:housenumber": "2480",
                 "addr:street": "King George Highway",
                 "addr:postal_code": "E1V 6W4",
-                "phone": "(506) 778-3456",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-miramichi",
-                "!!DELETE-ME!!": "2480 King George Highway, Miramichi, NB, E1V 6W4",
-                "is_in:city": "Miramichi",
-                "is_in:iso_3166_2": "CA-NB",
-                "is_in:state_code": "NB",
-                "is_in:country": "CA"
+                "addr:city": "Miramichi",
+                "phone": "506-778-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-miramichi"
             },
             "geometry": {
                 "type": "Point",
@@ -2338,13 +1959,9 @@
                 "addr:housenumber": "127",
                 "addr:street": "Trinity Drive",
                 "addr:postal_code": "E1G 2J7",
-                "phone": "(506) 857-8903",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-trinity-drive",
-                "!!DELETE-ME!!": "127 Trinity Drive, Moncton, NB, E1G 2J7",
-                "is_in:city": "Moncton",
-                "is_in:iso_3166_2": "CA-NB",
-                "is_in:state_code": "NB",
-                "is_in:country": "CA"
+                "addr:city": "Moncton",
+                "phone": "506-857-8903",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-trinity-drive"
             },
             "geometry": {
                 "type": "Point",
@@ -2363,13 +1980,9 @@
                 "addr:housenumber": "1",
                 "addr:street": "Promenade Bass Pro Drive",
                 "addr:postal_code": "E1A 6S2",
-                "phone": "(506) 382-2095",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dieppe",
-                "!!DELETE-ME!!": "1 Promenade Bass Pro Drive, Dieppe, NB, E1A 6S2",
-                "is_in:city": "Dieppe",
-                "is_in:iso_3166_2": "CA-NB",
-                "is_in:state_code": "NB",
-                "is_in:country": "CA"
+                "addr:city": "Dieppe",
+                "phone": "506-382-2095",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dieppe"
             },
             "geometry": {
                 "type": "Point",
@@ -2388,13 +2001,9 @@
                 "addr:housenumber": "8944",
                 "addr:street": "Commercial Street",
                 "addr:postal_code": "B4N 3C9",
-                "phone": "(902) 681-8080",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-minas",
-                "!!DELETE-ME!!": "8944 Commercial Street, New Minas, NS, B4N 3C9",
-                "is_in:city": "New Minas",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "New Minas",
+                "phone": "902-681-8080",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-minas"
             },
             "geometry": {
                 "type": "Point",
@@ -2413,13 +2022,9 @@
                 "addr:housenumber": "349",
                 "addr:street": "Lahave Street",
                 "addr:postal_code": "B4V 2T6",
-                "phone": "(902) 527-4025",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-bridgewater",
-                "!!DELETE-ME!!": "349 Lahave Street, Bridgewater, NS, B4V 2T6",
-                "is_in:city": "Bridgewater",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Bridgewater",
+                "phone": "902-527-4025",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-bridgewater"
             },
             "geometry": {
                 "type": "Point",
@@ -2438,13 +2043,9 @@
                 "addr:housenumber": "47",
                 "addr:street": "Church Street",
                 "addr:postal_code": "B4H 3A7",
-                "phone": "(902) 667-3456",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-amherst",
-                "!!DELETE-ME!!": "47 Church Street, Amherst, NS, B4H 3A7",
-                "is_in:city": "Amherst",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Amherst",
+                "phone": "902-667-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-amherst"
             },
             "geometry": {
                 "type": "Point",
@@ -2463,13 +2064,9 @@
                 "addr:housenumber": "130",
                 "addr:street": "Ryan Street",
                 "addr:postal_code": "C1N 6G2",
-                "phone": "(902) 888-3456",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-summerside",
-                "!!DELETE-ME!!": "130 Ryan Street, Summerside, PE, C1N 6G2",
-                "is_in:city": "Summerside",
-                "is_in:iso_3166_2": "CA-PE",
-                "is_in:state_code": "PE",
-                "is_in:country": "CA"
+                "addr:city": "Summerside",
+                "phone": "902-888-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-summerside"
             },
             "geometry": {
                 "type": "Point",
@@ -2488,13 +2085,9 @@
                 "addr:housenumber": "760",
                 "addr:street": "Sackville Drive",
                 "addr:postal_code": "B4E 1R7",
-                "phone": "(902) 869-2022",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lower-sackville",
-                "!!DELETE-ME!!": "760 Sackville Drive, Lower Sackville, NS, B4E 1R7",
-                "is_in:city": "Lower Sackville",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Lower Sackville",
+                "phone": "902-869-2022",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lower-sackville"
             },
             "geometry": {
                 "type": "Point",
@@ -2513,13 +2106,8 @@
                 "addr:housenumber": "190",
                 "addr:street": "Chain Lake Drive",
                 "addr:postal_code": "B3S 1C5",
-                "phone": "(902) 876-4800",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax",
-                "!!DELETE-ME!!": "Bayer's Lake, 190 Chain Lake Drive, Halifax, NS, B3S 1C5",
-                "is_in:city": "Halifax",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Halifax",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax"
             },
             "geometry": {
                 "type": "Point",
@@ -2538,13 +2126,9 @@
                 "addr:housenumber": "6408",
                 "addr:street": "Quinpool Road",
                 "addr:postal_code": "B3L 1A8",
-                "phone": "(902) 423-7488",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oxford",
-                "!!DELETE-ME!!": "6408 Quinpool Road, Halifax, NS, B3L 1A8",
-                "is_in:city": "Halifax",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Halifax",
+                "phone": "902-423-7488",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oxford"
             },
             "geometry": {
                 "type": "Point",
@@ -2563,13 +2147,9 @@
                 "addr:housenumber": "5657",
                 "addr:street": "Spring Garden Road",
                 "addr:postal_code": "B3J 3R4",
-                "phone": "(902) 423-4598",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-park-lane",
-                "!!DELETE-ME!!": "5657 Spring Garden Road, Halifax, NS, B3J 3R4",
-                "is_in:city": "Halifax",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Halifax",
+                "phone": "902-423-4598",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-park-lane"
             },
             "geometry": {
                 "type": "Point",
@@ -2588,13 +2168,9 @@
                 "addr:housenumber": "145",
                 "addr:street": "Shubie Drive",
                 "addr:postal_code": "B3B 0C3",
-                "phone": "(902) 481-3251",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dartmouth-crossing",
-                "!!DELETE-ME!!": "145 Shubie Drive, Dartmouth, NS, B3B 0C3",
-                "is_in:city": "Dartmouth",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Dartmouth",
+                "phone": "902-481-3251",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dartmouth-crossing"
             },
             "geometry": {
                 "type": "Point",
@@ -2613,13 +2189,9 @@
                 "addr:housenumber": "20",
                 "addr:street": "Treaty Trail",
                 "addr:postal_code": "B6L 1W2",
-                "phone": "(902) 895-8022",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-truro",
-                "!!DELETE-ME!!": "20 Treaty Trail, Truro, NS, B6L 1W2",
-                "is_in:city": "Truro",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Truro",
+                "phone": "902-895-8022",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-truro"
             },
             "geometry": {
                 "type": "Point",
@@ -2638,13 +2210,9 @@
                 "addr:housenumber": "670",
                 "addr:street": "University Avenue",
                 "addr:postal_code": "C1A 7M4",
-                "phone": "(902) 892-0943",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-charlottetown",
-                "!!DELETE-ME!!": "670 University Avenue, West Royalty, PE, C1A 7M4",
-                "is_in:city": "West Royalty",
-                "is_in:iso_3166_2": "CA-PE",
-                "is_in:state_code": "PE",
-                "is_in:country": "CA"
+                "addr:city": "West Royalty",
+                "phone": "902-892-0943",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-charlottetown"
             },
             "geometry": {
                 "type": "Point",
@@ -2663,13 +2231,9 @@
                 "addr:housenumber": "612",
                 "addr:street": "East River Road",
                 "addr:postal_code": "B2H 3S2",
-                "phone": "(902) 928-0550",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-glasgow",
-                "!!DELETE-ME!!": "612 East River Road, New Glasgow, NS, B2H 3S2",
-                "is_in:city": "New Glasgow",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "New Glasgow",
+                "phone": "902-928-0550",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-glasgow"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,13 +2252,9 @@
                 "addr:housenumber": "291",
                 "addr:street": "Main Street",
                 "addr:postal_code": "B2G 2C3",
-                "phone": "(902) 863-4646",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-antigonish",
-                "!!DELETE-ME!!": "291 Main Street, Antigonish, NS, B2G 2C3",
-                "is_in:city": "Antigonish",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Antigonish",
+                "phone": "902-863-4646",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-antigonish"
             },
             "geometry": {
                 "type": "Point",
@@ -2713,13 +2273,9 @@
                 "addr:housenumber": "850",
                 "addr:street": "North May Street",
                 "addr:postal_code": "P7C 6A5",
-                "phone": "(807) 628-8455",
-                "website": "http://www.cineplex.com/Theatre/silvercity-thunder-bay-cinemas",
-                "!!DELETE-ME!!": "850 North May Street, Thunder Bay, ON, P7C 6A5",
-                "is_in:city": "Thunder Bay",
-                "is_in:iso_3166_2": "CA-ON",
-                "is_in:state_code": "ON",
-                "is_in:country": "CA"
+                "addr:city": "Thunder Bay",
+                "phone": "807-628-8455",
+                "website": "http://www.cineplex.com/Theatre/silvercity-thunder-bay-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2738,13 +2294,9 @@
                 "addr:housenumber": "325",
                 "addr:street": "Prince Street",
                 "addr:postal_code": "B1P 5K6",
-                "phone": "(902) 539-9050",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sydney",
-                "!!DELETE-ME!!": "325 Prince Street, Sydney, NS, B1P 5K6",
-                "is_in:city": "Sydney",
-                "is_in:iso_3166_2": "CA-NS",
-                "is_in:state_code": "NS",
-                "is_in:country": "CA"
+                "addr:city": "Sydney",
+                "phone": "902-539-9050",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sydney"
             },
             "geometry": {
                 "type": "Point",
@@ -2763,13 +2315,9 @@
                 "addr:housenumber": "2",
                 "addr:street": "Main Street",
                 "addr:postal_code": "A2H 6G7",
-                "phone": "(709) 634-2074",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-millbrook",
-                "!!DELETE-ME!!": "2 Main Street, Corner Brook, NL, A2H 6G7",
-                "is_in:city": "Corner Brook",
-                "is_in:iso_3166_2": "CA-NL",
-                "is_in:state_code": "NL",
-                "is_in:country": "CA"
+                "addr:city": "Corner Brook",
+                "phone": "709-634-2074",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-millbrook"
             },
             "geometry": {
                 "type": "Point",
@@ -2788,13 +2336,9 @@
                 "addr:housenumber": "1555",
                 "addr:street": "Regent Avenue West",
                 "addr:postal_code": "R2C 4J2",
-                "phone": "(204) 663-2166",
-                "website": "http://www.cineplex.com/Theatre/famous-players-kildonan-place-cinemas",
-                "!!DELETE-ME!!": "1555 Regent Avenue West, Winnipeg, MB, R2C 4J2",
-                "is_in:city": "Winnipeg",
-                "is_in:iso_3166_2": "CA-MB",
-                "is_in:state_code": "MB",
-                "is_in:country": "CA"
+                "addr:city": "Winnipeg",
+                "phone": "204-663-2166",
+                "website": "http://www.cineplex.com/Theatre/famous-players-kildonan-place-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2813,13 +2357,9 @@
                 "addr:housenumber": "160-1225",
                 "addr:street": "St. Mary's Road",
                 "addr:postal_code": "R2M 5E5",
-                "phone": "(204) 256-3901",
-                "website": "http://www.cineplex.com/Theatre/silvercity-st-vital-cinemas",
-                "!!DELETE-ME!!": "160-1225 St. Mary's Road, Winnipeg, MB, R2M 5E5",
-                "is_in:city": "Winnipeg",
-                "is_in:iso_3166_2": "CA-MB",
-                "is_in:state_code": "MB",
-                "is_in:country": "CA"
+                "addr:city": "Winnipeg",
+                "phone": "204-256-3901",
+                "website": "http://www.cineplex.com/Theatre/silvercity-st-vital-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2838,13 +2378,9 @@
                 "addr:housenumber": "1399",
                 "addr:street": "McPhillips Street",
                 "addr:postal_code": "R2V 3C4",
-                "phone": "(204) 334-6253",
-                "website": "http://www.cineplex.com/Theatre/cinema-city-northgate",
-                "!!DELETE-ME!!": "1399 McPhillips Street, Winnipeg, MB, R2V 3C4",
-                "is_in:city": "Winnipeg",
-                "is_in:iso_3166_2": "CA-MB",
-                "is_in:state_code": "MB",
-                "is_in:country": "CA"
+                "addr:city": "Winnipeg",
+                "phone": "204-334-6253",
+                "website": "http://www.cineplex.com/Theatre/cinema-city-northgate"
             },
             "geometry": {
                 "type": "Point",
@@ -2863,13 +2399,9 @@
                 "addr:housenumber": "2190",
                 "addr:street": "McGillivray Boulevard",
                 "addr:postal_code": "R3Y 1S6",
-                "phone": "(204) 269-9981",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-mcgillivray-cinemas-and-vip",
-                "!!DELETE-ME!!": "2190 McGillivray Boulevard, Winnipeg, MB, R3Y 1S6",
-                "is_in:city": "Winnipeg",
-                "is_in:iso_3166_2": "CA-MB",
-                "is_in:state_code": "MB",
-                "is_in:country": "CA"
+                "addr:city": "Winnipeg",
+                "phone": "204-269-9981",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-mcgillivray-cinemas-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -2888,13 +2420,9 @@
                 "addr:housenumber": "817",
                 "addr:street": "St. James Street",
                 "addr:postal_code": "R3G 3L3",
-                "phone": "(204) 774-1001",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg-formerly-silvercity-polo-park",
-                "!!DELETE-ME!!": "817 St. James Street, Winnipeg, MB, R3G 3L3",
-                "is_in:city": "Winnipeg",
-                "is_in:iso_3166_2": "CA-MB",
-                "is_in:state_code": "MB",
-                "is_in:country": "CA"
+                "addr:city": "Winnipeg",
+                "phone": "204-774-1001",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg-formerly-silvercity-polo-park"
             },
             "geometry": {
                 "type": "Point",
@@ -2913,13 +2441,9 @@
                 "addr:housenumber": "760",
                 "addr:street": "Topsail Road",
                 "addr:postal_code": "A1N 3J5",
-                "phone": "(709) 364-8503",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mount-pearl",
-                "!!DELETE-ME!!": "760 Topsail Road, St. John's, NL, A1N 3J5",
-                "is_in:city": "St. John's",
-                "is_in:iso_3166_2": "CA-NL",
-                "is_in:state_code": "NL",
-                "is_in:country": "CA"
+                "addr:city": "St. John's",
+                "phone": "709-364-8503",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mount-pearl"
             },
             "geometry": {
                 "type": "Point",
@@ -2938,13 +2462,8 @@
                 "addr:housenumber": "48",
                 "addr:street": "Kenmount Road",
                 "addr:postal_code": "A1B 1W3",
-                "phone": "(709) 722-5763",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall",
-                "!!DELETE-ME!!": "Avalon Mall, 48 Kenmount Road, St. John's, NL, A1B 1W3",
-                "is_in:city": "St. John's",
-                "is_in:iso_3166_2": "CA-NL",
-                "is_in:state_code": "NL",
-                "is_in:country": "CA"
+                "addr:city": "St. John's",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall"
             },
             "geometry": {
                 "type": "Point",
@@ -2963,13 +2482,9 @@
                 "addr:housenumber": "3025",
                 "addr:street": "Gordon Road",
                 "addr:postal_code": "S4S 6H7",
-                "phone": "(306) 585-3383",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-southland-mall-cinemas",
-                "!!DELETE-ME!!": "3025 Gordon Road, Regina, SK, S4S 6H7",
-                "is_in:city": "Regina",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Regina",
+                "phone": "306-585-3383",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-southland-mall-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -2989,13 +2504,9 @@
                 "addr:street": "McCarthy Boulevard North",
                 "addr:postal_code": "S4R 7M2",
                 "addr:unit": "26",
-                "phone": "(306) 522-9098",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-regina-formerly-galaxy-cinemas",
-                "!!DELETE-ME!!": "420 McCarthy Boulevard North, Unit 26, Regina, SK, S4R 7M2",
-                "is_in:city": "Regina",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Regina",
+                "phone": "306-522-9098",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-regina-formerly-galaxy-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3014,13 +2525,9 @@
                 "addr:housenumber": "1235",
                 "addr:street": "Main Street North",
                 "addr:postal_code": "S6H 6M4",
-                "phone": "(306) 693-3456",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-moose-jaw",
-                "!!DELETE-ME!!": "1235 Main Street North, Moose Jaw, SK, S6H 6M4",
-                "is_in:city": "Moose Jaw",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Moose Jaw",
+                "phone": "306-693-3456",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-moose-jaw"
             },
             "geometry": {
                 "type": "Point",
@@ -3040,13 +2547,9 @@
                 "addr:street": "2nd Avenue West",
                 "addr:postal_code": "S6V 5V5",
                 "addr:unit": "1C",
-                "phone": "(306) 922-5970",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-prince-albert",
-                "!!DELETE-ME!!": "2995 2nd Avenue West, Unit 1C, Prince Albert, SK, S6V 5V5",
-                "is_in:city": "Prince Albert",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Prince Albert",
+                "phone": "306-922-5970",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-prince-albert"
             },
             "geometry": {
                 "type": "Point",
@@ -3065,13 +2568,9 @@
                 "addr:housenumber": "3510-8th",
                 "addr:street": "Street",
                 "addr:postal_code": "S7H 0W6",
-                "phone": "(306) 955-1938",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-centre-cinemas",
-                "!!DELETE-ME!!": "3510-8th Street, Saskatoon, SK, S7H 0W6",
-                "is_in:city": "Saskatoon",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Saskatoon",
+                "phone": "306-955-1938",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-centre-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3090,13 +2589,9 @@
                 "addr:housenumber": "347-2nd",
                 "addr:street": "Avenue South",
                 "addr:postal_code": "S7K 1L1",
-                "phone": "(306) 664-5060",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-saskatoon-and-vip",
-                "!!DELETE-ME!!": "347-2nd Avenue South, Saskatoon, SK, S7K 1L1",
-                "is_in:city": "Saskatoon",
-                "is_in:iso_3166_2": "CA-SK",
-                "is_in:state_code": "SK",
-                "is_in:country": "CA"
+                "addr:city": "Saskatoon",
+                "phone": "306-664-5060",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-saskatoon-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -3115,13 +2610,9 @@
                 "addr:housenumber": "3292",
                 "addr:street": "Dunmore Road SE",
                 "addr:postal_code": "T1B 2R4",
-                "phone": "(403) 504-5477",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-medicine-hat",
-                "!!DELETE-ME!!": "3292 Dunmore Road SE, Medicine Hat, AB, T1B 2R4",
-                "is_in:city": "Medicine Hat",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Medicine Hat",
+                "phone": "403-504-5477",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-medicine-hat"
             },
             "geometry": {
                 "type": "Point",
@@ -3140,13 +2631,9 @@
                 "addr:housenumber": "501-1st",
                 "addr:street": "Avenue South West",
                 "addr:postal_code": "T1J 0A1",
-                "phone": "(403) 329-0002",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-lethbridge",
-                "!!DELETE-ME!!": "501-1st Avenue South West, Lethbridge, AB, T1J 0A1",
-                "is_in:city": "Lethbridge",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Lethbridge",
+                "phone": "403-329-0002",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-lethbridge"
             },
             "geometry": {
                 "type": "Point",
@@ -3165,13 +2652,9 @@
                 "addr:housenumber": "2020",
                 "addr:street": "Sherwood Drive",
                 "addr:postal_code": "T8A 3H9",
-                "phone": "(780) 416-0152",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sherwood-park-formerly-galaxy-cinemas",
-                "!!DELETE-ME!!": "2020 Sherwood Drive, Sherwood Park, AB, T8A 3H9",
-                "is_in:city": "Sherwood Park",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Sherwood Park",
+                "phone": "780-416-0152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sherwood-park-formerly-galaxy-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3190,13 +2673,9 @@
                 "addr:housenumber": "15531",
                 "addr:street": "37 ST NW",
                 "addr:postal_code": "T5Y 0S5",
-                "phone": "(780) 476-7807",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-manning-town-centre",
-                "!!DELETE-ME!!": "15531 37 ST NW, Edmonton, AB, T5Y 0S5",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-476-7807",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-manning-town-centre"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,13 +2694,9 @@
                 "addr:housenumber": "5074",
                 "addr:street": "130 Avenue",
                 "addr:postal_code": "T5A 5A9",
-                "phone": "(780) 472-9779",
-                "website": "http://www.cineplex.com/Theatre/cinema-city-movies-12",
-                "!!DELETE-ME!!": "5074 130 Avenue, Edmonton, AB, T5A 5A9",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-472-9779",
+                "website": "http://www.cineplex.com/Theatre/cinema-city-movies-12"
             },
             "geometry": {
                 "type": "Point",
@@ -3240,13 +2715,9 @@
                 "addr:housenumber": "1525-99th",
                 "addr:street": "Street NW",
                 "addr:postal_code": "T6N 1K5",
-                "phone": "(780) 436-8585",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-edmonton-cinemas",
-                "!!DELETE-ME!!": "1525-99th Street NW, Edmonton, AB, T6N 1K5",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-436-8585",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-edmonton-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3265,13 +2736,9 @@
                 "addr:housenumber": "14231-137th",
                 "addr:street": "Avenue",
                 "addr:postal_code": "T5L 5E8",
-                "phone": "(780) 732-2236",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-north-edmonton-cinemas",
-                "!!DELETE-ME!!": "14231-137th Avenue, Edmonton, AB, T5L 5E8",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-732-2236",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-north-edmonton-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3290,13 +2757,9 @@
                 "addr:housenumber": "6151",
                 "addr:street": "Currents Drive NW",
                 "addr:postal_code": "T6W 0L9",
-                "phone": "(780) 822-4250",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-windermere-cinemas-and-vip",
-                "!!DELETE-ME!!": "6151 Currents Drive NW, Edmonton, AB, T6W 0L9",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-822-4250",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-windermere-cinemas-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -3315,13 +2778,9 @@
                 "addr:housenumber": "3030",
                 "addr:street": "8882-170 Street",
                 "addr:postal_code": "T5T 4M2",
-                "phone": "(780) 444-2400",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-edmonton",
-                "!!DELETE-ME!!": "#3030, 8882-170 Street, Edmonton, AB, T5T 4M2",
-                "is_in:city": "Edmonton",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Edmonton",
+                "phone": "780-444-2400",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-edmonton"
             },
             "geometry": {
                 "type": "Point",
@@ -3340,13 +2799,9 @@
                 "addr:housenumber": "357-37400",
                 "addr:street": "Highway 2, Red Deer County, Red Deer County",
                 "addr:postal_code": "T4E 1B9",
-                "phone": "(403) 348-2357",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-red-deer",
-                "!!DELETE-ME!!": "357-37400 Highway 2, Red Deer County, Red Deer County, Red Deer, AB, T4E 1B9",
-                "is_in:city": "Red Deer",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Red Deer",
+                "phone": "403-348-2357",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-red-deer"
             },
             "geometry": {
                 "type": "Point",
@@ -3365,13 +2820,9 @@
                 "addr:housenumber": "261055",
                 "addr:street": "CrossIron Boulevard",
                 "addr:postal_code": "T4A 0G3",
-                "phone": "(403) 274-3261",
-                "website": "http://www.cineplex.com/Theatre/silvercity-crossiron-mills-and-xscape-entertainment-centre",
-                "!!DELETE-ME!!": "261055 CrossIron Boulevard, Rocky View, AB, T4A 0G3",
-                "is_in:city": "Rocky View",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Rocky View",
+                "phone": "403-274-3261",
+                "website": "http://www.cineplex.com/Theatre/silvercity-crossiron-mills-and-xscape-entertainment-centre"
             },
             "geometry": {
                 "type": "Point",
@@ -3390,13 +2841,9 @@
                 "addr:housenumber": "400",
                 "addr:street": "2555-32nd Street NE",
                 "addr:postal_code": "T1Y 7J6",
-                "phone": "(403) 717-1200",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-sunridge-spectrum-cinemas",
-                "!!DELETE-ME!!": "#400, 2555-32nd Street NE, Calgary, AB, T1Y 7J6",
-                "is_in:city": "Calgary",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Calgary",
+                "phone": "403-717-1200",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-sunridge-spectrum-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3415,13 +2862,8 @@
                 "addr:housenumber": "200",
                 "addr:street": "Barclay Parade SW",
                 "addr:postal_code": "T2P 4R5",
-                "phone": "(403) 263-3166",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas",
-                "!!DELETE-ME!!": "Eau Claire Market, 200 Barclay Parade SW, 200 Barclay Parade S.W., Calgary, AB, T2P 4R5",
-                "is_in:city": "Calgary",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Calgary",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3440,13 +2882,9 @@
                 "addr:housenumber": "6455",
                 "addr:street": "Macleod Trail SW",
                 "addr:postal_code": "T2H 0K4",
-                "phone": "(403) 212-8994",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-chinook",
-                "!!DELETE-ME!!": "6455 Macleod Trail SW , Calgary, AB, T2H 0K4",
-                "is_in:city": "Calgary",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Calgary",
+                "phone": "403-212-8994",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-chinook"
             },
             "geometry": {
                 "type": "Point",
@@ -3465,13 +2903,9 @@
                 "addr:housenumber": "165",
                 "addr:street": "Stewart Green SW",
                 "addr:postal_code": "T3H 3C8",
-                "phone": "(403) 246-5291",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westhills-cinemas",
-                "!!DELETE-ME!!": "165 Stewart Green SW, Calgary, AB, T3H 3C8",
-                "is_in:city": "Calgary",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Calgary",
+                "phone": "403-246-5291",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westhills-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3490,13 +2924,9 @@
                 "addr:housenumber": "91",
                 "addr:street": "Crowfoot Terrace NW",
                 "addr:postal_code": "T3G 2L5",
-                "phone": "(403) 547-3316",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-crowfoot-crossing-cinemas",
-                "!!DELETE-ME!!": "91 Crowfoot Terrace NW, Calgary, AB, T3G 2L5",
-                "is_in:city": "Calgary",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Calgary",
+                "phone": "403-547-3316",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-crowfoot-crossing-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3515,13 +2945,9 @@
                 "addr:housenumber": "10330",
                 "addr:street": "109th Street",
                 "addr:postal_code": "T8V 7X3",
-                "phone": "(780) 513-5534",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-grande-prairie-cinemas",
-                "!!DELETE-ME!!": "10330 109th Street, Grande Prairie, AB, T8V 7X3",
-                "is_in:city": "Grande Prairie",
-                "is_in:iso_3166_2": "CA-AB",
-                "is_in:state_code": "AB",
-                "is_in:country": "CA"
+                "addr:city": "Grande Prairie",
+                "phone": "780-513-5534",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-grande-prairie-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3540,13 +2966,9 @@
                 "addr:housenumber": "275-2306",
                 "addr:street": "Highway 6",
                 "addr:postal_code": "V1T 7E3",
-                "phone": "(250) 542-1107",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-vernon",
-                "!!DELETE-ME!!": "275-2306 Highway 6, Vernon, BC, V1T 7E3",
-                "is_in:city": "Vernon",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vernon",
+                "phone": "250-542-1107",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-vernon"
             },
             "geometry": {
                 "type": "Point",
@@ -3565,13 +2987,9 @@
                 "addr:housenumber": "160-1876",
                 "addr:street": "Cooper Road",
                 "addr:postal_code": "V1Y 9N6",
-                "phone": "(250) 860-1611",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-orchard-plaza",
-                "!!DELETE-ME!!": "160-1876 Cooper Road, Kelowna, BC, V1Y 9N6",
-                "is_in:city": "Kelowna",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Kelowna",
+                "phone": "250-860-1611",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-orchard-plaza"
             },
             "geometry": {
                 "type": "Point",
@@ -3590,13 +3008,9 @@
                 "addr:housenumber": "700-1320",
                 "addr:street": "West Trans Canada Highway",
                 "addr:postal_code": "V1S 1J2",
-                "phone": "(250) 377-8401",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aberdeen-mall-cinemas",
-                "!!DELETE-ME!!": "700-1320 West Trans Canada Highway, Kamloops, BC, V1S 1J2",
-                "is_in:city": "Kamloops",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Kamloops",
+                "phone": "250-377-8401",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aberdeen-mall-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3615,13 +3029,9 @@
                 "addr:housenumber": "172-1600",
                 "addr:street": "15th Avenue",
                 "addr:postal_code": "V2L 3X3",
-                "phone": "(250) 612-3993",
-                "website": "http://www.cineplex.com/Theatre/famous-players-6-cinemas",
-                "!!DELETE-ME!!": "172-1600 15th Avenue, Prince George, BC, V2L 3X3",
-                "is_in:city": "Prince George",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Prince George",
+                "phone": "250-612-3993",
+                "website": "http://www.cineplex.com/Theatre/famous-players-6-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3640,13 +3050,9 @@
                 "addr:housenumber": "8249",
                 "addr:street": "Eagle Landing Parkway",
                 "addr:postal_code": "V2P 7K6",
-                "phone": "(604) 793-0516",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chilliwack",
-                "!!DELETE-ME!!": "8249 Eagle Landing Parkway, Chilliwack, BC, V2P 7K6",
-                "is_in:city": "Chilliwack",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Chilliwack",
+                "phone": "604-793-0516",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chilliwack"
             },
             "geometry": {
                 "type": "Point",
@@ -3665,13 +3071,8 @@
                 "addr:housenumber": "32555",
                 "addr:street": "London Avenue",
                 "addr:postal_code": "V2V 6M7",
-                "phone": "(604) 820-2733",
-                "website": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas",
-                "!!DELETE-ME!!": "The Junction Plaza, 32555 London Avenue, Mission, BC, V2V 6M7",
-                "is_in:city": "Mission",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Mission",
+                "website": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3691,13 +3092,9 @@
                 "addr:street": "Mt. Lehman Rd.",
                 "addr:postal_code": "V4X 2K9",
                 "addr:unit": "J200",
-                "phone": "(604) 504-9701",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-abbotsford-and-vip",
-                "!!DELETE-ME!!": "3122 Mt. Lehman Rd., Unit J200, Abbotsford, BC, V4X 2K9",
-                "is_in:city": "Abbotsford",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Abbotsford",
+                "phone": "604-504-9701",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-abbotsford-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -3716,13 +3113,9 @@
                 "addr:housenumber": "410",
                 "addr:street": "19800 Lougheed Highway",
                 "addr:postal_code": "V3Y 2W1",
-                "phone": "(604) 460-6455",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-meadowtown-cinemas",
-                "!!DELETE-ME!!": "#410, 19800 Lougheed Highway, Pitt Meadows, BC, V3Y 2W1",
-                "is_in:city": "Pitt Meadows",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Pitt Meadows",
+                "phone": "604-460-6455",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-meadowtown-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3741,13 +3134,9 @@
                 "addr:housenumber": "20090",
                 "addr:street": "91A Avenue",
                 "addr:postal_code": "V1M 3Y9",
-                "phone": "(604) 513-8747",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-langley",
-                "!!DELETE-ME!!": "#20090, 91A Avenue, Langley, BC, V1M 3Y9",
-                "is_in:city": "Langley",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Langley",
+                "phone": "604-513-8747",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-langley"
             },
             "geometry": {
                 "type": "Point",
@@ -3763,16 +3152,9 @@
                 "name": "Cineplex Cinemas Coquitlam and VIP",
                 "amenity": "cinema",
                 "operator": "Cineplex",
-                "addr:housenumber": "170",
-                "addr:street": "Schoolhouse Street",
                 "addr:postal_code": "V3K 4X9",
-                "phone": "Theatre Info & Prices",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip",
-                "!!DELETE-ME!!": "170 Schoolhouse Street, Coquitlam, BC, V3K 4X9",
-                "is_in:city": "Coquitlam",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Coquitlam",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -3791,13 +3173,9 @@
                 "addr:housenumber": "12161-72nd",
                 "addr:street": "Avenue",
                 "addr:postal_code": "V3W 2M1",
-                "phone": "(604) 501-9400",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill",
-                "!!DELETE-ME!!": "12161-72nd Avenue, Surrey, BC, V3W 2M1",
-                "is_in:city": "Surrey",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Surrey",
+                "phone": "604-501-9400",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill"
             },
             "geometry": {
                 "type": "Point",
@@ -3816,13 +3194,9 @@
                 "addr:housenumber": "4700",
                 "addr:street": "Kingsway",
                 "addr:postal_code": "V5H 4M1",
-                "phone": "(604) 435-7474",
-                "website": "http://www.cineplex.com/Theatre/silvercity-metropolis-cinemas",
-                "!!DELETE-ME!!": "4700 Kingsway, Burnaby, BC, V5H 4M1",
-                "is_in:city": "Burnaby",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Burnaby",
+                "phone": "604-435-7474",
+                "website": "http://www.cineplex.com/Theatre/silvercity-metropolis-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3841,13 +3215,9 @@
                 "addr:housenumber": "200-333",
                 "addr:street": "Brooksbank Avenue",
                 "addr:postal_code": "V7J 3S8",
-                "phone": "(604) 985-3911",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-park-tilford-cinemas",
-                "!!DELETE-ME!!": "200-333 Brooksbank Avenue, N. Vancouver, BC, V7J 3S8",
-                "is_in:city": "N. Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "N. Vancouver",
+                "phone": "604-985-3911",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-park-tilford-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3863,16 +3233,9 @@
                 "name": "Cineplex Cinemas Esplanade",
                 "amenity": "cinema",
                 "operator": "Cineplex",
-                "addr:housenumber": "200",
-                "addr:street": "West Esplanade",
                 "addr:postal_code": "V7M 1A4",
-                "phone": "Theatre Info & Prices",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade",
-                "!!DELETE-ME!!": "200 West Esplanade, N. Vancouver, BC, V7M 1A4",
-                "is_in:city": "N. Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "N. Vancouver",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade"
             },
             "geometry": {
                 "type": "Point",
@@ -3891,13 +3254,9 @@
                 "addr:housenumber": "88",
                 "addr:street": "West Pender, 3rd Floor",
                 "addr:postal_code": "V6B 6N9",
-                "phone": "(604) 806-0799",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-international-village-cinemas",
-                "!!DELETE-ME!!": "88 West Pender, 3rd Floor, Vancouver, BC, V6B 6N9",
-                "is_in:city": "Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vancouver",
+                "phone": "604-806-0799",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-international-village-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3916,13 +3275,9 @@
                 "addr:housenumber": "14211",
                 "addr:street": "Entertainment Way",
                 "addr:postal_code": "V6W 1K4",
-                "phone": "(604) 277-5993",
-                "website": "http://www.cineplex.com/Theatre/silvercity-riverport-cinemas",
-                "!!DELETE-ME!!": "14211 Entertainment Way, Richmond, BC, V6W 1K4",
-                "is_in:city": "Richmond",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Richmond",
+                "phone": "604-277-5993",
+                "website": "http://www.cineplex.com/Theatre/silvercity-riverport-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -3941,13 +3296,9 @@
                 "addr:housenumber": "3440",
                 "addr:street": "Cambie St.",
                 "addr:postal_code": "V5Z 2W8",
-                "phone": "(604) 709-3456",
-                "website": "http://www.cineplex.com/Theatre/the-park-theatre",
-                "!!DELETE-ME!!": "3440 Cambie St., Vancouver, BC, V5Z 2W8",
-                "is_in:city": "Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vancouver",
+                "phone": "604-709-3456",
+                "website": "http://www.cineplex.com/Theatre/the-park-theatre"
             },
             "geometry": {
                 "type": "Point",
@@ -3966,13 +3317,9 @@
                 "addr:housenumber": "900",
                 "addr:street": "Burrard Street",
                 "addr:postal_code": "V6Z 3G5",
-                "phone": "(604) 630-1407",
-                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-vancouver",
-                "!!DELETE-ME!!": "900 Burrard Street, Vancouver, BC, V6Z 3G5",
-                "is_in:city": "Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vancouver",
+                "phone": "604-630-1407",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-vancouver"
             },
             "geometry": {
                 "type": "Point",
@@ -3991,13 +3338,9 @@
                 "addr:housenumber": "452",
                 "addr:street": "South West Marine Drive",
                 "addr:postal_code": "V5X 0C3",
-                "phone": "(604) 630-0414",
-                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-marine-gateway-and-vip",
-                "!!DELETE-ME!!": "452 South West Marine Drive, Vancouver, BC, V5X 0C3",
-                "is_in:city": "Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vancouver",
+                "phone": "604-630-0414",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-marine-gateway-and-vip"
             },
             "geometry": {
                 "type": "Point",
@@ -4016,13 +3359,9 @@
                 "addr:housenumber": "2110",
                 "addr:street": "Burrard Street",
                 "addr:postal_code": "V6J 3H6",
-                "phone": "(604) 734-7469",
-                "website": "http://www.cineplex.com/Theatre/fifth-avenue-cinemas-age-restricted-19",
-                "!!DELETE-ME!!": "2110 Burrard Street, Vancouver, BC, V6J 3H6",
-                "is_in:city": "Vancouver",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Vancouver",
+                "phone": "604-734-7469",
+                "website": "http://www.cineplex.com/Theatre/fifth-avenue-cinemas-age-restricted-19"
             },
             "geometry": {
                 "type": "Point",
@@ -4041,13 +3380,9 @@
                 "addr:housenumber": "780",
                 "addr:street": "Yates Street",
                 "addr:postal_code": "V8W 1L4",
-                "phone": "(250) 383-0513",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-victoria-cinemas",
-                "!!DELETE-ME!!": "780 Yates Street, Victoria, BC, V8W 1L4",
-                "is_in:city": "Victoria",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Victoria",
+                "phone": "250-383-0513",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-victoria-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -4066,13 +3401,9 @@
                 "addr:housenumber": "3130",
                 "addr:street": "Tillicum Road",
                 "addr:postal_code": "V9A 6T2",
-                "phone": "(250) 381-9300",
-                "website": "http://www.cineplex.com/Theatre/silvercity-victoria-cinemas",
-                "!!DELETE-ME!!": "3130 Tillicum Road, Victoria, BC, V9A 6T2",
-                "is_in:city": "Victoria",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Victoria",
+                "phone": "250-381-9300",
+                "website": "http://www.cineplex.com/Theatre/silvercity-victoria-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -4091,13 +3422,9 @@
                 "addr:housenumber": "900",
                 "addr:street": "2945 Jacklin Rd",
                 "addr:postal_code": "V9B 5E3",
-                "phone": "(250) 474-1007",
-                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westshore-cinemas",
-                "!!DELETE-ME!!": "900 2945 Jacklin Rd, Langford, BC, V9B 5E3",
-                "is_in:city": "Langford",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Langford",
+                "phone": "250-474-1007",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westshore-cinemas"
             },
             "geometry": {
                 "type": "Point",
@@ -4116,13 +3443,9 @@
                 "addr:housenumber": "213-4750",
                 "addr:street": "Rutherford Road",
                 "addr:postal_code": "V9T 4K6",
-                "phone": "(250) 729-8000",
-                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-nanaimo",
-                "!!DELETE-ME!!": "213-4750 Rutherford Road, Nanaimo, BC, V9T 4K6",
-                "is_in:city": "Nanaimo",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Nanaimo",
+                "phone": "250-729-8000",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-nanaimo"
             },
             "geometry": {
                 "type": "Point",
@@ -4141,13 +3464,9 @@
                 "addr:housenumber": "525",
                 "addr:street": "West 2nd Avenue",
                 "addr:postal_code": "V8J 1G9",
-                "phone": "(250) 622-2582",
-                "website": "http://www.cineplex.com/Theatre/famous-players-prince-rupert-cinemas",
-                "!!DELETE-ME!!": "525 West 2nd Avenue, Prince Rupert, BC, V8J 1G9",
-                "is_in:city": "Prince Rupert",
-                "is_in:iso_3166_2": "CA-BC",
-                "is_in:state_code": "BC",
-                "is_in:country": "CA"
+                "addr:city": "Prince Rupert",
+                "phone": "250-622-2582",
+                "website": "http://www.cineplex.com/Theatre/famous-players-prince-rupert-cinemas"
             },
             "geometry": {
                 "type": "Point",
