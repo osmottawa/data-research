@@ -114,7 +114,7 @@ source.results.collection1.map(result => {
 
   // Phone
   const phoneMatch = result.phone.text && result.phone.text.match(/\((\d+)\) (\d+)-(\d+)/)
-  let phone = phoneMatch && phoneMatch.slice(1, 4).join('-')
+  let phone = `+1-${phoneMatch && phoneMatch.slice(1, 4).join('-')}`
   const website = result.theatreInfo.href
 
   // Exceptions
