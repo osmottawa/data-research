@@ -104,7 +104,7 @@ const exceptions: Exceptions = {
 source.results.collection1.map(result => {
   // Address
   const postal_code = result.address.match(/[A-Z]\d[A-Z] \d[A-Z]\d/)[0]
-  const addr = result.address.match(/[a-zA-Zé\d \.'\-]+/g)
+  const addr = result.address.match(/[a-zA-Zéôàèùâêîûçëïü\d \.'\-]+/g)
   const province = addr.slice(-2, -1)[0].trim()
   const city = addr.slice(-3, -2)[0].trim()
   const fullroad = addr.slice(0, -3).join(',')
@@ -142,6 +142,7 @@ source.results.collection1.map(result => {
     'addr:city': city,
     'phone': phone,
     'website': website,
+    // '!!ADDRESS!!': result.address
     // 'fixme': (housenumber) ? undefined : 'No housenumber',
     // 'is_in:iso_3166_2': `CA-${province}`,
     // 'is_in:state_code': province,
