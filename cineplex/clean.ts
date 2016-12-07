@@ -103,7 +103,7 @@ const exceptions: Exceptions = {
 
 source.results.collection1.map(result => {
   // Address
-  const postal_code = result.address.match(/[A-Z]\d[A-Z] \d[A-Z]\d/)[0]
+  const postcode = result.address.match(/[A-Z]\d[A-Z] \d[A-Z]\d/)[0]
   const addr = result.address.match(/[a-zA-Zéôàèùâêîûçëïü\d \.'\-]+/g)
   const province = addr.slice(-2, -1)[0].trim()
   const city = addr.slice(-3, -2)[0].trim()
@@ -137,7 +137,7 @@ source.results.collection1.map(result => {
     'operator': 'Cineplex',
     'addr:housenumber': housenumber,
     'addr:street': street,
-    'addr:postal_code': postal_code,
+    'addr:postcode': postcode,
     'addr:unit': unit,
     'addr:city': city,
     'phone': phone,

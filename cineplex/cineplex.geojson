@@ -9,7 +9,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "325",
                 "addr:street": "Marche Way",
-                "addr:postal_code": "K1S 5J3",
+                "addr:postcode": "K1S 5J3",
                 "addr:unit": "107",
                 "addr:city": "Ottawa",
                 "phone": "+1-613-232-2770",
@@ -31,7 +31,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "115",
                 "addr:street": "boulevard Du Plateau",
-                "addr:postal_code": "J9A 3G1",
+                "addr:postcode": "J9A 3G1",
                 "addr:city": "Hull",
                 "phone": "+1-819-770-1090",
                 "website": "http://www.cineplex.com/Theatre/cinema-starcite-gatineau"
@@ -52,7 +52,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2385",
                 "addr:street": "City Park Drive",
-                "addr:postal_code": "K1J 1G1",
+                "addr:postcode": "K1J 1G1",
                 "addr:city": "Gloucester",
                 "phone": "+1-613-749-5112",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-ottawa-formerly-silvercity-gloucester"
@@ -73,7 +73,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2214",
                 "addr:street": "Bank Street",
-                "addr:postal_code": "K1V 1J6",
+                "addr:postcode": "K1V 1J6",
                 "addr:city": "Ottawa",
                 "phone": "+1-613-736-1115",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-keys-cinemas"
@@ -94,7 +94,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3090",
                 "addr:street": "Carling Avenue",
-                "addr:postal_code": "K2B 7K2",
+                "addr:postcode": "K2B 7K2",
                 "addr:city": "Ottawa",
                 "phone": "+1-613-596-9475",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ottawa"
@@ -115,7 +115,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "131",
                 "addr:street": "Riocan Avenue",
-                "addr:postal_code": "K2J 5G5",
+                "addr:postcode": "K2J 5G5",
                 "addr:city": "Barrhaven",
                 "phone": "+1-613-825-2463",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-barrhaven-cinemas"
@@ -136,7 +136,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1325",
                 "addr:street": "Second Street East",
-                "addr:postal_code": "K6H 2B6",
+                "addr:postcode": "K6H 2B6",
                 "addr:city": "Cornwall",
                 "phone": "+1-613-932-4500",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cornwall"
@@ -157,7 +157,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1000",
                 "addr:street": "Island Mall, 2399 Parkedale Avenue",
-                "addr:postal_code": "K6V 2G9",
+                "addr:postcode": "K6V 2G9",
                 "addr:city": "Brockville",
                 "phone": "+1-613-498-2217",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brockville"
@@ -178,7 +178,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "391",
                 "addr:street": "boulevard Harwood",
-                "addr:postal_code": "J7V 7W1",
+                "addr:postcode": "J7V 7W1",
                 "addr:city": "Dorion",
                 "phone": "+1-450-455-9853",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-carrefour-dorion"
@@ -199,7 +199,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3200",
                 "addr:street": "rue Jean Yves",
-                "addr:postal_code": "H9J 2R6",
+                "addr:postcode": "H9J 2R6",
                 "addr:city": "Kirkland",
                 "phone": "+1-514-694-8922",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-kirkland"
@@ -220,7 +220,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "626",
                 "addr:street": "Gardiners Road",
-                "addr:postal_code": "K7M 3X9",
+                "addr:postcode": "K7M 3X9",
                 "addr:city": "Kingston",
                 "phone": "+1-613-634-0152",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-gardiners-road-cinemas"
@@ -241,7 +241,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2800",
                 "addr:street": "avenue Du Cosmodôme",
-                "addr:postal_code": "H7T 2X1",
+                "addr:postcode": "H7T 2X1",
                 "addr:city": "Laval",
                 "phone": "+1-450-978-0212",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-laval"
@@ -262,7 +262,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "5800",
                 "addr:street": "boulevard Cavendish",
-                "addr:postal_code": "H4W 2T5",
+                "addr:postcode": "H4W 2T5",
                 "addr:city": "Cote Saint-Luc",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall"
             },
@@ -282,7 +282,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "7077",
                 "addr:street": "boulevard Newman",
-                "addr:postal_code": "H8N 1X1",
+                "addr:postcode": "H8N 1X1",
                 "addr:city": "LaSalle",
                 "phone": "+1-514-366-2444",
                 "website": "http://www.cineplex.com/Theatre/cinema-famous-players-carrefour-angrignon"
@@ -303,7 +303,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "7816",
                 "addr:street": "Boulevard Champlain, Local 62",
-                "addr:postal_code": "H8P 1B3",
+                "addr:postcode": "H8P 1B3",
                 "addr:city": "LaSalle",
                 "phone": "+1-514-365-5659",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-place-la-salle"
@@ -324,7 +324,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2313",
                 "addr:street": "St. Catherine St. West Suite 101",
-                "addr:postal_code": "H3H 1N2",
+                "addr:postcode": "H3H 1N2",
                 "addr:city": "Montréal",
                 "phone": "+1-514-904-1274",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-forum"
@@ -345,7 +345,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "977",
                 "addr:street": "rue Sainte-Catherine Ouest",
-                "addr:postal_code": "H3B 4W3",
+                "addr:postcode": "H3B 4W3",
                 "addr:city": "Montréal",
                 "phone": "+1-514-842-0549",
                 "website": "http://www.cineplex.com/Theatre/cinema-banque-scotia-montreal"
@@ -366,7 +366,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "350",
                 "addr:street": "rue Emery",
-                "addr:postal_code": "H2X 1J1",
+                "addr:postcode": "H2X 1J1",
                 "addr:city": "Montréal",
                 "phone": "+1-514-849-2244",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin"
@@ -387,7 +387,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "4825",
                 "addr:street": "avenue Pierre De Coubertin",
-                "addr:postal_code": "H1V 3V4",
+                "addr:postcode": "H1V 3V4",
                 "addr:city": "Montréal",
                 "phone": "+1-514-899-8979",
                 "website": "http://www.cineplex.com/Theatre/cinema-starcite-montreal"
@@ -408,7 +408,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "20",
                 "addr:street": "boulevard de Mortagne",
-                "addr:postal_code": "J4B 5K6",
+                "addr:postcode": "J4B 5K6",
                 "addr:city": "Boucherville",
                 "phone": "+1-450-449-6404",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-boucherville"
@@ -429,7 +429,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "9350",
                 "addr:street": "boulevard Leduc",
-                "addr:postal_code": "J4Y 0B3",
+                "addr:postcode": "J4Y 0B3",
                 "addr:city": "Brossard",
                 "phone": "+1-450-678-5542",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-brossard-et-vip"
@@ -450,7 +450,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1495",
                 "addr:street": "boulevard St-Bruno",
-                "addr:postal_code": "J3V 6J1",
+                "addr:postcode": "J3V 6J1",
                 "addr:city": "St-Bruno",
                 "phone": "+1-450-653-7756",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stbruno"
@@ -471,7 +471,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "286",
                 "addr:street": "rue Richelieu",
-                "addr:postal_code": "J3B 6Y4",
+                "addr:postcode": "J3B 6Y4",
                 "addr:city": "St. Jean",
                 "phone": "+1-450-358-3030",
                 "website": "http://www.cineplex.com/Theatre/cinema-capitol-stjean"
@@ -492,7 +492,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "160",
                 "addr:street": "Bell Boulevard",
-                "addr:postal_code": "K8P 5L2",
+                "addr:postcode": "K8P 5L2",
                 "addr:city": "Belleville",
                 "phone": "+1-613-969-8469",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-belleville"
@@ -513,7 +513,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "320",
                 "addr:street": "Water Street",
-                "addr:postal_code": "K9H 7N9",
+                "addr:postcode": "K9H 7N9",
                 "addr:city": "Peterborough",
                 "phone": "+1-705-749-2000",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-peterborough"
@@ -534,7 +534,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "111",
                 "addr:street": "Clarington Boulevard",
-                "addr:postal_code": "L1C 4Z3",
+                "addr:postcode": "L1C 4Z3",
                 "addr:city": "Clarington",
                 "phone": "+1-905-697-0308",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-clarington-place-cinemas"
@@ -555,7 +555,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "4204",
                 "addr:street": "Bertrand-Fabi",
-                "addr:postal_code": "J1N 3Y2",
+                "addr:postcode": "J1N 3Y2",
                 "addr:city": "Rock Forest",
                 "phone": "+1-819-821-4481",
                 "website": "http://www.cineplex.com/Theatre/cinema-galaxy-sherbrooke"
@@ -576,7 +576,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1351",
                 "addr:street": "Grandview Street North",
-                "addr:postal_code": "L1K 0G1",
+                "addr:postcode": "L1K 0G1",
                 "addr:city": "Oshawa",
                 "phone": "+1-905-432-3486",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-oshawa-cinemas"
@@ -597,7 +597,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1121",
                 "addr:street": "boulevard Jutras Est",
-                "addr:postal_code": "G6S 1J1",
+                "addr:postcode": "G6S 1J1",
                 "addr:city": "Victoriaville",
                 "phone": "+1-819-357-7000",
                 "website": "http://www.cineplex.com/Theatre/cinema-galaxy-victoriaville"
@@ -618,7 +618,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "300",
                 "addr:street": "Lakeshore Drive",
-                "addr:postal_code": "P1A 3V2",
+                "addr:postcode": "P1A 3V2",
                 "addr:city": "North Bay",
                 "phone": "+1-705-476-6410",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-north-bay"
@@ -639,7 +639,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "865",
                 "addr:street": "West Ridge Boulevard",
-                "addr:postal_code": "L3V 8B3",
+                "addr:postcode": "L3V 8B3",
                 "addr:city": "Orillia",
                 "phone": "+1-705-326-8908",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orillia"
@@ -660,7 +660,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "248",
                 "addr:street": "Kingston Road East, Highway 2",
-                "addr:postal_code": "L1S 1G1",
+                "addr:postcode": "L1S 1G1",
                 "addr:city": "Ajax",
                 "phone": "+1-905-426-7772",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-ajax-cinemas"
@@ -681,7 +681,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1355",
                 "addr:street": "Kingston Road",
-                "addr:postal_code": "L1V 1B8",
+                "addr:postcode": "L1V 1B8",
                 "addr:city": "Pickering",
                 "website": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas"
             },
@@ -701,7 +701,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "785",
                 "addr:street": "Milner Avenue",
-                "addr:postal_code": "M1B 3C3",
+                "addr:postcode": "M1B 3C3",
                 "addr:city": "Scarborough",
                 "phone": "+1-416-281-1444",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-morningside-cinemas"
@@ -722,7 +722,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "507",
                 "addr:street": "Cundles Road East",
-                "addr:postal_code": "L4M 0G9",
+                "addr:postcode": "L4M 0G9",
                 "addr:city": "Barrie",
                 "phone": "+1-705-302-0159",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-north-barrie"
@@ -743,7 +743,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "18195",
                 "addr:street": "Yonge Street",
-                "addr:postal_code": "L9N 0H9",
+                "addr:postcode": "L9N 0H9",
                 "addr:city": "East Gwillimbury",
                 "phone": "+1-905-953-2792",
                 "website": "http://www.cineplex.com/Theatre/silvercity-newmarket-cinemas"
@@ -764,7 +764,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "15460",
                 "addr:street": "Bayview Avenue",
-                "addr:postal_code": "L4G 7J1",
+                "addr:postcode": "L4G 7J1",
                 "addr:city": "Aurora",
                 "phone": "+1-905-841-1789",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aurora-cinemas"
@@ -785,7 +785,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "320",
                 "addr:street": "Bayfield St",
-                "addr:postal_code": "L4M 3C1",
+                "addr:postcode": "L4M 3C1",
                 "addr:city": "Barrie",
                 "phone": "+1-705-726-3456",
                 "website": "http://www.cineplex.com/Theatre/bayfield-cinemas"
@@ -806,7 +806,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "300",
                 "addr:street": "Borough Drive",
-                "addr:postal_code": "M1P 4P5",
+                "addr:postcode": "M1P 4P5",
                 "addr:city": "Scarborough",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough"
             },
@@ -826,7 +826,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "179",
                 "addr:street": "Enterprise Blvd., Suite 169",
-                "addr:postal_code": "L6G 0E7",
+                "addr:postcode": "L6G 0E7",
                 "addr:city": "Markham",
                 "phone": "+1-905-479-1778",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip"
@@ -847,7 +847,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "72",
                 "addr:street": "Commerce Park Drive",
-                "addr:postal_code": "L4N 8W8",
+                "addr:postcode": "L4N 8W8",
                 "addr:city": "Barrie",
                 "phone": "+1-705-728-1171",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-barrie"
@@ -868,7 +868,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "9226",
                 "addr:street": "Highway 93",
-                "addr:postal_code": "L4R 4K4",
+                "addr:postcode": "L4R 4K4",
                 "addr:city": "Midland",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland"
             },
@@ -888,7 +888,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "22",
                 "addr:street": "Lebovic Avenue",
-                "addr:postal_code": "M1L 4V9",
+                "addr:postcode": "M1L 4V9",
                 "addr:city": "Toronto",
                 "phone": "+1-416-752-4494",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eglinton-town-centre-cinemas"
@@ -909,7 +909,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1800",
                 "addr:street": "Sheppard Avenue East",
-                "addr:postal_code": "M2J 5A7",
+                "addr:postcode": "M2J 5A7",
                 "addr:unit": "Y007",
                 "addr:city": "Toronto",
                 "phone": "+1-416-644-7746",
@@ -931,7 +931,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "8725",
                 "addr:street": "Yonge Street",
-                "addr:postal_code": "L4C 6Z1",
+                "addr:postcode": "L4C 6Z1",
                 "addr:city": "Richmond Hill",
                 "phone": "+1-905-709-8755",
                 "website": "http://www.cineplex.com/Theatre/silvercity-richmond-hill-cinemas"
@@ -952,7 +952,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "12",
                 "addr:street": "Marie Labatte Road",
-                "addr:postal_code": "M3C 0H9",
+                "addr:postcode": "M3C 0H9",
                 "addr:unit": "B7",
                 "addr:city": "Toronto",
                 "website": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills"
@@ -973,7 +973,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1651",
                 "addr:street": "Queen Street East",
-                "addr:postal_code": "M4L 1G5",
+                "addr:postcode": "M4L 1G5",
                 "addr:city": "Toronto",
                 "phone": "+1-416-699-1327",
                 "website": "http://www.cineplex.com/Theatre/the-beach-cinemas-alliance-cinemas"
@@ -994,7 +994,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "5095",
                 "addr:street": "Yonge St., 3rd Floor",
-                "addr:postal_code": "M2N 6Z4",
+                "addr:postcode": "M2N 6Z4",
                 "addr:city": "Toronto",
                 "phone": "+1-416-847-0218",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-empress-walk"
@@ -1015,7 +1015,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2300",
                 "addr:street": "Yonge Street",
-                "addr:postal_code": "M4P 1E4",
+                "addr:postcode": "M4P 1E4",
                 "addr:city": "Toronto",
                 "phone": "+1-416-544-1236",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongeeglinton-and-vip-formerly-silvercity"
@@ -1036,7 +1036,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2190",
                 "addr:street": "Yonge Street",
-                "addr:postal_code": "M4S 2C6",
+                "addr:postcode": "M4S 2C6",
                 "addr:city": "Toronto",
                 "phone": "+1-416-646-2913",
                 "website": "http://www.cineplex.com/Theatre/famous-players-canada-square-cinemas"
@@ -1057,7 +1057,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "55",
                 "addr:street": "Bloor Street West",
-                "addr:postal_code": "M4W 1A5",
+                "addr:postcode": "M4W 1A5",
                 "addr:city": "Toronto",
                 "phone": "+1-416-961-6304",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-varsity-and-vip"
@@ -1078,7 +1078,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "10",
                 "addr:street": "Dundas Street East, Suite 402",
-                "addr:postal_code": "M5B 2G9",
+                "addr:postcode": "M5B 2G9",
                 "addr:city": "Toronto",
                 "phone": "+1-416-977-9262",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongedundas-and-vip"
@@ -1099,7 +1099,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3401",
                 "addr:street": "Dufferin Street",
-                "addr:postal_code": "M6A 2T9",
+                "addr:postcode": "M6A 2T9",
                 "addr:city": "Toronto",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale"
             },
@@ -1119,7 +1119,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "259",
                 "addr:street": "Richmond Street West",
-                "addr:postal_code": "M5V 3M6",
+                "addr:postcode": "M5V 3M6",
                 "addr:city": "Toronto",
                 "phone": "+1-416-368-5600",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-toronto"
@@ -1140,7 +1140,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3555",
                 "addr:street": "Highway 7 West",
-                "addr:postal_code": "L4L 6B1",
+                "addr:postcode": "L4L 6B1",
                 "addr:city": "Vaughan",
                 "phone": "+1-905-851-1001",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-vaughan"
@@ -1161,7 +1161,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1025",
                 "addr:street": "The Queensway",
-                "addr:postal_code": "M8Z 6C7",
+                "addr:postcode": "M8Z 6C7",
                 "addr:city": "Etobicoke",
                 "phone": "+1-416-503-0424",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-queensway-and-vip"
@@ -1182,7 +1182,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1200",
                 "addr:street": "autoroute Duplessis",
-                "addr:postal_code": "G2G 2B5",
+                "addr:postcode": "G2G 2B5",
                 "addr:city": "St. Foy",
                 "phone": "+1-418-871-1550",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stefoy"
@@ -1203,7 +1203,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "6",
                 "addr:street": "Mountain Road",
-                "addr:postal_code": "L9Y 4S8",
+                "addr:postcode": "L9Y 4S8",
                 "addr:city": "Collingwood",
                 "phone": "+1-705-443-8478",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-collingwood"
@@ -1224,7 +1224,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "20",
                 "addr:street": "Biscayne Crescent, Highway 410 , Steeles Ave",
-                "addr:postal_code": "L6W 4S1",
+                "addr:postcode": "L6W 4S1",
                 "addr:city": "Brampton",
                 "phone": "+1-905-455-1590",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-orion-gate-cinemas"
@@ -1245,7 +1245,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "50",
                 "addr:street": "Great Lakes Drive",
-                "addr:postal_code": "L6R 2K7",
+                "addr:postcode": "L6R 2K7",
                 "addr:city": "Brampton",
                 "phone": "+1-905-789-6785",
                 "website": "http://www.cineplex.com/Theatre/silvercity-brampton-cinemas"
@@ -1266,7 +1266,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "5401",
                 "addr:street": "boulevard des Galeries",
-                "addr:postal_code": "G2K 1N4",
+                "addr:postcode": "G2K 1N4",
                 "addr:city": "Québec",
                 "phone": "+1-418-624-4629",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
@@ -1287,7 +1287,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "110",
                 "addr:street": "Courtneypark Dr E",
-                "addr:postal_code": "L5T 2Y3",
+                "addr:postcode": "L5T 2Y3",
                 "addr:city": "Mississauga",
                 "phone": "+1-905-362-1234",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-courtney-park"
@@ -1308,7 +1308,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "309",
                 "addr:street": "Rathburn Road West",
-                "addr:postal_code": "L5B 4C1",
+                "addr:postcode": "L5B 4C1",
                 "addr:city": "Mississauga",
                 "phone": "+1-905-275-3456",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mississauga"
@@ -1329,7 +1329,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "7555",
                 "addr:street": "Montrose Road",
-                "addr:postal_code": "L2H 2E9",
+                "addr:postcode": "L2H 2E9",
                 "addr:city": "Niagara Falls",
                 "phone": "+1-905-357-1900",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-niagara-square-cinemas"
@@ -1350,7 +1350,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2081",
                 "addr:street": "Winston Park Dr.",
-                "addr:postal_code": "L6H 6P5",
+                "addr:postcode": "L6H 6P5",
                 "addr:city": "Oakville",
                 "phone": "+1-905-829-2009",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-winston-churchill"
@@ -1371,7 +1371,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "825",
                 "addr:street": "rue Clémenceau",
-                "addr:postal_code": "G1C 2K6",
+                "addr:postcode": "G1C 2K6",
                 "addr:city": "Beauport",
                 "phone": "+1-418-661-9494",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-beauport"
@@ -1392,7 +1392,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "85",
                 "addr:street": "Fifth Avenue",
-                "addr:postal_code": "L9W 5B7",
+                "addr:postcode": "L9W 5B7",
                 "addr:city": "Orangeville",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville"
             },
@@ -1412,7 +1412,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "800",
                 "addr:street": "Niagara Street",
-                "addr:postal_code": "L3C 1M3",
+                "addr:postcode": "L3C 1M3",
                 "addr:city": "Welland",
                 "phone": "+1-905-735-5286",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-seaway-mall-cinemas"
@@ -1433,7 +1433,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1175",
                 "addr:street": "Maple Avenue",
-                "addr:postal_code": "L9T 0A5",
+                "addr:postcode": "L9T 0A5",
                 "addr:city": "Milton",
                 "phone": "+1-905-864-1666",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-milton"
@@ -1454,7 +1454,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3531",
                 "addr:street": "Wyecroft Road",
-                "addr:postal_code": "L6L 0B7",
+                "addr:postcode": "L6L 0B7",
                 "addr:city": "Oakville",
                 "phone": "+1-905-827-7173",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oakville-and-vip"
@@ -1475,7 +1475,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1250",
                 "addr:street": "Brant Street",
-                "addr:postal_code": "L7P 1X8",
+                "addr:postcode": "L7P 1X8",
                 "addr:city": "Burlington",
                 "phone": "+1-905-319-8677",
                 "website": "http://www.cineplex.com/Theatre/silvercity-burlington-cinemas"
@@ -1496,7 +1496,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "795",
                 "addr:street": "Paramount Drive",
-                "addr:postal_code": "L8J 0B4",
+                "addr:postcode": "L8J 0B4",
                 "addr:city": "Stoney Creek",
                 "phone": "+1-905-560-0239",
                 "website": "http://www.cineplex.com/Theatre/silvercity-hamilton-mountain-cinemas"
@@ -1517,7 +1517,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "85",
                 "addr:street": "Clair Road East",
-                "addr:postal_code": "N1L 0J7",
+                "addr:postcode": "N1L 0J7",
                 "addr:city": "Guelph",
                 "phone": "+1-519-821-3468",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-pergola-commons"
@@ -1538,7 +1538,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "771",
                 "addr:street": "Golf Links Road",
-                "addr:postal_code": "L9G 3K9",
+                "addr:postcode": "L9G 3K9",
                 "addr:city": "Ancaster",
                 "phone": "+1-905-304-5888",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ancaster-formerly-silvercity-ancaster"
@@ -1559,7 +1559,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "485",
                 "addr:street": "Woodlawn Road West",
-                "addr:postal_code": "N1K 1E9",
+                "addr:postcode": "N1K 1E9",
                 "addr:city": "Guelph",
                 "phone": "+1-519-763-9188",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-guelph"
@@ -1580,7 +1580,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "355",
                 "addr:street": "Barrydowne Road",
-                "addr:postal_code": "P3B 4K4",
+                "addr:postcode": "P3B 4K4",
                 "addr:city": "Sudbury",
                 "phone": "+1-705-521-0649",
                 "website": "http://www.cineplex.com/Theatre/silvercity-sudbury-cinemas"
@@ -1601,7 +1601,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1020",
                 "addr:street": "10th Street West",
-                "addr:postal_code": "N4K 5S1",
+                "addr:postcode": "N4K 5S1",
                 "addr:city": "Owen Sound",
                 "phone": "+1-519-371-5222",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-owen-sound"
@@ -1622,7 +1622,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "355",
                 "addr:street": "Hespeler Road",
-                "addr:postal_code": "N1R 6B3",
+                "addr:postcode": "N1R 6B3",
                 "addr:city": "Cambridge",
                 "phone": "+1-519-740-3456",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cambridge"
@@ -1643,7 +1643,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "225",
                 "addr:street": "Fairway Road South",
-                "addr:postal_code": "N2C 1X2",
+                "addr:postcode": "N2C 1X2",
                 "addr:city": "Kitchener",
                 "phone": "+1-226-240-3825",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-kitchener-and-vip"
@@ -1664,7 +1664,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "550",
                 "addr:street": "King Street North",
-                "addr:postal_code": "N2L 5W6",
+                "addr:postcode": "N2L 5W6",
                 "addr:city": "Waterloo",
                 "phone": "+1-519-883-8843",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-waterloo"
@@ -1685,7 +1685,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "300",
                 "addr:street": "King George Road",
-                "addr:postal_code": "N3R 5L7",
+                "addr:postcode": "N3R 5L7",
                 "addr:city": "Brantford",
                 "phone": "+1-519-759-7011",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brantford"
@@ -1706,7 +1706,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1680",
                 "addr:street": "Richmond Street",
-                "addr:postal_code": "N6G 3Y9",
+                "addr:postcode": "N6G 3Y9",
                 "addr:city": "London",
                 "phone": "+1-519-673-4125",
                 "website": "http://www.cineplex.com/Theatre/silvercity-london-cinemas"
@@ -1727,7 +1727,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "755",
                 "addr:street": "Wonderland Road South",
-                "addr:postal_code": "N6K 1M6",
+                "addr:postcode": "N6K 1M6",
                 "addr:city": "London",
                 "phone": "+1-519-474-2152",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westmount-cinemas-and-vip"
@@ -1748,7 +1748,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "417",
                 "addr:street": "Wellington Street",
-                "addr:postal_code": "N5R 5J5",
+                "addr:postcode": "N5R 5J5",
                 "addr:city": "St. Thomas",
                 "phone": "+1-519-631-5777",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-st-thomas"
@@ -1769,7 +1769,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1380",
                 "addr:street": "London Road",
-                "addr:postal_code": "N7S 1P7",
+                "addr:postcode": "N7S 1P7",
                 "addr:city": "Sarnia",
                 "phone": "+1-519-541-0959",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sarnia"
@@ -1790,7 +1790,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "760",
                 "addr:street": "St. Clair Street",
-                "addr:postal_code": "N7L 0E8",
+                "addr:postcode": "N7L 0E8",
                 "addr:city": "Chatham",
                 "phone": "+1-519-354-0282",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chatham"
@@ -1811,7 +1811,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "293",
                 "addr:street": "Bay Street",
-                "addr:postal_code": "P6A 1X3",
+                "addr:postcode": "P6A 1X3",
                 "addr:city": "Sault Ste. Mari",
                 "phone": "+1-705-949-7949",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sault-ste-marie"
@@ -1832,7 +1832,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "4611",
                 "addr:street": "Walker Road",
-                "addr:postal_code": "N8W 3T6",
+                "addr:postcode": "N8W 3T6",
                 "addr:city": "Windsor",
                 "phone": "+1-519-966-6888",
                 "website": "http://www.cineplex.com/Theatre/silvercity-windsor-cinemas"
@@ -1853,7 +1853,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3100",
                 "addr:street": "Howard Avenue",
-                "addr:postal_code": "N8X 3Y8",
+                "addr:postcode": "N8X 3Y8",
                 "addr:city": "Windsor",
                 "phone": "+1-519-967-0197",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-devonshire-mall-cinemas"
@@ -1874,7 +1874,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1381",
                 "addr:street": "Regent Street",
-                "addr:postal_code": "E3C 1A2",
+                "addr:postcode": "E3C 1A2",
                 "addr:city": "Fredericton",
                 "phone": "+1-506-458-9704",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fredericton"
@@ -1895,7 +1895,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "175",
                 "addr:street": "McAllister Drive",
-                "addr:postal_code": "E2J 2S6",
+                "addr:postcode": "E2J 2S6",
                 "addr:city": "Saint John",
                 "phone": "+1-506-657-3456",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-saint-john"
@@ -1916,7 +1916,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "136",
                 "addr:street": "Starrs Road",
-                "addr:postal_code": "B5A 4E5",
+                "addr:postcode": "B5A 4E5",
                 "addr:city": "Yarmouth",
                 "phone": "+1-902-742-7819",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yarmouth"
@@ -1937,7 +1937,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2480",
                 "addr:street": "King George Highway",
-                "addr:postal_code": "E1V 6W4",
+                "addr:postcode": "E1V 6W4",
                 "addr:city": "Miramichi",
                 "phone": "+1-506-778-3456",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-miramichi"
@@ -1958,7 +1958,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "127",
                 "addr:street": "Trinity Drive",
-                "addr:postal_code": "E1G 2J7",
+                "addr:postcode": "E1G 2J7",
                 "addr:city": "Moncton",
                 "phone": "+1-506-857-8903",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-trinity-drive"
@@ -1979,7 +1979,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1",
                 "addr:street": "Promenade Bass Pro Drive",
-                "addr:postal_code": "E1A 6S2",
+                "addr:postcode": "E1A 6S2",
                 "addr:city": "Dieppe",
                 "phone": "+1-506-382-2095",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dieppe"
@@ -2000,7 +2000,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "8944",
                 "addr:street": "Commercial Street",
-                "addr:postal_code": "B4N 3C9",
+                "addr:postcode": "B4N 3C9",
                 "addr:city": "New Minas",
                 "phone": "+1-902-681-8080",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-minas"
@@ -2021,7 +2021,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "349",
                 "addr:street": "Lahave Street",
-                "addr:postal_code": "B4V 2T6",
+                "addr:postcode": "B4V 2T6",
                 "addr:city": "Bridgewater",
                 "phone": "+1-902-527-4025",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-bridgewater"
@@ -2042,7 +2042,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "47",
                 "addr:street": "Church Street",
-                "addr:postal_code": "B4H 3A7",
+                "addr:postcode": "B4H 3A7",
                 "addr:city": "Amherst",
                 "phone": "+1-902-667-3456",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-amherst"
@@ -2063,7 +2063,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "130",
                 "addr:street": "Ryan Street",
-                "addr:postal_code": "C1N 6G2",
+                "addr:postcode": "C1N 6G2",
                 "addr:city": "Summerside",
                 "phone": "+1-902-888-3456",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-summerside"
@@ -2084,7 +2084,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "760",
                 "addr:street": "Sackville Drive",
-                "addr:postal_code": "B4E 1R7",
+                "addr:postcode": "B4E 1R7",
                 "addr:city": "Lower Sackville",
                 "phone": "+1-902-869-2022",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lower-sackville"
@@ -2105,7 +2105,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "190",
                 "addr:street": "Chain Lake Drive",
-                "addr:postal_code": "B3S 1C5",
+                "addr:postcode": "B3S 1C5",
                 "addr:city": "Halifax",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax"
             },
@@ -2125,7 +2125,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "6408",
                 "addr:street": "Quinpool Road",
-                "addr:postal_code": "B3L 1A8",
+                "addr:postcode": "B3L 1A8",
                 "addr:city": "Halifax",
                 "phone": "+1-902-423-7488",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oxford"
@@ -2146,7 +2146,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "5657",
                 "addr:street": "Spring Garden Road",
-                "addr:postal_code": "B3J 3R4",
+                "addr:postcode": "B3J 3R4",
                 "addr:city": "Halifax",
                 "phone": "+1-902-423-4598",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-park-lane"
@@ -2167,7 +2167,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "145",
                 "addr:street": "Shubie Drive",
-                "addr:postal_code": "B3B 0C3",
+                "addr:postcode": "B3B 0C3",
                 "addr:city": "Dartmouth",
                 "phone": "+1-902-481-3251",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dartmouth-crossing"
@@ -2188,7 +2188,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "20",
                 "addr:street": "Treaty Trail",
-                "addr:postal_code": "B6L 1W2",
+                "addr:postcode": "B6L 1W2",
                 "addr:city": "Truro",
                 "phone": "+1-902-895-8022",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-truro"
@@ -2209,7 +2209,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "670",
                 "addr:street": "University Avenue",
-                "addr:postal_code": "C1A 7M4",
+                "addr:postcode": "C1A 7M4",
                 "addr:city": "West Royalty",
                 "phone": "+1-902-892-0943",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-charlottetown"
@@ -2230,7 +2230,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "612",
                 "addr:street": "East River Road",
-                "addr:postal_code": "B2H 3S2",
+                "addr:postcode": "B2H 3S2",
                 "addr:city": "New Glasgow",
                 "phone": "+1-902-928-0550",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-glasgow"
@@ -2251,7 +2251,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "291",
                 "addr:street": "Main Street",
-                "addr:postal_code": "B2G 2C3",
+                "addr:postcode": "B2G 2C3",
                 "addr:city": "Antigonish",
                 "phone": "+1-902-863-4646",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-antigonish"
@@ -2272,7 +2272,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "850",
                 "addr:street": "North May Street",
-                "addr:postal_code": "P7C 6A5",
+                "addr:postcode": "P7C 6A5",
                 "addr:city": "Thunder Bay",
                 "phone": "+1-807-628-8455",
                 "website": "http://www.cineplex.com/Theatre/silvercity-thunder-bay-cinemas"
@@ -2293,7 +2293,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "325",
                 "addr:street": "Prince Street",
-                "addr:postal_code": "B1P 5K6",
+                "addr:postcode": "B1P 5K6",
                 "addr:city": "Sydney",
                 "phone": "+1-902-539-9050",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sydney"
@@ -2314,7 +2314,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2",
                 "addr:street": "Main Street",
-                "addr:postal_code": "A2H 6G7",
+                "addr:postcode": "A2H 6G7",
                 "addr:city": "Corner Brook",
                 "phone": "+1-709-634-2074",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-millbrook"
@@ -2335,7 +2335,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1555",
                 "addr:street": "Regent Avenue West",
-                "addr:postal_code": "R2C 4J2",
+                "addr:postcode": "R2C 4J2",
                 "addr:city": "Winnipeg",
                 "phone": "+1-204-663-2166",
                 "website": "http://www.cineplex.com/Theatre/famous-players-kildonan-place-cinemas"
@@ -2356,7 +2356,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "160-1225",
                 "addr:street": "St. Mary's Road",
-                "addr:postal_code": "R2M 5E5",
+                "addr:postcode": "R2M 5E5",
                 "addr:city": "Winnipeg",
                 "phone": "+1-204-256-3901",
                 "website": "http://www.cineplex.com/Theatre/silvercity-st-vital-cinemas"
@@ -2377,7 +2377,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1399",
                 "addr:street": "McPhillips Street",
-                "addr:postal_code": "R2V 3C4",
+                "addr:postcode": "R2V 3C4",
                 "addr:city": "Winnipeg",
                 "phone": "+1-204-334-6253",
                 "website": "http://www.cineplex.com/Theatre/cinema-city-northgate"
@@ -2398,7 +2398,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2190",
                 "addr:street": "McGillivray Boulevard",
-                "addr:postal_code": "R3Y 1S6",
+                "addr:postcode": "R3Y 1S6",
                 "addr:city": "Winnipeg",
                 "phone": "+1-204-269-9981",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-mcgillivray-cinemas-and-vip"
@@ -2419,7 +2419,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "817",
                 "addr:street": "St. James Street",
-                "addr:postal_code": "R3G 3L3",
+                "addr:postcode": "R3G 3L3",
                 "addr:city": "Winnipeg",
                 "phone": "+1-204-774-1001",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg-formerly-silvercity-polo-park"
@@ -2440,7 +2440,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "760",
                 "addr:street": "Topsail Road",
-                "addr:postal_code": "A1N 3J5",
+                "addr:postcode": "A1N 3J5",
                 "addr:city": "St. John's",
                 "phone": "+1-709-364-8503",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mount-pearl"
@@ -2461,7 +2461,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "48",
                 "addr:street": "Kenmount Road",
-                "addr:postal_code": "A1B 1W3",
+                "addr:postcode": "A1B 1W3",
                 "addr:city": "St. John's",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall"
             },
@@ -2481,7 +2481,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3025",
                 "addr:street": "Gordon Road",
-                "addr:postal_code": "S4S 6H7",
+                "addr:postcode": "S4S 6H7",
                 "addr:city": "Regina",
                 "phone": "+1-306-585-3383",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-southland-mall-cinemas"
@@ -2502,7 +2502,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "420",
                 "addr:street": "McCarthy Boulevard North",
-                "addr:postal_code": "S4R 7M2",
+                "addr:postcode": "S4R 7M2",
                 "addr:unit": "26",
                 "addr:city": "Regina",
                 "phone": "+1-306-522-9098",
@@ -2524,7 +2524,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1235",
                 "addr:street": "Main Street North",
-                "addr:postal_code": "S6H 6M4",
+                "addr:postcode": "S6H 6M4",
                 "addr:city": "Moose Jaw",
                 "phone": "+1-306-693-3456",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-moose-jaw"
@@ -2545,7 +2545,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2995",
                 "addr:street": "2nd Avenue West",
-                "addr:postal_code": "S6V 5V5",
+                "addr:postcode": "S6V 5V5",
                 "addr:unit": "1C",
                 "addr:city": "Prince Albert",
                 "phone": "+1-306-922-5970",
@@ -2567,7 +2567,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3510-8th",
                 "addr:street": "Street",
-                "addr:postal_code": "S7H 0W6",
+                "addr:postcode": "S7H 0W6",
                 "addr:city": "Saskatoon",
                 "phone": "+1-306-955-1938",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-centre-cinemas"
@@ -2588,7 +2588,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "347-2nd",
                 "addr:street": "Avenue South",
-                "addr:postal_code": "S7K 1L1",
+                "addr:postcode": "S7K 1L1",
                 "addr:city": "Saskatoon",
                 "phone": "+1-306-664-5060",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-saskatoon-and-vip"
@@ -2609,7 +2609,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3292",
                 "addr:street": "Dunmore Road SE",
-                "addr:postal_code": "T1B 2R4",
+                "addr:postcode": "T1B 2R4",
                 "addr:city": "Medicine Hat",
                 "phone": "+1-403-504-5477",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-medicine-hat"
@@ -2630,7 +2630,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "501-1st",
                 "addr:street": "Avenue South West",
-                "addr:postal_code": "T1J 0A1",
+                "addr:postcode": "T1J 0A1",
                 "addr:city": "Lethbridge",
                 "phone": "+1-403-329-0002",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-lethbridge"
@@ -2651,7 +2651,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2020",
                 "addr:street": "Sherwood Drive",
-                "addr:postal_code": "T8A 3H9",
+                "addr:postcode": "T8A 3H9",
                 "addr:city": "Sherwood Park",
                 "phone": "+1-780-416-0152",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sherwood-park-formerly-galaxy-cinemas"
@@ -2672,7 +2672,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "15531",
                 "addr:street": "37 ST NW",
-                "addr:postal_code": "T5Y 0S5",
+                "addr:postcode": "T5Y 0S5",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-476-7807",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-manning-town-centre"
@@ -2693,7 +2693,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "5074",
                 "addr:street": "130 Avenue",
-                "addr:postal_code": "T5A 5A9",
+                "addr:postcode": "T5A 5A9",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-472-9779",
                 "website": "http://www.cineplex.com/Theatre/cinema-city-movies-12"
@@ -2714,7 +2714,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "1525-99th",
                 "addr:street": "Street NW",
-                "addr:postal_code": "T6N 1K5",
+                "addr:postcode": "T6N 1K5",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-436-8585",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-edmonton-cinemas"
@@ -2735,7 +2735,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "14231-137th",
                 "addr:street": "Avenue",
-                "addr:postal_code": "T5L 5E8",
+                "addr:postcode": "T5L 5E8",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-732-2236",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-north-edmonton-cinemas"
@@ -2756,7 +2756,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "6151",
                 "addr:street": "Currents Drive NW",
-                "addr:postal_code": "T6W 0L9",
+                "addr:postcode": "T6W 0L9",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-822-4250",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-windermere-cinemas-and-vip"
@@ -2777,7 +2777,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3030",
                 "addr:street": "8882-170 Street",
-                "addr:postal_code": "T5T 4M2",
+                "addr:postcode": "T5T 4M2",
                 "addr:city": "Edmonton",
                 "phone": "+1-780-444-2400",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-edmonton"
@@ -2798,7 +2798,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "357-37400",
                 "addr:street": "Highway 2, Red Deer County, Red Deer County",
-                "addr:postal_code": "T4E 1B9",
+                "addr:postcode": "T4E 1B9",
                 "addr:city": "Red Deer",
                 "phone": "+1-403-348-2357",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-red-deer"
@@ -2819,7 +2819,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "261055",
                 "addr:street": "CrossIron Boulevard",
-                "addr:postal_code": "T4A 0G3",
+                "addr:postcode": "T4A 0G3",
                 "addr:city": "Rocky View",
                 "phone": "+1-403-274-3261",
                 "website": "http://www.cineplex.com/Theatre/silvercity-crossiron-mills-and-xscape-entertainment-centre"
@@ -2840,7 +2840,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "400",
                 "addr:street": "2555-32nd Street NE",
-                "addr:postal_code": "T1Y 7J6",
+                "addr:postcode": "T1Y 7J6",
                 "addr:city": "Calgary",
                 "phone": "+1-403-717-1200",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-sunridge-spectrum-cinemas"
@@ -2861,7 +2861,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "200",
                 "addr:street": "Barclay Parade SW",
-                "addr:postal_code": "T2P 4R5",
+                "addr:postcode": "T2P 4R5",
                 "addr:city": "Calgary",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas"
             },
@@ -2881,7 +2881,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "6455",
                 "addr:street": "Macleod Trail SW",
-                "addr:postal_code": "T2H 0K4",
+                "addr:postcode": "T2H 0K4",
                 "addr:city": "Calgary",
                 "phone": "+1-403-212-8994",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-chinook"
@@ -2902,7 +2902,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "165",
                 "addr:street": "Stewart Green SW",
-                "addr:postal_code": "T3H 3C8",
+                "addr:postcode": "T3H 3C8",
                 "addr:city": "Calgary",
                 "phone": "+1-403-246-5291",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westhills-cinemas"
@@ -2923,7 +2923,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "91",
                 "addr:street": "Crowfoot Terrace NW",
-                "addr:postal_code": "T3G 2L5",
+                "addr:postcode": "T3G 2L5",
                 "addr:city": "Calgary",
                 "phone": "+1-403-547-3316",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-crowfoot-crossing-cinemas"
@@ -2944,7 +2944,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "10330",
                 "addr:street": "109th Street",
-                "addr:postal_code": "T8V 7X3",
+                "addr:postcode": "T8V 7X3",
                 "addr:city": "Grande Prairie",
                 "phone": "+1-780-513-5534",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-grande-prairie-cinemas"
@@ -2965,7 +2965,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "275-2306",
                 "addr:street": "Highway 6",
-                "addr:postal_code": "V1T 7E3",
+                "addr:postcode": "V1T 7E3",
                 "addr:city": "Vernon",
                 "phone": "+1-250-542-1107",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-vernon"
@@ -2986,7 +2986,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "160-1876",
                 "addr:street": "Cooper Road",
-                "addr:postal_code": "V1Y 9N6",
+                "addr:postcode": "V1Y 9N6",
                 "addr:city": "Kelowna",
                 "phone": "+1-250-860-1611",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-orchard-plaza"
@@ -3007,7 +3007,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "700-1320",
                 "addr:street": "West Trans Canada Highway",
-                "addr:postal_code": "V1S 1J2",
+                "addr:postcode": "V1S 1J2",
                 "addr:city": "Kamloops",
                 "phone": "+1-250-377-8401",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aberdeen-mall-cinemas"
@@ -3028,7 +3028,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "172-1600",
                 "addr:street": "15th Avenue",
-                "addr:postal_code": "V2L 3X3",
+                "addr:postcode": "V2L 3X3",
                 "addr:city": "Prince George",
                 "phone": "+1-250-612-3993",
                 "website": "http://www.cineplex.com/Theatre/famous-players-6-cinemas"
@@ -3049,7 +3049,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "8249",
                 "addr:street": "Eagle Landing Parkway",
-                "addr:postal_code": "V2P 7K6",
+                "addr:postcode": "V2P 7K6",
                 "addr:city": "Chilliwack",
                 "phone": "+1-604-793-0516",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chilliwack"
@@ -3070,7 +3070,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "32555",
                 "addr:street": "London Avenue",
-                "addr:postal_code": "V2V 6M7",
+                "addr:postcode": "V2V 6M7",
                 "addr:city": "Mission",
                 "website": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas"
             },
@@ -3090,7 +3090,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3122",
                 "addr:street": "Mt. Lehman Rd.",
-                "addr:postal_code": "V4X 2K9",
+                "addr:postcode": "V4X 2K9",
                 "addr:unit": "J200",
                 "addr:city": "Abbotsford",
                 "phone": "+1-604-504-9701",
@@ -3112,7 +3112,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "410",
                 "addr:street": "19800 Lougheed Highway",
-                "addr:postal_code": "V3Y 2W1",
+                "addr:postcode": "V3Y 2W1",
                 "addr:city": "Pitt Meadows",
                 "phone": "+1-604-460-6455",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-meadowtown-cinemas"
@@ -3133,7 +3133,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "20090",
                 "addr:street": "91A Avenue",
-                "addr:postal_code": "V1M 3Y9",
+                "addr:postcode": "V1M 3Y9",
                 "addr:city": "Langley",
                 "phone": "+1-604-513-8747",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-langley"
@@ -3152,7 +3152,7 @@
                 "name": "Cineplex Cinemas Coquitlam and VIP",
                 "amenity": "cinema",
                 "operator": "Cineplex",
-                "addr:postal_code": "V3K 4X9",
+                "addr:postcode": "V3K 4X9",
                 "addr:city": "Coquitlam",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip"
             },
@@ -3172,7 +3172,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "12161-72nd",
                 "addr:street": "Avenue",
-                "addr:postal_code": "V3W 2M1",
+                "addr:postcode": "V3W 2M1",
                 "addr:city": "Surrey",
                 "phone": "+1-604-501-9400",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill"
@@ -3193,7 +3193,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "4700",
                 "addr:street": "Kingsway",
-                "addr:postal_code": "V5H 4M1",
+                "addr:postcode": "V5H 4M1",
                 "addr:city": "Burnaby",
                 "phone": "+1-604-435-7474",
                 "website": "http://www.cineplex.com/Theatre/silvercity-metropolis-cinemas"
@@ -3214,7 +3214,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "200-333",
                 "addr:street": "Brooksbank Avenue",
-                "addr:postal_code": "V7J 3S8",
+                "addr:postcode": "V7J 3S8",
                 "addr:city": "N. Vancouver",
                 "phone": "+1-604-985-3911",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-park-tilford-cinemas"
@@ -3233,7 +3233,7 @@
                 "name": "Cineplex Cinemas Esplanade",
                 "amenity": "cinema",
                 "operator": "Cineplex",
-                "addr:postal_code": "V7M 1A4",
+                "addr:postcode": "V7M 1A4",
                 "addr:city": "N. Vancouver",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade"
             },
@@ -3253,7 +3253,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "88",
                 "addr:street": "West Pender, 3rd Floor",
-                "addr:postal_code": "V6B 6N9",
+                "addr:postcode": "V6B 6N9",
                 "addr:city": "Vancouver",
                 "phone": "+1-604-806-0799",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-international-village-cinemas"
@@ -3274,7 +3274,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "14211",
                 "addr:street": "Entertainment Way",
-                "addr:postal_code": "V6W 1K4",
+                "addr:postcode": "V6W 1K4",
                 "addr:city": "Richmond",
                 "phone": "+1-604-277-5993",
                 "website": "http://www.cineplex.com/Theatre/silvercity-riverport-cinemas"
@@ -3295,7 +3295,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3440",
                 "addr:street": "Cambie St.",
-                "addr:postal_code": "V5Z 2W8",
+                "addr:postcode": "V5Z 2W8",
                 "addr:city": "Vancouver",
                 "phone": "+1-604-709-3456",
                 "website": "http://www.cineplex.com/Theatre/the-park-theatre"
@@ -3316,7 +3316,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "900",
                 "addr:street": "Burrard Street",
-                "addr:postal_code": "V6Z 3G5",
+                "addr:postcode": "V6Z 3G5",
                 "addr:city": "Vancouver",
                 "phone": "+1-604-630-1407",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-vancouver"
@@ -3337,7 +3337,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "452",
                 "addr:street": "South West Marine Drive",
-                "addr:postal_code": "V5X 0C3",
+                "addr:postcode": "V5X 0C3",
                 "addr:city": "Vancouver",
                 "phone": "+1-604-630-0414",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-marine-gateway-and-vip"
@@ -3358,7 +3358,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "2110",
                 "addr:street": "Burrard Street",
-                "addr:postal_code": "V6J 3H6",
+                "addr:postcode": "V6J 3H6",
                 "addr:city": "Vancouver",
                 "phone": "+1-604-734-7469",
                 "website": "http://www.cineplex.com/Theatre/fifth-avenue-cinemas-age-restricted-19"
@@ -3379,7 +3379,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "780",
                 "addr:street": "Yates Street",
-                "addr:postal_code": "V8W 1L4",
+                "addr:postcode": "V8W 1L4",
                 "addr:city": "Victoria",
                 "phone": "+1-250-383-0513",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-victoria-cinemas"
@@ -3400,7 +3400,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "3130",
                 "addr:street": "Tillicum Road",
-                "addr:postal_code": "V9A 6T2",
+                "addr:postcode": "V9A 6T2",
                 "addr:city": "Victoria",
                 "phone": "+1-250-381-9300",
                 "website": "http://www.cineplex.com/Theatre/silvercity-victoria-cinemas"
@@ -3421,7 +3421,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "900",
                 "addr:street": "2945 Jacklin Rd",
-                "addr:postal_code": "V9B 5E3",
+                "addr:postcode": "V9B 5E3",
                 "addr:city": "Langford",
                 "phone": "+1-250-474-1007",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westshore-cinemas"
@@ -3442,7 +3442,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "213-4750",
                 "addr:street": "Rutherford Road",
-                "addr:postal_code": "V9T 4K6",
+                "addr:postcode": "V9T 4K6",
                 "addr:city": "Nanaimo",
                 "phone": "+1-250-729-8000",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-nanaimo"
@@ -3463,7 +3463,7 @@
                 "operator": "Cineplex",
                 "addr:housenumber": "525",
                 "addr:street": "West 2nd Avenue",
-                "addr:postal_code": "V8J 1G9",
+                "addr:postcode": "V8J 1G9",
                 "addr:city": "Prince Rupert",
                 "phone": "+1-250-622-2582",
                 "website": "http://www.cineplex.com/Theatre/famous-players-prince-rupert-cinemas"
