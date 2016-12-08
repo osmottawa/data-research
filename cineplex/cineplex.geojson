@@ -155,8 +155,8 @@
                 "name": "Galaxy Cinemas Brockville",
                 "amenity": "cinema",
                 "operator": "Cineplex",
-                "addr:housenumber": "1000",
-                "addr:street": "Island Mall",
+                "addr:housenumber": "2399",
+                "addr:street": "Parkedale Avenue",
                 "addr:postcode": "K6V 2G9",
                 "addr:city": "Brockville",
                 "phone": "+1-613-498-2217",
@@ -264,6 +264,7 @@
                 "addr:street": "boulevard Cavendish",
                 "addr:postcode": "H4W 2T5",
                 "addr:city": "Cote Saint-Luc",
+                "phone": "+1-514-485-7111",
                 "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall"
             },
             "geometry": {
@@ -683,6 +684,7 @@
                 "addr:street": "Kingston Road",
                 "addr:postcode": "L1V 1B8",
                 "addr:city": "Pickering",
+                "phone": "+1-905-839-2977",
                 "website": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas"
             },
             "geometry": {
@@ -808,6 +810,7 @@
                 "addr:street": "Borough Drive",
                 "addr:postcode": "M1P 4P5",
                 "addr:city": "Scarborough",
+                "phone": "+1-416-290-5217",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough"
             },
             "geometry": {
@@ -825,8 +828,9 @@
                 "amenity": "cinema",
                 "operator": "Cineplex",
                 "addr:housenumber": "179",
-                "addr:street": "Enterprise Blvd.",
+                "addr:street": "Enterprise Boulevard",
                 "addr:postcode": "L6G 0E7",
+                "addr:unit": "169",
                 "addr:city": "Markham",
                 "phone": "+1-905-479-1778",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip"
@@ -870,6 +874,7 @@
                 "addr:street": "Highway 93",
                 "addr:postcode": "L4R 4K4",
                 "addr:city": "Midland",
+                "phone": "+1-705-527-5927",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland"
             },
             "geometry": {
@@ -955,6 +960,7 @@
                 "addr:postcode": "M3C 0H9",
                 "addr:unit": "B7",
                 "addr:city": "Toronto",
+                "phone": "+1-416-644-0660",
                 "website": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills"
             },
             "geometry": {
@@ -1101,6 +1107,7 @@
                 "addr:street": "Dufferin Street",
                 "addr:postcode": "M6A 2T9",
                 "addr:city": "Toronto",
+                "phone": "+1-416-787-2052",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale"
             },
             "geometry": {
@@ -1394,6 +1401,7 @@
                 "addr:street": "Fifth Avenue",
                 "addr:postcode": "L9W 5B7",
                 "addr:city": "Orangeville",
+                "phone": "+1-519-941-2333",
                 "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville"
             },
             "geometry": {
@@ -2107,6 +2115,7 @@
                 "addr:street": "Chain Lake Drive",
                 "addr:postcode": "B3S 1C5",
                 "addr:city": "Halifax",
+                "phone": "+1-902-876-4800",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax"
             },
             "geometry": {
@@ -2463,6 +2472,7 @@
                 "addr:street": "Kenmount Road",
                 "addr:postcode": "A1B 1W3",
                 "addr:city": "St. John's",
+                "phone": "+1-709-722-5763",
                 "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall"
             },
             "geometry": {
@@ -2863,6 +2873,7 @@
                 "addr:street": "Barclay Parade SW",
                 "addr:postcode": "T2P 4R5",
                 "addr:city": "Calgary",
+                "phone": "+1-403-263-3166",
                 "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas"
             },
             "geometry": {
@@ -3072,6 +3083,7 @@
                 "addr:street": "London Avenue",
                 "addr:postcode": "V2V 6M7",
                 "addr:city": "Mission",
+                "phone": "+1-604-820-2733",
                 "website": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas"
             },
             "geometry": {
@@ -3152,8 +3164,11 @@
                 "name": "Cineplex Cinemas Coquitlam and VIP",
                 "amenity": "cinema",
                 "operator": "Cineplex",
+                "addr:housenumber": "170",
+                "addr:street": "Schoolhouse Street",
                 "addr:postcode": "V3K 4X9",
                 "addr:city": "Coquitlam",
+                "phone": "+1-null",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip"
             },
             "geometry": {
@@ -3233,8 +3248,11 @@
                 "name": "Cineplex Cinemas Esplanade",
                 "amenity": "cinema",
                 "operator": "Cineplex",
+                "addr:housenumber": "200",
+                "addr:street": "West Esplanade",
                 "addr:postcode": "V7M 1A4",
                 "addr:city": "N. Vancouver",
+                "phone": "+1-null",
                 "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade"
             },
             "geometry": {
