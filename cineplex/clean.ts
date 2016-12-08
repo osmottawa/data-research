@@ -111,6 +111,7 @@ source.results.collection1.map(result => {
   let housenumber = fullroad.match(/^\d[\d\-a-zA-Z]*/) ? fullroad.match(/^\d[\d\-a-zA-Z]*/)[0] : undefined
   const unit = fullroad.match(/Unit ([\da-zA-Z]+)/) ? fullroad.match(/Unit ([\da-zA-Z]+)/)[1] : undefined
   let street = housenumber ? fullroad.replace(housenumber, '').trim().replace(/^,/, '').trim().replace(`Unit ${ unit }`, '').trim().replace(/,$/, '').trim() : undefined 
+  if (street && street.match(',')) { street = street.split(',')[0]}
 
   // Phone
   const phoneMatch = result.phone.text && result.phone.text.match(/\((\d+)\) (\d+)-(\d+)/)
