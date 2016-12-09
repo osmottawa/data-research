@@ -1,0 +1,3498 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Lansdowne and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "325",
+                "addr:street": "Marche Way",
+                "addr:postcode": "K1S 5J3",
+                "addr:unit": "107",
+                "addr:city": "Ottawa",
+                "phone": "+1-613-232-2770",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lansdowne-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6836293,
+                    45.3998248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Starcité Gatineau",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "115",
+                "addr:street": "boulevard Du Plateau",
+                "addr:postcode": "J9A 3G1",
+                "addr:city": "Hull",
+                "phone": "+1-819-770-1090",
+                "website": "http://www.cineplex.com/Theatre/cinema-starcite-gatineau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.77602,
+                    45.435911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Ottawa (formerly SilverCity Gloucester)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2385",
+                "addr:street": "City Park Drive",
+                "addr:postcode": "K1J 1G1",
+                "addr:city": "Gloucester",
+                "phone": "+1-613-749-5112",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-ottawa-formerly-silvercity-gloucester"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.612752,
+                    45.432609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon South Keys Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2214",
+                "addr:street": "Bank Street",
+                "addr:postcode": "K1V 1J6",
+                "addr:city": "Ottawa",
+                "phone": "+1-613-736-1115",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-keys-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.654245,
+                    45.357422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Ottawa",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3090",
+                "addr:street": "Carling Avenue",
+                "addr:postcode": "K2B 7K2",
+                "addr:city": "Ottawa",
+                "phone": "+1-613-596-9475",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.80605,
+                    45.354452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Barrhaven Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "131",
+                "addr:street": "Riocan Avenue",
+                "addr:postcode": "K2J 5G5",
+                "addr:city": "Barrhaven",
+                "phone": "+1-613-825-2463",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-barrhaven-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.741067,
+                    45.269531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Cornwall",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1325",
+                "addr:street": "Second Street East",
+                "addr:postcode": "K6H 2B6",
+                "addr:city": "Cornwall",
+                "phone": "+1-613-932-4500",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cornwall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.704688,
+                    45.026114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Brockville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2399",
+                "addr:street": "Parkedale Avenue",
+                "addr:postcode": "K6V 2G9",
+                "addr:city": "Brockville",
+                "phone": "+1-613-498-2217",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brockville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.700811,
+                    44.603859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Carrefour Dorion",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "391",
+                "addr:street": "boulevard Harwood",
+                "addr:postcode": "J7V 7W1",
+                "addr:city": "Dorion",
+                "phone": "+1-450-455-9853",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-carrefour-dorion"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.018583,
+                    45.381437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Kirkland",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3200",
+                "addr:street": "rue Jean Yves",
+                "addr:postcode": "H9J 2R6",
+                "addr:city": "Kirkland",
+                "phone": "+1-514-694-8922",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-kirkland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.886466,
+                    45.440559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Gardiners Road Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "626",
+                "addr:street": "Gardiners Road",
+                "addr:postcode": "K7M 3X9",
+                "addr:city": "Kingston",
+                "phone": "+1-613-634-0152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-gardiners-road-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.562101,
+                    44.244361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Laval ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2800",
+                "addr:street": "avenue Du Cosmodôme",
+                "addr:postcode": "H7T 2X1",
+                "addr:city": "Laval",
+                "phone": "+1-450-978-0212",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-laval"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.745071,
+                    45.564966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Cavendish Mall",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "5800",
+                "addr:street": "boulevard Cavendish",
+                "addr:postcode": "H4W 2T5",
+                "addr:city": "Cote Saint-Luc",
+                "phone": "+1-514-485-7111",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.661506,
+                    45.476338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Famous Players Carrefour Angrignon",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "7077",
+                "addr:street": "boulevard Newman",
+                "addr:postcode": "H8N 1X1",
+                "addr:city": "LaSalle",
+                "phone": "+1-514-366-2444",
+                "website": "http://www.cineplex.com/Theatre/cinema-famous-players-carrefour-angrignon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.611317,
+                    45.44769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Place La Salle",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "7816",
+                "addr:street": "Boulevard Champlain",
+                "addr:postcode": "H8P 1B3",
+                "addr:city": "LaSalle",
+                "phone": "+1-514-365-5659",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-place-la-salle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.609546,
+                    45.428419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Forum",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2313",
+                "addr:street": "St. Catherine St. West Suite 101",
+                "addr:postcode": "H3H 1N2",
+                "addr:city": "Montréal",
+                "phone": "+1-514-904-1274",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-forum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.584057,
+                    45.490122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Banque Scotia Montréal",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "977",
+                "addr:street": "rue Sainte-Catherine Ouest",
+                "addr:postcode": "H3B 4W3",
+                "addr:city": "Montréal",
+                "phone": "+1-514-842-0549",
+                "website": "http://www.cineplex.com/Theatre/cinema-banque-scotia-montreal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.572074,
+                    45.501098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Quartier Latin",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "350",
+                "addr:street": "rue Emery",
+                "addr:postcode": "H2X 1J1",
+                "addr:city": "Montréal",
+                "phone": "+1-514-849-2244",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.563536,
+                    45.514479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Starcité Montréal",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "4825",
+                "addr:street": "avenue Pierre De Coubertin",
+                "addr:postcode": "H1V 3V4",
+                "addr:city": "Montréal",
+                "phone": "+1-514-899-8979",
+                "website": "http://www.cineplex.com/Theatre/cinema-starcite-montreal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.547508,
+                    45.560488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Boucherville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "20",
+                "addr:street": "boulevard de Mortagne",
+                "addr:postcode": "J4B 5K6",
+                "addr:city": "Boucherville",
+                "phone": "+1-450-449-6404",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-boucherville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.446334,
+                    45.56833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Brossard et VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "9350",
+                "addr:street": "boulevard Leduc",
+                "addr:postcode": "J4Y 0B3",
+                "addr:city": "Brossard",
+                "phone": "+1-450-678-5542",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-brossard-et-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.435757,
+                    45.444414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon St-Bruno",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1495",
+                "addr:street": "boulevard St-Bruno",
+                "addr:postcode": "J3V 6J1",
+                "addr:city": "St-Bruno",
+                "phone": "+1-450-653-7756",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stbruno"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.38172,
+                    45.507437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Capitol St-Jean",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "286",
+                "addr:street": "rue Richelieu",
+                "addr:postcode": "J3B 6Y4",
+                "addr:city": "St. Jean",
+                "phone": "+1-450-358-3030",
+                "website": "http://www.cineplex.com/Theatre/cinema-capitol-stjean"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.251068,
+                    45.308302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Belleville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "160",
+                "addr:street": "Bell Boulevard",
+                "addr:postcode": "K8P 5L2",
+                "addr:city": "Belleville",
+                "phone": "+1-613-969-8469",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-belleville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.403746,
+                    44.188759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Peterborough",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "320",
+                "addr:street": "Water Street",
+                "addr:postcode": "K9H 7N9",
+                "addr:city": "Peterborough",
+                "phone": "+1-705-749-2000",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-peterborough"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.318584,
+                    44.303657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Clarington Place Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "111",
+                "addr:street": "Clarington Boulevard",
+                "addr:postcode": "L1C 4Z3",
+                "addr:city": "Clarington",
+                "phone": "+1-905-697-0308",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-clarington-place-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.707954,
+                    43.910707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Galaxy Sherbrooke",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "4204",
+                "addr:street": "Bertrand-Fabi",
+                "addr:postcode": "J1N 3Y2",
+                "addr:city": "Rock Forest",
+                "phone": "+1-819-821-4481",
+                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-sherbrooke"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.962917,
+                    45.383456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Oshawa Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1351",
+                "addr:street": "Grandview Street North",
+                "addr:postcode": "L1K 0G1",
+                "addr:city": "Oshawa",
+                "phone": "+1-905-432-3486",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-oshawa-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.836914,
+                    43.941749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Galaxy Victoriaville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1121",
+                "addr:street": "boulevard Jutras Est",
+                "addr:postcode": "G6S 1J1",
+                "addr:city": "Victoriaville",
+                "phone": "+1-819-357-7000",
+                "website": "http://www.cineplex.com/Theatre/cinema-galaxy-victoriaville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.92874,
+                    46.062622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas North Bay",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "300",
+                "addr:street": "Lakeshore Drive",
+                "addr:postcode": "P1A 3V2",
+                "addr:city": "North Bay",
+                "phone": "+1-705-476-6410",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-north-bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.448782,
+                    46.282852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Orillia",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "865",
+                "addr:street": "West Ridge Boulevard",
+                "addr:postcode": "L3V 8B3",
+                "addr:city": "Orillia",
+                "phone": "+1-705-326-8908",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orillia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.453211,
+                    44.606563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Ajax Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "248",
+                "addr:street": "Kingston Road East",
+                "addr:postcode": "L1S 1G1",
+                "addr:city": "Ajax",
+                "phone": "+1-905-426-7772",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-ajax-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.016402,
+                    43.866253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Famous Players Pickering 8 Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1355",
+                "addr:street": "Kingston Road",
+                "addr:postcode": "L1V 1B8",
+                "addr:city": "Pickering",
+                "phone": "+1-905-839-2977",
+                "website": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.088559,
+                    43.837282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Morningside Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "785",
+                "addr:street": "Milner Avenue",
+                "addr:postcode": "M1B 3C3",
+                "addr:city": "Scarborough",
+                "phone": "+1-416-281-1444",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-morningside-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.204,
+                    43.797755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas North Barrie",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "507",
+                "addr:street": "Cundles Road East",
+                "addr:postcode": "L4M 0G9",
+                "addr:city": "Barrie",
+                "phone": "+1-705-302-0159",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-north-barrie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6750162,
+                    44.415242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Newmarket Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "18195",
+                "addr:street": "Yonge Street",
+                "addr:postcode": "L9N 0H9",
+                "addr:city": "East Gwillimbury",
+                "phone": "+1-905-953-2792",
+                "website": "http://www.cineplex.com/Theatre/silvercity-newmarket-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.484036,
+                    44.070601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Aurora Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "15460",
+                "addr:street": "Bayview Avenue",
+                "addr:postcode": "L4G 7J1",
+                "addr:city": "Aurora",
+                "phone": "+1-905-841-1789",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aurora-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.444875,
+                    44.010187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bayfield Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "320",
+                "addr:street": "Bayfield St",
+                "addr:postcode": "L4M 3C1",
+                "addr:city": "Barrie",
+                "phone": "+1-705-726-3456",
+                "website": "http://www.cineplex.com/Theatre/bayfield-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.703321,
+                    44.40161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Scarborough",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "300",
+                "addr:street": "Borough Drive",
+                "addr:postcode": "M1P 4P5",
+                "addr:city": "Scarborough",
+                "phone": "+1-416-290-5217",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.255285,
+                    43.776401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Markham and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "179",
+                "addr:street": "Enterprise Boulevard",
+                "addr:postcode": "L6G 0E7",
+                "addr:unit": "169",
+                "addr:city": "Markham",
+                "phone": "+1-905-479-1778",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.323928,
+                    43.849312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Barrie",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "72",
+                "addr:street": "Commerce Park Drive",
+                "addr:postcode": "L4N 8W8",
+                "addr:city": "Barrie",
+                "phone": "+1-705-728-1171",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-barrie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.685753,
+                    44.325548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Midland",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "9226",
+                "addr:street": "Highway 93",
+                "addr:postcode": "L4R 4K4",
+                "addr:city": "Midland",
+                "phone": "+1-705-527-5927",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.911616,
+                    44.736926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Eglinton Town Centre Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "22",
+                "addr:street": "Lebovic Avenue",
+                "addr:postcode": "M1L 4V9",
+                "addr:city": "Toronto",
+                "phone": "+1-416-752-4494",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eglinton-town-centre-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.290907,
+                    43.725244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Fairview Mall",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1800",
+                "addr:street": "Sheppard Avenue East",
+                "addr:postcode": "M2J 5A7",
+                "addr:unit": "Y007",
+                "addr:city": "Toronto",
+                "phone": "+1-416-644-7746",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fairview-mall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.345296,
+                    43.77563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Richmond Hill Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "8725",
+                "addr:street": "Yonge Street",
+                "addr:postcode": "L4C 6Z1",
+                "addr:city": "Richmond Hill",
+                "phone": "+1-905-709-8755",
+                "website": "http://www.cineplex.com/Theatre/silvercity-richmond-hill-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.427333,
+                    43.839611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex VIP Cinemas Don Mills",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "12",
+                "addr:street": "Marie Labatte Road",
+                "addr:postcode": "M3C 0H9",
+                "addr:unit": "B7",
+                "addr:city": "Toronto",
+                "phone": "+1-416-644-0660",
+                "website": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.346049,
+                    43.734328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Beach Cinemas - Alliance Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1651",
+                "addr:street": "Queen Street East",
+                "addr:postcode": "M4L 1G5",
+                "addr:city": "Toronto",
+                "phone": "+1-416-699-1327",
+                "website": "http://www.cineplex.com/Theatre/the-beach-cinemas-alliance-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.31424,
+                    43.66694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Empress Walk",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "5095",
+                "addr:street": "Yonge St.",
+                "addr:postcode": "M2N 6Z4",
+                "addr:city": "Toronto",
+                "phone": "+1-416-847-0218",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-empress-walk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.412527,
+                    43.768266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Yonge-Eglinton and VIP (formerly SilverCity)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2300",
+                "addr:street": "Yonge Street",
+                "addr:postcode": "M4P 1E4",
+                "addr:city": "Toronto",
+                "phone": "+1-416-544-1236",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongeeglinton-and-vip-formerly-silvercity"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.398663,
+                    43.707236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Famous Players Canada Square Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2190",
+                "addr:street": "Yonge Street",
+                "addr:postcode": "M4S 2C6",
+                "addr:city": "Toronto",
+                "phone": "+1-416-646-2913",
+                "website": "http://www.cineplex.com/Theatre/famous-players-canada-square-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.39816,
+                    43.704803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Varsity and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "55",
+                "addr:street": "Bloor Street West",
+                "addr:postcode": "M4W 1A5",
+                "addr:city": "Toronto",
+                "phone": "+1-416-961-6304",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-varsity-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.388759,
+                    43.669671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Yonge-Dundas and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "10",
+                "addr:street": "Dundas Street East",
+                "addr:postcode": "M5B 2G9",
+                "addr:city": "Toronto",
+                "phone": "+1-416-977-9262",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongedundas-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.380484,
+                    43.656746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Yorkdale",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3401",
+                "addr:street": "Dufferin Street",
+                "addr:postcode": "M6A 2T9",
+                "addr:city": "Toronto",
+                "phone": "+1-416-787-2052",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.45703,
+                    43.724762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Toronto",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "259",
+                "addr:street": "Richmond Street West",
+                "addr:postcode": "M5V 3M6",
+                "addr:city": "Toronto",
+                "phone": "+1-416-368-5600",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-toronto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.390559,
+                    43.649039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Vaughan",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3555",
+                "addr:street": "Highway 7 West",
+                "addr:postcode": "L4L 6B1",
+                "addr:city": "Vaughan",
+                "phone": "+1-905-851-1001",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-vaughan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.54477,
+                    43.788143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Queensway and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1025",
+                "addr:street": "The Queensway",
+                "addr:postcode": "M8Z 6C7",
+                "addr:city": "Etobicoke",
+                "phone": "+1-416-503-0424",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-queensway-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.51546,
+                    43.621281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Ste-Foy",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1200",
+                "addr:street": "autoroute Duplessis",
+                "addr:postcode": "G2G 2B5",
+                "addr:city": "St. Foy",
+                "phone": "+1-418-871-1550",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stefoy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.35294,
+                    46.786632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Collingwood",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "6",
+                "addr:street": "Mountain Road",
+                "addr:postcode": "L9Y 4S8",
+                "addr:city": "Collingwood",
+                "phone": "+1-705-443-8478",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-collingwood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.238369,
+                    44.501495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Orion Gate Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "20",
+                "addr:street": "Biscayne Crescent",
+                "addr:postcode": "L6W 4S1",
+                "addr:city": "Brampton",
+                "phone": "+1-905-455-1590",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-orion-gate-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.714523,
+                    43.68036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Brampton Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "50",
+                "addr:street": "Great Lakes Drive",
+                "addr:postcode": "L6R 2K7",
+                "addr:city": "Brampton",
+                "phone": "+1-905-789-6785",
+                "website": "http://www.cineplex.com/Theatre/silvercity-brampton-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.762431,
+                    43.731608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex IMAX aux Galeries de la Capitale",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "5401",
+                "addr:street": "boulevard des Galeries",
+                "addr:postcode": "G2K 1N4",
+                "addr:city": "Québec",
+                "phone": "+1-418-624-4629",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2987181,
+                    46.8310776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Courtney Park",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "110",
+                "addr:street": "Courtneypark Dr E",
+                "addr:postcode": "L5T 2Y3",
+                "addr:city": "Mississauga",
+                "phone": "+1-905-362-1234",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-courtney-park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6902,
+                    43.636624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Mississauga",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "309",
+                "addr:street": "Rathburn Road West",
+                "addr:postcode": "L5B 4C1",
+                "addr:city": "Mississauga",
+                "phone": "+1-905-275-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mississauga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.650364,
+                    43.591364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Niagara Square Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "7555",
+                "addr:street": "Montrose Road",
+                "addr:postcode": "L2H 2E9",
+                "addr:city": "Niagara Falls",
+                "phone": "+1-905-357-1900",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-niagara-square-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.126126,
+                    43.068949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Winston Churchill",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2081",
+                "addr:street": "Winston Park Dr.",
+                "addr:postcode": "L6H 6P5",
+                "addr:city": "Oakville",
+                "phone": "+1-905-829-2009",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-winston-churchill"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.669165,
+                    43.509563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinéma Cineplex Odeon Beauport",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "825",
+                "addr:street": "rue Clémenceau",
+                "addr:postcode": "G1C 2K6",
+                "addr:city": "Beauport",
+                "phone": "+1-418-661-9494",
+                "website": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-beauport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.206448,
+                    46.868069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Orangeville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "85",
+                "addr:street": "Fifth Avenue",
+                "addr:postcode": "L9W 5B7",
+                "addr:city": "Orangeville",
+                "phone": "+1-519-941-2333",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.094205,
+                    43.929264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Seaway Mall Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "800",
+                "addr:street": "Niagara Street",
+                "addr:postcode": "L3C 1M3",
+                "addr:city": "Welland",
+                "phone": "+1-905-735-5286",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-seaway-mall-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.249765,
+                    43.015427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Milton",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1175",
+                "addr:street": "Maple Avenue",
+                "addr:postcode": "L9T 0A5",
+                "addr:city": "Milton",
+                "phone": "+1-905-864-1666",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-milton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.869224,
+                    43.537856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Oakville and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3531",
+                "addr:street": "Wyecroft Road",
+                "addr:postcode": "L6L 0B7",
+                "addr:city": "Oakville",
+                "phone": "+1-905-827-7173",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oakville-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.750861,
+                    43.39358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Burlington Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1250",
+                "addr:street": "Brant Street",
+                "addr:postcode": "L7P 1X8",
+                "addr:city": "Burlington",
+                "phone": "+1-905-319-8677",
+                "website": "http://www.cineplex.com/Theatre/silvercity-burlington-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.829648,
+                    43.343731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Hamilton Mountain Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "795",
+                "addr:street": "Paramount Drive",
+                "addr:postcode": "L8J 0B4",
+                "addr:city": "Stoney Creek",
+                "phone": "+1-905-560-0239",
+                "website": "http://www.cineplex.com/Theatre/silvercity-hamilton-mountain-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.810529,
+                    43.19191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Pergola Commons",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "85",
+                "addr:street": "Clair Road East",
+                "addr:postcode": "N1L 0J7",
+                "addr:city": "Guelph",
+                "phone": "+1-519-821-3468",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-pergola-commons"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.188443,
+                    43.500694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Ancaster (formerly SilverCity Ancaster) ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "771",
+                "addr:street": "Golf Links Road",
+                "addr:postcode": "L9G 3K9",
+                "addr:city": "Ancaster",
+                "phone": "+1-905-304-5888",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-ancaster-formerly-silvercity-ancaster"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.951812,
+                    43.22599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Guelph",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "485",
+                "addr:street": "Woodlawn Road West",
+                "addr:postcode": "N1K 1E9",
+                "addr:city": "Guelph",
+                "phone": "+1-519-763-9188",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-guelph"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.308209,
+                    43.542834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Sudbury Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "355",
+                "addr:street": "Barrydowne Road",
+                "addr:postcode": "P3B 4K4",
+                "addr:city": "Sudbury",
+                "phone": "+1-705-521-0649",
+                "website": "http://www.cineplex.com/Theatre/silvercity-sudbury-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.946922,
+                    46.501834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Owen Sound",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1020",
+                "addr:street": "10th Street West",
+                "addr:postcode": "N4K 5S1",
+                "addr:city": "Owen Sound",
+                "phone": "+1-519-371-5222",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-owen-sound"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.966985,
+                    44.56164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Cambridge",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "355",
+                "addr:street": "Hespeler Road",
+                "addr:postcode": "N1R 6B3",
+                "addr:city": "Cambridge",
+                "phone": "+1-519-740-3456",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-cambridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.322762,
+                    43.391982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Kitchener and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "225",
+                "addr:street": "Fairway Road South",
+                "addr:postcode": "N2C 1X2",
+                "addr:city": "Kitchener",
+                "phone": "+1-226-240-3825",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-kitchener-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4386958,
+                    43.4205907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Waterloo",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "550",
+                "addr:street": "King Street North",
+                "addr:postcode": "N2L 5W6",
+                "addr:city": "Waterloo",
+                "phone": "+1-519-883-8843",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-waterloo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.529056,
+                    43.495149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Brantford",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "300",
+                "addr:street": "King George Road",
+                "addr:postcode": "N3R 5L7",
+                "addr:city": "Brantford",
+                "phone": "+1-519-759-7011",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-brantford"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.281102,
+                    43.18197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity London Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1680",
+                "addr:street": "Richmond Street",
+                "addr:postcode": "N6G 3Y9",
+                "addr:city": "London",
+                "phone": "+1-519-673-4125",
+                "website": "http://www.cineplex.com/Theatre/silvercity-london-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.281706,
+                    43.025272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Westmount Cinemas and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "755",
+                "addr:street": "Wonderland Road South",
+                "addr:postcode": "N6K 1M6",
+                "addr:city": "London",
+                "phone": "+1-519-474-2152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westmount-cinemas-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.289644,
+                    42.949178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas St. Thomas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "417",
+                "addr:street": "Wellington Street",
+                "addr:postcode": "N5R 5J5",
+                "addr:city": "St. Thomas",
+                "phone": "+1-519-631-5777",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-st-thomas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.159557,
+                    42.774653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Sarnia",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1380",
+                "addr:street": "London Road",
+                "addr:postcode": "N7S 1P7",
+                "addr:city": "Sarnia",
+                "phone": "+1-519-541-0959",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sarnia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.353555,
+                    42.980288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Chatham",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "760",
+                "addr:street": "St. Clair Street",
+                "addr:postcode": "N7L 0E8",
+                "addr:city": "Chatham",
+                "phone": "+1-519-354-0282",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chatham"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.216592,
+                    42.428469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Sault Ste Marie",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "293",
+                "addr:street": "Bay Street",
+                "addr:postcode": "P6A 1X3",
+                "addr:city": "Sault Ste. Mari",
+                "phone": "+1-705-949-7949",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-sault-ste-marie"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.339788,
+                    46.511448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Windsor Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "4611",
+                "addr:street": "Walker Road",
+                "addr:postcode": "N8W 3T6",
+                "addr:city": "Windsor",
+                "phone": "+1-519-966-6888",
+                "website": "http://www.cineplex.com/Theatre/silvercity-windsor-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.963131,
+                    42.252897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Devonshire Mall Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3100",
+                "addr:street": "Howard Avenue",
+                "addr:postcode": "N8X 3Y8",
+                "addr:city": "Windsor",
+                "phone": "+1-519-967-0197",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-devonshire-mall-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.999016,
+                    42.274161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Fredericton",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1381",
+                "addr:street": "Regent Street",
+                "addr:postcode": "E3C 1A2",
+                "addr:city": "Fredericton",
+                "phone": "+1-506-458-9704",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-fredericton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.664109,
+                    45.934473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Saint John",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "175",
+                "addr:street": "McAllister Drive",
+                "addr:postcode": "E2J 2S6",
+                "addr:city": "Saint John",
+                "phone": "+1-506-657-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-saint-john"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.015635,
+                    45.311228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Yarmouth",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "136",
+                "addr:street": "Starrs Road",
+                "addr:postcode": "B5A 4E5",
+                "addr:city": "Yarmouth",
+                "phone": "+1-902-742-7819",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-yarmouth"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.110852,
+                    43.845455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Miramichi",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2480",
+                "addr:street": "King George Highway",
+                "addr:postcode": "E1V 6W4",
+                "addr:city": "Miramichi",
+                "phone": "+1-506-778-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-miramichi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.49124,
+                    47.029302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Trinity Drive",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "127",
+                "addr:street": "Trinity Drive",
+                "addr:postcode": "E1G 2J7",
+                "addr:city": "Moncton",
+                "phone": "+1-506-857-8903",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-trinity-drive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.831869,
+                    46.115625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Dieppe",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1",
+                "addr:street": "Promenade Bass Pro Drive",
+                "addr:postcode": "E1A 6S2",
+                "addr:city": "Dieppe",
+                "phone": "+1-506-382-2095",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dieppe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.7653752,
+                    46.0986389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas New Minas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "8944",
+                "addr:street": "Commercial Street",
+                "addr:postcode": "B4N 3C9",
+                "addr:city": "New Minas",
+                "phone": "+1-902-681-8080",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-minas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.462638,
+                    45.068146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Bridgewater",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "349",
+                "addr:street": "Lahave Street",
+                "addr:postcode": "B4V 2T6",
+                "addr:city": "Bridgewater",
+                "phone": "+1-902-527-4025",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-bridgewater"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.512426,
+                    44.376604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Amherst",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "47",
+                "addr:street": "Church Street",
+                "addr:postcode": "B4H 3A7",
+                "addr:city": "Amherst",
+                "phone": "+1-902-667-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-amherst"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.211289,
+                    45.832563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Summerside",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "130",
+                "addr:street": "Ryan Street",
+                "addr:postcode": "C1N 6G2",
+                "addr:city": "Summerside",
+                "phone": "+1-902-888-3456",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-summerside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.778634,
+                    46.410838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Lower Sackville",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "760",
+                "addr:street": "Sackville Drive",
+                "addr:postcode": "B4E 1R7",
+                "addr:city": "Lower Sackville",
+                "phone": "+1-902-869-2022",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-lower-sackville"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.69228,
+                    44.772839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Halifax",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "190",
+                "addr:street": "Chain Lake Drive",
+                "addr:postcode": "B3S 1C5",
+                "addr:city": "Halifax",
+                "phone": "+1-902-876-4800",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.674925,
+                    44.648758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Oxford",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "6408",
+                "addr:street": "Quinpool Road",
+                "addr:postcode": "B3L 1A8",
+                "addr:city": "Halifax",
+                "phone": "+1-902-423-7488",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-oxford"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.600567,
+                    44.644399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Park Lane",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "5657",
+                "addr:street": "Spring Garden Road",
+                "addr:postcode": "B3J 3R4",
+                "addr:city": "Halifax",
+                "phone": "+1-902-423-4598",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-park-lane"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.578709,
+                    44.642611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Dartmouth Crossing",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "145",
+                "addr:street": "Shubie Drive",
+                "addr:postcode": "B3B 0C3",
+                "addr:city": "Dartmouth",
+                "phone": "+1-902-481-3251",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-dartmouth-crossing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.560853,
+                    44.706888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Truro",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "20",
+                "addr:street": "Treaty Trail",
+                "addr:postcode": "B6L 1W2",
+                "addr:city": "Truro",
+                "phone": "+1-902-895-8022",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-truro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.305152,
+                    45.33346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Charlottetown",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "670",
+                "addr:street": "University Avenue",
+                "addr:postcode": "C1A 7M4",
+                "addr:city": "West Royalty",
+                "phone": "+1-902-892-0943",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-charlottetown"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.147253,
+                    46.26507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas New Glasgow",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "612",
+                "addr:street": "East River Road",
+                "addr:postcode": "B2H 3S2",
+                "addr:city": "New Glasgow",
+                "phone": "+1-902-928-0550",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-glasgow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -62.641796,
+                    45.576806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Antigonish",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "291",
+                "addr:street": "Main Street",
+                "addr:postcode": "B2G 2C3",
+                "addr:city": "Antigonish",
+                "phone": "+1-902-863-4646",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-antigonish"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.992626,
+                    45.622396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Thunder Bay Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "850",
+                "addr:street": "North May Street",
+                "addr:postcode": "P7C 6A5",
+                "addr:city": "Thunder Bay",
+                "phone": "+1-807-628-8455",
+                "website": "http://www.cineplex.com/Theatre/silvercity-thunder-bay-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.245333,
+                    48.39842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Sydney",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "325",
+                "addr:street": "Prince Street",
+                "addr:postcode": "B1P 5K6",
+                "addr:city": "Sydney",
+                "phone": "+1-902-539-9050",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sydney"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.186429,
+                    46.139653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Millbrook",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2",
+                "addr:street": "Main Street",
+                "addr:postcode": "A2H 6G7",
+                "addr:city": "Corner Brook",
+                "phone": "+1-709-634-2074",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-millbrook"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.950603,
+                    48.952309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Famous Players Kildonan Place Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1555",
+                "addr:street": "Regent Avenue West",
+                "addr:postcode": "R2C 4J2",
+                "addr:city": "Winnipeg",
+                "phone": "+1-204-663-2166",
+                "website": "http://www.cineplex.com/Theatre/famous-players-kildonan-place-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.061825,
+                    49.897277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity St. Vital Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "160-1225",
+                "addr:street": "St. Mary's Road",
+                "addr:postcode": "R2M 5E5",
+                "addr:city": "Winnipeg",
+                "phone": "+1-204-256-3901",
+                "website": "http://www.cineplex.com/Theatre/silvercity-st-vital-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.114537,
+                    49.828994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema City Northgate",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1399",
+                "addr:street": "McPhillips Street",
+                "addr:postcode": "R2V 3C4",
+                "addr:city": "Winnipeg",
+                "phone": "+1-204-334-6253",
+                "website": "http://www.cineplex.com/Theatre/cinema-city-northgate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.157569,
+                    49.941641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon McGillivray Cinemas and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2190",
+                "addr:street": "McGillivray Boulevard",
+                "addr:postcode": "R3Y 1S6",
+                "addr:city": "Winnipeg",
+                "phone": "+1-204-269-9981",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-mcgillivray-cinemas-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.203906,
+                    49.820128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Winnipeg (Formerly SilverCity Polo Park)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "817",
+                "addr:street": "St. James Street",
+                "addr:postcode": "R3G 3L3",
+                "addr:city": "Winnipeg",
+                "phone": "+1-204-774-1001",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg-formerly-silvercity-polo-park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.200921,
+                    49.887586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Mount Pearl",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "760",
+                "addr:street": "Topsail Road",
+                "addr:postcode": "A1N 3J5",
+                "addr:city": "St. John's",
+                "phone": "+1-709-364-8503",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-mount-pearl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.78068,
+                    47.523239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre St. John's (formerly Cineplex Avalon Mall)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "48",
+                "addr:street": "Kenmount Road",
+                "addr:postcode": "A1B 1W3",
+                "addr:city": "St. John's",
+                "phone": "+1-709-722-5763",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.754355,
+                    47.56109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Southland Mall Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3025",
+                "addr:street": "Gordon Road",
+                "addr:postcode": "S4S 6H7",
+                "addr:city": "Regina",
+                "phone": "+1-306-585-3383",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-southland-mall-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.624895,
+                    50.404798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Regina (formerly Galaxy Cinemas)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "420",
+                "addr:street": "McCarthy Boulevard North",
+                "addr:postcode": "S4R 7M2",
+                "addr:unit": "26",
+                "addr:city": "Regina",
+                "phone": "+1-306-522-9098",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-regina-formerly-galaxy-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.666147,
+                    50.483053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Moose Jaw",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1235",
+                "addr:street": "Main Street North",
+                "addr:postcode": "S6H 6M4",
+                "addr:city": "Moose Jaw",
+                "phone": "+1-306-693-3456",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-moose-jaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.533895,
+                    50.410241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Prince Albert",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2995",
+                "addr:street": "2nd Avenue West",
+                "addr:postcode": "S6V 5V5",
+                "addr:unit": "1C",
+                "addr:city": "Prince Albert",
+                "phone": "+1-306-922-5970",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-prince-albert"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.760445,
+                    53.185984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Centre Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3510-8th",
+                "addr:street": "Street",
+                "addr:postcode": "S7H 0W6",
+                "addr:city": "Saskatoon",
+                "phone": "+1-306-955-1938",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-centre-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.593908,
+                    52.114637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Saskatoon and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "347-2nd",
+                "addr:street": "Avenue South",
+                "addr:postcode": "S7K 1L1",
+                "addr:city": "Saskatoon",
+                "phone": "+1-306-664-5060",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-saskatoon-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.665885,
+                    52.124937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Medicine Hat",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3292",
+                "addr:street": "Dunmore Road SE",
+                "addr:postcode": "T1B 2R4",
+                "addr:city": "Medicine Hat",
+                "phone": "+1-403-504-5477",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-medicine-hat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.642892,
+                    50.00336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Lethbridge",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "501-1st",
+                "addr:street": "Avenue South West",
+                "addr:postcode": "T1J 0A1",
+                "addr:city": "Lethbridge",
+                "phone": "+1-403-329-0002",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-lethbridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.840199,
+                    49.698069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Sherwood Park (formerly Galaxy Cinemas)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2020",
+                "addr:street": "Sherwood Drive",
+                "addr:postcode": "T8A 3H9",
+                "addr:city": "Sherwood Park",
+                "phone": "+1-780-416-0152",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-sherwood-park-formerly-galaxy-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.294106,
+                    53.531687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Manning Town Centre",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "15531",
+                "addr:street": "37 ST NW",
+                "addr:postcode": "T5Y 0S5",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-476-7807",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-manning-town-centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.39065,
+                    53.61596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cinema City Movies 12",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "5074",
+                "addr:street": "130 Avenue",
+                "addr:postcode": "T5A 5A9",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-472-9779",
+                "website": "http://www.cineplex.com/Theatre/cinema-city-movies-12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.420258,
+                    53.590033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon South Edmonton Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "1525-99th",
+                "addr:street": "Street NW",
+                "addr:postcode": "T6N 1K5",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-436-8585",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-south-edmonton-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.481882,
+                    53.445599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon North Edmonton Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "14231-137th",
+                "addr:street": "Avenue",
+                "addr:postcode": "T5L 5E8",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-732-2236",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-north-edmonton-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.569199,
+                    53.599254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Windermere Cinemas and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "6151",
+                "addr:street": "Currents Drive NW",
+                "addr:postcode": "T6W 0L9",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-822-4250",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-windermere-cinemas-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.599148,
+                    53.43592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Edmonton",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3030",
+                "addr:street": "8882-170 Street",
+                "addr:postcode": "T5T 4M2",
+                "addr:city": "Edmonton",
+                "phone": "+1-780-444-2400",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-edmonton"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.615713,
+                    53.52358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Red Deer",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "357-37400",
+                "addr:street": "Highway 2",
+                "addr:postcode": "T4E 1B9",
+                "addr:city": "Red Deer",
+                "phone": "+1-403-348-2357",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-red-deer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.818381,
+                    52.211433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity CrossIron Mills and XSCAPE Entertainment Centre",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "261055",
+                "addr:street": "CrossIron Boulevard",
+                "addr:postcode": "T4A 0G3",
+                "addr:city": "Rocky View",
+                "phone": "+1-403-274-3261",
+                "website": "http://www.cineplex.com/Theatre/silvercity-crossiron-mills-and-xscape-entertainment-centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.988476,
+                    51.205163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Sunridge Spectrum Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "400",
+                "addr:street": "2555-32nd Street NE",
+                "addr:postcode": "T1Y 7J6",
+                "addr:city": "Calgary",
+                "phone": "+1-403-717-1200",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-sunridge-spectrum-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.98893,
+                    51.074385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Eau Claire Market Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "200",
+                "addr:street": "Barclay Parade SW",
+                "addr:postcode": "T2P 4R5",
+                "addr:city": "Calgary",
+                "phone": "+1-403-263-3166",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.069618,
+                    51.051363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Chinook",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "6455",
+                "addr:street": "Macleod Trail SW",
+                "addr:postcode": "T2H 0K4",
+                "addr:city": "Calgary",
+                "phone": "+1-403-212-8994",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-chinook"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.073148,
+                    50.996067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Westhills Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "165",
+                "addr:street": "Stewart Green SW",
+                "addr:postcode": "T3H 3C8",
+                "addr:city": "Calgary",
+                "phone": "+1-403-246-5291",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westhills-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.169586,
+                    51.016248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Crowfoot Crossing Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "91",
+                "addr:street": "Crowfoot Terrace NW",
+                "addr:postcode": "T3G 2L5",
+                "addr:city": "Calgary",
+                "phone": "+1-403-547-3316",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-crowfoot-crossing-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.201192,
+                    51.127189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Grande Prairie Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "10330",
+                "addr:street": "109th Street",
+                "addr:postcode": "T8V 7X3",
+                "addr:city": "Grande Prairie",
+                "phone": "+1-780-513-5534",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-grande-prairie-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.823451,
+                    55.173087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Vernon",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "275-2306",
+                "addr:street": "Highway 6",
+                "addr:postcode": "V1T 7E3",
+                "addr:city": "Vernon",
+                "phone": "+1-250-542-1107",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-vernon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.263866,
+                    50.257029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Orchard Plaza",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "160-1876",
+                "addr:street": "Cooper Road",
+                "addr:postcode": "V1Y 9N6",
+                "addr:city": "Kelowna",
+                "phone": "+1-250-860-1611",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-orchard-plaza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.443384,
+                    49.88046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Aberdeen Mall Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "700-1320",
+                "addr:street": "West Trans Canada Highway",
+                "addr:postcode": "V1S 1J2",
+                "addr:city": "Kamloops",
+                "phone": "+1-250-377-8401",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-aberdeen-mall-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.37182,
+                    50.653271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Famous Players 6 Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "172-1600",
+                "addr:street": "15th Avenue",
+                "addr:postcode": "V2L 3X3",
+                "addr:city": "Prince George",
+                "phone": "+1-250-612-3993",
+                "website": "http://www.cineplex.com/Theatre/famous-players-6-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.758201,
+                    53.909948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Chilliwack",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "8249",
+                "addr:street": "Eagle Landing Parkway",
+                "addr:postcode": "V2P 7K6",
+                "addr:city": "Chilliwack",
+                "phone": "+1-604-793-0516",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-chilliwack"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.977897,
+                    49.154822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Mission Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "32555",
+                "addr:street": "London Avenue",
+                "addr:postcode": "V2V 6M7",
+                "addr:city": "Mission",
+                "phone": "+1-604-820-2733",
+                "website": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.323194,
+                    49.130636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Abbotsford and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3122",
+                "addr:street": "Mt. Lehman Rd.",
+                "addr:postcode": "V4X 2K9",
+                "addr:unit": "J200",
+                "addr:city": "Abbotsford",
+                "phone": "+1-604-504-9701",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-abbotsford-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.381462,
+                    49.058985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Meadowtown Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "410",
+                "addr:street": "19800 Lougheed Highway",
+                "addr:postcode": "V3Y 2W1",
+                "addr:city": "Pitt Meadows",
+                "phone": "+1-604-460-6455",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-meadowtown-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.671298,
+                    49.223819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Langley",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "20090",
+                "addr:street": "91A Avenue",
+                "addr:postcode": "V1M 3Y9",
+                "addr:city": "Langley",
+                "phone": "+1-604-513-8747",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-langley"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.665639,
+                    49.16908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Coquitlam and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "170",
+                "addr:street": "Schoolhouse Street",
+                "addr:postcode": "V3K 4X9",
+                "addr:city": "Coquitlam",
+                "phone": "+1-null",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.852635,
+                    49.235224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Strawberry Hill",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "12161-72nd",
+                "addr:street": "Avenue",
+                "addr:postcode": "V3W 2M1",
+                "addr:city": "Surrey",
+                "phone": "+1-604-501-9400",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.885909,
+                    49.134161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Metropolis Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "4700",
+                "addr:street": "Kingsway",
+                "addr:postcode": "V5H 4M1",
+                "addr:city": "Burnaby",
+                "phone": "+1-604-435-7474",
+                "website": "http://www.cineplex.com/Theatre/silvercity-metropolis-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.999439,
+                    49.228325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Park & Tilford Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "200-333",
+                "addr:street": "Brooksbank Avenue",
+                "addr:postcode": "V7J 3S8",
+                "addr:city": "N. Vancouver",
+                "phone": "+1-604-985-3911",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-park-tilford-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.040668,
+                    49.30878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Esplanade",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "200",
+                "addr:street": "West Esplanade",
+                "addr:postcode": "V7M 1A4",
+                "addr:city": "N. Vancouver",
+                "phone": "+1-null",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0833493,
+                    49.3123655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon International Village Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "88",
+                "addr:street": "West Pender",
+                "addr:postcode": "V6B 6N9",
+                "addr:city": "Vancouver",
+                "phone": "+1-604-806-0799",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-international-village-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.107409,
+                    49.281069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Riverport Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "14211",
+                "addr:street": "Entertainment Way",
+                "addr:postcode": "V6W 1K4",
+                "addr:city": "Richmond",
+                "phone": "+1-604-277-5993",
+                "website": "http://www.cineplex.com/Theatre/silvercity-riverport-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.066132,
+                    49.134057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Park Theatre",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3440",
+                "addr:street": "Cambie St.",
+                "addr:postcode": "V5Z 2W8",
+                "addr:city": "Vancouver",
+                "phone": "+1-604-709-3456",
+                "website": "http://www.cineplex.com/Theatre/the-park-theatre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11481,
+                    49.254442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Scotiabank Theatre Vancouver",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "900",
+                "addr:street": "Burrard Street",
+                "addr:postcode": "V6Z 3G5",
+                "addr:city": "Vancouver",
+                "phone": "+1-604-630-1407",
+                "website": "http://www.cineplex.com/Theatre/scotiabank-theatre-vancouver"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.124341,
+                    49.282176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Cinemas Marine Gateway and VIP",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "452",
+                "addr:street": "South West Marine Drive",
+                "addr:postcode": "V5X 0C3",
+                "addr:city": "Vancouver",
+                "phone": "+1-604-630-0414",
+                "website": "http://www.cineplex.com/Theatre/cineplex-cinemas-marine-gateway-and-vip"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115693,
+                    49.21006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fifth Avenue Cinemas (age restricted 19+)",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "2110",
+                "addr:street": "Burrard Street",
+                "addr:postcode": "V6J 3H6",
+                "addr:city": "Vancouver",
+                "phone": "+1-604-734-7469",
+                "website": "http://www.cineplex.com/Theatre/fifth-avenue-cinemas-age-restricted-19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.145481,
+                    49.266742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Victoria Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "780",
+                "addr:street": "Yates Street",
+                "addr:postcode": "V8W 1L4",
+                "addr:city": "Victoria",
+                "phone": "+1-250-383-0513",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-victoria-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.362758,
+                    48.426186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SilverCity Victoria Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "3130",
+                "addr:street": "Tillicum Road",
+                "addr:postcode": "V9A 6T2",
+                "addr:city": "Victoria",
+                "phone": "+1-250-381-9300",
+                "website": "http://www.cineplex.com/Theatre/silvercity-victoria-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.395009,
+                    48.45271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cineplex Odeon Westshore Cinemas",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "900",
+                "addr:street": "2945 Jacklin Rd",
+                "addr:postcode": "V9B 5E3",
+                "addr:city": "Langford",
+                "phone": "+1-250-474-1007",
+                "website": "http://www.cineplex.com/Theatre/cineplex-odeon-westshore-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.5083973,
+                    48.4406984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Galaxy Cinemas Nanaimo",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "213-4750",
+                "addr:street": "Rutherford Road",
+                "addr:postcode": "V9T 4K6",
+                "addr:city": "Nanaimo",
+                "phone": "+1-250-729-8000",
+                "website": "http://www.cineplex.com/Theatre/galaxy-cinemas-nanaimo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.029518,
+                    49.217948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Famous Players Prince Rupert Cinemas ",
+                "amenity": "cinema",
+                "operator": "Cineplex",
+                "addr:housenumber": "525",
+                "addr:street": "West 2nd Avenue",
+                "addr:postcode": "V8J 1G9",
+                "addr:city": "Prince Rupert",
+                "phone": "+1-250-622-2582",
+                "website": "http://www.cineplex.com/Theatre/famous-players-prince-rupert-cinemas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -130.326846,
+                    54.312475
+                ]
+            }
+        }
+    ]
+}

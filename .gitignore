@@ -13,7 +13,6 @@ dist/
 *.js.map
 *.png
 *.jpg
-*.geojson
 *.mbtiles
 yarn.lock
 *.tif

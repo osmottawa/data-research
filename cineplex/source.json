@@ -1,0 +1,3499 @@
+{
+    "name": "Cineplex",
+    "count": 166,
+    "version": 4,
+    "newdata": true,
+    "lastrunstatus": "success",
+    "thisversionstatus": "success",
+    "thisversionrun": "Wed Dec 07 2016 03:10:45 GMT+0000 (UTC)",
+    "results": {
+        "collection1": [
+            {
+                "address": "325 Marche Way, Unit 107, Ottawa, ON, K1S 5J3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 232-2770",
+                    "text": "(613) 232-2770"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Lansdowne and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.3998248,-75.6836293&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.3998248,-75.6836293&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Lansdowne and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-lansdowne-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "115 boulevard Du Plateau, Hull, QC, J9A 3G1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(819) 770-1090",
+                    "text": "(819) 770-1090"
+                },
+                "map": {
+                    "alt": "Cinéma Starcité Gatineau",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.435911,-75.77602&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.435911,-75.77602&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Starcité Gatineau",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-starcite-gatineau",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2385 City Park Drive, Gloucester, ON, K1J 1G1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 749-5112",
+                    "text": "(613) 749-5112"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Ottawa (formerly SilverCity Gloucester)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.432609,-75.612752&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.432609,-75.612752&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Ottawa (formerly SilverCity Gloucester)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-ottawa-formerly-silvercity-gloucester",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2214 Bank Street, Ottawa, ON, K1V 1J6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 736-1115",
+                    "text": "(613) 736-1115"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon South Keys Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.357422,-75.654245&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.357422,-75.654245&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon South Keys Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-south-keys-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3090 Carling Avenue, Ottawa, ON, K2B 7K2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 596-9475",
+                    "text": "(613) 596-9475"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Ottawa",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.354452,-75.80605&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.354452,-75.80605&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Ottawa",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-ottawa",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "131 Riocan Avenue, Barrhaven, ON, K2J 5G5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 825-2463",
+                    "text": "(613) 825-2463"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Barrhaven Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.269531,-75.741067&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.269531,-75.741067&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Barrhaven Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-barrhaven-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1325 Second Street East, Cornwall, ON, K6H 2B6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 932-4500",
+                    "text": "(613) 932-4500"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Cornwall",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.026114,-74.704688&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.026114,-74.704688&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Cornwall",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-cornwall",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1000 Island Mall, 2399 Parkedale Avenue, Brockville, ON, K6V 2G9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 498-2217",
+                    "text": "(613) 498-2217"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Brockville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.603859,-75.700811&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.603859,-75.700811&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Brockville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-brockville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "391 boulevard Harwood, Dorion, QC, J7V 7W1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 455-9853",
+                    "text": "(450) 455-9853"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Carrefour Dorion",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.381437,-74.018583&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.381437,-74.018583&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Carrefour Dorion",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-carrefour-dorion",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3200 rue Jean Yves, Kirkland, QC, H9J 2R6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 694-8922",
+                    "text": "(514) 694-8922"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Kirkland",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.440559,-73.886466&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.440559,-73.886466&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Kirkland",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/coliseum.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-kirkland",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "626 Gardiners Road, Kingston, ON, K7M 3X9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 634-0152",
+                    "text": "(613) 634-0152"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Gardiners Road Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.244361,-76.562101&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.244361,-76.562101&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Gardiners Road Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-gardiners-road-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2800 avenue Du Cosmodôme, Laval, QC, H7T 2X1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 978-0212",
+                    "text": "(450) 978-0212"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Laval ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.564966,-73.745071&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.564966,-73.745071&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Laval ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-laval",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Le Mail Cavendish, 5800 boulevard Cavendish, 5800 boulevard Cavendish, Cote Saint-Luc, QC, H4W 2T5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 485-7111",
+                    "text": "(514) 485-7111"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Cavendish Mall",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.476338,-73.661506&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.476338,-73.661506&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Cavendish Mall",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-cavendish-mall",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "7077 boulevard Newman, LaSalle, QC, H8N 1X1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 366-2444",
+                    "text": "(514) 366-2444"
+                },
+                "map": {
+                    "alt": "Cinéma Famous Players Carrefour Angrignon",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.44769,-73.611317&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.44769,-73.611317&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Famous Players Carrefour Angrignon",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-famous-players-carrefour-angrignon",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "7816 Boulevard Champlain, Local 62, LaSalle, QC, H8P 1B3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 365-5659",
+                    "text": "(514) 365-5659"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Place La Salle",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.428419,-73.609546&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.428419,-73.609546&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Place La Salle",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-place-la-salle",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2313 St. Catherine St. West Suite 101, Montréal, QC, H3H 1N2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 904-1274",
+                    "text": "(514) 904-1274"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Forum",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.490122,-73.584057&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.490122,-73.584057&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Forum",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-forum",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "977 rue Sainte-Catherine Ouest, Montréal, QC, H3B 4W3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 842-0549",
+                    "text": "(514) 842-0549"
+                },
+                "map": {
+                    "alt": "Cinéma Banque Scotia Montréal",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.501098,-73.572074&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.501098,-73.572074&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Banque Scotia Montréal",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-banque-scotia-montreal",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "350 rue Emery, Montréal, QC, H2X 1J1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 849-2244",
+                    "text": "(514) 849-2244"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Quartier Latin",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.514479,-73.563536&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.514479,-73.563536&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Quartier Latin",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "4825 avenue Pierre De Coubertin, Montréal, QC, H1V 3V4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(514) 899-8979",
+                    "text": "(514) 899-8979"
+                },
+                "map": {
+                    "alt": "Cinéma Starcité Montréal",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.560488,-73.547508&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.560488,-73.547508&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Starcité Montréal",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-starcite-montreal",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "20 boulevard de Mortagne, Boucherville, QC, J4B 5K6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 449-6404",
+                    "text": "(450) 449-6404"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Boucherville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.56833,-73.446334&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.56833,-73.446334&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Boucherville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-boucherville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "9350 boulevard Leduc, Brossard, QC, J4Y 0B3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 678-5542",
+                    "text": "(450) 678-5542"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Brossard et VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.444414,-73.435757&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.444414,-73.435757&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Brossard et VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-brossard-et-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1495 boulevard St-Bruno, St-Bruno, QC, J3V 6J1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 653-7756",
+                    "text": "(450) 653-7756"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon St-Bruno",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.507437,-73.38172&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.507437,-73.38172&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon St-Bruno",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stbruno",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "286 rue Richelieu, St. Jean, QC, J3B 6Y4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(450) 358-3030",
+                    "text": "(450) 358-3030"
+                },
+                "map": {
+                    "alt": "Cinéma Capitol St-Jean",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.308302,-73.251068&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.308302,-73.251068&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Capitol St-Jean",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-capitol-stjean",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "160 Bell Boulevard, Belleville, ON, K8P 5L2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(613) 969-8469",
+                    "text": "(613) 969-8469"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Belleville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.188759,-77.403746&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.188759,-77.403746&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Belleville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-belleville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "320 Water Street, Peterborough, ON, K9H 7N9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 749-2000",
+                    "text": "(705) 749-2000"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Peterborough",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.303657,-78.318584&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.303657,-78.318584&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Peterborough",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-peterborough",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "111 Clarington Boulevard, Clarington, ON, L1C 4Z3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 697-0308",
+                    "text": "(905) 697-0308"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Clarington Place Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.910707,-78.707954&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.910707,-78.707954&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Clarington Place Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-clarington-place-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "4204 Bertrand-Fabi, Rock Forest, QC, J1N 3Y2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(819) 821-4481",
+                    "text": "(819) 821-4481"
+                },
+                "map": {
+                    "alt": "Cinéma Galaxy Sherbrooke",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.383456,-71.962917&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.383456,-71.962917&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Galaxy Sherbrooke",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-galaxy-sherbrooke",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1351 Grandview Street North, Oshawa, ON, L1K 0G1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 432-3486",
+                    "text": "(905) 432-3486"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Oshawa Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.941749,-78.836914&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.941749,-78.836914&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Oshawa Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-oshawa-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1121 boulevard Jutras Est, Victoriaville, QC, G6S 1J1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(819) 357-7000",
+                    "text": "(819) 357-7000"
+                },
+                "map": {
+                    "alt": "Cinéma Galaxy Victoriaville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.062622,-71.92874&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.062622,-71.92874&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Galaxy Victoriaville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-galaxy-victoriaville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "300 Lakeshore Drive, North Bay, ON, P1A 3V2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 476-6410",
+                    "text": "(705) 476-6410"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas North Bay",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.282852,-79.448782&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.282852,-79.448782&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas North Bay",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-north-bay",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "865 West Ridge Boulevard, Orillia, ON, L3V 8B3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 326-8908",
+                    "text": "(705) 326-8908"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Orillia",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.606563,-79.453211&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.606563,-79.453211&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Orillia",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-orillia",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "248 Kingston Road East, Highway 2, Ajax, ON, L1S 1G1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 426-7772",
+                    "text": "(905) 426-7772"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Ajax Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.866253,-79.016402&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.866253,-79.016402&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Ajax Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-ajax-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Pickering Towne Centre, 1355 Kingston Road, 1355 Kingston Rd., Pickering, ON, L1V 1B8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 839-2977",
+                    "text": "(905) 839-2977"
+                },
+                "map": {
+                    "alt": "Famous Players Pickering 8 Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.837282,-79.088559&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.837282,-79.088559&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Famous Players Pickering 8 Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/famous-players-pickering-8-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "785 Milner Avenue, Scarborough, ON, M1B 3C3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 281-1444",
+                    "text": "(416) 281-1444"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Morningside Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.797755,-79.204&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.797755,-79.204&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Morningside Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-morningside-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "507 Cundles Road East, Barrie, ON, L4M 0G9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 302-0159",
+                    "text": "(705) 302-0159"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas North Barrie",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.415242,-79.6750162&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.415242,-79.6750162&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas North Barrie",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-north-barrie",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "18195 Yonge Street, East Gwillimbury, ON, L9N 0H9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 953-2792",
+                    "text": "(905) 953-2792"
+                },
+                "map": {
+                    "alt": "SilverCity Newmarket Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.070601,-79.484036&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.070601,-79.484036&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Newmarket Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-newmarket-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "15460 Bayview Avenue, Aurora, ON, L4G 7J1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 841-1789",
+                    "text": "(905) 841-1789"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Aurora Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.010187,-79.444875&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.010187,-79.444875&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Aurora Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-aurora-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "320 Bayfield St, Barrie, ON, L4M 3C1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 726-3456",
+                    "text": "(705) 726-3456"
+                },
+                "map": {
+                    "alt": "Bayfield Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.40161,-79.703321&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.40161,-79.703321&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Bayfield Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/bayfield-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Scarborough Town Centre, 300 Borough Drive, Scarborough, ON, M1P 4P5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 290-5217",
+                    "text": "(416) 290-5217"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Scarborough",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.776401,-79.255285&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.776401,-79.255285&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Scarborough",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-scarborough",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "179 Enterprise Blvd., Suite 169, Markham, ON, L6G 0E7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 479-1778",
+                    "text": "(905) 479-1778"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Markham and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.849312,-79.323928&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.849312,-79.323928&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Markham and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-markham-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "72 Commerce Park Drive, Barrie, ON, L4N 8W8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 728-1171",
+                    "text": "(705) 728-1171"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Barrie",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.325548,-79.685753&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.325548,-79.685753&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Barrie",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-barrie",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Highway 93, RR2, Box2, Midland, ON, L4R 4K4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 527-5927",
+                    "text": "(705) 527-5927"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Midland",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.736926,-79.911616&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.736926,-79.911616&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Midland",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-midland",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "22 Lebovic Avenue , Toronto, ON, M1L 4V9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 752-4494",
+                    "text": "(416) 752-4494"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Eglinton Town Centre Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.725244,-79.290907&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.725244,-79.290907&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Eglinton Town Centre Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-eglinton-town-centre-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1800 Sheppard Avenue East, Unit Y007, Toronto, ON, M2J 5A7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 644-7746",
+                    "text": "(416) 644-7746"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Fairview Mall",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.77563,-79.345296&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.77563,-79.345296&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Fairview Mall",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-fairview-mall",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "8725 Yonge Street, Richmond Hill, ON, L4C 6Z1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 709-8755",
+                    "text": "(905) 709-8755"
+                },
+                "map": {
+                    "alt": "SilverCity Richmond Hill Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.839611,-79.427333&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.839611,-79.427333&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Richmond Hill Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-richmond-hill-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Shops at Don Mills, 12 Marie Labatte Road, Unit B7, Toronto, ON, M3C 0H9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 644-0660",
+                    "text": "(416) 644-0660"
+                },
+                "map": {
+                    "alt": "Cineplex VIP Cinemas Don Mills",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.734328,-79.346049&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.734328,-79.346049&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex VIP Cinemas Don Mills",
+                    "src": "http://mediafiles.cineplex.com/Logos/CineplexVIPCinemasDonMills.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-vip-cinemas-don-mills",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1651 Queen Street East, Toronto, ON, M4L 1G5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 699-1327",
+                    "text": "(416) 699-1327"
+                },
+                "map": {
+                    "alt": "The Beach Cinemas - Alliance Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.66694,-79.31424&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.66694,-79.31424&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "The Beach Cinemas - Alliance Cinemas",
+                    "src": "http://mediafiles.cineplex.com/Images/non_cplx_default_brand_logo_110x146.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/the-beach-cinemas-alliance-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "5095 Yonge St., 3rd Floor, Toronto, ON, M2N 6Z4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 847-0218",
+                    "text": "(416) 847-0218"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Empress Walk",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.768266,-79.412527&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.768266,-79.412527&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Empress Walk",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-empress-walk",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2300 Yonge Street, Toronto, ON, M4P 1E4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 544-1236",
+                    "text": "(416) 544-1236"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Yonge-Eglinton and VIP (formerly SilverCity)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.707236,-79.398663&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.707236,-79.398663&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Yonge-Eglinton and VIP (formerly SilverCity)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongeeglinton-and-vip-formerly-silvercity",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2190 Yonge Street, Toronto, ON, M4S 2C6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 646-2913",
+                    "text": "(416) 646-2913"
+                },
+                "map": {
+                    "alt": "Famous Players Canada Square Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.704803,-79.39816&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.704803,-79.39816&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Famous Players Canada Square Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/famous-players-canada-square-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "55 Bloor Street West, Toronto, ON, M4W 1A5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 961-6304",
+                    "text": "(416) 961-6304"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Varsity and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.669671,-79.388759&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.669671,-79.388759&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Varsity and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-varsity-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "10 Dundas Street East, Suite 402 , Toronto, ON, M5B 2G9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 977-9262",
+                    "text": "(416) 977-9262"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Yonge-Dundas and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.656746,-79.380484&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.656746,-79.380484&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Yonge-Dundas and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-yongedundas-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Yorkdale Shopping Centre, 3401 Dufferin Street , c/o Yorkdale Shopping Centre, Toronto, ON, M6A 2T9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 787-2052",
+                    "text": "(416) 787-2052"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Yorkdale",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.724762,-79.45703&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.724762,-79.45703&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Yorkdale",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-yorkdale",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "259 Richmond Street West, Toronto, ON, M5V 3M6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 368-5600",
+                    "text": "(416) 368-5600"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Toronto",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.649039,-79.390559&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.649039,-79.390559&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Toronto",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-toronto",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3555 Highway 7 West, Vaughan, ON, L4L 6B1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 851-1001",
+                    "text": "(905) 851-1001"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Vaughan",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.788143,-79.54477&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.788143,-79.54477&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Vaughan",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-vaughan",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1025 The Queensway, Etobicoke, ON, M8Z 6C7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(416) 503-0424",
+                    "text": "(416) 503-0424"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Queensway and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.621281,-79.51546&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.621281,-79.51546&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Queensway and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-queensway-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1200 autoroute Duplessis, St. Foy, QC, G2G 2B5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(418) 871-1550",
+                    "text": "(418) 871-1550"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Ste-Foy",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.786632,-71.35294&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.786632,-71.35294&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Ste-Foy",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-stefoy",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "6 Mountain Road, Collingwood, ON, L9Y 4S8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 443-8478",
+                    "text": "(705) 443-8478"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Collingwood",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.501495,-80.238369&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.501495,-80.238369&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Collingwood",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-collingwood",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "20 Biscayne Crescent, Highway 410 & Steeles Ave, Brampton, ON, L6W 4S1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 455-1590",
+                    "text": "(905) 455-1590"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Orion Gate Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.68036,-79.714523&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.68036,-79.714523&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Orion Gate Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-orion-gate-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "50 Great Lakes Drive, Brampton, ON, L6R 2K7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 789-6785",
+                    "text": "(905) 789-6785"
+                },
+                "map": {
+                    "alt": "SilverCity Brampton Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.731608,-79.762431&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.731608,-79.762431&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Brampton Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-brampton-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "5401 boulevard des Galeries, Québec, QC, G2K 1N4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(418) 624-4629",
+                    "text": "(418) 624-4629"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex IMAX aux Galeries de la Capitale",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.8310776,-71.2987181&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.8310776,-71.2987181&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex IMAX aux Galeries de la Capitale",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-imax-aux-galeries-de-la-capitale",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "110 Courtneypark Dr E, Mississauga, ON, L5T 2Y3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 362-1234",
+                    "text": "(905) 362-1234"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Courtney Park",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.636624,-79.6902&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.636624,-79.6902&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Courtney Park",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-courtney-park",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "309 Rathburn Road West, Mississauga, ON, L5B 4C1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 275-3456",
+                    "text": "(905) 275-3456"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Mississauga",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.591364,-79.650364&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.591364,-79.650364&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Mississauga",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-mississauga",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "7555 Montrose Road, Niagara Falls, ON, L2H 2E9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 357-1900",
+                    "text": "(905) 357-1900"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Niagara Square Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.068949,-79.126126&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.068949,-79.126126&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Niagara Square Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-niagara-square-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2081 Winston Park Dr., Oakville, ON, L6H 6P5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 829-2009",
+                    "text": "(905) 829-2009"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Winston Churchill",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.509563,-79.669165&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.509563,-79.669165&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Winston Churchill",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-winston-churchill",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "825 rue Clémenceau, Beauport, QC, G1C 2K6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(418) 661-9494",
+                    "text": "(418) 661-9494"
+                },
+                "map": {
+                    "alt": "Cinéma Cineplex Odeon Beauport",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.868069,-71.206448&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.868069,-71.206448&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinéma Cineplex Odeon Beauport",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-beauport",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Fairgrounds Shopping Centre, 85 Fifth Avenue, 85 Fifth Ave., Orangeville, ON, L9W 5B7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 941-2333",
+                    "text": "(519) 941-2333"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Orangeville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.929264,-80.094205&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.929264,-80.094205&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Orangeville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-orangeville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "800 Niagara Street, Welland, ON, L3C 1M3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 735-5286",
+                    "text": "(905) 735-5286"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Seaway Mall Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.015427,-79.249765&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.015427,-79.249765&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Seaway Mall Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-seaway-mall-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1175 Maple Avenue, Milton, ON, L9T 0A5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 864-1666",
+                    "text": "(905) 864-1666"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Milton",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.537856,-79.869224&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.537856,-79.869224&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Milton",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-milton",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3531 Wyecroft Road, Oakville, ON, L6L 0B7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 827-7173",
+                    "text": "(905) 827-7173"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Oakville and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.39358,-79.750861&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.39358,-79.750861&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Oakville and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-oakville-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1250 Brant Street, Burlington, ON, L7P 1X8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 319-8677",
+                    "text": "(905) 319-8677"
+                },
+                "map": {
+                    "alt": "SilverCity Burlington Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.343731,-79.829648&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.343731,-79.829648&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Burlington Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-burlington-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "795 Paramount Drive, Stoney Creek, ON, L8J 0B4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 560-0239",
+                    "text": "(905) 560-0239"
+                },
+                "map": {
+                    "alt": "SilverCity Hamilton Mountain Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.19191,-79.810529&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.19191,-79.810529&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Hamilton Mountain Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-hamilton-mountain-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "85 Clair Road East, Guelph, ON, N1L 0J7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 821-3468",
+                    "text": "(519) 821-3468"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Pergola Commons",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.500694,-80.188443&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.500694,-80.188443&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Pergola Commons",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-pergola-commons",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "771 Golf Links Road, Ancaster, ON, L9G 3K9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(905) 304-5888",
+                    "text": "(905) 304-5888"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Ancaster (formerly SilverCity Ancaster) ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.22599,-79.951812&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.22599,-79.951812&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Ancaster (formerly SilverCity Ancaster) ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-ancaster-formerly-silvercity-ancaster",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "485 Woodlawn Road West, Guelph, ON, N1K 1E9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 763-9188",
+                    "text": "(519) 763-9188"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Guelph",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.542834,-80.308209&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.542834,-80.308209&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Guelph",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-guelph",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "355 Barrydowne Road, Sudbury, ON, P3B 4K4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 521-0649",
+                    "text": "(705) 521-0649"
+                },
+                "map": {
+                    "alt": "SilverCity Sudbury Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.501834,-80.946922&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.501834,-80.946922&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Sudbury Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-sudbury-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1020 10th Street West, Owen Sound, ON, N4K 5S1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 371-5222",
+                    "text": "(519) 371-5222"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Owen Sound",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.56164,-80.966985&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.56164,-80.966985&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Owen Sound",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-owen-sound",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "355 Hespeler Road, Cambridge, ON, N1R 6B3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 740-3456",
+                    "text": "(519) 740-3456"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Cambridge",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.391982,-80.322762&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.391982,-80.322762&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Cambridge",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-cambridge",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "225 Fairway Road South, Kitchener, ON, N2C 1X2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(226) 240-3825",
+                    "text": "(226) 240-3825"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Kitchener and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.4205907,-80.4386958&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.4205907,-80.4386958&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Kitchener and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-kitchener-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "550 King Street North, Waterloo, ON, N2L 5W6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 883-8843",
+                    "text": "(519) 883-8843"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Waterloo",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.495149,-80.529056&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.495149,-80.529056&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Waterloo",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-waterloo",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "300 King George Road, Brantford, ON, N3R 5L7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 759-7011",
+                    "text": "(519) 759-7011"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Brantford",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.18197,-80.281102&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.18197,-80.281102&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Brantford",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-brantford",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1680 Richmond Street, London, ON, N6G 3Y9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 673-4125",
+                    "text": "(519) 673-4125"
+                },
+                "map": {
+                    "alt": "SilverCity London Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.025272,-81.281706&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.025272,-81.281706&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity London Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-london-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "755 Wonderland Road South, London, ON, N6K 1M6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 474-2152",
+                    "text": "(519) 474-2152"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Westmount Cinemas and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.949178,-81.289644&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.949178,-81.289644&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Westmount Cinemas and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-westmount-cinemas-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "417 Wellington Street, St. Thomas, ON, N5R 5J5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 631-5777",
+                    "text": "(519) 631-5777"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas St. Thomas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.774653,-81.159557&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.774653,-81.159557&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas St. Thomas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-st-thomas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1380 London Road, Sarnia, ON, N7S 1P7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 541-0959",
+                    "text": "(519) 541-0959"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Sarnia",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.980288,-82.353555&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.980288,-82.353555&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Sarnia",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-sarnia",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "760 St. Clair Street, Chatham, ON, N7L 0E8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 354-0282",
+                    "text": "(519) 354-0282"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Chatham",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.428469,-82.216592&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.428469,-82.216592&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Chatham",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-chatham",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "293 Bay Street, Sault Ste. Mari, ON, P6A 1X3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(705) 949-7949",
+                    "text": "(705) 949-7949"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Sault Ste Marie",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.511448,-84.339788&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.511448,-84.339788&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Sault Ste Marie",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-sault-ste-marie",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "4611 Walker Road, Windsor, ON, N8W 3T6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 966-6888",
+                    "text": "(519) 966-6888"
+                },
+                "map": {
+                    "alt": "SilverCity Windsor Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.252897,-82.963131&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.252897,-82.963131&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Windsor Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-windsor-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3100 Howard Avenue, Windsor, ON, N8X 3Y8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(519) 967-0197",
+                    "text": "(519) 967-0197"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Devonshire Mall Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=42.274161,-82.999016&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|42.274161,-82.999016&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Devonshire Mall Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-devonshire-mall-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1381 Regent Street, Fredericton, NB, E3C 1A2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(506) 458-9704",
+                    "text": "(506) 458-9704"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Fredericton",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.934473,-66.664109&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.934473,-66.664109&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Fredericton",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-fredericton",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "175 McAllister Drive, Saint John, NB, E2J 2S6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(506) 657-3456",
+                    "text": "(506) 657-3456"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Saint John",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.311228,-66.015635&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.311228,-66.015635&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Saint John",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-saint-john",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "136 Starrs Road, Yarmouth, NS, B5A 4E5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 742-7819",
+                    "text": "(902) 742-7819"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Yarmouth",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=43.845455,-66.110852&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|43.845455,-66.110852&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Yarmouth",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-yarmouth",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2480 King George Highway, Miramichi, NB, E1V 6W4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(506) 778-3456",
+                    "text": "(506) 778-3456"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Miramichi",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=47.029302,-65.49124&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|47.029302,-65.49124&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Miramichi",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-miramichi",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "127 Trinity Drive, Moncton, NB, E1G 2J7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(506) 857-8903",
+                    "text": "(506) 857-8903"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Trinity Drive",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.115625,-64.831869&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.115625,-64.831869&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Trinity Drive",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-trinity-drive",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1 Promenade Bass Pro Drive, Dieppe, NB, E1A 6S2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(506) 382-2095",
+                    "text": "(506) 382-2095"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Dieppe",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.0986389,-64.7653752&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.0986389,-64.7653752&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Dieppe",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-dieppe",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "8944 Commercial Street, New Minas, NS, B4N 3C9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 681-8080",
+                    "text": "(902) 681-8080"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas New Minas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.068146,-64.462638&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.068146,-64.462638&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas New Minas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-minas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "349 Lahave Street, Bridgewater, NS, B4V 2T6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 527-4025",
+                    "text": "(902) 527-4025"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Bridgewater",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.376604,-64.512426&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.376604,-64.512426&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Bridgewater",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-bridgewater",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "47 Church Street, Amherst, NS, B4H 3A7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 667-3456",
+                    "text": "(902) 667-3456"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Amherst",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.832563,-64.211289&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.832563,-64.211289&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Amherst",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-amherst",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "130 Ryan Street, Summerside, PE, C1N 6G2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 888-3456",
+                    "text": "(902) 888-3456"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Summerside",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.410838,-63.778634&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.410838,-63.778634&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Summerside",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-summerside",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "760 Sackville Drive, Lower Sackville, NS, B4E 1R7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 869-2022",
+                    "text": "(902) 869-2022"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Lower Sackville",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.772839,-63.69228&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.772839,-63.69228&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Lower Sackville",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-lower-sackville",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Bayer's Lake, 190 Chain Lake Drive, Halifax, NS, B3S 1C5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 876-4800",
+                    "text": "(902) 876-4800"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Halifax",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.648758,-63.674925&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.648758,-63.674925&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Halifax",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-halifax",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "6408 Quinpool Road, Halifax, NS, B3L 1A8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 423-7488",
+                    "text": "(902) 423-7488"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Oxford",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.644399,-63.600567&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.644399,-63.600567&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Oxford",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-oxford",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "5657 Spring Garden Road, Halifax, NS, B3J 3R4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 423-4598",
+                    "text": "(902) 423-4598"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Park Lane",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.642611,-63.578709&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.642611,-63.578709&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Park Lane",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-park-lane",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "145 Shubie Drive, Dartmouth, NS, B3B 0C3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 481-3251",
+                    "text": "(902) 481-3251"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Dartmouth Crossing",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=44.706888,-63.560853&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|44.706888,-63.560853&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Dartmouth Crossing",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-dartmouth-crossing",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "20 Treaty Trail, Truro, NS, B6L 1W2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 895-8022",
+                    "text": "(902) 895-8022"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Truro",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.33346,-63.305152&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.33346,-63.305152&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Truro",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-truro",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "670 University Avenue, West Royalty, PE, C1A 7M4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 892-0943",
+                    "text": "(902) 892-0943"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Charlottetown",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.26507,-63.147253&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.26507,-63.147253&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Charlottetown",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-charlottetown",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "612 East River Road, New Glasgow, NS, B2H 3S2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 928-0550",
+                    "text": "(902) 928-0550"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas New Glasgow",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.576806,-62.641796&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.576806,-62.641796&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas New Glasgow",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-new-glasgow",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "291 Main Street, Antigonish, NS, B2G 2C3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 863-4646",
+                    "text": "(902) 863-4646"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Antigonish",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=45.622396,-61.992626&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|45.622396,-61.992626&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Antigonish",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-antigonish",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "850 North May Street, Thunder Bay, ON, P7C 6A5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(807) 628-8455",
+                    "text": "(807) 628-8455"
+                },
+                "map": {
+                    "alt": "SilverCity Thunder Bay Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=48.39842,-89.245333&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|48.39842,-89.245333&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Thunder Bay Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-thunder-bay-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "325 Prince Street, Sydney, NS, B1P 5K6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(902) 539-9050",
+                    "text": "(902) 539-9050"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Sydney",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=46.139653,-60.186429&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|46.139653,-60.186429&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Sydney",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-sydney",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2 Main Street, Corner Brook, NL, A2H 6G7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(709) 634-2074",
+                    "text": "(709) 634-2074"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Millbrook",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=48.952309,-57.950603&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|48.952309,-57.950603&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Millbrook",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-millbrook",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1555 Regent Avenue West, Winnipeg, MB, R2C 4J2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(204) 663-2166",
+                    "text": "(204) 663-2166"
+                },
+                "map": {
+                    "alt": "Famous Players Kildonan Place Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.897277,-97.061825&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.897277,-97.061825&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Famous Players Kildonan Place Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/famous-players-kildonan-place-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "160-1225 St. Mary's Road, Winnipeg, MB, R2M 5E5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(204) 256-3901",
+                    "text": "(204) 256-3901"
+                },
+                "map": {
+                    "alt": "SilverCity St. Vital Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.828994,-97.114537&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.828994,-97.114537&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity St. Vital Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-st-vital-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1399 McPhillips Street, Winnipeg, MB, R2V 3C4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(204) 334-6253",
+                    "text": "(204) 334-6253"
+                },
+                "map": {
+                    "alt": "Cinema City Northgate",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.941641,-97.157569&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.941641,-97.157569&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinema City Northgate",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cinemacity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-city-northgate",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2190 McGillivray Boulevard, Winnipeg, MB, R3Y 1S6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(204) 269-9981",
+                    "text": "(204) 269-9981"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon McGillivray Cinemas and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.820128,-97.203906&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.820128,-97.203906&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon McGillivray Cinemas and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-mcgillivray-cinemas-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "817 St. James Street, Winnipeg, MB, R3G 3L3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(204) 774-1001",
+                    "text": "(204) 774-1001"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Winnipeg (Formerly SilverCity Polo Park)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.887586,-97.200921&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.887586,-97.200921&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Winnipeg (Formerly SilverCity Polo Park)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg-formerly-silvercity-polo-park",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "760 Topsail Road, St. John's, NL, A1N 3J5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(709) 364-8503",
+                    "text": "(709) 364-8503"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Mount Pearl",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=47.523239,-52.78068&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|47.523239,-52.78068&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Mount Pearl",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-mount-pearl",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Avalon Mall, 48 Kenmount Road, St. John's, NL, A1B 1W3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(709) 722-5763",
+                    "text": "(709) 722-5763"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre St. John's (formerly Cineplex Avalon Mall)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=47.56109,-52.754355&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|47.56109,-52.754355&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre St. John's (formerly Cineplex Avalon Mall)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-st-johns-formerly-cineplex-avalon-mall",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3025 Gordon Road, Regina, SK, S4S 6H7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 585-3383",
+                    "text": "(306) 585-3383"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Southland Mall Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.404798,-104.624895&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.404798,-104.624895&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Southland Mall Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-southland-mall-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "420 McCarthy Boulevard North, Unit 26, Regina, SK, S4R 7M2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 522-9098",
+                    "text": "(306) 522-9098"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Regina (formerly Galaxy Cinemas)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.483053,-104.666147&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.483053,-104.666147&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Regina (formerly Galaxy Cinemas)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-regina-formerly-galaxy-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1235 Main Street North, Moose Jaw, SK, S6H 6M4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 693-3456",
+                    "text": "(306) 693-3456"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Moose Jaw",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.410241,-105.533895&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.410241,-105.533895&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Moose Jaw",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-moose-jaw",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2995 2nd Avenue West, Unit 1C, Prince Albert, SK, S6V 5V5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 922-5970",
+                    "text": "(306) 922-5970"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Prince Albert",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.185984,-105.760445&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.185984,-105.760445&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Prince Albert",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-prince-albert",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3510-8th Street, Saskatoon, SK, S7H 0W6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 955-1938",
+                    "text": "(306) 955-1938"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Centre Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=52.114637,-106.593908&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|52.114637,-106.593908&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Centre Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-centre-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "347-2nd Avenue South, Saskatoon, SK, S7K 1L1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(306) 664-5060",
+                    "text": "(306) 664-5060"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Saskatoon and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=52.124937,-106.665885&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|52.124937,-106.665885&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Saskatoon and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-saskatoon-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3292 Dunmore Road SE, Medicine Hat, AB, T1B 2R4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 504-5477",
+                    "text": "(403) 504-5477"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Medicine Hat",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.00336,-110.642892&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.00336,-110.642892&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Medicine Hat",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-medicine-hat",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "501-1st Avenue South West, Lethbridge, AB, T1J 0A1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 329-0002",
+                    "text": "(403) 329-0002"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Lethbridge",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.698069,-112.840199&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.698069,-112.840199&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Lethbridge",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-lethbridge",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2020 Sherwood Drive, Sherwood Park, AB, T8A 3H9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 416-0152",
+                    "text": "(780) 416-0152"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Sherwood Park (formerly Galaxy Cinemas)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.531687,-113.294106&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.531687,-113.294106&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Sherwood Park (formerly Galaxy Cinemas)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-sherwood-park-formerly-galaxy-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "15531 37 ST NW, Edmonton, AB, T5Y 0S5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 476-7807",
+                    "text": "(780) 476-7807"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Manning Town Centre",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.61596,-113.39065&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.61596,-113.39065&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Manning Town Centre",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-manning-town-centre",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "5074 130 Avenue, Edmonton, AB, T5A 5A9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 472-9779",
+                    "text": "(780) 472-9779"
+                },
+                "map": {
+                    "alt": "Cinema City Movies 12",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.590033,-113.420258&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.590033,-113.420258&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cinema City Movies 12",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cinemacity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cinema-city-movies-12",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "1525-99th Street NW, Edmonton, AB, T6N 1K5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 436-8585",
+                    "text": "(780) 436-8585"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon South Edmonton Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.445599,-113.481882&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.445599,-113.481882&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon South Edmonton Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-south-edmonton-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "14231-137th Avenue, Edmonton, AB, T5L 5E8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 732-2236",
+                    "text": "(780) 732-2236"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon North Edmonton Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.599254,-113.569199&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.599254,-113.569199&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon North Edmonton Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-north-edmonton-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "6151 Currents Drive NW, Edmonton, AB, T6W 0L9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 822-4250",
+                    "text": "(780) 822-4250"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Windermere Cinemas and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.43592,-113.599148&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.43592,-113.599148&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Windermere Cinemas and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-windermere-cinemas-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "#3030, 8882-170 Street, Edmonton, AB, T5T 4M2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 444-2400",
+                    "text": "(780) 444-2400"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Edmonton",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.52358,-113.615713&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.52358,-113.615713&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Edmonton",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-edmonton",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "357-37400 Highway 2, Red Deer County, Red Deer County, Red Deer, AB, T4E 1B9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 348-2357",
+                    "text": "(403) 348-2357"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Red Deer",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=52.211433,-113.818381&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|52.211433,-113.818381&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Red Deer",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-red-deer",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "261055 CrossIron Boulevard, Rocky View, AB, T4A 0G3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 274-3261",
+                    "text": "(403) 274-3261"
+                },
+                "map": {
+                    "alt": "SilverCity CrossIron Mills and XSCAPE Entertainment Centre",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=51.205163,-113.988476&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|51.205163,-113.988476&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity CrossIron Mills and XSCAPE Entertainment Centre",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-crossiron-mills-and-xscape-entertainment-centre",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "#400, 2555-32nd Street NE, Calgary, AB, T1Y 7J6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 717-1200",
+                    "text": "(403) 717-1200"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Sunridge Spectrum Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=51.074385,-113.98893&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|51.074385,-113.98893&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Sunridge Spectrum Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-sunridge-spectrum-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "Eau Claire Market, 200 Barclay Parade SW, 200 Barclay Parade S.W., Calgary, AB, T2P 4R5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 263-3166",
+                    "text": "(403) 263-3166"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Eau Claire Market Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=51.051363,-114.069618&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|51.051363,-114.069618&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Eau Claire Market Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-eau-claire-market-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "6455 Macleod Trail SW , Calgary, AB, T2H 0K4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 212-8994",
+                    "text": "(403) 212-8994"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Chinook",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.996067,-114.073148&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.996067,-114.073148&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Chinook",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-chinook",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "165 Stewart Green SW, Calgary, AB, T3H 3C8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 246-5291",
+                    "text": "(403) 246-5291"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Westhills Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=51.016248,-114.169586&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|51.016248,-114.169586&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Westhills Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-westhills-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "91 Crowfoot Terrace NW, Calgary, AB, T3G 2L5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(403) 547-3316",
+                    "text": "(403) 547-3316"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Crowfoot Crossing Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=51.127189,-114.201192&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|51.127189,-114.201192&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Crowfoot Crossing Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-crowfoot-crossing-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "10330 109th Street, Grande Prairie, AB, T8V 7X3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(780) 513-5534",
+                    "text": "(780) 513-5534"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Grande Prairie Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=55.173087,-118.823451&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|55.173087,-118.823451&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Grande Prairie Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-grande-prairie-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "275-2306 Highway 6, Vernon, BC, V1T 7E3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 542-1107",
+                    "text": "(250) 542-1107"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Vernon",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.257029,-119.263866&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.257029,-119.263866&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Vernon",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-vernon",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "160-1876 Cooper Road, Kelowna, BC, V1Y 9N6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 860-1611",
+                    "text": "(250) 860-1611"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Orchard Plaza",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.88046,-119.443384&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.88046,-119.443384&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Orchard Plaza",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-orchard-plaza",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "700-1320 West Trans Canada Highway, Kamloops, BC, V1S 1J2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 377-8401",
+                    "text": "(250) 377-8401"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Aberdeen Mall Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=50.653271,-120.37182&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|50.653271,-120.37182&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Aberdeen Mall Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-aberdeen-mall-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "172-1600 15th Avenue, Prince George, BC, V2L 3X3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 612-3993",
+                    "text": "(250) 612-3993"
+                },
+                "map": {
+                    "alt": "Famous Players 6 Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=53.909948,-122.758201&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|53.909948,-122.758201&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Famous Players 6 Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/famous-players-6-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "8249 Eagle Landing Parkway, Chilliwack, BC, V2P 7K6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 793-0516",
+                    "text": "(604) 793-0516"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Chilliwack",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.154822,-121.977897&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.154822,-121.977897&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Chilliwack",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-chilliwack",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "The Junction Plaza, 32555 London Avenue, Mission, BC, V2V 6M7",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 820-2733",
+                    "text": "(604) 820-2733"
+                },
+                "map": {
+                    "alt": "SilverCity Mission Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.130636,-122.323194&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.130636,-122.323194&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Mission Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-mission-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3122 Mt. Lehman Rd., Unit J200, Abbotsford, BC, V4X 2K9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 504-9701",
+                    "text": "(604) 504-9701"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Abbotsford and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.058985,-122.381462&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.058985,-122.381462&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Abbotsford and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-abbotsford-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "#410, 19800 Lougheed Highway, Pitt Meadows, BC, V3Y 2W1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 460-6455",
+                    "text": "(604) 460-6455"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Meadowtown Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.223819,-122.671298&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.223819,-122.671298&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Meadowtown Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-meadowtown-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "#20090, 91A Avenue, Langley, BC, V1M 3Y9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 513-8747",
+                    "text": "(604) 513-8747"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Langley",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.16908,-122.665639&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.16908,-122.665639&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Langley",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-langley",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "170 Schoolhouse Street, Coquitlam, BC, V3K 4X9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip",
+                    "text": "Theatre Info & Prices"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Coquitlam and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.235224,-122.852635&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.235224,-122.852635&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Coquitlam and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-coquitlam-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "12161-72nd Avenue, Surrey, BC, V3W 2M1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 501-9400",
+                    "text": "(604) 501-9400"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Strawberry Hill",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.134161,-122.885909&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.134161,-122.885909&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Strawberry Hill",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-strawberry-hill",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "4700 Kingsway, Burnaby, BC, V5H 4M1",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 435-7474",
+                    "text": "(604) 435-7474"
+                },
+                "map": {
+                    "alt": "SilverCity Metropolis Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.228325,-122.999439&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.228325,-122.999439&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Metropolis Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-metropolis-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "200-333 Brooksbank Avenue, N. Vancouver, BC, V7J 3S8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 985-3911",
+                    "text": "(604) 985-3911"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Park & Tilford Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.30878,-123.040668&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.30878,-123.040668&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Park & Tilford Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-park-tilford-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "200 West Esplanade, N. Vancouver, BC, V7M 1A4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade",
+                    "text": "Theatre Info & Prices"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Esplanade",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.3123655,-123.0833493&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.3123655,-123.0833493&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Esplanade",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-esplanade",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "88 West Pender, 3rd Floor, Vancouver, BC, V6B 6N9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 806-0799",
+                    "text": "(604) 806-0799"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon International Village Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.281069,-123.107409&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.281069,-123.107409&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon International Village Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-international-village-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "14211 Entertainment Way, Richmond, BC, V6W 1K4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 277-5993",
+                    "text": "(604) 277-5993"
+                },
+                "map": {
+                    "alt": "SilverCity Riverport Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.134057,-123.066132&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.134057,-123.066132&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Riverport Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-riverport-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3440 Cambie St., Vancouver, BC, V5Z 2W8",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 709-3456",
+                    "text": "(604) 709-3456"
+                },
+                "map": {
+                    "alt": "The Park Theatre",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.254442,-123.11481&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.254442,-123.11481&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "The Park Theatre",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/the-park-theatre",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "900 Burrard Street, Vancouver, BC, V6Z 3G5",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 630-1407",
+                    "text": "(604) 630-1407"
+                },
+                "map": {
+                    "alt": "Scotiabank Theatre Vancouver",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.282176,-123.124341&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.282176,-123.124341&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Scotiabank Theatre Vancouver",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/scotiabank.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/scotiabank-theatre-vancouver",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "452 South West Marine Drive, Vancouver, BC, V5X 0C3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 630-0414",
+                    "text": "(604) 630-0414"
+                },
+                "map": {
+                    "alt": "Cineplex Cinemas Marine Gateway and VIP",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.21006,-123.115693&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.21006,-123.115693&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Cinemas Marine Gateway and VIP",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex_cinemas_en.jpg",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-cinemas-marine-gateway-and-vip",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "2110 Burrard Street, Vancouver, BC, V6J 3H6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(604) 734-7469",
+                    "text": "(604) 734-7469"
+                },
+                "map": {
+                    "alt": "Fifth Avenue Cinemas (age restricted 19+)",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.266742,-123.145481&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.266742,-123.145481&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Fifth Avenue Cinemas (age restricted 19+)",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/fifth-avenue-cinemas-age-restricted-19",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "780 Yates Street, Victoria, BC, V8W 1L4",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 383-0513",
+                    "text": "(250) 383-0513"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Victoria Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=48.426186,-123.362758&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|48.426186,-123.362758&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Victoria Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-victoria-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "3130 Tillicum Road, Victoria, BC, V9A 6T2",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 381-9300",
+                    "text": "(250) 381-9300"
+                },
+                "map": {
+                    "alt": "SilverCity Victoria Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=48.45271,-123.395009&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|48.45271,-123.395009&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "SilverCity Victoria Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/silvercity.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/silvercity-victoria-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "900 2945 Jacklin Rd, Langford, BC, V9B 5E3",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 474-1007",
+                    "text": "(250) 474-1007"
+                },
+                "map": {
+                    "alt": "Cineplex Odeon Westshore Cinemas",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=48.4406984,-123.5083973&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|48.4406984,-123.5083973&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Cineplex Odeon Westshore Cinemas",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/cineplex.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/cineplex-odeon-westshore-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "213-4750 Rutherford Road, Nanaimo, BC, V9T 4K6",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 729-8000",
+                    "text": "(250) 729-8000"
+                },
+                "map": {
+                    "alt": "Galaxy Cinemas Nanaimo",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=49.217948,-124.029518&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|49.217948,-124.029518&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Galaxy Cinemas Nanaimo",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/galaxy.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/galaxy-cinemas-nanaimo",
+                    "text": "Theatre Info & Prices"
+                }
+            },
+            {
+                "address": "525 West 2nd Avenue, Prince Rupert, BC, V8J 1G9",
+                "phone": {
+                    "href": "http://www.cineplex.com/Theatres/tel:(250) 622-2582",
+                    "text": "(250) 622-2582"
+                },
+                "map": {
+                    "alt": "Famous Players Prince Rupert Cinemas ",
+                    "src": "http://maps.googleapis.com/maps/api/staticmap?center=54.312475,-130.326846&zoom=15&size=150x120&sensor=false&markers=icon:http://mediafiles.cineplex.com/Maps/Icons/Theatre/cineplex_placemark.png|label:|54.312475,-130.326846&key=AIzaSyBsdz0VakJ8uRyOSqjCQl7Ut3XF-KVdDPQ&language=en",
+                    "text": ""
+                },
+                "cinema": {
+                    "alt": "Famous Players Prince Rupert Cinemas ",
+                    "src": "http://mediafiles.cineplex.com/TheatreBrandLogos/famousplayers.png",
+                    "text": ""
+                },
+                "theatreInfo": {
+                    "href": "http://www.cineplex.com/Theatre/famous-players-prince-rupert-cinemas",
+                    "text": "Theatre Info & Prices"
+                }
+            }
+        ]
+    }
+}
