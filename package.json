@@ -14,6 +14,10 @@
   },
   "homepage": "https://github.com/osmottawa/imports#readme",
   "dependencies": {
+    "@turf/buffer": "^3.7.0",
+    "@turf/explode": "^3.7.0",
+    "@turf/helpers": "^3.6.3",
+    "@turf/simplify": "^3.7.0",
     "@turf/turf": "^3.5.2",
     "@types/babyparse": "0.0.30",
     "@types/bluebird": "^3.0.33",
