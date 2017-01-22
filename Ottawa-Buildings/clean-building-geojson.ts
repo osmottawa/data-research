@@ -1,10 +1,8 @@
 import * as turf from '@turf/turf'
-import * as fs from 'fs'
-import * as path from 'path'
+import {writer, reader} from 'geojson-writer'
 
 const collection = turf.featureCollection([])
-const data: GeoJSON.FeatureCollection<GeoJSON.Point> = require(path.join(__dirname, 'ottawa-buildings.json'))
-const writer = fs.createWriteStream(path.join(__dirname, 'ottawa-buildings.geojson'))
+const data = reader('ottawa-buildings.geojson')
 
 data.features.map(feature => {
   feature.properties = {
@@ -14,7 +12,7 @@ data.features.map(feature => {
   collection.features.push(feature)
 })
 
-writer.write(JSON.stringify(collection, null, 4))
+writer('ottawa-buildings-new.geojson', collection, {z: true})
 
 /**
 tippecanoe \
