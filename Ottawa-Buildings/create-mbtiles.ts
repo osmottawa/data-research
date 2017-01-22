@@ -38,7 +38,7 @@ const name = path.parse(source).name
 const ext = path.parse(source).ext
 
 async function main() {
-  for (const zoom of range(minzoom, maxzoom)) {
+  for (const zoom of range(minzoom, maxzoom + 1)) {
     const mbtilesZoom = `${name}-z${zoom}.mbtiles`
     const args = [
       '--output=' + mbtilesZoom,
