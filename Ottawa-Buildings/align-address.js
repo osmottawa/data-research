@@ -3,10 +3,12 @@ const writer = require('geojson-writer').writer
 const turf = require('@turf/turf')
 const ruler = require('cheap-ruler')(45.34, 'feet')
 const rbush = require('rbush')
-const fs = require('fs')
+const polylabel = require('polylabel')
 
 // Variables
 const minSqft = 700
+const maxParcelBuffer = 3 // Meters
+const maxPartials = 0 // Vertices
 const addressPath = 'ottawa-address.geojson'
 const buildingsPath = 'ottawa-buildings.geojson'
 const parcelsPath = 'ottawa-parcels.geojson'
@@ -76,7 +78,7 @@ for (let address of addresses) {
   if (parcels.length) {
     const parcel = parcels[0].feature
     const parcelBBox = turf.bbox(parcel)
-    let parcelBuffer = turf.buffer(parcel, 3, 'meters')
+    let parcelBuffer = turf.buffer(parcel, maxParcelBuffer, 'meters')
 
     // Find All buildings within parcel
     let buildings = tree.buildings.search({
@@ -99,16 +101,8 @@ for (let address of addresses) {
         const inside = turf.inside(point, parcelBuffer)
         if (!inside) { partials++ }
       }
-      return partials <= 1
+      return partials <= maxPartials
     })
-    // QA
-    // 19.1/45.403/-75.687
-    // 19.69/45.39918/-75.70051
-    // -75.6625028,45.3903393
-    // 19.5/45.39225/-75.72918 (Shed bigger than 450 sqft)
-    // 18.63/45.40379/-75.70047/-20.8/4 (Duplex with large shed +450)
-    // 149094 more then
-    // 157328 less than
 
     // If only two buildings, remove smallest one
     if (buildings.length === 2) {
@@ -126,16 +120,16 @@ for (let address of addresses) {
       const building = buildings[0].feature
 
       // Create Center of building
-      const center = turf.center(building)
-      const distance = ruler.distance(address.geometry.coordinates, center.geometry.coordinates)
-      const line = turf.lineString([address.geometry.coordinates, center.geometry.coordinates])
+      const center = polylabel(building.geometry.coordinates, 0.001)
+      const distance = ruler.distance(address.geometry.coordinates, center)
+      const line = turf.lineString([address.geometry.coordinates, center])
       line.properties.distance = distance
       lines.push(line)
 
       // Swap geometry of Address with center
-      address.geometry.coordinates = center.geometry.coordinates
+      address.geometry.coordinates = center
       count++
-      if (count % 1000 === 0) { console.log(count) }
+      // if (count % 5000 === 0) { console.log(count) }
       collection.push(address)
     } else {
       collection.push(address)
