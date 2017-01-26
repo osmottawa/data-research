@@ -1,3 +1,4 @@
+*.dump
 configs/datasets.yml
 configs/server.yml
 configs/bounds.yml
