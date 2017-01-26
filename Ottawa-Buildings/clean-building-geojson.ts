@@ -1,27 +1,41 @@
 import * as turf from '@turf/turf'
 import {writer, reader} from 'geojson-writer'
+import * as fs from 'fs'
+import * as meta from '@turf/meta'
 
-const collection = turf.featureCollection([])
-const data = reader('ottawa-buildings.geojson')
+const collection: GeoJSON.Feature<GeoJSON.Polygon>[] = []
+const data: GeoJSON.FeatureCollection<GeoJSON.Polygon> = reader('ottawa-buildings.geojson')
 
-data.features.map(feature => {
+let count = 0
+console.log('start')
+for (let feature of data.features) {
   feature.properties = {
     building: 'yes',
     source: 'City of Ottawa',
   }
-  collection.features.push(feature)
-})
+  const uniqueOuter: any = {}
+  const uniqueInner: any = {}
 
-writer('ottawa-buildings-new.geojson', collection, {z: true})
+  feature.geometry.coordinates[0].map(coord => uniqueOuter[coord.map(x => Number(x.toFixed(5))).join(',')] = true)
+  if (feature.geometry.coordinates[1]) { feature.geometry.coordinates[1].map(coord => uniqueInner[coord.map(x => Number(x.toFixed(5))).join(',')] = true) }
 
-/**
-tippecanoe \
-    --output=ottawa-address.mbtiles \
-    --force \
-    --base-zoom 13 \
-    --no-feature-limit \
-    --no-tile-size-limit \
-    --minimum-zoom 13 \
-    --maximum-zoom 15 \
-    ottawa-address-clean.geojson
- */
+  if (count % 1000 === 0) { console.log('processed', count, Object.keys(uniqueOuter).length, Object.keys(uniqueInner).length) }
+
+  // Remove Inner Polygon
+  if (Object.keys(uniqueInner).length === 2 || Object.keys(uniqueInner).length === 1) {
+    console.log('remove inner polygon', JSON.stringify(feature, null))
+    fs.writeFileSync('last-issue.geojson', JSON.stringify(feature, null, 2))
+    feature.geometry.coordinates = feature.geometry.coordinates.slice(0, 1)
+  }
+
+  // Don't simplify two vertices
+  if (Object.keys(uniqueOuter).length > 2) {
+    feature = turf.simplify(feature, 0.000001, true)
+    collection.push(feature)
+  }
+  count ++
+}
+
+console.log('Total:', count, collection.length)
+console.log('writting')
+writer('ottawa-buildings-clean.geojson', turf.featureCollection(collection))

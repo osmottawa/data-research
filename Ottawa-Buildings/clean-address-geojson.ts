@@ -1,26 +1,14 @@
 import * as turf from '@turf/turf'
-import * as fs from 'fs'
-import * as path from 'path'
+import {writer, reader} from 'geojson-writer'
 
 const collection = turf.featureCollection([])
-const address: GeoJSON.FeatureCollection<GeoJSON.Point> = require(path.join(__dirname, 'ottawa-address.json'))
+const data = reader('ottawa-address.geojson')
 
-address.features.map(feature => {
-  delete feature.properties['addr:city']
-  delete feature.properties['survey:date']
+data.features.map(feature => {
+  feature.properties.source = 'City of Ottawa'
+  if (feature.properties['survey:date']) { delete feature.properties['survey:date'] }
   collection.features.push(feature)
 })
 
-fs.writeFileSync(path.join(__dirname, 'ottawa-address-clean.geojson'), JSON.stringify(collection, null, 4))
-
-/**
-tippecanoe \
-    --output=ottawa-address.mbtiles \
-    --force \
-    --base-zoom 13 \
-    --no-feature-limit \
-    --no-tile-size-limit \
-    --minimum-zoom 13 \
-    --maximum-zoom 15 \
-    ottawa-address-clean.geojson
- */
+console.log('writing', collection.features.length)
+writer('ottawa-address-clean.geojson', collection)
