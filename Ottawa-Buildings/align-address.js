@@ -120,7 +120,7 @@ for (let address of addresses) {
       const building = buildings[0].feature
 
       // Create Center of building
-      const center = polylabel(building.geometry.coordinates, 0.001)
+      const center = polylabel(building.geometry.coordinates, 0.00001)
       const distance = ruler.distance(address.geometry.coordinates, center)
       const line = turf.lineString([address.geometry.coordinates, center])
       line.properties.distance = distance
@@ -129,7 +129,7 @@ for (let address of addresses) {
       // Swap geometry of Address with center
       address.geometry.coordinates = center
       count++
-      // if (count % 5000 === 0) { console.log(count) }
+      if (count % 5000 === 0) { console.log(count) }
       collection.push(address)
     } else {
       collection.push(address)
