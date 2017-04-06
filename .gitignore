@@ -14,7 +14,6 @@ dist/
 *.png
 *.jpg
 *.mbtiles
-*.geojson
 yarn.lock
 *.tif
 .nyc_output
