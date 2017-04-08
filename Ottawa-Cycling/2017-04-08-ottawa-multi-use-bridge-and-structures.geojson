@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[
+{"geometry": {"type": "Point", "coordinates": [-75.6809359, 45.4043946]}, "type": "Feature", "properties": {"ANGLE": 34, "OBJECTID": 3, "GIS_FIXES": " ", "PRIORITY": 2, "LOCATION": "Water", "YEAR": "2014-2019", "PHASE": "Phase 2", "TYPE": "Bridge", "NAME": "Rideau Canal Crossing - Fifth to Clegg"}},
+{"geometry": {"type": "Point", "coordinates": [-75.728181, 45.4154614]}, "type": "Feature", "properties": {"ANGLE": 290, "OBJECTID": 21, "GIS_FIXES": "60", "PRIORITY": 1, "LOCATION": " ", "YEAR": "2014-2019", "PHASE": "Phase 1", "TYPE": " ", "NAME": "Prince of Wales Bridge Multi-Use Crossing"}},
+{"geometry": {"type": "Point", "coordinates": [-75.6701999, 45.4264684]}, "type": "Feature", "properties": {"ANGLE": 38, "OBJECTID": 28, "GIS_FIXES": "Changed Timing to Red", "PRIORITY": 1, "LOCATION": "Water", "YEAR": "2014-2019", "PHASE": "Phase 1", "TYPE": "Bridge", "NAME": "Rideau River Crossing - Somerset to Donald"}}
+]}
