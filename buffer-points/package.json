@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@turf/bbox": "^4.3.0",
+    "@turf/bbox-polygon": "^4.3.0",
     "@turf/buffer": "^4.3.1",
     "@turf/dissolve": "^4.3.0",
     "@turf/inside": "^4.3.0",

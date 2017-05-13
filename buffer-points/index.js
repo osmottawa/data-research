@@ -1,4 +1,6 @@
 const fs = require('fs')
+const bbox = require('@turf/bbox');
+const bboxPolygon = require('@turf/bbox-polygon');
 const load = require('load-json-file')
 const write = require('write-json-file')
 const buffer = require('@turf/buffer')
@@ -22,15 +24,22 @@ console.timeEnd('filter by extent')
 
 // Apply Buffer to Points
 console.time('buffer')
-geojson = buffer(geojson, 500, 'meters', 8)
+geojson = buffer(geojson, 2000, 'meters', 8)
 console.timeEnd('buffer')
 
-// Reduce Coordinate precision to 3 decimals
+// Make buffers bbox polygons
+console.time('bbox-polygons')
+featureEach(geojson, (feature, index) => {
+  geojson.features[index] = bboxPolygon(bbox(feature))
+})
+console.timeEnd('bbox-polygons')
+
+// Truncate coordinate precision to 6
 console.time('truncate')
-truncate(geojson, 3, 2, true)
+geojson = truncate(geojson)
 console.timeEnd('truncate')
 
-// // Dissolve Polygons
+// Dissolve Polygons
 console.time('dissolve')
 geojson = dissolve(geojson)
 console.timeEnd('dissolve')
