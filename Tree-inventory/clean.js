@@ -11,6 +11,7 @@ trees = load.sync(INPUT)
 const results = []
 featureEach(trees, feature => {
   if (feature.id) delete feature.id
+  if (feature.properties.source) delete feature.properties.source
   results.push(feature)
 })
 
