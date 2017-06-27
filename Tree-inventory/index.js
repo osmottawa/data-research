@@ -1,10 +1,17 @@
-const meta = require('@turf/meta')
+const {featureCollection} = require('@turf/helpers')
+const {featureEach} = require('@turf/meta')
 const path = require('path')
 const write = require('write-json-file')
 const load = require('load-json-file')
 
-trees = load.sync(path.join(__dirname, 'tree-inventory.geojson'))
+const INPUT = path.join(__dirname, 'tree-inventory.geojson')
+const OUTPUT = path.join(__dirname, 'tree-inventory-clean.geojson')
 
-meta.featureEach(trees, feature => {
-  console.log(feature)
+trees = load.sync(INPUT)
+const results = []
+featureEach(trees, feature => {
+  if (feature.id) delete feature.id
+  results.push(feature)
 })
+
+write.sync(OUTPUT, featureCollection(results))
