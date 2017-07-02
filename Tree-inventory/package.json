@@ -1,8 +1,17 @@
 {
   "dependencies": {
-    "@turf/helpers": "^4.4.0",
-    "@turf/meta": "^4.4.0",
+    "@turf/bbox": "^4.5.2",
+    "@turf/boolean-contains": "^4.5.2",
+    "@turf/helpers": "^4.5.2",
+    "@turf/inside": "^4.5.2",
+    "@turf/meta": "^4.5.2",
+    "geojson-rbush": "^1.1.0",
     "load-json-file": "^2.0.0",
+    "tile-reduce": "^3.1.1",
     "write-json-file": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/tile-reduce": "^3.1.0",
+    "standard": "^10.0.2"
   }
 }
