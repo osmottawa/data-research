@@ -1,18 +1,18 @@
 const path = require('path')
 const tileReduce = require('tile-reduce')
-const load = require('load-json-file')
 const write = require('write-json-file')
 const {featureCollection} = require('@turf/helpers')
-const turfBBox = require('@turf/bbox')
 
-// Get BBox
-// const bbox = turfBBox(load.sync(path.join(__dirname, 'tree-inventory.geojson')))
+// User Options
+// http://wiki.openstreetmap.org/wiki/Canada:Ontario:Ottawa/Import/Trees
 const bbox = [ -76.3249473, 45.0506963, -75.3419623, 45.5173001 ]
+const distance = 0
+const type = 'building'
+const output = path.join(__dirname, `tree-inventory-${type}-conflicts-${distance}-meters.geojson`)
 
 // Tile Reduce options
 const mbtiles = path.join(__dirname, 'canada.mbtiles')
 const treeInventory = path.join(__dirname, 'tree-inventory.mbtiles')
-const OUTPUT = path.join(__dirname, 'tree-inventory-building-conflicts.geojson')
 const options = {
   zoom: 12,
   bbox,
@@ -21,7 +21,8 @@ const options = {
     {name: 'qatiles', mbtiles, raw: true},
     {name: 'treeInventory', mbtiles: treeInventory, raw: false}],
   mapOptions: {
-    treeInventory
+    distance,
+    type
   }
 }
 const ee = tileReduce(options)
@@ -35,6 +36,6 @@ ee.on('reduce', (result, tile) => {
 })
 
 ee.on('end', () => {
-  write.sync(OUTPUT, featureCollection(results))
+  write.sync(output, featureCollection(results))
   console.log('done', results.length)
 })
