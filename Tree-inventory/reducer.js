@@ -32,7 +32,7 @@ module.exports = (sources, tile, writeData, done) => {
   index.load(featureCollection(osm))
 
   // Iterate over each Tree
-  featureEach(sources.treeInventory.treeinventorygeojson, tree => {
+  featureEach(sources.treeInventory['tree-inventory'], tree => {
     let match = false
     const search = index.search(tree)
     for (const feature of flatten(search).features) {

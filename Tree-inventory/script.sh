@@ -1,7 +1,8 @@
-SOURCE=tree-inventory-conflicts
+SOURCE=tree-inventory-without-conflicts
 
 # Zoom 12
 tippecanoe \
+    --layer=$SOURCE \
     --output=$SOURCE-z12.mbtiles \
     --force \
     --minimum-zoom 12 \
@@ -17,6 +18,7 @@ tippecanoe \
 
 # Zoom 13
 tippecanoe \
+    --layer=$SOURCE \
     --output=$SOURCE-z13.mbtiles \
     --force \
     --minimum-zoom 13 \
@@ -32,6 +34,7 @@ tippecanoe \
 
 # Zoom 14
 tippecanoe \
+    --layer=$SOURCE \
     --output=$SOURCE-z14.mbtiles \
     --force \
     --minimum-zoom 14 \
@@ -47,7 +50,7 @@ tippecanoe \
 
 # Merge SQLite together
 sqlite3 $SOURCE-z12.mbtiles '.dump' > tmp &&
-    sqlite3 $SOURCE-z13.mbtiles '.dump' > tmp &&
+    sqlite3 $SOURCE-z13.mbtiles '.dump' >> tmp &&
     sqlite3 $SOURCE-z14.mbtiles '.dump' >> tmp &&
     sqlite3 $SOURCE.mbtiles < 'tmp'
 rm $SOURCE-z12.mbtiles $SOURCE-z13.mbtiles $SOURCE-z14.mbtiles tmp
