@@ -9,6 +9,7 @@ const polygonToLineString = require('@turf/polygon-to-linestring')
 // Distance
 const distance = global.mapOptions.distance
 const type = global.mapOptions.type
+const inverse = global.mapOptions.inverse
 
 // QA Tile reducer script
 module.exports = (sources, tile, writeData, done) => {
@@ -32,18 +33,23 @@ module.exports = (sources, tile, writeData, done) => {
 
   // Iterate over each Tree
   featureEach(sources.treeInventory.treeinventorygeojson, tree => {
+    let match = false
     const search = index.search(tree)
     for (const feature of flatten(search).features) {
       if (inside(tree, feature)) {
         const {dist} = pointOnLine(polygonToLineString(feature), tree, 'meters').properties
 
-        // Tree must be futher than 1 meter
+        // Tree must be futher than distance in meters
         if (dist > distance) {
-          results.push(tree)
-          break
+          match = true
+          if (inverse === false) {
+            results.push(tree)
+            break
+          }
         }
       }
     }
+    if (inverse === true && match === false) results.push(tree)
   })
   done(null, results)
 }

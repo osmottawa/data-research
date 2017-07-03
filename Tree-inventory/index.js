@@ -1,6 +1,7 @@
 const path = require('path')
 const tileReduce = require('tile-reduce')
 const write = require('write-json-file')
+const load = require('load-json-file')
 const {featureCollection} = require('@turf/helpers')
 
 // User Options
@@ -8,7 +9,11 @@ const {featureCollection} = require('@turf/helpers')
 const bbox = [ -76.3249473, 45.0506963, -75.3419623, 45.5173001 ]
 const distance = 0
 const type = 'building'
-const output = path.join(__dirname, `tree-inventory-${type}-conflicts-${distance}-meters.geojson`)
+const inverse = true
+const output = path.join(__dirname, `tree-inventory-${type}-conflicts-${distance}-meters-inverse-${inverse}.geojson`)
+
+const count = load.sync(path.join(__dirname, 'tree-inventory.geojson')).features.length
+console.log('total:', count)
 
 // Tile Reduce options
 const mbtiles = path.join(__dirname, 'canada.mbtiles')
@@ -22,7 +27,8 @@ const options = {
     {name: 'treeInventory', mbtiles: treeInventory, raw: false}],
   mapOptions: {
     distance,
-    type
+    type,
+    inverse
   }
 }
 const ee = tileReduce(options)
