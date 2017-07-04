@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const {featureCollection, lineString} = require('@turf/helpers')
 const {featureEach} = require('@turf/meta')
 const flatten = require('@turf/flatten')

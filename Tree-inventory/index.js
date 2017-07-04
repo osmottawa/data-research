@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const path = require('path')
 const tileReduce = require('tile-reduce')
 const write = require('write-json-file')
