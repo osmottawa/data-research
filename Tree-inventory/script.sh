@@ -1,4 +1,4 @@
-SOURCE=tree-inventory-without-conflicts
+SOURCE=tree-inventory-closest-building
 
 # Zoom 12
 tippecanoe \

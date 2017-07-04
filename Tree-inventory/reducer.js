@@ -1,4 +1,4 @@
-const {featureCollection} = require('@turf/helpers')
+const {featureCollection, lineString} = require('@turf/helpers')
 const {featureEach} = require('@turf/meta')
 const flatten = require('@turf/flatten')
 const inside = require('@turf/inside')
@@ -8,42 +8,57 @@ const polygonToLineString = require('@turf/polygon-to-linestring')
 
 // Distance
 const distance = global.mapOptions.distance
-const type = global.mapOptions.type
 const inverse = global.mapOptions.inverse
+const closestLine = global.mapOptions.closestLine
+const closestFeature = global.mapOptions.closestFeature
 
 // QA Tile reducer script
 module.exports = (sources, tile, writeData, done) => {
   // Main processing
   const results = []
-  const osm = []
+  const buildings = []
+  const highways = []
   const features = sources.qatiles.osm
 
   // Store OSM buildings
   for (var i = 0; i < features.length; i++) {
     const feature = features.feature(i)
-    if (feature.type !== 3) continue // Polygon
-    if (!feature.properties[type]) continue
-    const geojson = feature.toGeoJSON(tile[0], tile[1], tile[2])
-    osm.push(geojson)
+
+    // Buildings
+    if (feature.type === 3 && feature.properties.building) {
+      const building = feature.toGeoJSON(tile[0], tile[1], tile[2])
+      buildings.push(building)
+    // Highways
+    } else if (feature.type === 2 && feature.properties.highway) {
+      const highway = feature.toGeoJSON(tile[0], tile[1], tile[2])
+      highways.push(highway)
+    }
   }
 
-  // Create buidling index
-  const index = rbush()
-  index.load(featureCollection(osm))
+  // Create indexes
+  const buildingIndex = rbush()
+  buildingIndex.load(featureCollection(buildings))
 
   // Iterate over each Tree
   featureEach(sources.treeInventory['tree-inventory'], tree => {
     let match = false
-    const search = index.search(tree)
-    for (const feature of flatten(search).features) {
-      if (inside(tree, feature)) {
-        const {dist} = pointOnLine(polygonToLineString(feature), tree, 'meters').properties
-
+    const search = buildingIndex.search(tree)
+    for (const building of flatten(search).features) {
+      if (inside(tree, building)) {
+        const closest = pointOnLine(polygonToLineString(building), tree, 'meters')
+        const {dist} = closest.properties
         // Tree must be futher than distance in meters
         if (dist > distance) {
           match = true
           if (inverse === false) {
-            results.push(tree)
+            if (closestFeature) {
+              results.push(building)
+            } else if (closestLine) {
+              // Draw closest lines
+              results.push(lineString([closest.geometry.coordinates, tree.geometry.coordinates], closest.properties))
+            } else {
+              results.push(tree)
+            }
             break
           }
         }

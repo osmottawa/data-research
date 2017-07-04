@@ -8,9 +8,10 @@ const {featureCollection} = require('@turf/helpers')
 // http://wiki.openstreetmap.org/wiki/Canada:Ontario:Ottawa/Import/Trees
 const bbox = [ -76.3249473, 45.0506963, -75.3419623, 45.5173001 ]
 const distance = 0
-const type = 'building'
-const inverse = true
-const output = path.join(__dirname, `tree-inventory-${type}-conflicts-${distance}-meters-inverse-${inverse}.geojson`)
+const inverse = false
+const closestFeature = true
+const closestLine = true
+const output = path.join(__dirname, `tree-inventory-conflicts-${distance}-meters-inverse-${inverse}-closestLine-${closestLine}-closestFeature-${closestFeature}.geojson`)
 
 const count = load.sync(path.join(__dirname, 'tree-inventory.geojson')).features.length
 console.log('total:', count)
@@ -28,7 +29,9 @@ const options = {
   mapOptions: {
     distance,
     type,
-    inverse
+    inverse,
+    closestLine,
+    closestFeature
   }
 }
 const ee = tileReduce(options)
