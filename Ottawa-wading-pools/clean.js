@@ -26,14 +26,14 @@ pools.features.map(result => {
     const name_fr = result.properties.NAME_FR;
     
     let note = '';
-    if(result.properties.MONDAY && result.properties.MONDAY.match('Closed')){note+='Monday;' }
-    if(result.properties.TUESDAY && result.properties.TUESDAY.match('Closed')){note+='Tuesday;' }
-    if(result.properties.WEDNESDAY && result.properties.WEDNESDAY.match('Closed')){note+='Wednesday;' }
-    if(result.properties.THURSDAY && result.properties.THURSDAY.match('Closed')){note+='Thursday;' }
-    if(result.properties.FRIDAY && result.properties.FRIDAY.match('Closed')){note+='Friday;' }
-    if(result.properties.SATURDAY && result.properties.SATURDAY.match('Closed')){note+='Saturday;' }
-    if(result.properties.SUNDAY && result.properties.SUNDAY.match('Closed')){note+='Sunday;' }
-    if(note!=''){ note = 'Closed: '+note}
+    if(result.properties.MONDAY && result.properties.MONDAY.match('Closed')){note+='Monday,' }
+    if(result.properties.TUESDAY && result.properties.TUESDAY.match('Closed')){note+='Tuesday,' }
+    if(result.properties.WEDNESDAY && result.properties.WEDNESDAY.match('Closed')){note+='Wednesday,' }
+    if(result.properties.THURSDAY && result.properties.THURSDAY.match('Closed')){note+='Thursday,' }
+    if(result.properties.FRIDAY && result.properties.FRIDAY.match('Closed')){note+='Friday,' }
+    if(result.properties.SATURDAY && result.properties.SATURDAY.match('Closed')){note+='Saturday,' }
+    if(result.properties.SUNDAY && result.properties.SUNDAY.match('Closed')){note+='Sunday,' }
+    if(note!=''){ note = 'Closed: '+note.slice(0,-1)}
     
     const properties = {
         name,
