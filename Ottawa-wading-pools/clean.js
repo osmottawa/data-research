@@ -35,7 +35,7 @@ pools.features.map(result => {
     if(result.properties.SUNDAY && result.properties.SUNDAY.match('Closed')){note+='Sunday,' }
     if(note!=''){ note = 'Closed: '+note.slice(0,-1)}
     
-    const properties = {
+    let properties = {
         name,
         'leisure': 'swimming_pool',
         'name': name,
@@ -45,12 +45,12 @@ pools.features.map(result => {
         'wheelchair': wheelchair,
         'covered': 'no',
         'seasonal': 'summer',
-        'note': note,
         'website' : website,
         'operator': 'City of Ottawa',
         'source': 'City of Ottawa',
         'source:date': '2017-12-08'                 
     };
+    if(note!=''){properties.note = note}
     console.log("New pool: ", name);
     const point = turf.point(result.geometry.coordinates, properties);
     collection1.features.push(point);
