@@ -1,0 +1,2823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="https://github.com/Rub21/geojson2osm">
+  <node lat="45.477998" lon="-75.503802"  id="-1"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36075"/>
+  </node>
+  <node lat="45.328349" lon="-75.782177"  id="-2"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36077"/>
+  </node>
+  <node lat="45.437236" lon="-75.525447"  id="-3"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36078"/>
+  </node>
+  <node lat="45.467522" lon="-75.499298"  id="-4"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36080"/>
+  </node>
+  <node lat="45.347871" lon="-75.672717"  id="-5"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36081"/>
+  </node>
+  <node lat="45.350762" lon="-75.716367"  id="-6"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36082"/>
+  </node>
+  <node lat="45.315091" lon="-75.833693"  id="-7"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36083"/>
+  </node>
+  <node lat="45.395798" lon="-75.625345"  id="-8"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36084"/>
+  </node>
+  <node lat="45.260955" lon="-75.926349"  id="-9"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36085"/>
+  </node>
+  <node lat="45.409835" lon="-75.713774"  id="-10"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4013"/>
+  </node>
+  <node lat="45.388193" lon="-75.688643"  id="-11"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3711"/>
+  </node>
+  <node lat="45.412734" lon="-75.672891"  id="-12"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4041"/>
+  </node>
+  <node lat="45.395813" lon="-75.697577"  id="-13"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3784"/>
+  </node>
+  <node lat="45.402911" lon="-75.681847"  id="-14"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26121"/>
+  </node>
+  <node lat="45.440998" lon="-75.593948"  id="-15"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3111"/>
+  </node>
+  <node lat="45.455309" lon="-75.60491"  id="-16"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26080"/>
+  </node>
+  <node lat="45.455294" lon="-75.605006"  id="-17"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26081"/>
+  </node>
+  <node lat="45.459201" lon="-75.598384"  id="-18"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26082"/>
+  </node>
+  <node lat="45.277844" lon="-75.687251"  id="-19"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26092"/>
+  </node>
+  <node lat="45.27548" lon="-75.690254"  id="-20"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26093"/>
+  </node>
+  <node lat="45.286571" lon="-75.748396"  id="-21"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26094"/>
+  </node>
+  <node lat="45.326153" lon="-75.812223"  id="-22"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26097"/>
+  </node>
+  <node lat="45.351025" lon="-75.67358"  id="-23"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4075"/>
+  </node>
+  <node lat="45.345588" lon="-75.659445"  id="-24"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26099"/>
+  </node>
+  <node lat="45.284076" lon="-75.707669"  id="-25"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26257"/>
+  </node>
+  <node lat="45.269094" lon="-75.708116"  id="-26"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26258"/>
+  </node>
+  <node lat="45.328397" lon="-75.902413"  id="-27"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26260"/>
+  </node>
+  <node lat="45.250246" lon="-75.926251"  id="-28"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26261"/>
+  </node>
+  <node lat="45.393156" lon="-75.608556"  id="-29"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26262"/>
+  </node>
+  <node lat="45.284118" lon="-75.685416"  id="-30"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26263"/>
+  </node>
+  <node lat="45.433032" lon="-75.554782"  id="-31"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26264"/>
+  </node>
+  <node lat="45.35105" lon="-75.809739"  id="-32"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36086"/>
+  </node>
+  <node lat="45.433953" lon="-75.563291"  id="-33"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36087"/>
+  </node>
+  <node lat="45.452037" lon="-75.615045"  id="-34"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36089"/>
+  </node>
+  <node lat="45.259469" lon="-76.062507"  id="-35"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36090"/>
+  </node>
+  <node lat="45.34815" lon="-75.722137"  id="-36"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36091"/>
+  </node>
+  <node lat="45.395708" lon="-75.73082"  id="-37"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36092"/>
+  </node>
+  <node lat="45.470338" lon="-76.205732"  id="-38"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36093"/>
+  </node>
+  <node lat="45.40344" lon="-75.724015"  id="-39"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36094"/>
+  </node>
+  <node lat="45.34982" lon="-75.779634"  id="-40"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36095"/>
+  </node>
+  <node lat="45.289559" lon="-75.878715"  id="-41"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36096"/>
+  </node>
+  <node lat="45.485748" lon="-75.512608"  id="-42"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36097"/>
+  </node>
+  <node lat="45.291564" lon="-75.735692"  id="-43"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36098"/>
+  </node>
+  <node lat="45.1468" lon="-75.601725"  id="-44"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36099"/>
+  </node>
+  <node lat="45.425925" lon="-75.485791"  id="-45"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26111"/>
+  </node>
+  <node lat="45.364986" lon="-75.463548"  id="-46"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26113"/>
+  </node>
+  <node lat="45.344642" lon="-75.795155"  id="-47"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3768"/>
+  </node>
+  <node lat="45.342455" lon="-75.79935"  id="-48"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26124"/>
+  </node>
+  <node lat="45.362641" lon="-75.716742"  id="-49"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26125"/>
+  </node>
+  <node lat="45.352191" lon="-75.720374"  id="-50"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26126"/>
+  </node>
+  <node lat="45.331898" lon="-75.792901"  id="-51"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26128"/>
+  </node>
+  <node lat="45.332068" lon="-75.766048"  id="-52"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26130"/>
+  </node>
+  <node lat="45.346569" lon="-75.783725"  id="-53"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26131"/>
+  </node>
+  <node lat="45.408973" lon="-75.651504"  id="-54"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3059"/>
+  </node>
+  <node lat="45.421932" lon="-75.676517"  id="-55"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3783"/>
+  </node>
+  <node lat="45.310702" lon="-75.889687"  id="-56"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26141"/>
+  </node>
+  <node lat="45.27789" lon="-75.851"  id="-57"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26142"/>
+  </node>
+  <node lat="45.300358" lon="-75.855689"  id="-58"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26144"/>
+  </node>
+  <node lat="45.322643" lon="-75.923608"  id="-59"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26145"/>
+  </node>
+  <node lat="45.31787" lon="-75.920413"  id="-60"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26146"/>
+  </node>
+  <node lat="45.278286" lon="-75.927687"  id="-61"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26147"/>
+  </node>
+  <node lat="45.279773" lon="-75.911597"  id="-62"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26149"/>
+  </node>
+  <node lat="45.439727" lon="-75.642955"  id="-63"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3738"/>
+  </node>
+  <node lat="45.44232" lon="-75.626424"  id="-64"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3705"/>
+  </node>
+  <node lat="45.427714" lon="-75.618404"  id="-65"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26151"/>
+  </node>
+  <node lat="45.432025" lon="-75.627867"  id="-66"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26152"/>
+  </node>
+  <node lat="45.425631" lon="-75.635095"  id="-67"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26154"/>
+  </node>
+  <node lat="45.433241" lon="-75.637172"  id="-68"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26155"/>
+  </node>
+  <node lat="45.199806" lon="-75.834081"  id="-69"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26157"/>
+  </node>
+  <node lat="45.437789" lon="-75.687108"  id="-70"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26160"/>
+  </node>
+  <node lat="45.444977" lon="-75.676324"  id="-71"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3757"/>
+  </node>
+  <node lat="45.451375" lon="-75.650817"  id="-72"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3702"/>
+  </node>
+  <node lat="45.139068" lon="-75.604671"  id="-73"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26161"/>
+  </node>
+  <node lat="45.237281" lon="-75.466406"  id="-74"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26164"/>
+  </node>
+  <node lat="45.321782" lon="-75.464906"  id="-75"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26166"/>
+  </node>
+  <node lat="45.334169" lon="-75.494986"  id="-76"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26167"/>
+  </node>
+  <node lat="45.278876" lon="-75.716598"  id="-77"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26172"/>
+  </node>
+  <node lat="45.287891" lon="-75.715859"  id="-78"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26173"/>
+  </node>
+  <node lat="45.277483" lon="-75.76495"  id="-79"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26174"/>
+  </node>
+  <node lat="45.273518" lon="-75.751782"  id="-80"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26176"/>
+  </node>
+  <node lat="45.340383" lon="-75.640356"  id="-81"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26177"/>
+  </node>
+  <node lat="45.340997" lon="-75.635197"  id="-82"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26178"/>
+  </node>
+  <node lat="45.345224" lon="-75.640257"  id="-83"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26179"/>
+  </node>
+  <node lat="45.355263" lon="-75.635992"  id="-84"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26182"/>
+  </node>
+  <node lat="45.369284" lon="-75.619203"  id="-85"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3730"/>
+  </node>
+  <node lat="45.376673" lon="-75.639931"  id="-86"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3734"/>
+  </node>
+  <node lat="45.320737" lon="-75.903262"  id="-87"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26004"/>
+  </node>
+  <node lat="45.397149" lon="-75.614245"  id="-88"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3785"/>
+  </node>
+  <node lat="45.38195" lon="-75.63935"  id="-89"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4039"/>
+  </node>
+  <node lat="45.377634" lon="-75.647766"  id="-90"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26101"/>
+  </node>
+  <node lat="45.417292" lon="-75.645346"  id="-91"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4011"/>
+  </node>
+  <node lat="45.419186" lon="-75.60771"  id="-92"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26103"/>
+  </node>
+  <node lat="45.361049" lon="-75.856941"  id="-93"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26107"/>
+  </node>
+  <node lat="45.346256" lon="-75.824182"  id="-94"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26108"/>
+  </node>
+  <node lat="45.49896" lon="-76.093031"  id="-95"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26226"/>
+  </node>
+  <node lat="45.498634" lon="-76.09287"  id="-96"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26227"/>
+  </node>
+  <node lat="45.317303" lon="-75.893893"  id="-97"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26228"/>
+  </node>
+  <node lat="45.274427" lon="-75.705906"  id="-98"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26231"/>
+  </node>
+  <node lat="45.282738" lon="-75.73656"  id="-99"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26232"/>
+  </node>
+  <node lat="45.252262" lon="-75.55548"  id="-100"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26234"/>
+  </node>
+  <node lat="45.245387" lon="-75.583877"  id="-101"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26233"/>
+  </node>
+  <node lat="45.35149" lon="-75.941401"  id="-102"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26235"/>
+  </node>
+  <node lat="45.44062" lon="-75.632585"  id="-103"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26237"/>
+  </node>
+  <node lat="45.436929" lon="-75.528575"  id="-104"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26238"/>
+  </node>
+  <node lat="45.462905" lon="-75.468632"  id="-105"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26239"/>
+  </node>
+  <node lat="45.162782" lon="-75.93909"  id="-106"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26241"/>
+  </node>
+  <node lat="45.360477" lon="-75.799133"  id="-107"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26245"/>
+  </node>
+  <node lat="45.232671" lon="-75.416667"  id="-108"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26252"/>
+  </node>
+  <node lat="45.364938" lon="-75.657155"  id="-109"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3754"/>
+  </node>
+  <node lat="45.368851" lon="-75.657525"  id="-110"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26183"/>
+  </node>
+  <node lat="45.352541" lon="-75.697378"  id="-111"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26184"/>
+  </node>
+  <node lat="45.383293" lon="-75.666256"  id="-112"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26187"/>
+  </node>
+  <node lat="45.42458" lon="-75.613325"  id="-113"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26188"/>
+  </node>
+  <node lat="45.42303" lon="-75.604644"  id="-114"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26189"/>
+  </node>
+  <node lat="45.51363" lon="-75.402994"  id="-115"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26191"/>
+  </node>
+  <node lat="45.387277" lon="-75.737954"  id="-116"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3745"/>
+  </node>
+  <node lat="45.408689" lon="-75.72916"  id="-117"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3753"/>
+  </node>
+  <node lat="45.371199" lon="-75.691533"  id="-118"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3766"/>
+  </node>
+  <node lat="45.394179" lon="-75.676984"  id="-119"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3793"/>
+  </node>
+  <node lat="45.321003" lon="-75.708056"  id="-120"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26192"/>
+  </node>
+  <node lat="45.325649" lon="-75.708536"  id="-121"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26193"/>
+  </node>
+  <node lat="45.322749" lon="-75.740074"  id="-122"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26194"/>
+  </node>
+  <node lat="45.336683" lon="-75.729372"  id="-123"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26196"/>
+  </node>
+  <node lat="45.376818" lon="-75.740166"  id="-124"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3777"/>
+  </node>
+  <node lat="45.347442" lon="-75.752823"  id="-125"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26197"/>
+  </node>
+  <node lat="45.358896" lon="-75.721485"  id="-126"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26198"/>
+  </node>
+  <node lat="45.362346" lon="-75.724533"  id="-127"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26199"/>
+  </node>
+  <node lat="45.378022" lon="-75.724489"  id="-128"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3764"/>
+  </node>
+  <node lat="45.364786" lon="-75.721493"  id="-129"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26200"/>
+  </node>
+  <node lat="45.135808" lon="-75.72755"  id="-130"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26201"/>
+  </node>
+  <node lat="45.16899" lon="-75.639546"  id="-131"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26202"/>
+  </node>
+  <node lat="45.1492" lon="-75.648305"  id="-132"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26203"/>
+  </node>
+  <node lat="45.091236" lon="-75.756788"  id="-133"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26204"/>
+  </node>
+  <node lat="45.261444" lon="-75.925844"  id="-134"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26206"/>
+  </node>
+  <node lat="45.34883" lon="-75.682066"  id="-135"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26207"/>
+  </node>
+  <node lat="45.350584" lon="-75.795677"  id="-136"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26208"/>
+  </node>
+  <node lat="45.267485" lon="-75.760989"  id="-137"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26210"/>
+  </node>
+  <node lat="45.367873" lon="-75.70014"  id="-138"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26213"/>
+  </node>
+  <node lat="45.442648" lon="-75.529018"  id="-139"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26028"/>
+  </node>
+  <node lat="45.442732" lon="-75.528865"  id="-140"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26029"/>
+  </node>
+  <node lat="45.440291" lon="-75.532816"  id="-141"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26030"/>
+  </node>
+  <node lat="45.437232" lon="-75.525458"  id="-142"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26031"/>
+  </node>
+  <node lat="45.469095" lon="-75.536403"  id="-143"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26034"/>
+  </node>
+  <node lat="45.469251" lon="-75.536203"  id="-144"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26035"/>
+  </node>
+  <node lat="45.468707" lon="-75.534534"  id="-145"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26036"/>
+  </node>
+  <node lat="45.474054" lon="-75.549495"  id="-146"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26038"/>
+  </node>
+  <node lat="45.474057" lon="-75.549176"  id="-147"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26040"/>
+  </node>
+  <node lat="45.477922" lon="-75.547891"  id="-148"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26042"/>
+  </node>
+  <node lat="45.483576" lon="-75.533445"  id="-149"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26044"/>
+  </node>
+  <node lat="45.48357" lon="-75.533671"  id="-150"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26045"/>
+  </node>
+  <node lat="45.29477" lon="-75.902013"  id="-151"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26052"/>
+  </node>
+  <node lat="45.392333" lon="-75.742391"  id="-152"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26054"/>
+  </node>
+  <node lat="45.392431" lon="-75.742248"  id="-153"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26055"/>
+  </node>
+  <node lat="45.302721" lon="-75.89774"  id="-154"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26057"/>
+  </node>
+  <node lat="45.298628" lon="-75.900902"  id="-155"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26058"/>
+  </node>
+  <node lat="45.285906" lon="-75.859981"  id="-156"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26059"/>
+  </node>
+  <node lat="45.431389" lon="-75.669779"  id="-157"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26066"/>
+  </node>
+  <node lat="45.222326" lon="-75.687022"  id="-158"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26068"/>
+  </node>
+  <node lat="45.261254" lon="-75.556441"  id="-159"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26072"/>
+  </node>
+  <node lat="45.442443" lon="-75.669013"  id="-160"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26074"/>
+  </node>
+  <node lat="45.443542" lon="-75.604613"  id="-161"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26077"/>
+  </node>
+  <node lat="45.44067" lon="-75.593888"  id="-162"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3110"/>
+  </node>
+  <node lat="45.265526" lon="-75.715016"  id="-163"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26171"/>
+  </node>
+  <node lat="45.276132" lon="-75.758156"  id="-164"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26175"/>
+  </node>
+  <node lat="45.362755" lon="-75.635961"  id="-165"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3741"/>
+  </node>
+  <node lat="45.418565" lon="-75.62474"  id="-166"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26106"/>
+  </node>
+  <node lat="45.283372" lon="-75.848846"  id="-167"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26236"/>
+  </node>
+  <node lat="45.267713" lon="-75.826572"  id="-168"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26244"/>
+  </node>
+  <node lat="45.37352" lon="-75.649069"  id="-169"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4003"/>
+  </node>
+  <node lat="45.379939" lon="-75.677229"  id="-170"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3746"/>
+  </node>
+  <node lat="45.40452" lon="-75.745431"  id="-171"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4015"/>
+  </node>
+  <node lat="45.415239" lon="-75.686718"  id="-172"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3780"/>
+  </node>
+  <node lat="45.334739" lon="-75.743875"  id="-173"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26195"/>
+  </node>
+  <node lat="45.367416" lon="-75.706512"  id="-174"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3795"/>
+  </node>
+  <node lat="45.263011" lon="-75.935121"  id="-175"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26205"/>
+  </node>
+  <node lat="45.348936" lon="-75.741672"  id="-176"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26212"/>
+  </node>
+  <node lat="45.470937" lon="-75.507347"  id="-177"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26032"/>
+  </node>
+  <node lat="45.466945" lon="-75.546337"  id="-178"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26037"/>
+  </node>
+  <node lat="45.343702" lon="-76.025714"  id="-179"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34976"/>
+  </node>
+  <node lat="45.478297" lon="-75.458533"  id="-180"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35003"/>
+  </node>
+  <node lat="45.28646" lon="-75.700313"  id="-181"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26256"/>
+  </node>
+  <node lat="45.410489" lon="-75.709365"  id="-182"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3728"/>
+  </node>
+  <node lat="45.298627" lon="-75.900904"  id="-183"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26139"/>
+  </node>
+  <node lat="45.163003" lon="-75.454531"  id="-184"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26162"/>
+  </node>
+  <node lat="45.346647" lon="-75.645215"  id="-185"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26180"/>
+  </node>
+  <node lat="45.359985" lon="-75.803712"  id="-186"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26246"/>
+  </node>
+  <node lat="45.405395" lon="-75.643822"  id="-187"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3704"/>
+  </node>
+  <node lat="45.349252" lon="-75.774846"  id="-188"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="4052"/>
+  </node>
+  <node lat="45.267125" lon="-75.763218"  id="-189"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26211"/>
+  </node>
+  <node lat="45.474116" lon="-75.549437"  id="-190"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26039"/>
+  </node>
+  <node lat="45.425448" lon="-75.656477"  id="-191"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26065"/>
+  </node>
+  <node lat="45.277549" lon="-75.712172"  id="-192"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26230"/>
+  </node>
+  <node lat="45.347599" lon="-75.931741"  id="-193"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26005"/>
+  </node>
+  <node lat="45.449333" lon="-75.529883"  id="-194"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26022"/>
+  </node>
+  <node lat="45.230092" lon="-75.642226"  id="-195"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26159"/>
+  </node>
+  <node lat="45.451481" lon="-75.488639"  id="-196"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35319"/>
+  </node>
+  <node lat="45.304509" lon="-75.93501"  id="-197"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35799"/>
+  </node>
+  <node lat="45.26366" lon="-75.583976"  id="-198"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35775"/>
+  </node>
+  <node lat="45.266313" lon="-75.551167"  id="-199"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35819"/>
+  </node>
+  <node lat="45.267844" lon="-75.730529"  id="-200"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35051"/>
+  </node>
+  <node lat="45.481146" lon="-75.523797"  id="-201"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26047"/>
+  </node>
+  <node lat="45.430895" lon="-75.635608"  id="-202"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26064"/>
+  </node>
+  <node lat="45.244447" lon="-75.594218"  id="-203"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26073"/>
+  </node>
+  <node lat="45.447334" lon="-75.588826"  id="-204"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26078"/>
+  </node>
+  <node lat="45.4591" lon="-75.598332"  id="-205"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26083"/>
+  </node>
+  <node lat="45.319466" lon="-75.819485"  id="-206"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26096"/>
+  </node>
+  <node lat="45.389503" lon="-75.629828"  id="-207"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26253"/>
+  </node>
+  <node lat="45.288414" lon="-75.664845"  id="-208"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="49011"/>
+  </node>
+  <node lat="45.4209" lon="-75.669311"  id="-209"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36106"/>
+  </node>
+  <node lat="45.32982" lon="-75.761271"  id="-210"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36107"/>
+  </node>
+  <node lat="45.364995" lon="-75.463503"  id="-211"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26112"/>
+  </node>
+  <node lat="45.399881" lon="-75.711506"  id="-212"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26116"/>
+  </node>
+  <node lat="45.337857" lon="-75.69486"  id="-213"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36108"/>
+  </node>
+  <node lat="45.463565" lon="-75.5141"  id="-214"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26009"/>
+  </node>
+  <node lat="45.457953" lon="-75.530615"  id="-215"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26018"/>
+  </node>
+  <node lat="45.44383" lon="-75.53837"  id="-216"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26027"/>
+  </node>
+  <node lat="45.350865" lon="-75.809857"  id="-217"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34810"/>
+  </node>
+  <node lat="45.328104" lon="-75.922025"  id="-218"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35673"/>
+  </node>
+  <node lat="45.288593" lon="-75.665075"  id="-219"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="49013"/>
+  </node>
+  <node lat="45.349022" lon="-75.74173"  id="-220"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35067"/>
+  </node>
+  <node lat="45.450257" lon="-75.47123"  id="-221"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35179"/>
+  </node>
+  <node lat="45.481203" lon="-75.487741"  id="-222"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35189"/>
+  </node>
+  <node lat="45.146887" lon="-75.60151"  id="-223"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35191"/>
+  </node>
+  <node lat="45.470989" lon="-75.462781"  id="-224"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35195"/>
+  </node>
+  <node lat="45.433833" lon="-75.563727"  id="-225"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35183"/>
+  </node>
+  <node lat="45.481274" lon="-75.488203"  id="-226"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35187"/>
+  </node>
+  <node lat="45.471105" lon="-75.462501"  id="-227"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35193"/>
+  </node>
+  <node lat="45.285648" lon="-75.859869"  id="-228"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35185"/>
+  </node>
+  <node lat="45.433028" lon="-75.554886"  id="-229"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35177"/>
+  </node>
+  <node lat="45.433043" lon="-75.554586"  id="-230"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35175"/>
+  </node>
+  <node lat="45.448305" lon="-75.464474"  id="-231"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35371"/>
+  </node>
+  <node lat="45.272948" lon="-75.864004"  id="-232"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35457"/>
+  </node>
+  <node lat="45.429732" lon="-75.56256"  id="-233"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26095"/>
+  </node>
+  <node lat="45.37848" lon="-75.759863"  id="-234"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3789"/>
+  </node>
+  <node lat="45.336501" lon="-75.606394"  id="-235"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26170"/>
+  </node>
+  <node lat="45.437322" lon="-75.692877"  id="-236"  changeset="false" >
+    <tag k="name" v="Union St. Roundabout Basketball Court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34823"/>
+  </node>
+  <node lat="45.267636" lon="-75.761015"  id="-237"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26209"/>
+  </node>
+  <node lat="45.349976" lon="-75.636686"  id="-238"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26181"/>
+  </node>
+  <node lat="45.4289" lon="-75.6201"  id="-239"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26000"/>
+  </node>
+  <node lat="45.314832" lon="-75.609941"  id="-240"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35643"/>
+  </node>
+  <node lat="45.314632" lon="-75.609847"  id="-241"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35641"/>
+  </node>
+  <node lat="45.315803" lon="-75.604273"  id="-242"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35647"/>
+  </node>
+  <node lat="45.46127" lon="-75.457041"  id="-243"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35143"/>
+  </node>
+  <node lat="45.378007" lon="-75.648214"  id="-244"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34755"/>
+  </node>
+  <node lat="45.339668" lon="-75.929649"  id="-245"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35289"/>
+  </node>
+  <node lat="45.341864" lon="-75.93125"  id="-246"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35301"/>
+  </node>
+  <node lat="45.425195" lon="-75.656101"  id="-247"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35755"/>
+  </node>
+  <node lat="45.379854" lon="-75.731337"  id="-248"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35759"/>
+  </node>
+  <node lat="45.425401" lon="-75.656143"  id="-249"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="35753"/>
+  </node>
+  <node lat="45.35528" lon="-75.801945"  id="-250"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3765"/>
+  </node>
+  <node lat="45.355231" lon="-75.802128"  id="-251"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26114"/>
+  </node>
+  <node lat="45.356412" lon="-75.789481"  id="-252"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3797"/>
+  </node>
+  <node lat="45.397551" lon="-75.723239"  id="-253"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26115"/>
+  </node>
+  <node lat="45.407477" lon="-75.715083"  id="-254"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26117"/>
+  </node>
+  <node lat="45.351085" lon="-75.803195"  id="-255"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26003"/>
+  </node>
+  <node lat="45.372121" lon="-75.739472"  id="-256"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36100"/>
+  </node>
+  <node lat="45.372254" lon="-75.739583"  id="-257"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36101"/>
+  </node>
+  <node lat="45.380101" lon="-75.731537"  id="-258"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3701"/>
+  </node>
+  <node lat="45.480792" lon="-75.488364"  id="-259"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26006"/>
+  </node>
+  <node lat="45.460179" lon="-75.507471"  id="-260"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26007"/>
+  </node>
+  <node lat="45.457117" lon="-75.510717"  id="-261"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26008"/>
+  </node>
+  <node lat="45.462633" lon="-75.5367"  id="-262"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26010"/>
+  </node>
+  <node lat="45.454685" lon="-75.515727"  id="-263"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26012"/>
+  </node>
+  <node lat="45.454723" lon="-75.515587"  id="-264"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26013"/>
+  </node>
+  <node lat="45.451677" lon="-75.518955"  id="-265"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26015"/>
+  </node>
+  <node lat="45.451609" lon="-75.51913"  id="-266"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26016"/>
+  </node>
+  <node lat="45.44975" lon="-75.53025"  id="-267"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26020"/>
+  </node>
+  <node lat="45.449383" lon="-75.529807"  id="-268"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26021"/>
+  </node>
+  <node lat="45.450626" lon="-75.538344"  id="-269"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26023"/>
+  </node>
+  <node lat="45.450573" lon="-75.538397"  id="-270"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26024"/>
+  </node>
+  <node lat="45.450618" lon="-75.538448"  id="-271"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26025"/>
+  </node>
+  <node lat="45.268927" lon="-75.768547"  id="-272"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36102"/>
+  </node>
+  <node lat="45.281867" lon="-75.763718"  id="-273"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36103"/>
+  </node>
+  <node lat="45.280272" lon="-75.869579"  id="-274"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="36104"/>
+  </node>
+  <node lat="45.40483" lon="-75.670744"  id="-275"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3709"/>
+  </node>
+  <node lat="45.434657" lon="-75.692933"  id="-276"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3723"/>
+  </node>
+  <node lat="45.337967" lon="-75.779273"  id="-277"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26129"/>
+  </node>
+  <node lat="45.383597" lon="-75.766057"  id="-278"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="3761"/>
+  </node>
+  <node lat="45.289761" lon="-75.858075"  id="-279"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26143"/>
+  </node>
+  <node lat="45.276799" lon="-75.91917"  id="-280"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26148"/>
+  </node>
+  <node lat="45.437175" lon="-75.621932"  id="-281"  changeset="false" >
+    <tag k="name" v="Basketball - full court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - terrain de taille réglementaire"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26150"/>
+  </node>
+  <node lat="45.237743" lon="-75.478257"  id="-282"  changeset="false" >
+    <tag k="name" v="Basketball - half court"/>
+    <tag k="leisure" v="pitch"/>
+    <tag k="sport" v="basketball"/>
+    <tag k="name:fr" v="Basketball - demi-terrain"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="26163"/>
+  </node>
+</osm>

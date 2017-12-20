@@ -1,0 +1,5933 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 842,
+        "FACILITYID": 36075,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.503801589828214,
+          45.477998472244444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 101,
+        "FACILITYID": 36077,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.78217664942332,
+          45.328349370812724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1509,
+        "FACILITYID": 36078,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.525446594923508,
+          45.437235894630483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 843,
+        "FACILITYID": 36080,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.499298062932525,
+          45.467522191581629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1118,
+        "FACILITYID": 36081,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672717111359404,
+          45.347871037026565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1141,
+        "FACILITYID": 36082,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.716367057877363,
+          45.350761837391936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 988,
+        "FACILITYID": 36083,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.833693121561211,
+          45.315091386811076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 832,
+        "FACILITYID": 36084,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.625345330563363,
+          45.395797880327727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1159,
+        "FACILITYID": 36085,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.926349281086971,
+          45.260955421490308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 375,
+        "FACILITYID": 4013,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71377381246954,
+          45.409835353954094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 134,
+        "FACILITYID": 3711,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.688643367783214,
+          45.388193008518058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 146,
+        "FACILITYID": 4041,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672891360273354,
+          45.41273406632628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 144,
+        "FACILITYID": 3784,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697577315687653,
+          45.395812851637153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 51,
+        "FACILITYID": 26121,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681846946082729,
+          45.402910815645534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 525,
+        "FACILITYID": 3111,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.593948244706738,
+          45.440997676042159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 587,
+        "FACILITYID": 26080,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604910380559247,
+          45.455308585025321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 587,
+        "FACILITYID": 26081,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605006323288023,
+          45.455294227440426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 357,
+        "FACILITYID": 26082,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.598384226967667,
+          45.459201174543743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1002,
+        "FACILITYID": 26092,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687251073633462,
+          45.277844305750627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1001,
+        "FACILITYID": 26093,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690254093838817,
+          45.275480271250288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 496,
+        "FACILITYID": 26094,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.748396027164077,
+          45.286571303713544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 583,
+        "FACILITYID": 26097,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.812223136622805,
+          45.326153024217831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 806,
+        "FACILITYID": 4075,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673579639779192,
+          45.351024807533378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 990,
+        "FACILITYID": 26099,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659444944298869,
+          45.345588217363726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1661,
+        "FACILITYID": 26257,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707668899940415,
+          45.284075851651522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1690,
+        "FACILITYID": 26258,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708115568276213,
+          45.26909416070405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1700,
+        "FACILITYID": 26260,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.902413452045579,
+          45.328397397520483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1714,
+        "FACILITYID": 26261,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.926251389525078,
+          45.250245841987116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1715,
+        "FACILITYID": 26262,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.608555821420211,
+          45.393155881201629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1663,
+        "FACILITYID": 26263,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68541566948619,
+          45.284117731428601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1325,
+        "FACILITYID": 26264,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554781557878755,
+          45.433031767079072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1195,
+        "FACILITYID": 36086,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.809738525669516,
+          45.351050371138456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 514,
+        "FACILITYID": 36087,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.563290805804954,
+          45.433952757945406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1178,
+        "FACILITYID": 36089,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.615045158229563,
+          45.452036583758122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 768,
+        "FACILITYID": 36090,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.06250660610921,
+          45.259468631179622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 787,
+        "FACILITYID": 36091,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.722136560691737,
+          45.348150092657811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 495,
+        "FACILITYID": 36092,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.730820274774388,
+          45.395707681520484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1133,
+        "FACILITYID": 36093,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.205732269601214,
+          45.470338029341718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1168,
+        "FACILITYID": 36094,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7240153299703,
+          45.403440283289143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 830,
+        "FACILITYID": 36095,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.779634109660932,
+          45.349819773741864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 206,
+        "FACILITYID": 36096,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.878714946176999,
+          45.289558765787298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 591,
+        "FACILITYID": 36097,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.512607514014107,
+          45.485748492906382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 731,
+        "FACILITYID": 36098,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735691521487198,
+          45.291563708462405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 653,
+        "FACILITYID": 36099,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601724959221514,
+          45.146799734760357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1330,
+        "FACILITYID": 26111,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.485791013032639,
+          45.425925304297593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 365,
+        "FACILITYID": 26113,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.463548081921175,
+          45.364985669596642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 728,
+        "FACILITYID": 3768,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795154969972032,
+          45.344642060139492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 739,
+        "FACILITYID": 26124,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.799349751402076,
+          45.342455049295602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 320,
+        "FACILITYID": 26125,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.716741643296132,
+          45.362641221714028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 234,
+        "FACILITYID": 26126,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.720374190060852,
+          45.352190779732688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 62,
+        "FACILITYID": 26128,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.792901087753393,
+          45.331897998994052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 231,
+        "FACILITYID": 26130,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.766047651772027,
+          45.33206759634551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1022,
+        "FACILITYID": 26131,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.783724878091917,
+          45.34656919645812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 288,
+        "FACILITYID": 3059,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651504201622274,
+          45.408972813108448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1010,
+        "FACILITYID": 3783,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.676516731377333,
+          45.421932205926225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 235,
+        "FACILITYID": 26141,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.889686825416959,
+          45.310701808148657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 446,
+        "FACILITYID": 26142,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.850999912853254,
+          45.277889802574528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1302,
+        "FACILITYID": 26144,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.855688932355662,
+          45.300357987915142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 201,
+        "FACILITYID": 26145,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.923607983472237,
+          45.322642981175534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 438,
+        "FACILITYID": 26146,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.920412992970057,
+          45.317869875794138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 20,
+        "FACILITYID": 26147,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.927687116768112,
+          45.278286455264464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 418,
+        "FACILITYID": 26149,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.911597322694249,
+          45.279773266228133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 807,
+        "FACILITYID": 3738,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.642954955164413,
+          45.439727353295467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 73,
+        "FACILITYID": 3705,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.626424359675454,
+          45.442320285784909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 241,
+        "FACILITYID": 26151,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.618403617810586,
+          45.427713570296667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 674,
+        "FACILITYID": 26152,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627867440366018,
+          45.432025222911122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 757,
+        "FACILITYID": 26154,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63509483136977,
+          45.425631416835188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1117,
+        "FACILITYID": 26155,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.637172016013878,
+          45.433240955890902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1507,
+        "FACILITYID": 26157,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83408131982209,
+          45.199805817792324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1056,
+        "FACILITYID": 26160,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687107910436808,
+          45.437789309277342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 942,
+        "FACILITYID": 3757,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67632401368941,
+          45.444976929304289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 244,
+        "FACILITYID": 3702,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650816991975688,
+          45.451374914402628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 533,
+        "FACILITYID": 26161,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604671004363254,
+          45.139068332676324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 435,
+        "FACILITYID": 26164,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46640577219631,
+          45.237281418514307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1216,
+        "FACILITYID": 26166,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.464906073065592,
+          45.321781957881917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 749,
+        "FACILITYID": 26167,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.494985600730914,
+          45.33416911439727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1183,
+        "FACILITYID": 26172,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71659786994104,
+          45.278876318344963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 916,
+        "FACILITYID": 26173,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715858965412309,
+          45.287891222669622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 383,
+        "FACILITYID": 26174,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.764950272344578,
+          45.277482725753615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1174,
+        "FACILITYID": 26176,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.751782389937944,
+          45.273517684211491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 47,
+        "FACILITYID": 26177,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640355830706085,
+          45.340382643226121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 10,
+        "FACILITYID": 26178,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635196529641732,
+          45.340997034966556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 16,
+        "FACILITYID": 26179,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640257445466418,
+          45.345224235946041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 964,
+        "FACILITYID": 26182,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635991660649211,
+          45.355262857877975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 120,
+        "FACILITYID": 3730,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.619203448471282,
+          45.369283948229373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 384,
+        "FACILITYID": 3734,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.639930919420877,
+          45.376673352480971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1582,
+        "FACILITYID": 26004,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90326175774338,
+          45.32073670915635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1021,
+        "FACILITYID": 3785,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614245347936205,
+          45.397148865355732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 403,
+        "FACILITYID": 4039,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.639349897528817,
+          45.381950242049015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 968,
+        "FACILITYID": 26101,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.647765769351295,
+          45.377633806439064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 48,
+        "FACILITYID": 4011,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645346042297092,
+          45.417291965675588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 695,
+        "FACILITYID": 26103,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607710435979982,
+          45.419186079434759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 444,
+        "FACILITYID": 26107,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.856941047628567,
+          45.361048906750597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 498,
+        "FACILITYID": 26108,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.824181995133571,
+          45.346256365234673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1334,
+        "FACILITYID": 26226,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.093031087969067,
+          45.49895957235119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1334,
+        "FACILITYID": 26227,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.092869631417713,
+          45.498633943639284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1621,
+        "FACILITYID": 26228,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.893892877823646,
+          45.317303297731705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1653,
+        "FACILITYID": 26231,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.705905713490424,
+          45.274426687611502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1660,
+        "FACILITYID": 26232,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736560021027842,
+          45.282738217674371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1664,
+        "FACILITYID": 26234,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.555479986729978,
+          45.252262192531447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 576,
+        "FACILITYID": 26233,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583877351003636,
+          45.245386853550322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1615,
+        "FACILITYID": 26235,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.941400989008429,
+          45.351490147877954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1573,
+        "FACILITYID": 26237,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.632584593127206,
+          45.440619506124094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1651,
+        "FACILITYID": 26238,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528574745789996,
+          45.436928830047684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1676,
+        "FACILITYID": 26239,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.468631661479606,
+          45.462904686230047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 734,
+        "FACILITYID": 26241,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.939090467261792,
+          45.162781981078467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 182,
+        "FACILITYID": 26245,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.799133268987191,
+          45.36047724376489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1213,
+        "FACILITYID": 26252,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.416666629273209,
+          45.23267116376158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 596,
+        "FACILITYID": 3754,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657154907325676,
+          45.364938088307753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 260,
+        "FACILITYID": 26183,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657524918028955,
+          45.368850904609282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 609,
+        "FACILITYID": 26184,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697378001863285,
+          45.35254058376951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 880,
+        "FACILITYID": 26187,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.666255738484594,
+          45.383293443815006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 213,
+        "FACILITYID": 26188,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613325238477387,
+          45.424579707892441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 918,
+        "FACILITYID": 26189,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604643916425687,
+          45.423030436369473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 348,
+        "FACILITYID": 26191,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.402993735185788,
+          45.5136299610135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 798,
+        "FACILITYID": 3745,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.737953737605125,
+          45.387276594593615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 76,
+        "FACILITYID": 3753,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72915997409936,
+          45.408688891865282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 940,
+        "FACILITYID": 3766,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.691533170865057,
+          45.371198857315427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1186,
+        "FACILITYID": 3793,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.676984389798449,
+          45.394178856343224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 27,
+        "FACILITYID": 26192,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708056075839309,
+          45.321003092416831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 140,
+        "FACILITYID": 26193,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708535970526853,
+          45.325648505634831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 105,
+        "FACILITYID": 26194,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74007379606492,
+          45.322749382723707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1190,
+        "FACILITYID": 26196,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729372359165765,
+          45.336682541298217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 584,
+        "FACILITYID": 3777,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.740165913458441,
+          45.376818108762997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 796,
+        "FACILITYID": 26197,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.752822658784709,
+          45.347441925176994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 518,
+        "FACILITYID": 26198,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.721484800973343,
+          45.358895845203172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 804,
+        "FACILITYID": 26199,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.724532660335967,
+          45.3623464378446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1113,
+        "FACILITYID": 3764,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.724488823623147,
+          45.378022427975587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 65,
+        "FACILITYID": 26200,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.721492806034036,
+          45.364786255289509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 329,
+        "FACILITYID": 26201,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72755040691203,
+          45.135808268858177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 152,
+        "FACILITYID": 26202,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.639545794417899,
+          45.168989650071708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1171,
+        "FACILITYID": 26203,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648305355119419,
+          45.149199796785403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 826,
+        "FACILITYID": 26204,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.756787561232429,
+          45.091235908395234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1159,
+        "FACILITYID": 26206,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.925844367449002,
+          45.261444074822712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1122,
+        "FACILITYID": 26207,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682066031780451,
+          45.348830061057186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 459,
+        "FACILITYID": 26208,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795677020036166,
+          45.350584315383465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1087,
+        "FACILITYID": 26210,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.760988838088309,
+          45.267485219196175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 849,
+        "FACILITYID": 26213,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.700139973222662,
+          45.367873197545308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1004,
+        "FACILITYID": 26028,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529018046101257,
+          45.442647539705959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1004,
+        "FACILITYID": 26029,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528864987822971,
+          45.442731916238465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1323,
+        "FACILITYID": 26030,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53281552890428,
+          45.440291376197642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1509,
+        "FACILITYID": 26031,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.525457958018265,
+          45.4372320241254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 460,
+        "FACILITYID": 26034,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536403235066544,
+          45.469094876707267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 460,
+        "FACILITYID": 26035,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536202647983743,
+          45.469251374354755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 460,
+        "FACILITYID": 26036,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.534534418084505,
+          45.468707385854501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1309,
+        "FACILITYID": 26038,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54949537605323,
+          45.474053708802408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1309,
+        "FACILITYID": 26040,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.549176316125227,
+          45.474056759138413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 779,
+        "FACILITYID": 26042,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.547890507382292,
+          45.47792185590135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 106,
+        "FACILITYID": 26044,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533444928378529,
+          45.483576085630311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 106,
+        "FACILITYID": 26045,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533670758212139,
+          45.483570138080111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "FACILITYID": 26052,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.902013271378735,
+          45.294769900584271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 519,
+        "FACILITYID": 26054,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.742391005914058,
+          45.392333027592457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 519,
+        "FACILITYID": 26055,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.74224757141404,
+          45.392430672106755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 803,
+        "FACILITYID": 26057,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.897739693305908,
+          45.30272106020638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 424,
+        "FACILITYID": 26058,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.900902408394998,
+          45.298628463749019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 126,
+        "FACILITYID": 26059,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.859981399598837,
+          45.28590584714042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 921,
+        "FACILITYID": 26066,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669779136858295,
+          45.431388640166432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 330,
+        "FACILITYID": 26068,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687021986385801,
+          45.222326010843325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 693,
+        "FACILITYID": 26072,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556440697320213,
+          45.261254202174896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1032,
+        "FACILITYID": 26074,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66901292473456,
+          45.442443172507453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 377,
+        "FACILITYID": 26077,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604612578257814,
+          45.443542124450012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 525,
+        "FACILITYID": 3110,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.593888330144637,
+          45.440670064962418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 963,
+        "FACILITYID": 26171,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715015650522503,
+          45.265525894512066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 997,
+        "FACILITYID": 26175,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.758155715878715,
+          45.276131899103007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 160,
+        "FACILITYID": 3741,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635960871312491,
+          45.36275478388044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 550,
+        "FACILITYID": 26106,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.624740402484278,
+          45.418565492523427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1671,
+        "FACILITYID": 26236,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.848846341509216,
+          45.283372387543388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1062,
+        "FACILITYID": 26244,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826571886979551,
+          45.267713270742547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 474,
+        "FACILITYID": 4003,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.649069018549099,
+          45.373520197593912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 479,
+        "FACILITYID": 3746,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677228788406566,
+          45.379938737518543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 170,
+        "FACILITYID": 4015,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.745431405840407,
+          45.404520033829584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 415,
+        "FACILITYID": 3780,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686718220811457,
+          45.415239141712291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1191,
+        "FACILITYID": 26195,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.743874534280025,
+          45.334739438540403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 363,
+        "FACILITYID": 3795,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.706511823552859,
+          45.367416058106556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1506,
+        "FACILITYID": 26205,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.935120642356267,
+          45.263011348675072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 311,
+        "FACILITYID": 26212,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.741671765778349,
+          45.348936462716935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 343,
+        "FACILITYID": 26032,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507346667792504,
+          45.470936538405269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1219,
+        "FACILITYID": 26037,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546337378479166,
+          45.466944821796346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2490,
+        "FACILITYID": 34976,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "1/29/2015 10:55:27 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.025713800425663,
+          45.343701699567148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2380,
+        "FACILITYID": 35003,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "4/14/2015 1:44:44 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.458533266272141,
+          45.478297222699865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1638,
+        "FACILITYID": 26256,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.700312985123361,
+          45.286459977013273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1013,
+        "FACILITYID": 3728,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709365062458843,
+          45.410489470215282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 424,
+        "FACILITYID": 26139,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.900903962883376,
+          45.298626991607307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 589,
+        "FACILITYID": 26162,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.454531450329867,
+          45.163002904766195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1111,
+        "FACILITYID": 26180,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645215342036238,
+          45.346646642259977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 470,
+        "FACILITYID": 26246,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803712378455188,
+          45.359984689273134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 328,
+        "FACILITYID": 3704,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643821577959258,
+          45.405395022191612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1109,
+        "FACILITYID": 4052,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.774845576168929,
+          45.349252367907361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1087,
+        "FACILITYID": 26211,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.763218485912091,
+          45.267125225755905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1309,
+        "FACILITYID": 26039,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54943686440626,
+          45.474116079947642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 873,
+        "FACILITYID": 26065,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656477499076814,
+          45.425447808211089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1652,
+        "FACILITYID": 26230,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.712172074629166,
+          45.277548603832848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1583,
+        "FACILITYID": 26005,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.931740935147701,
+          45.347598894062543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 701,
+        "FACILITYID": 26022,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529883333707815,
+          45.44933333610939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 976,
+        "FACILITYID": 26159,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.642226001963337,
+          45.230092295666019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2434,
+        "FACILITYID": 35319,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-09 10:20:21 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488639094402771,
+          45.451481133411292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2517,
+        "FACILITYID": 35799,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2017-Apr-28 2:50:33 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.935010488184162,
+          45.304509317010478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2470,
+        "FACILITYID": 35775,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2017-Apr-28 1:48:24 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.583976112144768,
+          45.263659886365936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2488,
+        "FACILITYID": 35819,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "MODIFIED_D": "2017/05/08",
+        "CREATED_DA": "2017-Apr-28 3:44:56 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.551166800175594,
+          45.266312790563255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2396,
+        "FACILITYID": 35051,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "5/25/2015 11:58:49 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.730529418228429,
+          45.267844148284865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 108,
+        "FACILITYID": 26047,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.523797092781834,
+          45.481145840293856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 300,
+        "FACILITYID": 26064,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635607980157872,
+          45.430894744291145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 853,
+        "FACILITYID": 26073,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.594217969611535,
+          45.244446523008733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 356,
+        "FACILITYID": 26078,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.588825904364697,
+          45.447333998241568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 357,
+        "FACILITYID": 26083,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.598332491015441,
+          45.459100010656456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1080,
+        "FACILITYID": 26096,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.819484649943576,
+          45.319465770975448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 37,
+        "FACILITYID": 26253,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.629827580903765,
+          45.389502559339824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2493,
+        "FACILITYID": 49011,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/11/09",
+        "CREATED_DA": "2017-Nov-09 11:02:27 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.664844553829255,
+          45.288413615772285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 660,
+        "FACILITYID": 36106,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669311009110885,
+          45.420900492470579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 569,
+        "FACILITYID": 36107,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.761270688815927,
+          45.329819568771796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 365,
+        "FACILITYID": 26112,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.463503131538161,
+          45.364995219581552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 92,
+        "FACILITYID": 26116,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711506138406463,
+          45.399880746774777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1648,
+        "FACILITYID": 36108,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694860179931368,
+          45.337857455233767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1076,
+        "FACILITYID": 26009,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.514099965710713,
+          45.463564984232939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 501,
+        "FACILITYID": 26018,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53061482685635,
+          45.457952923216595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 697,
+        "FACILITYID": 26027,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538369586828964,
+          45.443829812955322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1195,
+        "FACILITYID": 34810,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "9/26/2014 9:57:53 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.809857269307017,
+          45.3508653784967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1801,
+        "FACILITYID": 35673,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Jul-12 3:27:06 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922025025394746,
+          45.328104337281111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2493,
+        "FACILITYID": 49013,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/11/09",
+        "CREATED_DA": "2017-Nov-09 11:02:30 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665075497024162,
+          45.28859327945456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 311,
+        "FACILITYID": 35067,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "6/4/2015 11:55:55 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.741729503303659,
+          45.349021763921577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2278,
+        "FACILITYID": 35179,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 12:46:46 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.471230043032719,
+          45.450256686601278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 386,
+        "FACILITYID": 35189,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 1:14:39 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.487741112325168,
+          45.481203152515576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 653,
+        "FACILITYID": 35191,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 1:37:11 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601509930064381,
+          45.146887330347809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1511,
+        "FACILITYID": 35195,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 2:03:45 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.462781200322127,
+          45.470988600345798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 514,
+        "FACILITYID": 35183,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 12:56:22 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.563726979241096,
+          45.433833480595005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 386,
+        "FACILITYID": 35187,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 1:13:28 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488202831888586,
+          45.481274384008167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1511,
+        "FACILITYID": 35193,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 2:03:00 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.462500918856122,
+          45.47110462167997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 126,
+        "FACILITYID": 35185,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 12:59:15 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.859868947924014,
+          45.285648075925842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1325,
+        "FACILITYID": 35177,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 11:28:36 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554886441893714,
+          45.433028468694872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1325,
+        "FACILITYID": 35175,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-03 11:27:47 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554586090221264,
+          45.433042648262642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2464,
+        "FACILITYID": 35371,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-17 2:20:26 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.464474378726322,
+          45.448304841226097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1928,
+        "FACILITYID": 35457,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-17 4:29:07 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.864004471619907,
+          45.27294840605294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 430,
+        "FACILITYID": 26095,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.562559605572176,
+          45.429731791431308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 994,
+        "FACILITYID": 3789,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.759863423244383,
+          45.37848013227088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 484,
+        "FACILITYID": 26170,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606393918979208,
+          45.336501266856864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 150,
+        "FACILITYID": 34823,
+        "NAME": "Union St. Roundabout Basketball Court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "10/28/2014 10:39:07 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.692877237495836,
+          45.437321622482152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1087,
+        "FACILITYID": 26209,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.761015032954688,
+          45.267635827175603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 307,
+        "FACILITYID": 26181,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.636685764399871,
+          45.349976096787067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 463,
+        "FACILITYID": 26000,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.620099999551712,
+          45.428900001991401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2457,
+        "FACILITYID": 35643,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Jun-22 1:21:09 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60994085494066,
+          45.314831763994356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2457,
+        "FACILITYID": 35641,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Jun-22 1:21:06 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.609846796285254,
+          45.314631986035494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2040,
+        "FACILITYID": 35647,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Jun-22 1:30:22 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604273003257219,
+          45.315802934546163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1960,
+        "FACILITYID": 35143,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "12/14/2015 2:37:31 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457041242668964,
+          45.461270101376073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 968,
+        "FACILITYID": 34755,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "6/2/2014 12:27:29 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648213669513751,
+          45.378007113276865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2113,
+        "FACILITYID": 35289,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-08 3:28:36 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.929648544019429,
+          45.339668159466214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2113,
+        "FACILITYID": 35301,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016-Feb-08 3:38:18 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.931250484456527,
+          45.341864369478841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 873,
+        "FACILITYID": 35755,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2017-Apr-05 11:53:34 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656101259448675,
+          45.425194862517067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1003,
+        "FACILITYID": 35759,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2017-Apr-05 12:30:59 PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731337267018574,
+          45.379854388192499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 873,
+        "FACILITYID": 35753,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2017-Apr-05 11:53:28 AM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656142820388993,
+          45.42540087770923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 711,
+        "FACILITYID": 3765,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.801945466825202,
+          45.355279914608765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 711,
+        "FACILITYID": 26114,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.802127858300651,
+          45.355230595246816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 22,
+        "FACILITYID": 3797,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.789481117000662,
+          45.356412116425538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 890,
+        "FACILITYID": 26115,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72323877884628,
+          45.39755065015283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 840,
+        "FACILITYID": 26117,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715083194333786,
+          45.40747696652921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1187,
+        "FACILITYID": 26003,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803194558535139,
+          45.351084646235115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 161,
+        "FACILITYID": 36100,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7394721029208,
+          45.372120515173492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 161,
+        "FACILITYID": 36101,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.739582931489238,
+          45.372254499656634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1003,
+        "FACILITYID": 3701,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731536630580237,
+          45.380100961413575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 386,
+        "FACILITYID": 26006,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488363775070312,
+          45.480791543467312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 526,
+        "FACILITYID": 26007,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507471356589718,
+          45.46017924171305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 321,
+        "FACILITYID": 26008,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.510716666085969,
+          45.457116669150224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 476,
+        "FACILITYID": 26010,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536700000555527,
+          45.462633336117563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 344,
+        "FACILITYID": 26012,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.515726885263348,
+          45.454684657577779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 344,
+        "FACILITYID": 26013,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.515587440736297,
+          45.454722896346247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1005,
+        "FACILITYID": 26015,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.518955193600661,
+          45.451676985056075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1005,
+        "FACILITYID": 26016,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.519130011255228,
+          45.451608843275714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 701,
+        "FACILITYID": 26020,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5302499994568,
+          45.449750002660991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 701,
+        "FACILITYID": 26021,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.529806686417757,
+          45.449382967968241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 326,
+        "FACILITYID": 26023,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538344244058592,
+          45.450625630798015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 326,
+        "FACILITYID": 26024,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538397047490804,
+          45.4505728967507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 326,
+        "FACILITYID": 26025,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538448385496707,
+          45.450618202837134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 397,
+        "FACILITYID": 36102,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.768547069747598,
+          45.268926742111319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 582,
+        "FACILITYID": 36103,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.763718224477799,
+          45.281866808293479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2469,
+        "FACILITYID": 36104,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.86957906236978,
+          45.280271951571692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 249,
+        "FACILITYID": 3709,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.670743918273175,
+          45.404829580420746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 209,
+        "FACILITYID": 3723,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69293348922443,
+          45.434656828069393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 795,
+        "FACILITYID": 26129,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.779272851896238,
+          45.337966603055271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1163,
+        "FACILITYID": 3761,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.766057317929537,
+          45.383596931135031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 137,
+        "FACILITYID": 26143,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.858075011818102,
+          45.289760989785925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 322,
+        "FACILITYID": 26148,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.919170148830261,
+          45.276799293868045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 675,
+        "FACILITYID": 26150,
+        "NAME": "Basketball - full court",
+        "NAME_FR": "Basketball - terrain de taille réglementaire",
+        "COURT_TYPE": "Full / Entier",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.621931901917193,
+          45.437175422502769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 339,
+        "FACILITYID": 26163,
+        "NAME": "Basketball - half court",
+        "NAME_FR": "Basketball - demi-terrain",
+        "COURT_TYPE": "Half / Demi",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.478257123304914,
+          45.237742573020952
+        ]
+      }
+    }
+  ]
+}

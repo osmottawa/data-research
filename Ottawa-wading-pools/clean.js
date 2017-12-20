@@ -38,6 +38,7 @@ pools.features.map(result => {
     let properties = {
         name,
         'leisure': 'swimming_pool',
+        'swimming_pool': 'wading',
         'name': name,
         'name:fr': name_fr,
         'addr:housenumber': housenumber,
