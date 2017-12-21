@@ -1,0 +1,4526 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 854,
+        "FACILITYID": 32431,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "45 Provender Avenue, Ottawa",
+        "ADDRESS_FR": "45, avenue Provender, Ottawa",
+        "SHORTNAME": "Thornecliffe Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Thornecliffe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Thornecliffe Park",
+        "PARKNAME_F": "Parc Thornecliffe",
+        "PARKADDRES": "45 Provender Avenue, Ottawa",
+        "PARKADDR_1": "45, avenue Provender, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62797415147395,
+          45.448952569079026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2408,
+        "FACILITYID": 36265,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "285 Citiplace Drive, Nepean",
+        "ADDRESS_FR": "285, promenade Citiplace, Nepean",
+        "SHORTNAME": "Citiplace Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Citiplace",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Citiplace Park",
+        "PARKNAME_F": "Parc Citiplace",
+        "PARKADDRES": "285 Citiplace Drive, Nepean",
+        "PARKADDR_1": "285, promenade Citiplace, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709455236330598,
+          45.349064002532131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2457,
+        "FACILITYID": 36269,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2810 Findlay Creek Drive, Gloucester",
+        "ADDRESS_FR": "2810, promenade Findlay Creek, Gloucester",
+        "SHORTNAME": "Diamond Jubilee Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc du Jubilé de Diamant",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Diamond Jubilee Park",
+        "PARKNAME_F": "Parc du Jubilé de Diamant",
+        "PARKADDRES": "2810 Findlay Creek Drive, Gloucester",
+        "PARKADDR_1": "2810, promenade Findlay Creek, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.610330334684889,
+          45.314490246854149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2424,
+        "FACILITYID": 36271,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "221 Radhika Court, Gloucester",
+        "ADDRESS_FR": "221, cour Radhika, Gloucester",
+        "SHORTNAME": "Bradley Ridge Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Bradley Ridge",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Bradley Ridge Park",
+        "PARKNAME_F": "Parc Bradley Ridge",
+        "PARKADDRES": "221 Radhika Court, Gloucester",
+        "PARKADDR_1": "221, cour Radhika, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52593275957247,
+          45.427295207876249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 988,
+        "FACILITYID": 32446,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "681 Seyton Drive, Nepean",
+        "ADDRESS_FR": "681, promenade Seyton, Nepean",
+        "SHORTNAME": "Westcliffe Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Westcliffe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Westcliffe Park",
+        "PARKNAME_F": "Parc Westcliffe",
+        "PARKADDRES": "681 Seyton Drive, Nepean",
+        "PARKADDR_1": "681, promenade Seyton, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83509444181864,
+          45.315283499200262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2476,
+        "FACILITYID": 36272,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "150 Pennant Avenue, Nepean",
+        "ADDRESS_FR": "150, avenue Pennant, Nepean",
+        "SHORTNAME": "Regatta Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Regatta",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Regatta Park",
+        "PARKNAME_F": "Parc Regatta",
+        "PARKADDRES": "150 Pennant Avenue, Nepean",
+        "PARKADDR_1": "150, avenue Pennant, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735392189252636,
+          45.247353994533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 925,
+        "FACILITYID": 36292,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "660 River Road, Gloucester",
+        "ADDRESS_FR": "660, chemin River, Gloucester",
+        "SHORTNAME": "Claudette Cain Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Claudette-Cain",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Claudette Cain Park",
+        "PARKNAME_F": "Parc Claudette-Cain",
+        "PARKADDRES": "660 River Road, Gloucester",
+        "PARKADDR_1": "660, chemin River, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.699299010280967,
+          45.271624602285193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 112,
+        "FACILITYID": 36274,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1 Bishops Mills Drive, Kanata",
+        "ADDRESS_FR": "1, promenade Bishops Mills, Kanata",
+        "SHORTNAME": "Billy Bishop Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Billy-Bishop",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Billy Bishop Park",
+        "PARKNAME_F": "Parc Billy-Bishop",
+        "PARKADDRES": "1 Bishops Mills Way",
+        "PARKADDR_1": "1, voie Bishops Mills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.892510921745924,
+          45.320298987273439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 126,
+        "FACILITYID": 36275,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "199 Bridgestone Drive, Kanata",
+        "ADDRESS_FR": "199, promenade Bridgestone, Kanata",
+        "SHORTNAME": "Bluegrass Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Bluegrass",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Bluegrass Park",
+        "PARKNAME_F": "Parc Bluegrass",
+        "PARKADDRES": "59 Bluegrass Drive",
+        "PARKADDR_1": "59, promenade Bluegrass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8583885702202,
+          45.285850818384731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 62,
+        "FACILITYID": 31077,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "90 Banner Road, Nepean",
+        "ADDRESS_FR": "90, chemin Banner, Nepean",
+        "SHORTNAME": "Banner Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Banner",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Banner Park",
+        "PARKNAME_F": "Parc Banner",
+        "PARKADDRES": "90 Banner Road, Nepean",
+        "PARKADDR_1": "90, chemin Banner, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.792646318154937,
+          45.331949398610192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 346,
+        "FACILITYID": 31437,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "11 Dunbarton Court, Ottawa",
+        "ADDRESS_FR": "11, cour Dunbarton, Ottawa",
+        "SHORTNAME": "Cardinal Glen Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Cardinal Glen",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cardinal Glen Park",
+        "PARKNAME_F": "Parc Cardinal Glen",
+        "PARKADDRES": "11 Dunbarton Court, Ottawa",
+        "PARKADDR_1": "11, cour Dunbarton, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651201870776816,
+          45.445552064477688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1983,
+        "FACILITYID": 36277,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "230 Mistral Way, Goulbourn",
+        "ADDRESS_FR": "230, voie Mistral, Goulbourn",
+        "SHORTNAME": "Bandmaster Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Bandmaster",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Bandmaster Park",
+        "PARKNAME_F": "Parc Bandmaster",
+        "PARKADDRES": "230 Mistral Way, Goulbourn",
+        "PARKADDR_1": "230, voie Mistral, Goulbourn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.921072762713678,
+          45.287240626540189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2255,
+        "FACILITYID": 36279,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "665 Kilbirnie Drive, Nepean",
+        "ADDRESS_FR": "665, promenade Kilbirnie, Nepean",
+        "SHORTNAME": "Kilbirnie Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Kilbirnie",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Kilbirnie Park",
+        "PARKNAME_F": "Parc Kilbirnie",
+        "PARKADDRES": "665 Kilbirnie Drive, Nepean",
+        "PARKADDR_1": "665, promenade Kilbirnie, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.725024356115213,
+          45.247970470886749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 477,
+        "FACILITYID": 36280,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "50 Heritage Glen Drive, Nepean",
+        "ADDRESS_FR": "50, promenade Heritage Glen, Nepean",
+        "SHORTNAME": "Tierney Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Tierney",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Tierney Park",
+        "PARKNAME_F": "Parc Tierney",
+        "PARKADDRES": "50 Heritage Glen Drive, Nepean",
+        "PARKADDR_1": "50, promenade Heritage Glen, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723458029751626,
+          45.276409931745306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1666,
+        "FACILITYID": 36293,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "711 Long Point Circle, Gloucester",
+        "ADDRESS_FR": "711, cercle Long Point, Gloucester",
+        "SHORTNAME": "Butterfly Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Butterfly",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Butterfly Park",
+        "PARKNAME_F": "Parc Butterfly",
+        "PARKADDRES": "711 Long Point Circle, Gloucester",
+        "PARKADDR_1": "711, cercle Long Point, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.599075439396245,
+          45.320307144295818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 220,
+        "FACILITYID": 32670,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "260 Centrepointe Drive, Nepean",
+        "ADDRESS_FR": "260, promenade Centrepointe, Nepean",
+        "SHORTNAME": "Centrepointe Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Centrepointe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Centrepointe Park",
+        "PARKNAME_F": "Parc Centrepointe",
+        "PARKADDRES": "260 Centrepointe Drive, Nepean",
+        "PARKADDR_1": "260, promenade Centrepointe, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.771198304116368,
+          45.340092804185161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 150,
+        "FACILITYID": 31200,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "349 Bruyère Street, Ottawa",
+        "ADDRESS_FR": "349, rue Bruyère, Ottawa",
+        "SHORTNAME": "Bordeleau Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Bordeleau",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Bordeleau Park",
+        "PARKNAME_F": "Parc Bordeleau",
+        "PARKADDRES": "349 Bruyère Street, Ottawa",
+        "PARKADDR_1": "349, rue Bruyère, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686975343791403,
+          45.436134803487633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 326,
+        "FACILITYID": 31401,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1556 Forest Valley Drive, Gloucester",
+        "ADDRESS_FR": "1556, promenade Forest Valley, Gloucester",
+        "SHORTNAME": "Chapel Hill Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Park Chapel Hill",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Chapel Hill Park",
+        "PARKNAME_F": "Parc Chapel Hill",
+        "PARKADDRES": "1556 Forest Valley Drive, Gloucester",
+        "PARKADDR_1": "1556, promenade Forest Valley, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538441535935931,
+          45.450764951707249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 231,
+        "FACILITYID": 31285,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "37 Chartwell Avenue, Nepean",
+        "ADDRESS_FR": "37, avenue Chartwell, Nepean",
+        "SHORTNAME": "Charing Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Charing",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Charing Park",
+        "PARKNAME_F": "Parc Charing",
+        "PARKADDRES": "37 Chartwell Avenue, Nepean",
+        "PARKADDR_1": "37, avenue Chartwell, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.766231490321914,
+          45.331898989952286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1573,
+        "FACILITYID": 32551,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "300 Den Haag Drive, Ottawa",
+        "ADDRESS_FR": "300, promenade Den-Haag, Ottawa",
+        "SHORTNAME": "Dr. John Hopps Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Dr-John-Hopps",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Dr. John Hopps Park",
+        "PARKNAME_F": "Parc du Dr-John-Hopps",
+        "PARKADDRES": "300 Den Haag Drive, Ottawa",
+        "PARKADDR_1": "300, promenade Den-Haag, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.632371778258928,
+          45.440188014893103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 377,
+        "FACILITYID": 31488,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1841 Elmridge Drive, Gloucester",
+        "ADDRESS_FR": "1841, promenade Elmridge, Gloucester",
+        "SHORTNAME": "Elmridge Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Elmridge",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Elmridge Park",
+        "PARKNAME_F": "Parc Elmridge",
+        "PARKADDRES": "1841 Elmridge Drive, Gloucester",
+        "PARKADDR_1": "1841, promenade Elmridge, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604138567829509,
+          45.443995408250437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2428,
+        "FACILITYID": 36282,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "720 White Alder Avenue, Gloucester",
+        "ADDRESS_FR": "720, avenue White Alder, Gloucester",
+        "SHORTNAME": "Turtle Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Turtle",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Turtle Park",
+        "PARKNAME_F": "Parc de la Tortue",
+        "PARKADDRES": "720 White Alder Avenue, Gloucester",
+        "PARKADDR_1": "720, avenue White Alder, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.603731533138344,
+          45.321763911119781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1746,
+        "FACILITYID": 36294,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1027 Klondike Road, Kanata",
+        "ADDRESS_FR": "1027, chemin Klondike, Kanata",
+        "SHORTNAME": "Brookshire Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Brookshire",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Brookshire Park",
+        "PARKNAME_F": "Parc Brookshire",
+        "PARKADDRES": "1027 Klondike Road, Kanata",
+        "PARKADDR_1": "1027, chemin Klondike, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.929363217663834,
+          45.358592293293533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 420,
+        "FACILITYID": 31548,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2001 Gardenway Drive, Cumberland",
+        "ADDRESS_FR": "2001, promenade Gardenway, Cumberland",
+        "SHORTNAME": "Gardenway Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Gardenway",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Gardenway Park",
+        "PARKNAME_F": "Parc Gardenway",
+        "PARKADDRES": "2001 Gardenway Drive, Cumberland",
+        "PARKADDR_1": "2001, promenade Gardenway, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.484128656191359,
+          45.466529931060698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 697,
+        "FACILITYID": 31810,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1899 Du Clairvaux Road, Gloucester",
+        "ADDRESS_FR": "1899, chemin Du Clairvaux, Gloucester",
+        "SHORTNAME": "Gérald Poulin Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Gérald-Poulin",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Gérald Poulin Park",
+        "PARKNAME_F": "Parc Gérald-Poulin",
+        "PARKADDRES": "1899 Du Clairvaux Road, Gloucester",
+        "PARKADDR_1": "1899, chemin Du Clairvaux, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538861739660845,
+          45.44366690841391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 160,
+        "FACILITYID": 31216,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1505 Cahill Drive, Ottawa",
+        "ADDRESS_FR": "1505, promenade Cahill, Ottawa",
+        "SHORTNAME": "Greenboro Park & Community Centre",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc et Centre Communautaire de Greenboro",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Greenboro Park and Community Centre",
+        "PARKNAME_F": "Parc et centre communautaire de Greenboro",
+        "PARKADDRES": "363 Lorry Greenberg Drive",
+        "PARKADDR_1": "363 promenade Lorry Greenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.636291882348601,
+          45.363428513145521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1168,
+        "FACILITYID": 32273,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "101 Duhamel Street, Ottawa",
+        "ADDRESS_FR": "101, rue Duhamel, Ottawa",
+        "SHORTNAME": "Hintonburg Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Hintonburg",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Hintonburg Park",
+        "PARKNAME_F": "Parc Hintonburg",
+        "PARKADDRES": "101 Duhamel Street, Ottawa",
+        "PARKADDR_1": "101, rue Duhamel, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723521379652198,
+          45.40318416380012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 543,
+        "FACILITYID": 31668,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2554 Kaladar Avenue, Ottawa",
+        "ADDRESS_FR": "2554, avenue Kaladar, Ottawa",
+        "SHORTNAME": "Kaladar Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Kaladar",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Kaladar Park",
+        "PARKNAME_F": "Parc Kaladar",
+        "PARKADDRES": "2554 Kaladar Avenue, Ottawa",
+        "PARKADDR_1": "2554, avenue Kaladar, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672219322860002,
+          45.372235494246652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 300,
+        "FACILITYID": 36295,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1060 Cummings Avenue, Gloucester",
+        "ADDRESS_FR": "1060, avenue Cummings, Gloucester",
+        "SHORTNAME": "Cummings Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Cummings",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cummings Park (Gloucester)",
+        "PARKNAME_F": "Parc Cummings (Gloucester)",
+        "PARKADDRES": "1060 Cummings Avenue, Gloucester",
+        "PARKADDR_1": "1060, avenue Cummings, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635374512849026,
+          45.431041134831347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2126,
+        "FACILITYID": 36285,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "424 Chapman Mills Drive, Nepean",
+        "ADDRESS_FR": "424, promenade Chapman Mills, Nepean",
+        "SHORTNAME": "Water Dragon Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Water Dragon",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Water Dragon Park",
+        "PARKNAME_F": "Parc Water Dragon",
+        "PARKADDRES": "424 Chapman Mills Drive, Nepean",
+        "PARKADDR_1": "424, promenade Chapman Mills, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.722708820374024,
+          45.272101593353277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 128,
+        "FACILITYID": 36287,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "470 Booth Street, Ottawa",
+        "ADDRESS_FR": "470, rue Booth, Ottawa",
+        "SHORTNAME": "Piazza Dante Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Piazza Dante",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Piazza Dante Park",
+        "PARKNAME_F": "Parc Piazza Dante",
+        "PARKADDRES": "470 Booth Street, Ottawa",
+        "PARKADDR_1": "470, rue Booth, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708480849998224,
+          45.405387162881254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1183,
+        "FACILITYID": 32297,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "139 Windhurst Drive, Nepean",
+        "ADDRESS_FR": "139, promenade Windhurst, Nepean",
+        "SHORTNAME": "Chapman Mills Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Chapman Mills",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Chapman Mills Park",
+        "PARKNAME_F": "Parc Chapman Mills",
+        "PARKADDRES": "139 Windhurst Drive, Nepean",
+        "PARKADDR_1": "139, promenade Windhurst, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.717219438431542,
+          45.279003335451478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 592,
+        "FACILITYID": 31721,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "491 Lawson Avenue, Ottawa",
+        "ADDRESS_FR": "491, avenue Lawson, Ottawa",
+        "SHORTNAME": "Lawson Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Lawson",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Lawson Park",
+        "PARKNAME_F": "Parc Lawson",
+        "PARKADDRES": "491 Lawson Avenue, Ottawa",
+        "PARKADDR_1": "491, avenue Lawson, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644224816674893,
+          45.426940667147058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1076,
+        "FACILITYID": 32200,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1691 Sunview Drive, Gloucester",
+        "ADDRESS_FR": "1691, promenade Sunview, Gloucester",
+        "SHORTNAME": "Marcel Beriault Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Marcel-Beriault",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Marcel Bériault Park",
+        "PARKNAME_F": "Parc Marcel-Bériault",
+        "PARKADDRES": "1691 Sunview Drive, Gloucester",
+        "PARKADDR_1": "1691, promenade Sunview, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.513957717334478,
+          45.463624167789156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 806,
+        "FACILITYID": 31918,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3320 Paul Anda Drive, Ottawa",
+        "ADDRESS_FR": "3320, promenade Paul-Anka, Ottawa",
+        "SHORTNAME": "McCarthy Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc McCarthy",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "McCarthy Park",
+        "PARKNAME_F": "Parc McCarthy",
+        "PARKADDRES": "3320 Paul Anda Drive, Ottawa",
+        "PARKADDR_1": "3320, promenade Paul-Anka, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673276657636393,
+          45.351897298204413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 728,
+        "FACILITYID": 32668,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1095 Morrison Drive, Ottawa",
+        "ADDRESS_FR": "1095, promenade Morrison, Ottawa",
+        "SHORTNAME": "Morrison Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Morrison",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Morrison Park",
+        "PARKNAME_F": "Parc Morrison",
+        "PARKADDRES": "1095 Morrison Drive, Ottawa",
+        "PARKADDR_1": "1095, promenade Morrison, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.794668478686745,
+          45.344767321428428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 122,
+        "FACILITYID": 35603,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1602 Blohm Drive, Ottawa",
+        "ADDRESS_FR": "1602, promenade Blohm, Ottawa",
+        "SHORTNAME": "Calzavara Family Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc de la famille Calzavara",
+        "MODIFIED_D": "2016/06/13",
+        "CREATED_DA": "2016/06/13",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Calzavara Family Park",
+        "PARKNAME_F": "Parc de la famille Calzavara",
+        "PARKADDRES": "1602 Blohm Drive, Ottawa",
+        "PARKADDR_1": "1602, promenade Blohm, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.608292340022444,
+          45.374147768681944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 759,
+        "FACILITYID": 31865,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1326 Ogilvie Road, Gloucester",
+        "ADDRESS_FR": "1326, chemin Ogilvie, Gloucester",
+        "SHORTNAME": "Palmerston Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Palmerston",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Palmerston Park",
+        "PARKNAME_F": "Parc Palmerston",
+        "PARKADDRES": "1326 Ogilvie Road, Gloucester",
+        "PARKADDR_1": "1326, chemin Ogilvie, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.622892218981548,
+          45.429057120197321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 343,
+        "FACILITYID": 31427,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1485 Duford Drive, Cumberland",
+        "ADDRESS_FR": "1485, promenade Duford, Cumberland",
+        "SHORTNAME": "Queenswood Heights Centennial Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Centre Communautaire et Parc du Centenaire Queenswood Heights",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Queenswood Heights Centennial Park and Community Centre",
+        "PARKNAME_F": "Centre communautaire et parc du centenaire Queenswood Heights",
+        "PARKADDRES": "1485 Duford Drive, Cumberland",
+        "PARKADDR_1": "1485, promenade Duford, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507877426113367,
+          45.470976308906565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1004,
+        "FACILITYID": 32124,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6105 Silverbirch Street, Gloucester",
+        "ADDRESS_FR": "6105, rue Silverbirch, Gloucester",
+        "SHORTNAME": "Silverbirch Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Silverbirch",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Silverbirch Park",
+        "PARKNAME_F": "Parc Silverbirch",
+        "PARKADDRES": "6105 Silverbirch Street, Gloucester",
+        "PARKADDR_1": "6105, rue Silverbirch, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528775691074102,
+          45.443573552845933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 228,
+        "FACILITYID": 31279,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "288 Chapel Street, Ottawa",
+        "ADDRESS_FR": "288, rue Chapel, Ottawa",
+        "SHORTNAME": "Sir Wilfrid Laurier Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Sir-Wilfrid-Laurier",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Sir Wilfrid Laurier Park",
+        "PARKNAME_F": "Parc Sir-Wilfrid-Laurier",
+        "PARKADDRES": "288 Chapel Street, Ottawa",
+        "PARKADDR_1": "288, rue Chapel, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.678846215040068,
+          45.427727950155443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 628,
+        "FACILITYID": 32651,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "600 Longfields Drive, Nepean",
+        "ADDRESS_FR": "600, promenade Longfields, Nepean",
+        "SHORTNAME": "Ken Ross Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Ken-Ross",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Ken Ross Park",
+        "PARKNAME_F": "Parc Ken-Ross",
+        "PARKADDRES": "600 Longfields Drive, Nepean",
+        "PARKADDR_1": "600, promenade Longfields, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.741970759816908,
+          45.281670922188347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1058,
+        "FACILITYID": 32176,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "861 Stanstead Road, Ottawa",
+        "ADDRESS_FR": "861, chemin Stanstead, Ottawa",
+        "SHORTNAME": "Stanstead Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Stanstead",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Stanstead Park",
+        "PARKNAME_F": "Parc Stanstead",
+        "PARKADDRES": "861 Stanstead Road, Ottawa",
+        "PARKADDR_1": "861, chemin Stanstead, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672066667057052,
+          45.363133336154903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 37,
+        "FACILITYID": 34770,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2185 Arch Street, Ottawa",
+        "ADDRESS_FR": "2185, rue Arch, Ottawa",
+        "SHORTNAME": "Canterbury Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Canterbury",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Canterbury Park",
+        "PARKNAME_F": "Parc Canterbury",
+        "PARKADDRES": "2185 Arch Street, Ottawa",
+        "PARKADDR_1": "2185, rue Arch, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628708579044996,
+          45.389819846904253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 384,
+        "FACILITYID": 34772,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2989 Fairlea Crescent, Ottawa",
+        "ADDRESS_FR": "2989, croissant Fairlea, Ottawa",
+        "SHORTNAME": "Fairlea Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fairlea",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fairlea Park",
+        "PARKNAME_F": "Parc Fairlea",
+        "PARKADDRES": "2989 Fairlea Crescent, Ottawa",
+        "PARKADDR_1": "2989, croissant Fairlea, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640325753164689,
+          45.376743365834322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 495,
+        "FACILITYID": 34773,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "250 Holland Avenue, Ottawa",
+        "ADDRESS_FR": "250, avenue Holland, Ottawa",
+        "SHORTNAME": "Fisher Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fisher",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fisher Park",
+        "PARKNAME_F": "Parc Fisher",
+        "PARKADDRES": "250 Holland Avenue, Ottawa",
+        "PARKADDR_1": "250, avenue Holland, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731584999688607,
+          45.397017806317336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1870,
+        "FACILITYID": 34776,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "165 Meandering Brook Drive, Gloucester",
+        "ADDRESS_FR": "165, promenade Meandering Brook, Gloucester",
+        "SHORTNAME": "Fawn Meadow Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fawn Meadow",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/24",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fawn Meadow Park",
+        "PARKNAME_F": "Parc Fawn Meadow",
+        "PARKADDRES": "165 Meandering Brook Drive, Gloucester",
+        "PARKADDR_1": "165, promenade Meandering Brook, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627539249047075,
+          45.342825886830404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 132,
+        "FACILITYID": 31176,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "100 Braemar Street, Ottawa",
+        "ADDRESS_FR": "100, rue Braemar, Ottawa",
+        "SHORTNAME": "Manor Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Manor",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Manor Park",
+        "PARKNAME_F": "Parc Manor",
+        "PARKADDRES": "100 Braemar Street, Ottawa",
+        "PARKADDR_1": "100, rue Braemar, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657007913452517,
+          45.450767879105491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 134,
+        "FACILITYID": 31181,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "100 Brewer Way, Ottawa",
+        "ADDRESS_FR": "100, voie Brewer, Ottawa",
+        "SHORTNAME": "Brewer Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Brewer",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Brewer Park",
+        "PARKNAME_F": "Parc Brewer",
+        "PARKADDRES": "100 Brewer Way, Ottawa",
+        "PARKADDR_1": "100, voie Brewer, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.688622022879301,
+          45.388729798383416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 213,
+        "FACILITYID": 31259,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1200 Cedarcroft Crescent, Gloucester",
+        "ADDRESS_FR": "1200, croissant Cedarcroft, Gloucester",
+        "SHORTNAME": "Cedarcroft Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Cedarcroft",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cedarcroft Park",
+        "PARKNAME_F": "Parc Cedarcroft",
+        "PARKADDRES": "1200 Cedarcroft Crescent, Gloucester",
+        "PARKADDR_1": "1200, croissant Cedarcroft, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613482952758787,
+          45.424313292209085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 239,
+        "FACILITYID": 31299,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "295 Churchill Avenue, Ottawa",
+        "ADDRESS_FR": "295, avenue Churchill, Ottawa",
+        "SHORTNAME": "Roy Duncan Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Roy-Duncan",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Roy Duncan Park",
+        "PARKNAME_F": "Parc Roy-Duncan",
+        "PARKADDRES": "295 Churchill Avenue, Ottawa",
+        "PARKADDR_1": "295, avenue Churchill, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755653472986197,
+          45.395759331424657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 321,
+        "FACILITYID": 31389,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6591 Delorme Avenue, Gloucester",
+        "ADDRESS_FR": "6591, avenue Delorme, Gloucester",
+        "SHORTNAME": "Delorme Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Delorme",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Delorme Park",
+        "PARKNAME_F": "Parc Delorme",
+        "PARKADDRES": "6591 Delorme Avenue, Gloucester",
+        "PARKADDR_1": "6591, avenue Delorme, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.510490011255882,
+          45.457169252093067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 386,
+        "FACILITYID": 31512,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "681 Deancourt Crescent, Cumberland",
+        "ADDRESS_FR": "681, croissant Deancourt, Cumberland",
+        "SHORTNAME": "Fallingbrook Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fallingbrook",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fallingbrook Park",
+        "PARKNAME_F": "Parc Fallingbrook",
+        "PARKADDRES": "681 Deancourt Crescent, Cumberland",
+        "PARKADDR_1": "681, croissant Deancourt, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.488072881899967,
+          45.480670470946116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 432,
+        "FACILITYID": 31555,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "75 Glendale Avenue, Ottawa",
+        "ADDRESS_FR": "75, avenue Glendale, Ottawa",
+        "SHORTNAME": "Glebe Memorial Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Commémoratif du Glebe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Glebe Memorial Park",
+        "PARKNAME_F": "Parc commémoratif du Glebe",
+        "PARKADDRES": "75 Glendale Avenue, Ottawa",
+        "PARKADDR_1": "75, avenue Glendale, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.699303757470346,
+          45.404861800143614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 468,
+        "FACILITYID": 31596,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "691 Hartman Crescent, Ottawa",
+        "ADDRESS_FR": "691, croissant Hartman, Ottawa",
+        "SHORTNAME": "Arnott Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Arnott",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Arnott Park",
+        "PARKNAME_F": "Parc Arnott",
+        "PARKADDRES": "691 Hartman Crescent, Ottawa",
+        "PARKADDR_1": "691, croissant Hartman, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680908579293842,
+          45.361546967535176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 525,
+        "FACILITYID": 31650,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2040 Jasmine Crescent, Gloucester",
+        "ADDRESS_FR": "2040, croissant Jasmine, Gloucester",
+        "SHORTNAME": "Jasmine Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Jasmine",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Jasmine Park",
+        "PARKNAME_F": "Parc Jasmine",
+        "PARKADDRES": "2040 Jasmine Crescent, Gloucester",
+        "PARKADDR_1": "2040, croissant Jasmine, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.593669895753365,
+          45.440909551330869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 141,
+        "FACILITYID": 31740,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "265 Britannia Road, Ottawa",
+        "ADDRESS_FR": "265, chemin Britannia, Ottawa",
+        "SHORTNAME": "Lincoln Heights Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Lincoln Heights",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Lincoln Heights Park",
+        "PARKNAME_F": "Parc Lincoln Heights",
+        "PARKADDRES": "265 Britannia Road, Ottawa",
+        "PARKADDR_1": "265, chemin Britannia, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.79090949451512,
+          45.368219592465643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 674,
+        "FACILITYID": 31776,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1245 Matheson Road, Gloucester",
+        "ADDRESS_FR": "1245, chemin Matheson, Gloucester",
+        "SHORTNAME": "Whiterock Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Whiterock",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Whiterock Park",
+        "PARKNAME_F": "Parc Whiterock",
+        "PARKADDRES": "1245 Matheson Road, Gloucester",
+        "PARKADDR_1": "1245, chemin Matheson, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.627309186041387,
+          45.43228502418215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 842,
+        "FACILITYID": 31954,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "346 Kennedy Lane East, Cumberland",
+        "ADDRESS_FR": "346, ruelle Kennedy Est, Cumberland",
+        "SHORTNAME": "Queenswood Ridge Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Queenswood Ridge",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Queenswood Ridge Park",
+        "PARKNAME_F": "Parc Queenswood Ridge",
+        "PARKADDRES": "346 Kennedy Lane East, Cumberland",
+        "PARKADDR_1": "346, ruelle Kennedy Est, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50406063377423,
+          45.477734726035898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 964,
+        "FACILITYID": 32063,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2999 Sable Ridge Drive, Gloucester",
+        "ADDRESS_FR": "2999, promenade Sable Ridge, Gloucester",
+        "SHORTNAME": "Sieveright Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Sieveright",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Sieveright Park",
+        "PARKNAME_F": "Parc Sieveright",
+        "PARKADDRES": "2999 Sable Ridge Drive, Gloucester",
+        "PARKADDR_1": "2999, promenade Sable Ridge, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635109823870337,
+          45.355806868993604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1021,
+        "FACILITYID": 32141,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2320 Southvale Crescent, Ottawa",
+        "ADDRESS_FR": "2320, croissant Southvale, Ottawa",
+        "SHORTNAME": "Sheffield Glen Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Sheffield Glen",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Sheffield Glen Park",
+        "PARKNAME_F": "Parc Sheffield Glen",
+        "PARKADDRES": "2320 Southvale Crescent, Ottawa",
+        "PARKADDR_1": "2320, croissant Southvale, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614359075669853,
+          45.398259616963294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1022,
+        "FACILITYID": 32143,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1250 Southwood Drive, Ottawa",
+        "ADDRESS_FR": "1250, promenade Southwood, Ottawa",
+        "SHORTNAME": "Kilreen Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Kilreen",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Kilreen Park",
+        "PARKNAME_F": "Parc Kilreen",
+        "PARKADDRES": "1250 Southwood Drive, Ottawa",
+        "PARKADDR_1": "1250, promenade Southwood, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.783766760945454,
+          45.346259630772948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2499,
+        "FACILITYID": 35605,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "560 Summerhill Street, Gloucester",
+        "ADDRESS_FR": "560, rue Summerhill, Gloucester",
+        "SHORTNAME": "Summerhill Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Summerhill",
+        "MODIFIED_D": "2017/05/08",
+        "CREATED_DA": "2016/06/13",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Summerhill Park",
+        "PARKNAME_F": "Parc Summerhill",
+        "PARKADDRES": "560 Summerhill Street, Gloucester",
+        "PARKADDR_1": "560, rue Summerhill, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695632273158566,
+          45.267080499315618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2500,
+        "FACILITYID": 35599,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "920 Littlerock Way, Gloucester",
+        "ADDRESS_FR": "920, voie Littlerock, Gloucester",
+        "SHORTNAME": "Littlerock Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Littlerock",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Littlerock Park",
+        "PARKNAME_F": "Parc Littlerock",
+        "PARKADDRES": "920 Littlerock Way, Gloucester",
+        "PARKADDR_1": "920, voie Littlerock, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592099716996216,
+          45.327129403550778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1324,
+        "FACILITYID": 35687,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "936 Lawnsberry Drive, Cumberland",
+        "ADDRESS_FR": "936, promenade Lawnsberry, Cumberland",
+        "SHORTNAME": "Big Bird Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Big Bird",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2016/07/25",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Big Bird Park",
+        "PARKNAME_F": "Parc Big Bird",
+        "PARKADDRES": "936 Lawnsberry Drive, Cumberland",
+        "PARKADDR_1": "936, promenade Lawnsberry, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507602124409956,
+          45.486562661324577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1714,
+        "FACILITYID": 48949,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "272 West Ridge Drive",
+        "ADDRESS_FR": "272, promenade West Ridge",
+        "SHORTNAME": "Deer Run Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Deer Run",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2017/09/20",
+        "LINK": null,
+        "LINK_FR": null,
+        "LINK_LABEL": null,
+        "LINK_LAB_1": null,
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Deer Run Park",
+        "PARKNAME_F": "Parc Deer Run",
+        "PARKADDRES": "272 West Ridge Drive, Goulbourn",
+        "PARKADDR_1": "272, promenade West Ridge, Goulbourn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.926577381572017,
+          45.250098930031285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2478,
+        "FACILITYID": 35068,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "205 Serra Ridge, Cumberland",
+        "ADDRESS_FR": "205, côte Serra, Cumberland",
+        "SHORTNAME": "Joseph Vézina Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Joseph-Vézina",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/06/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Joseph Vézina Park",
+        "PARKNAME_F": "Parc Joseph-Vézina",
+        "PARKADDRES": "205 Serra Ridge, Cumberland",
+        "PARKADDR_1": "205, côte Serra, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460688440750133,
+          45.45214161205768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2487,
+        "FACILITYID": 35072,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "990 Cobble Hill Drive, Nepean",
+        "ADDRESS_FR": "990, promenade Cobble Hill, Nepean",
+        "SHORTNAME": "Hibiscus Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Hibiscus",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/06/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Hibiscus Park",
+        "PARKNAME_F": "Parc Hibiscus",
+        "PARKADDRES": "990 Cobble Hill Drive, Nepean",
+        "PARKADDR_1": "990, promenade Cobble Hill, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.780459236697283,
+          45.272170533867438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 797,
+        "FACILITYID": 35273,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "970 Parkhaven Avenue, Ottawa",
+        "ADDRESS_FR": "970, avenue Parkhaven, Ottawa",
+        "SHORTNAME": "Whitehaven / George C. Brown Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Whitehaven / George-C.-Brown",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016/02/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Whitehaven / George C. Brown Park",
+        "PARKNAME_F": "Parc Whitehaven / George-C.-Brown",
+        "PARKADDRES": "970 Parkhaven Avenue, Ottawa",
+        "PARKADDR_1": "970, avenue Parkhaven, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.775994155008391,
+          45.362023329383618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2494,
+        "FACILITYID": 35071,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "290 Meadowbreeze Drive, Kanata",
+        "ADDRESS_FR": "290, promenade Meadowbreeze, Kanata",
+        "SHORTNAME": "Crownridge Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Crownridge",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/06/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Crownridge Park",
+        "PARKNAME_F": "Parc Crownridge",
+        "PARKADDRES": "290 Meadowbreeze Drive, Kanata",
+        "PARKADDR_1": "290, promenade Meadowbreeze, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84666967508268,
+          45.274195322085568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2425,
+        "FACILITYID": 35595,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "120 Landry Street, Vanier",
+        "ADDRESS_FR": "120, rue Landry, Vanier",
+        "SHORTNAME": "St. Ambroise Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc St-Ambroise",
+        "MODIFIED_D": "2016/06/20",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "St. Ambroise Park",
+        "PARKNAME_F": "Parc St-Ambroise",
+        "PARKADDRES": "120 Landry Street, Vanier",
+        "PARKADDR_1": "120, rue Landry, Vanier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668827873145062,
+          45.438529726859599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1056,
+        "FACILITYID": 36259,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "193 Stanley Avenue, Ottawa",
+        "ADDRESS_FR": "193, avenue Stanley, Ottawa",
+        "SHORTNAME": "New Edinburgh Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc New Edinburgh",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "New Edinburgh Park",
+        "PARKNAME_F": "Parc New Edinburgh",
+        "PARKADDRES": "193 Stanley Avenue, Ottawa",
+        "PARKADDR_1": "193, avenue Stanley, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.685178042607006,
+          45.438636603689275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1033,
+        "FACILITYID": 36260,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "325 St. Denis Street, Vanier",
+        "ADDRESS_FR": "325, rue St-Denis, Vanier",
+        "SHORTNAME": "Nault Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Nault",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Nault Park",
+        "PARKNAME_F": "Parc Nault",
+        "PARKADDRES": "325 St. Denis Street, Vanier",
+        "PARKADDR_1": "325, rue St-Denis, Vanier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65847881333228,
+          45.441152170291986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 34,
+        "FACILITYID": 36262,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "49 Appleford Street, Gloucester",
+        "ADDRESS_FR": "49, rue Appleford, Gloucester",
+        "SHORTNAME": "Fairfield Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fairfield",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fairfield Park",
+        "PARKNAME_F": "Parc Fairfield",
+        "PARKADDRES": "49 Appleford Street, Gloucester",
+        "PARKADDR_1": "49, rue Appleford, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605727679575395,
+          45.441148095326703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 467,
+        "FACILITYID": 36289,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1 Harrold Place, Ottawa",
+        "ADDRESS_FR": "1, place Harrold, Ottawa",
+        "SHORTNAME": "Harrold Place Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc de la Place Harrold",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Harrold Place Park",
+        "PARKNAME_F": "Parc de la place Harrold",
+        "PARKADDRES": "1 Harrold Place, Ottawa",
+        "PARKADDR_1": "1, place Harrold, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.730022825989323,
+          45.385963357414241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 474,
+        "FACILITYID": 36266,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1560 Heatherington Road, Ottawa",
+        "ADDRESS_FR": "1560, chemin Heatherington, Ottawa",
+        "SHORTNAME": "Heatherington Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Heatherington",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Heatherington Park",
+        "PARKNAME_F": "Parc Heatherington",
+        "PARKADDRES": "1560 Heatherington Road, Ottawa",
+        "PARKADDR_1": "1560, chemin Heatherington, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648480163328145,
+          45.373381231415216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1001,
+        "FACILITYID": 32118,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "4386 Spratt Road, Gloucester",
+        "ADDRESS_FR": "4386, chemin Spratt, Gloucester",
+        "SHORTNAME": "Four Seasons Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Four Seasons",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Four Seasons Park",
+        "PARKNAME_F": "Parc Four Seasons",
+        "PARKADDRES": "4386 Spratt Road, Gloucester",
+        "PARKADDR_1": "4386, chemin Spratt, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690666667155199,
+          45.2756333361245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 541,
+        "FACILITYID": 36264,
+        "NAME": "Carp Water Splash Park",
+        "NAME_FR": "Aires de jets d'eau de Carp",
+        "ADDRESS": "108 Juanita Avenue, West Carleton",
+        "ADDRESS_FR": "108, avenue Juanita, West Carleton",
+        "SHORTNAME": "Huntley Community Centre",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Centre Communautaire Huntley",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Huntley Community Centre",
+        "PARKNAME_F": "Centre communautaire Huntley",
+        "PARKADDRES": "108 Juanita Avenue, West Carleton",
+        "PARKADDR_1": "108, avenue Juanita, West Carleton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.037981134346055,
+          45.350798874055343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1067,
+        "FACILITYID": 32189,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1859 Stonehenge Crescent, Gloucester",
+        "ADDRESS_FR": "1859, crossant Stonehenge, Gloucester",
+        "SHORTNAME": "Stonehenge Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Stonehenge",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Stonehenge Park",
+        "PARKNAME_F": "Parc Stonehenge",
+        "PARKADDRES": "1859 Stonehenge Crescent, Gloucester",
+        "PARKADDR_1": "1859, crossant Stonehenge, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601282598856542,
+          45.420633067619107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1309,
+        "FACILITYID": 32330,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6026 Voyageur Drive, Gloucester",
+        "ADDRESS_FR": "6026, promenade Voyageur, Gloucester",
+        "SHORTNAME": "North Vineyard Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc North Vineyard",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "North Vineyard Park",
+        "PARKNAME_F": "Parc North Vineyard",
+        "PARKADDRES": "6018 Voyageur Drive, Gloucester",
+        "PARKADDR_1": "6018, promenade Voyageur, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.549721173771516,
+          45.473945415459617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1651,
+        "FACILITYID": 32552,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6011 Longleaf Drive, Gloucester",
+        "ADDRESS_FR": "6011, promenade Longleaf, Gloucester",
+        "SHORTNAME": "Blue Willow Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Blue Willow",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Blue Willow Park",
+        "PARKNAME_F": "Parc Blue Willow",
+        "PARKADDRES": "6011 Longleaf Drive, Gloucester",
+        "PARKADDR_1": "6011, promenade Longleaf, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.527956328300547,
+          45.437018389928348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 514,
+        "FACILITYID": 32568,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "99 Bearbrook Road, Gloucester",
+        "ADDRESS_FR": "99, chemin Bearbrook, Gloucester",
+        "SHORTNAME": "Bearbrook Park and Pool",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc et Piscine Bearbrook",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Bearbrook Park and Pool",
+        "PARKNAME_F": "Parc et Piscine Bearbrook",
+        "PARKADDRES": "99 Bearbrook Road, Gloucester",
+        "PARKADDR_1": "99, chemin Bearbrook, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.563722754545722,
+          45.434256581450846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2,
+        "FACILITYID": 32669,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "21 A Dayton Crescent, Nepean",
+        "ADDRESS_FR": "21 A, croissant Dayton, Nepean",
+        "SHORTNAME": "Leslie Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Leslie",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Leslie Park",
+        "PARKNAME_F": "Parc Leslie",
+        "PARKADDRES": "21 A Dayton Crescent, Nepean",
+        "PARKADDR_1": "21 A, croissant Dayton, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.788420665943519,
+          45.334855000053338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1566,
+        "FACILITYID": 32708,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1844 Johnston Road, Ottawa",
+        "ADDRESS_FR": "1844, chemin Johnston, Ottawa",
+        "SHORTNAME": "Winterwood Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Winterwood",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Winterwood Park",
+        "PARKNAME_F": "Parc Winterwood",
+        "PARKADDRES": "1844 Johnston Road, Ottawa",
+        "PARKADDR_1": "1844, chemin Johnston, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628346004510945,
+          45.368798090127264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 840,
+        "FACILITYID": 32714,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "930 Somerset Street West, Ottawa",
+        "ADDRESS_FR": "930, rue Somerset Ouest, Ottawa",
+        "SHORTNAME": "Plouffe Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Plouffe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Plouffe Park",
+        "PARKNAME_F": "Parc Plouffe",
+        "PARKADDRES": "930 Somerset Street West, Ottawa",
+        "PARKADDR_1": "930, rue Somerset Ouest, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71399124754798,
+          45.407598791316552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2278,
+        "FACILITYID": 34768,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "720 Vistapark Drive, Cumberland",
+        "ADDRESS_FR": "720, promenade Vistapark, Cumberland",
+        "SHORTNAME": "Vista Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Vista",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Vista Park",
+        "PARKNAME_F": "Parc Vista",
+        "PARKADDRES": "720 Vistapark Drive, Cumberland",
+        "PARKADDR_1": "720, promenade Vistapark, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.472067771584904,
+          45.450071132390981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2113,
+        "FACILITYID": 34774,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "4101 Innovation Drive, Kanata",
+        "ADDRESS_FR": "4101, promenade Innovation, Kanata",
+        "SHORTNAME": "Richcraft Recreation Complex - Kanata",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Complexe Récréatif Richcraft - Kanata",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Richcraft Recreation Complex - Kanata",
+        "PARKNAME_F": "Complexe récréatif Richcraft - Kanata",
+        "PARKADDRES": "4101 Innovation Drive, Kanata",
+        "PARKADDR_1": "4101, promenade Innovation, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.931008343821048,
+          45.340112076633012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2434,
+        "FACILITYID": 35069,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "530 Strasbourg Street, Cumberland",
+        "ADDRESS_FR": "530, rue Strasbourg, Cumberland",
+        "SHORTNAME": "Ouellette Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Ouellette",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/06/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Ouellette Park",
+        "PARKNAME_F": "Parc Ouellette",
+        "PARKADDRES": "530 Strasbourg Street, Cumberland",
+        "PARKADDR_1": "530, rue Strasbourg, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.489280402485093,
+          45.451092499146078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2468,
+        "FACILITYID": 35073,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "105 Felicity Crescent, Gloucester",
+        "ADDRESS_FR": "105, croissant Felicity, Gloucester",
+        "SHORTNAME": "Fountainhead Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Fountainhead",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/06/05",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Fountainhead Park",
+        "PARKNAME_F": "Parc Fountainhead",
+        "PARKADDRES": "105 Felicity Crescent, Gloucester",
+        "PARKADDR_1": "105, croissant Felicity, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.519233198698743,
+          45.425305358040056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2493,
+        "FACILITYID": 35597,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "660 Boothfield Street, Gloucester",
+        "ADDRESS_FR": "660, rue Boothfield, Gloucester",
+        "SHORTNAME": "Boothfield Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Boothfield",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Boothfield Park",
+        "PARKNAME_F": "Parc Boothfield",
+        "PARKADDRES": "660 Boothfield Street, Gloucester",
+        "PARKADDR_1": "660, rue Boothfield, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665360048898066,
+          45.288216790639005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2518,
+        "FACILITYID": 35601,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "420 de la Famille-Laporte Avenue, Cumberland",
+        "ADDRESS_FR": "420, avenue de la Famille-Laporte, Cumberland",
+        "SHORTNAME": "Millstone Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Millstone",
+        "MODIFIED_D": "2017/11/10",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Millstone Park",
+        "PARKNAME_F": "Parc Millstone",
+        "PARKADDRES": "420 de la Famille-Laporte Avenue, Cumberland",
+        "PARKADDR_1": "420, avenue de la Famille-Laporte, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.469679852043754,
+          45.49781448556984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 241,
+        "FACILITYID": 36261,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1800 City Park Drive, Gloucester",
+        "ADDRESS_FR": "1800, promenade City Park, Gloucester",
+        "SHORTNAME": "City Centre Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc City Centre",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "City Centre Park",
+        "PARKNAME_F": "Parc City Centre",
+        "PARKADDRES": "1800 City Park Drive, Gloucester",
+        "PARKADDR_1": "1800, promenade City Park, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.618236882098941,
+          45.428129093952244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1678,
+        "FACILITYID": 36263,
+        "NAME": "Jérémie J. Audette Splash Pad",
+        "NAME_FR": "Aires de jets d'eau Jérémie-J.-Audette",
+        "ADDRESS": "670 Aquaview Drive, Cumberland",
+        "ADDRESS_FR": "670, promenade Aquaview, Cumberland",
+        "SHORTNAME": "Portobello Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Portobello",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Portobello Park",
+        "PARKNAME_F": "Parc Portobello",
+        "PARKADDRES": "670 Aquaview Drive, Cumberland",
+        "PARKADDR_1": "670, promenade Aquaview, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46909146907214,
+          45.458014735580257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 916,
+        "FACILITYID": 36268,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "220 Stoneway Drive, Nepean",
+        "ADDRESS_FR": "220, promenade Stoneway, Nepean",
+        "SHORTNAME": "Stonecrest Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Stonecrest",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Stonecrest Park",
+        "PARKNAME_F": "Parc Stonecrest",
+        "PARKADDRES": "220 Stoneway Drive, Nepean",
+        "PARKADDR_1": "220, promenade Stoneway, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71589085092225,
+          45.287639471302271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 848,
+        "FACILITYID": 36270,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "179 Primrose Avenue, Ottawa",
+        "ADDRESS_FR": "179, avenue Primrose, Ottawa",
+        "SHORTNAME": "Primrose Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Primrose",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Primrose Park",
+        "PARKNAME_F": "Parc Primrose",
+        "PARKADDRES": "179 Primrose Avenue, Ottawa",
+        "PARKADDR_1": "179, avenue Primrose, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.714054018062185,
+          45.411049229313335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1801,
+        "FACILITYID": 36278,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "130 Walden Drive, Kanata",
+        "ADDRESS_FR": "130, promenade Walden, Kanata",
+        "SHORTNAME": "Walden Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Walden",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Walden Park",
+        "PARKNAME_F": "Parc Walden",
+        "PARKADDRES": "130 Walden Drive, Kanata",
+        "PARKADDR_1": "130, promenade Walden, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922071637266228,
+          45.328369158657893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1732,
+        "FACILITYID": 36281,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "310 Upcountry Drive, Goulbourn",
+        "ADDRESS_FR": "310, promenade Upcountry, Goulbourn",
+        "SHORTNAME": "Upcountry Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Upcountry",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Upcountry Park",
+        "PARKNAME_F": "Parc Upcountry",
+        "PARKADDRES": "310 Upcountry Drive, Goulbourn",
+        "PARKADDR_1": "310, promenade Upcountry, Goulbourn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.910127712030871,
+          45.245913773631244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1960,
+        "FACILITYID": 36283,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2095 Provence Avenue, Cumberland",
+        "ADDRESS_FR": "2095, avenue Provence, Cumberland",
+        "SHORTNAME": "Provence Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Provence",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Provence Park",
+        "PARKNAME_F": "Parc Provence",
+        "PARKADDRES": "2095 Provence Avenue, Cumberland",
+        "PARKADDR_1": "2095, avenue Provence, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457123045498463,
+          45.460894227945538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1588,
+        "FACILITYID": 36284,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "200 Central Park Drive, Ottawa",
+        "ADDRESS_FR": "200, promenade Central Park, Ottawa",
+        "SHORTNAME": "Celebration Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Celebration",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Celebration Park",
+        "PARKNAME_F": "Parc Celebration",
+        "PARKADDRES": "200 Central Park Drive, Ottawa",
+        "PARKADDR_1": "200, promenade Central Park, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734751614364725,
+          45.367044847237779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2380,
+        "FACILITYID": 36286,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1825 Trim Road, Cumberland",
+        "ADDRESS_FR": "1825, chemin Trim, Cumberland",
+        "SHORTNAME": "Cardinal Creek Community Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Communautaire Cardinal Creek",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cardinal Creek Community Park",
+        "PARKNAME_F": "Parc communautaire de Cardinal Creek",
+        "PARKADDRES": "1825 Trim Road, Cumberland",
+        "PARKADDR_1": "1825, chemin Trim, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.459545047745493,
+          45.478243402375298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 611,
+        "FACILITYID": 36288,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "395 Levis Avenue, Vanier",
+        "ADDRESS_FR": "395, avenue Levis, Vanier",
+        "SHORTNAME": "Kiwanis Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Kiwanis",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Kiwanis Park",
+        "PARKNAME_F": "Parc Kiwanis",
+        "PARKADDRES": "395 Levis Avenue, Vanier",
+        "PARKADDR_1": "395, avenue Levis, Vanier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.653049797746249,
+          45.436381085489508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 186,
+        "FACILITYID": 36291,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3127 Carling Avenue, Nepean",
+        "ADDRESS_FR": "3127, avenue Carling, Nepean",
+        "SHORTNAME": "Andrew Haydon Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Andrew-Haydon",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Andrew Haydon Park",
+        "PARKNAME_F": "Parc Andrew-Haydon",
+        "PARKADDRES": "3127 Carling Avenue, Nepean",
+        "PARKADDR_1": "3127, avenue Carling, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.813561711511966,
+          45.352392413600739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 10,
+        "FACILITYID": 31014,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3939 Albion Road, Gloucester",
+        "ADDRESS_FR": "3939,chemin Albion, Gloucester",
+        "SHORTNAME": "Aladdin Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Aladdin",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Aladdin Park",
+        "PARKNAME_F": "Parc Aladdin",
+        "PARKADDRES": "3939 Albion Road, Gloucester",
+        "PARKADDR_1": "3939,chemin Albion, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.634262885326564,
+          45.340778388716998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 16,
+        "FACILITYID": 31018,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3795 Alderwood Street, Gloucester",
+        "ADDRESS_FR": "3795, rue Alderwood, Gloucester",
+        "SHORTNAME": "Emerald Woods Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Emerald Woods",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Emerald Woods Park",
+        "PARKNAME_F": "Parc Emerald Woods",
+        "PARKADDRES": "3795 Alderwood Street, Gloucester",
+        "PARKADDR_1": "3795, rue Alderwood, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640224969217883,
+          45.344981019621571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 46,
+        "FACILITYID": 31065,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1580 Telesat Court, Gloucester",
+        "ADDRESS_FR": "1580, cour Telesat, Gloucester",
+        "SHORTNAME": "Queensway Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Queensway",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Queensway Park",
+        "PARKNAME_F": "Parc Queensway",
+        "PARKADDRES": "1580 Telesat Court, Gloucester",
+        "PARKADDR_1": "1580, cour Telesat, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607172371716345,
+          45.427081083102564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 67,
+        "FACILITYID": 31089,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1705 Orléans Boulevard, Gloucester",
+        "ADDRESS_FR": "1705, boulevard d'Orléans, Gloucester",
+        "SHORTNAME": "Barrington Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Barrington",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Barrington Park",
+        "PARKNAME_F": "Parc Barrington",
+        "PARKADDRES": "1705 Orléans Boulevard, Gloucester",
+        "PARKADDR_1": "1705, boulevard d'Orléans, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52171072749384,
+          45.457013760308008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 76,
+        "FACILITYID": 31100,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "52 Bayview Road, Ottawa",
+        "ADDRESS_FR": "52, chemin Bayview, Ottawa",
+        "SHORTNAME": "Laroche Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Laroche",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Laroche Park",
+        "PARKNAME_F": "Parc Laroche",
+        "PARKADDRES": "52 Bayview Road, Ottawa",
+        "PARKADDR_1": "52, chemin Bayview, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729405882217236,
+          45.409222512727183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 93,
+        "FACILITYID": 31119,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2 Beechcliffe Street, Nepean",
+        "ADDRESS_FR": "2, rue Beechcliffe, Nepean",
+        "SHORTNAME": "Beechcliffe Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Beechcliffe",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Beechcliffe Park",
+        "PARKNAME_F": "Parc Beechcliffe",
+        "PARKADDRES": "2 Beechcliffe Street, Nepean",
+        "PARKADDR_1": "2, rue Beechcliffe, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755916666184064,
+          45.333483335771149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 108,
+        "FACILITYID": 31146,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6940 Bilberry Drive, Gloucester",
+        "ADDRESS_FR": "6940, promenade Bilberry, Gloucester",
+        "SHORTNAME": "Joe Jamieson Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Joe-Jamieson",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Joe Jamieson Park",
+        "PARKNAME_F": "Parc Joe-Jamieson",
+        "PARKADDRES": "6940 Bilberry Drive, Gloucester",
+        "PARKADDR_1": "6940, promenade Bilberry, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.524079873514111,
+          45.481119162021002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 130,
+        "FACILITYID": 36273,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "215 Owl Drive, Ottawa",
+        "ADDRESS_FR": "215, promenade Owl, Ottawa",
+        "SHORTNAME": "Owl Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Owl",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Owl Park",
+        "PARKNAME_F": "Parc Owl",
+        "PARKADDRES": "215 Owl Drive, Ottawa",
+        "PARKADDR_1": "215, promenade Owl, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.664809959550155,
+          45.354374759715135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 344,
+        "FACILITYID": 31432,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1861 Markwell Crescent, Gloucester",
+        "ADDRESS_FR": "1861, croissant Markwell, Gloucester",
+        "SHORTNAME": "Champagne Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Champagne",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Champagne Park",
+        "PARKNAME_F": "Parc Champagne",
+        "PARKADDRES": "1861 Markwell Crescent, Gloucester",
+        "PARKADDR_1": "1861, croissant Markwell, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5156907883228,
+          45.454871493338004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 452,
+        "FACILITYID": 31579,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "895 Greenbank Road, Nepean",
+        "ADDRESS_FR": "895, chemin Greenbank, Nepean",
+        "SHORTNAME": "Greenbank Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Greenbank",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Greenbank Park",
+        "PARKNAME_F": "Parc Greenbank",
+        "PARKADDRES": "895 Greenbank Road, Nepean",
+        "PARKADDR_1": "895, chemin Greenbank, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755147114156756,
+          45.285976391454383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 460,
+        "FACILITYID": 31591,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1766 Grey Nuns Drive, Gloucester",
+        "ADDRESS_FR": "1766, promenade Grey Nuns, Gloucester",
+        "SHORTNAME": "Glen Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Glen",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Glen Park",
+        "PARKNAME_F": "Parc Glen",
+        "PARKADDRES": "1756 Grey Nuns Drive, Gloucester",
+        "PARKADDR_1": "1756, promenade Grey Nuns, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536550000082954,
+          45.469100002150483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 518,
+        "FACILITYID": 35593,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "76 Inverness Avenue, Nepean",
+        "ADDRESS_FR": "76, avenue Inverness, Nepean",
+        "SHORTNAME": "Inverness Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Inverness",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Inverness Park",
+        "PARKNAME_F": "Parc Inverness",
+        "PARKADDRES": "76 Inverness Avenue, Nepean",
+        "PARKADDR_1": "76, avenue Inverness, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72256557867172,
+          45.358643478473262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 641,
+        "FACILITYID": 31764,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "61 Main Street, Ottawa",
+        "ADDRESS_FR": "61, rue Main, Ottawa",
+        "SHORTNAME": "Montgomery Memorial Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Commémoratif Montgomery",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Montgomery Memorial Park / Old Town Hall Community Centre",
+        "PARKNAME_F": "Parc commémoratif Montgomery / Centre communautaire de l'ancien Hôtel de Ville",
+        "PARKADDRES": "61 Main Street, Ottawa",
+        "PARKADDR_1": "61, rue Main, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680060918282592,
+          45.413001147841875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 695,
+        "FACILITYID": 31804,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1420 Meadowbrook Road, Gloucester",
+        "ADDRESS_FR": "1420, chemin Meadowbrook, Gloucester",
+        "SHORTNAME": "Cyrville Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Cyrville",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cyrville Park",
+        "PARKNAME_F": "Parc Cyrville",
+        "PARKADDRES": "1420 Meadowbrook Road, Gloucester",
+        "PARKADDR_1": "1420, chemin Meadowbrook, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.607941172880871,
+          45.419310387527403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 696,
+        "FACILITYID": 31809,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1485 Meadowbrook Road, Gloucester",
+        "ADDRESS_FR": "1485, chemin Meadowbrook, Gloucester",
+        "SHORTNAME": "Meadowbrook Park (Gloucester)",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Meadowbrook (Gloucester)",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Meadowbrook Park (Gloucester)",
+        "PARKNAME_F": "Parc Meadowbrook (Gloucester)",
+        "PARKADDRES": "1485 Meadowbrook Road, Gloucester",
+        "PARKADDR_1": "1485, chemin Meadowbrook, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.611669427443331,
+          45.421963662132548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 701,
+        "FACILITYID": 31817,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6210 Meadowglen Drive, Gloucester",
+        "ADDRESS_FR": "6210, promenade Meadowglen, Gloucester",
+        "SHORTNAME": "Roy Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Roy",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Roy Park",
+        "PARKNAME_F": "Parc Roy",
+        "PARKADDRES": "6210 Meadowglen Drive, Gloucester",
+        "PARKADDR_1": "6210, promenade Meadowglen, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.530016100990281,
+          45.449455515589953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 779,
+        "FACILITYID": 31883,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "6218 Voyageur Drive, Gloucester",
+        "ADDRESS_FR": "6218, promenade Voyageur, Gloucester",
+        "SHORTNAME": "Hiawatha Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Hiawatha",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Hiawatha Park",
+        "PARKNAME_F": "Parc Hiawatha",
+        "PARKADDRES": "6218 Voyageur Drive, Gloucester",
+        "PARKADDR_1": "6218, promenade Voyageur, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.548771849610105,
+          45.478458520029385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 876,
+        "FACILITYID": 31986,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "2132 Radford Court, Gloucester",
+        "ADDRESS_FR": "2132, cour Radford, Gloucester",
+        "SHORTNAME": "Beacon Hill North Recreation Centre",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Centre Récréatif de Beacon Hill Nord",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Beacon Hill North Recreation Centre",
+        "PARKNAME_F": "Centre récréatif de Beacon Hill Nord",
+        "PARKADDRES": "2132 Radford Court, Gloucester",
+        "PARKADDR_1": "2132, cour Radford, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.599352063102586,
+          45.458948276327561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1031,
+        "FACILITYID": 34771,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1735 St. Bernard Street, Gloucester",
+        "ADDRESS_FR": "1735, rue St. Bernard, Gloucester",
+        "SHORTNAME": "Russell Boyd Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Russell-Boyd",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Russell Boyd Park",
+        "PARKNAME_F": "Parc Russell-Boyd",
+        "PARKADDRES": "1735 St. Bernard Street, Gloucester",
+        "PARKADDR_1": "1735, rue St. Bernard, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.625290819524281,
+          45.352013431936037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1157,
+        "FACILITYID": 32259,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "100 Charlie Rogers Place, Kanata",
+        "ADDRESS_FR": "100, place Charlie Rogers, Kanata",
+        "SHORTNAME": "Walter Baker Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Walter-Baker",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Walter Baker Park",
+        "PARKNAME_F": "Parc Walter-Baker",
+        "PARKADDRES": "100 Charlie Rogers Place, Kanata",
+        "PARKADDR_1": "100, place Charlie Rogers, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.902982360789153,
+          45.295216315634157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1333,
+        "FACILITYID": 35591,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "100 Millennium Boulevard, Cumberland",
+        "ADDRESS_FR": "100, boulevard Millennium, Cumberland",
+        "SHORTNAME": "Cumberland Millennium Sports Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc sportif millennium de Cumberland",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016/06/06",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Cumberland Millennium Sports Park",
+        "PARKNAME_F": "Parc sportif millennium de Cumberland",
+        "PARKADDRES": "100 Millennium Boulevard, Cumberland",
+        "PARKADDR_1": "100, boulevard Millennium, Cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.446445675569805,
+          45.466070588356168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1663,
+        "FACILITYID": 36276,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3740 Mountain Meadows Crescent, Gloucester",
+        "ADDRESS_FR": "3740, croissant Mountain Meadows, Gloucester",
+        "SHORTNAME": "Mountain Meadows Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Mountain Meadows",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Mountain Meadows Park",
+        "PARKNAME_F": "Parc Mountain Meadows",
+        "PARKADDRES": "3740 Mountain Meadows Crescent, Gloucester",
+        "PARKADDR_1": "3740, croissant Mountain Meadows, Gloucester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.685171871949507,
+          45.284934215695024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1741,
+        "FACILITYID": 34777,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "1018 Stittsville Main Street, Goulbourn",
+        "ADDRESS_FR": "1018, rue Stittsville Main, Goulbourn",
+        "SHORTNAME": "Pioneer Plains Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Pioneer Plains",
+        "MODIFIED_D": "2017/11/10",
+        "CREATED_DA": "2014/06/24",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Pioneer Plains Park",
+        "PARKNAME_F": "Parc Pioneer Plains",
+        "PARKADDRES": "1018 Stittsville Main Street, Goulbourn",
+        "PARKADDR_1": "1018, rue Stittsville Main, Goulbourn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.932620147163263,
+          45.276791087665835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2389,
+        "FACILITYID": 36290,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "3525 Cambrian Road, Nepean",
+        "ADDRESS_FR": "3525, chemin Cambrian, Nepean",
+        "SHORTNAME": "Half Moon Bay Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Half Moon Bay",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parcs/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Half Moon Bay Park",
+        "PARKNAME_F": "Parc Half Moon Bay",
+        "PARKADDRES": "3525 Cambrian Road, Nepean",
+        "PARKADDR_1": "3525, chemin Cambrian, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.738628551330606,
+          45.252733647067821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2469,
+        "FACILITYID": 34769,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "100 Akerson Road, Kanata",
+        "ADDRESS_FR": "100, chemin Akerson, Kanata",
+        "SHORTNAME": "Kristina Kiss Park",
+        "OPEN": "yes/oui",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Kristina-Kiss",
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/06/23",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Kristina Kiss Park",
+        "PARKNAME_F": "Parc Kristina-Kiss",
+        "PARKADDRES": "100 Akerson Road, Kanata",
+        "PARKADDR_1": "100, chemin Akerson, Kanata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.868460245226004,
+          45.280301062813173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2508,
+        "FACILITYID": 35501,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "110 Mancini Way, Nepean",
+        "ADDRESS_FR": "110, voie Mancini, Nepean",
+        "SHORTNAME": "Mancini Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "no/non",
+        "NOTES": "Parc Mancini",
+        "MODIFIED_D": "2017/09/20",
+        "CREATED_DA": "2016/02/29",
+        "LINK": "http://ottawa.ca/en/residents/recreation-and-parks/swimming#h2",
+        "LINK_FR": "http://ottawa.ca/fr/residents/loisirs-et-parks/natation-recreative#h2",
+        "LINK_LABEL": "Splash Pads",
+        "LINK_LAB_1": "Aires de jets d'eau",
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Mancini Park",
+        "PARKNAME_F": "Parc Mancini",
+        "PARKADDRES": "110 Mancini Way, Nepean",
+        "PARKADDR_1": "110, voie Mancini, Nepean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.733507425050334,
+          45.270458997435526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2585,
+        "FACILITYID": 35911,
+        "NAME": "Splash Pad",
+        "NAME_FR": "Aires de jets d'eau",
+        "ADDRESS": "315 Haliburton Heights",
+        "ADDRESS_FR": "315, plateau Haliburton",
+        "SHORTNAME": "Haliburton Park",
+        "OPEN": "no/non",
+        "CLASS": null,
+        "ACCESSIBLE": "yes/oui",
+        "NOTES": "Parc Haliburton",
+        "MODIFIED_D": "2017/07/10",
+        "CREATED_DA": "2017/07/10",
+        "LINK": null,
+        "LINK_FR": null,
+        "LINK_LABEL": null,
+        "LINK_LAB_1": null,
+        "LINK_DESCR": null,
+        "LINK_DES_1": null,
+        "PARKNAME": "Haliburton Park",
+        "PARKNAME_F": "Parc Haliburton",
+        "PARKADDRES": "315 Haliburton Heights",
+        "PARKADDR_1": "315, plateau Haliburton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.884197230512868,
+          45.268226055514845
+        ]
+      }
+    }
+  ]
+}
