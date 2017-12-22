@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="https://github.com/Rub21/geojson2osm">
+  <node lat="45.334882" lon="-75.788671"  id="-1"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Abingdon Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="North hill - very small local hill, no obstructions, fenced off open creek, no parking walk to park. Ice rink on site. West hill - small/medium hill, gradual slope."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34745"/>
+  </node>
+  <node lat="45.326584" lon="-75.812092"  id="-2"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="Larkspur Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small, local man-made hill, gradual slope, unlit, no parking. Second hill in the south/east corner - very small, rail fence stops entry onto the street."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34784"/>
+  </node>
+  <node lat="45.334778" lon="-75.772411"  id="-3"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:street" v="Craig Henry Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large/medium neighbourhood man-made hill/berm, parking provided, unlit, gradual slope, long run with no obstructions to the west"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34775"/>
+  </node>
+  <node lat="45.274215" lon="-75.690869"  id="-4"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="4386"/>
+    <tag k="addr:street" v="Spratt Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium local man-made hill, no official parking, mainly a drop off or walk to hill. Wide open runs on the north side of hill, gentle slope. Small trees on south and west sides of hill, protected by a rail fence."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34808"/>
+  </node>
+  <node lat="45.465939" lon="-75.482693"  id="-5"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2001"/>
+    <tag k="addr:street" v="Gardenway Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Dry pond storm water drainage bowl, gradual slope, wide open area, no parking, unlit."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34772"/>
+  </node>
+  <node lat="45.479752" lon="-75.48129"  id="-6"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="841"/>
+    <tag k="addr:street" v="Clearcrest Crescent"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill, unlit, parking at the school, gradual slope, no obstacles, located beside a school."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34816"/>
+  </node>
+  <node lat="45.476212" lon="-75.488465"  id="-7"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="600"/>
+    <tag k="addr:street" v="Apollo Way"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very large dry man-made storm water pond facility. Serves local community, unlit, no parking provided. Gradual slope, wide open landing areas, no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34746"/>
+  </node>
+  <node lat="45.471714" lon="-75.473612"  id="-8"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2157"/>
+    <tag k="addr:street" v="Northlands Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made hill, parking at school, no obstructions, unlit."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34796"/>
+  </node>
+  <node lat="45.459575" lon="-75.507284"  id="-9"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1797"/>
+    <tag k="addr:street" v="Des Épinettes Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, gradual slope, clear runs with no obstructions and wide open run offs, parking provided."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34779"/>
+  </node>
+  <node lat="45.292554" lon="-75.861962"  id="-10"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:street" v="Bridlewood Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large neighbourhood man-made hill, unlit, parking provided, steep walking grade, long run offs."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34821"/>
+  </node>
+  <node lat="45.440928" lon="-75.599287"  id="-11"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1879"/>
+    <tag k="addr:street" v="Appleford Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, very gradual slope, unlit, no parking is a drop-off or walk to park. Clear run to the south and west with no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34747"/>
+  </node>
+  <node lat="45.286426" lon="-75.717073"  id="-12"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Stoneway Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill, parking provided at the Centre. West hill - small hill, with gradual slope, two tree obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34803"/>
+  </node>
+  <node lat="45.349401" lon="-75.808761"  id="-13"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="175"/>
+    <tag k="addr:street" v="Woodridge Crescent"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill used by residents and the adjacent school, parking provided. Fairly steep short slope with long clear landing run with no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34817"/>
+  </node>
+  <node lat="45.291433" lon="-75.883439"  id="-14"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Rickey Place"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small man-made hill, gradual slope to the south, no parking."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34802"/>
+  </node>
+  <node lat="45.477329" lon="-75.504503"  id="-15"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:street" v="Kennedy Lane"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small/medium neighbourhood hill, gradual slope, no obstructions long clear runs, indirect lighting from the rink."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34799"/>
+  </node>
+  <node lat="45.287254" lon="-75.747679"  id="-16"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Foxfield Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood man-made hill, parking provided, long run offs, lighting provided by street lights."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34777"/>
+  </node>
+  <node lat="45.451275" lon="-75.599962"  id="-17"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="688"/>
+    <tag k="addr:street" v="La Vérendrye Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very large multi-level natural hill, well bermed, gradual slopes and turns."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34785"/>
+  </node>
+  <node lat="45.351635" lon="-75.626285"  id="-18"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1735"/>
+    <tag k="addr:street" v="Street Bernard Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill, parking provided, unlit, gradual slope, long run with wide open area on the north side of the hill."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34809"/>
+  </node>
+  <node lat="45.19384" lon="-75.823849"  id="-19"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Chanonhouse Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood natural hill, parking provided, unlit, medium slopes, wide open long runs."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34756"/>
+  </node>
+  <node lat="45.388359" lon="-75.654935"  id="-20"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1615"/>
+    <tag k="addr:street" v="Kilborn Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill, parking provided, unlit, very gradual slope, open area, clear long run off with no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34781"/>
+  </node>
+  <node lat="45.33409" lon="-75.801211"  id="-21"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2960"/>
+    <tag k="addr:street" v="Baseline Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made berm, no parking, gradual slope with a long run distance onto the playing field."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34749"/>
+  </node>
+  <node lat="45.356624" lon="-75.798563"  id="-22"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="837"/>
+    <tag k="addr:street" v="Grenon Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood natural hill. Street parking, gradual long run offs. The central slope is appropriate for sliding."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34776"/>
+  </node>
+  <node lat="45.402232" lon="-75.625712"  id="-23"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1816"/>
+    <tag k="addr:street" v="Street Laurent Boulevard"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local hill, parking provided at Dempsey Community Centre, partially lit from the parking lot, gradual slopes, long run on west section of the hill, short run on the east section of the hill."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34810"/>
+  </node>
+  <node lat="45.25344" lon="-75.736628"  id="-24"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="3525"/>
+    <tag k="addr:street" v="Cambrian Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very large man-made hill, gradual slope to the north, wide open straight runoff to the north. Unlit, no parking."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34827"/>
+  </node>
+  <node lat="45.317878" lon="-75.597809"  id="-25"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="211"/>
+    <tag k="addr:street" v="Hillmarsh Way"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Two medium size hills with a gully in the middle. Local neighbourhood man-made hill, gradual slop to the east only, long run off area, indirect street lighting, no parking."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34824"/>
+  </node>
+  <node lat="45.316167" lon="-75.603888"  id="-26"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2920"/>
+    <tag k="addr:street" v="Findley Creek Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, gradual slopes with long open run off areas, indirect street lighting."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34826"/>
+  </node>
+  <node lat="45.449946" lon="-75.530871"  id="-27"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="6210"/>
+    <tag k="addr:street" v="Meadowglen Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, wide open runs, parking provided, unlit, very gradual slope."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34792"/>
+  </node>
+  <node lat="45.451283" lon="-75.577833"  id="-28"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1046"/>
+    <tag k="addr:street" v="St Joseph Boulevard"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very large natural city-wide hill, multi-level slope, straight run, wide open run offs, parking provided, lighting, no obstructions, well bermed away from the Creek. Placement of hay sacks on the berming at the base of the hill."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34823"/>
+  </node>
+  <node lat="45.130217" lon="-75.708692"  id="-29"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2300"/>
+    <tag k="addr:street" v="Community Way"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood man-made hill, parking provided, unlit, gradual slopes, long run area."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34760"/>
+  </node>
+  <node lat="45.444188" lon="-75.604463"  id="-30"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1841"/>
+    <tag k="addr:street" v="Elmridge Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, gradual slope, wide open run offs, unlit, no parking."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34771"/>
+  </node>
+  <node lat="45.4248" lon="-75.61393"  id="-31"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1200"/>
+    <tag k="addr:street" v="Cedarcroft Crescent"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood man-made hill, gradual slope, clear open run offs, parking provided, lighting from outdoor rink."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34754"/>
+  </node>
+  <node lat="45.450708" lon="-75.592209"  id="-32"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="956"/>
+    <tag k="addr:street" v="Loyola Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large natural hill, multi-levels and berms, street parking, unlit. Steep and gradual slopes with open spaces and clear long run off."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34787"/>
+  </node>
+  <node lat="45.433575" lon="-75.677859"  id="-33"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:street" v="Cobourg Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood man-made hill, street parking, unlit. Gradual slop with open spaces and clear long run off on the south side of the hill."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34759"/>
+  </node>
+  <node lat="45.487661" lon="-75.521258"  id="-34"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:street" v="Larch Crescent"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made hill/berm, parking at the Centre, indirect lighting from the rink, gradual slope, long run with wide open area east of the Centre."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34783"/>
+  </node>
+  <node lat="45.470459" lon="-75.507804"  id="-35"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1485"/>
+    <tag k="addr:street" v="Duford Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made berm/hill located around the baseball diamond, gradual slope, wide open run offs."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34768"/>
+  </node>
+  <node lat="45.443868" lon="-75.53805"  id="-36"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1899"/>
+    <tag k="addr:street" v="Du Clairvaux Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made hill, parking available, unlit, very gradual slope, wide open run off area."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34791"/>
+  </node>
+  <node lat="45.51515" lon="-75.403107"  id="-37"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1115"/>
+    <tag k="addr:street" v="Dunning Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small hill on the east side of the park using the snow removed from the rink, gradual slope no obstructions. To the north a small hill, gradual slope To the north/west corner infront of the arena there is a small hill with no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34770"/>
+  </node>
+  <node lat="45.296565" lon="-75.902139"  id="-38"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Charlie Rogers Place"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large city-wide man-made hill in highly visual location. Has lights, directional containment fencing, moderate slope to the hill, very long runs, parking available at Kanata Recreation Complex."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34815"/>
+  </node>
+  <node lat="45.383439" lon="-75.75434"  id="-39"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="411"/>
+    <tag k="addr:street" v="Dovercourt Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill. Parking at Dovercourt CC. Medium length run, indirect lighting provided by the rink lights."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34766"/>
+  </node>
+  <node lat="45.237302" lon="-75.478838"  id="-40"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2567"/>
+    <tag k="addr:street" v="Dow Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood natural hill, parking provided, unlit, medium slopes, wide open long runs."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34767"/>
+  </node>
+  <node lat="45.346066" lon="-75.827868"  id="-41"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Corkstown Road"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local natural hill at park entrance that is used by residents, parking provided, unlit. Gradual slope with long run area."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34761"/>
+  </node>
+  <node lat="45.418156" lon="-75.624466"  id="-42"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1163"/>
+    <tag k="addr:street" v="Kenaston Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood natural hill, gradual slope, parking provided, unlit."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34780"/>
+  </node>
+  <node lat="45.373728" lon="-75.744106"  id="-43"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="937"/>
+    <tag k="addr:street" v="Clyde Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very large hill with long gradual runs, parking provided a J. Alph Dulude Arena."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34758"/>
+  </node>
+  <node lat="45.368614" lon="-75.692241"  id="-44"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2960"/>
+    <tag k="addr:street" v="Riverside Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large city-wide man-made hill in a visible location. Gradual to semi-steep slop, wide vision lines, long run offs, unlit, parking is provided at Terry Fox Athletic Facility."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34805"/>
+  </node>
+  <node lat="45.222299" lon="-75.688383"  id="-45"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="5572"/>
+    <tag k="addr:street" v="Doctor Leach Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small/medium neighbourhood man-made hill, no obstructions with long open runs, gradual slope, unlit, no parking"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34765"/>
+  </node>
+  <node lat="45.483549" lon="-75.496641"  id="-46"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1346"/>
+    <tag k="addr:street" v="De Papillon Place"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Large natural neighbourhood hill, gradual and steep slopes, no obstructions, long runs, no parking walk to park."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34822"/>
+  </node>
+  <node lat="45.396984" lon="-75.691058"  id="-47"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:street" v="Craig Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local hill. No parking provided. Gradual run offs into dry pond area."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34762"/>
+  </node>
+  <node lat="45.342597" lon="-75.768728"  id="-48"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Centrepointe Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Central hill - gradual slope, wooden snow fence to stop sliding on the south and east side of the hill. South hill - very small, gradual slope, bench and tree located on the west run. East/south hill - very small hill, gradual slope."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34755"/>
+  </node>
+  <node lat="45.286355" lon="-75.739653"  id="-49"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:street" v="Mountshannon Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood natural hill. Long runs in open area. Parking lot, however not maintained in winter season. Gradual slope, no obstructions in 99% of area."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34794"/>
+  </node>
+  <node lat="45.421364" lon="-75.668417"  id="-50"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Robinson Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Medium neighbourhood natural hill , gradual slope, clear open run offs, page wire fence separation infront of the Rideau River, parking provided."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34788"/>
+  </node>
+  <node lat="45.474106" lon="-75.452185"  id="-51"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2130"/>
+    <tag k="addr:street" v="Valin Street"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small local man-made hill, wide open runs, no parking, unlit, very gradual slope."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34825"/>
+  </node>
+  <node lat="45.291661" lon="-75.735957"  id="-52"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:street" v="Mountshannon Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small bern around the sportsfield, unlit, beside the school, open gradual runs on the west/south corner of field."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34793"/>
+  </node>
+  <node lat="45.481092" lon="-75.489201"  id="-53"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="681"/>
+    <tag k="addr:street" v="Deancourt Crescent"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made hill, gradual slope, parking provided at Fallingbrook CC, clear runs with no obstructions. Second hill is a dry storm water pond, has a gradual grade with clear runs and no obstructions."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34744"/>
+  </node>
+  <node lat="45.432818" lon="-75.554737"  id="-54"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="2359"/>
+    <tag k="addr:street" v="Orient Park Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small toboggan hill (constructed berm)."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34819"/>
+  </node>
+  <node lat="45.286479" lon="-75.716604"  id="-55"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Stoneway Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood man-made hill, parking provided at the Centre. East hill - small hill, gradual slope, no obstacles."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34803"/>
+  </node>
+  <node lat="45.457333" lon="-75.510382"  id="-56"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="6591"/>
+    <tag k="addr:street" v="Delorme Avenue"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Very small local man-made hill, gradual slope, unlit, limited parking."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34764"/>
+  </node>
+  <node lat="45.468494" lon="-75.498677"  id="-57"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traîneau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:street" v="Prestwick Drive"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="description" v="Small neighbourhood hill man-made, no obstructions, gradual slope, located beside the school. Indirect outdoor rink lighting provided."/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34800"/>
+  </node>
+  <node lat="45.34384" lon="-76.025279"  id="-58"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traineau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="701"/>
+    <tag k="addr:street" v="Meadowridge Circle"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34981"/>
+  </node>
+  <node lat="45.399141" lon="-75.681595"  id="-59"  changeset="false" >
+    <tag k="name" v="Sledding Hill"/>
+    <tag k="name:fr" v="Pente de traineau"/>
+    <tag k="area" v="yes"/>
+    <tag k="piste:type" v="sled"/>
+    <tag k="route" v="piste"/>
+    <tag k="addr:housenumber" v="450"/>
+    <tag k="addr:street" v="Queen Elizabeth Driveway"/>
+    <tag k="seasonal" v="winter"/>
+    <tag k="operator" v="City of Ottawa"/>
+    <tag k="source" v="City of Ottawa"/>
+    <tag k="source:date" v="2017-12-08"/>
+    <tag k="ref" v="34871"/>
+  </node>
+</osm>
