@@ -28,7 +28,7 @@ pools.features.map(result => {
     const wheelchair = result.properties.ACCESSIBLE.match(/no/ig) ? 'no' : 'yes'
     if(supervised=='yes'){
       description = description+ ". Supervised time: "+result.properties.SUPERVISED
-      description = description.replace(/\r\n/g, ". ")
+      description = description.replace(/\r\n/g, ". ").replace(/\n/g, ". ").replace(/  /g, " ").trim().substring(0,255).trim()
     }
 
 
