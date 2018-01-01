@@ -19,7 +19,7 @@ pools.features.map(result => {
     operator = operator.match(/City/g) ? 'City of Ottawa' : operator
     const facility = result.properties.FACILITY.match(/none/ig) ? 'no' : result.properties.FACILITY
     const boards = result.properties.BOARDS_TYP.match(/none/ig) ? 'no' : result.properties.BOARDS_TYP.toLowerCase()
-    const change_area = result.properties.PUBLIC_CHA.match(/none/ig) ? 'no' : 'yes'
+    const change_area = result.properties.PUBLIC_CHA.match(/no/ig) ? 'no' : 'yes'
     const toilets = result.properties.TOILET.match(/no/ig) ? 'no' : 'yes'
     const lit = result.properties.LIGHTS_TYP.match(/none/ig) ? 'no' : 'yes'
     const lights = result.properties.LIGHTS_TYP.match(/none/ig) ? 'no' : result.properties.LIGHTS_TYP.toLowerCase()
@@ -29,10 +29,7 @@ pools.features.map(result => {
 
 
     const properties = {
-        name,
         'leisure': 'ice_rink',
-        'name': name,
-        'name:fr': name_fr,
         'description': description,
         'seasonal': 'winter',
         'access': 'permissive',
@@ -49,6 +46,11 @@ pools.features.map(result => {
         'wheelchair': wheelchair,
         'ref:park': park
     };
+    if(name!="Outdoor Rink"){
+      properties['name'] = name;
+      properties['name:fr'] = name_fr;
+    }
+
     console.log("New rink: ", result.properties.PARK_ID);
     const point = turf.point(result.geometry.coordinates, properties);
     collection1.features.push(point);
