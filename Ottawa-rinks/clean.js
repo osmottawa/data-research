@@ -14,7 +14,7 @@ pools.features.map(result => {
     const name = result.properties.NAME
     const name_fr = result.properties.NAME_FR
     const type = result.properties.RINK_TYPE.toLowerCase().replace(/ /g,"_")
-    const description = "Outdoor ice rink ("+result.properties.RINK_TYPE+") at "+ result.properties.PARKNAME
+    let description = "Outdoor ice rink ("+result.properties.RINK_TYPE+") at "+ result.properties.PARKNAME
     let operator = result.properties.ICE_MAINTE ? result.properties.ICE_MAINTE : "City of Ottawa"
     operator = operator.match(/City/g) ? 'City of Ottawa' : operator
     const facility = result.properties.FACILITY.match(/none/ig) ? 'no' : result.properties.FACILITY
@@ -26,6 +26,10 @@ pools.features.map(result => {
     const supervised = result.properties.SUPERVISIO?(result.properties.SUPERVISIO.match(/no/ig) ? 'no' : 'yes'):'no'
     const park = result.properties.PARK_ID
     const wheelchair = result.properties.ACCESSIBLE.match(/no/ig) ? 'no' : 'yes'
+    if(supervised=='yes'){
+      description = description+ ". Supervised time: "+result.properties.SUPERVISED
+      description = description.replace(/\r\n/g, ". ")
+    }
 
 
     const properties = {
