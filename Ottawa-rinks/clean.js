@@ -50,7 +50,8 @@ pools.features.map(result => {
         'source': 'City of Ottawa',
         'source:date': '2017-12-31',
         'wheelchair': wheelchair,
-        'ref:park': park
+        'ref:park': park,
+        'lit': lit
     };
     if(name!="Outdoor Rink"){
       properties['name'] = name;
