@@ -30,6 +30,8 @@ pools.features.map(result => {
       description = description+ ". Supervised time: "+result.properties.SUPERVISED
       description = description.replace(/\r\n/g, ". ").replace(/\n/g, ". ").replace(/  /g, " ").trim().substring(0,255).trim()
     }
+    const rinkname = result.properties.PARKNAME?(result.properties.PARKNAME+" Ice Rink"):""
+
 
 
     const properties = {
@@ -53,6 +55,11 @@ pools.features.map(result => {
     if(name!="Outdoor Rink"){
       properties['name'] = name;
       properties['name:fr'] = name_fr;
+    }
+    else{
+      if(rinkname!=""){
+        properties['name'] = rinkname;
+      }
     }
 
     console.log("New rink: ", result.properties.PARK_ID);
