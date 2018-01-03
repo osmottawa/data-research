@@ -1,0 +1,4599 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 365,
+        "FACILITYID": 27024,
+        "COURT_ID": 23,
+        "PARKNAME": "HARKNESS",
+        "PARKNAME_F": "HARKNESS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "6020 Piperville Road, Gloucester",
+        "ADDRESS_FR": "6020, chemin Piperville, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.463458261574019,
+          45.36513938220871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1163,
+        "FACILITYID": 3762,
+        "COURT_ID": 48,
+        "PARKNAME": "MCKELLAR",
+        "PARKNAME_F": "MCKELLAR",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "539 Wavell Avenue, Ottawa",
+        "ADDRESS_FR": "539, avenue Wavell, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.765837043122445,
+          45.383292833094877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1068,
+        "FACILITYID": 27051,
+        "COURT_ID": 81,
+        "PARKNAME": "WOODBURN",
+        "PARKNAME_F": "WOODBURN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1819 Stonehenge Crescent, Gloucester",
+        "ADDRESS_FR": "1819, croissant Stonehenge, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.603690736210993,
+          45.419611826688005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 970,
+        "FACILITYID": 27052,
+        "COURT_ID": 82,
+        "PARKNAME": "YVES CHENIER",
+        "PARKNAME_F": "YVES CHÉNIER",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3585 Sarsfield Road, Cumberland",
+        "ADDRESS_FR": "3585, chemin Sarsfield, Cumberland",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.342842388909148,
+          45.440755045288306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 348,
+        "FACILITYID": 27053,
+        "COURT_ID": 80,
+        "PARKNAME": "WILFRED MURRAY PARK KENNEDY ARENA",
+        "PARKNAME_F": "PARC WILFRED-MURRAY, ARÉNA KENNEDY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1115 Dunning Road, Cumberland",
+        "ADDRESS_FR": "1115, chemin Dunning, Cumberland",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.403038384722777,
+          45.51432924198712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1573,
+        "FACILITYID": 27065,
+        "COURT_ID": 22,
+        "PARKNAME": "DR JOHN HOPPS",
+        "PARKNAME_F": "DR-JOHN-HOPPS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "300 Den Haag Drive, Ottawa",
+        "ADDRESS_FR": "300, promenade Den-Haag, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63223494711508,
+          45.440574136841974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 37,
+        "FACILITYID": 3720,
+        "COURT_ID": 12,
+        "PARKNAME": "CANTERBURY",
+        "PARKNAME_F": "CANTERBURY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2185 Arch Street, Ottawa",
+        "ADDRESS_FR": "2185, rue Arch, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.629503887013072,
+          45.389554018762212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1021,
+        "FACILITYID": 3786,
+        "COURT_ID": 68,
+        "PARKNAME": "SHEFFIELD GLEN",
+        "PARKNAME_F": "SHEFFIELD GLEN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2320 Southvale Crescent, Ottawa",
+        "ADDRESS_FR": "2320, croissant Southvale, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613997690442829,
+          45.398713933564764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1146,
+        "FACILITYID": 3736,
+        "COURT_ID": 26,
+        "PARKNAME": "FEATHERSTON",
+        "PARKNAME_F": "FEATHERSTON",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2330 Virginia Drive, Ottawa",
+        "ADDRESS_FR": "2330, promenade Virginia, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.647110281988077,
+          45.385011772976355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1109,
+        "FACILITYID": 4051,
+        "COURT_ID": 60,
+        "PARKNAME": "PINECREST",
+        "PARKNAME_F": "PINECREST",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2250 Torquay Avenue, Ottawa",
+        "ADDRESS_FR": "2250, avenue Torquay, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.775590529406287,
+          45.349975974660047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1022,
+        "FACILITYID": 3798,
+        "COURT_ID": 39,
+        "PARKNAME": "KILREEN",
+        "PARKNAME_F": "KILREEN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1250 Southwood Drive, Ottawa",
+        "ADDRESS_FR": "1250, promenade Southwood, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.783992525305692,
+          45.346885594663824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 271,
+        "FACILITYID": 27018,
+        "COURT_ID": 19,
+        "PARKNAME": "COMBERMERE",
+        "PARKNAME_F": "COMBERMERE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "11 Combermere Lane, Gloucester",
+        "ADDRESS_FR": "11, ruelle Combermere, Gloucester",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613761952351652,
+          45.459630082612293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 420,
+        "FACILITYID": 27030,
+        "COURT_ID": 29,
+        "PARKNAME": "GARDENWAY",
+        "PARKNAME_F": "GARDENWAY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2001 Gardenway Drive, Cumberland",
+        "ADDRESS_FR": "2001, promenade Gardenway, Cumberland",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48381334238799,
+          45.46622860059184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 273,
+        "FACILITYID": 27061,
+        "COURT_ID": 3,
+        "PARKNAME": "ALFRED TAYLOR (NORTH GOWER)",
+        "PARKNAME_F": "ALFRED-TAYLOR (NORTH GOWER)",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2300 Community Way, Rideau",
+        "ADDRESS_FR": "2300, voie Community, Rideau",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711368855845393,
+          45.130966558987282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 742,
+        "FACILITYID": 3769,
+        "COURT_ID": 53,
+        "PARKNAME": "NAVAHO",
+        "PARKNAME_F": "NAVAHO",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2031 Navaho Drive, Ottawa",
+        "ADDRESS_FR": "2031, promenade Navaho, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.757442048500707,
+          45.360984527716276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 456,
+        "FACILITYID": 27029,
+        "COURT_ID": 32,
+        "PARKNAME": "GREENLAWN PARK",
+        "PARKNAME_F": "PARC GREENLAWN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1145 Greenlawn Crescent, Ottawa",
+        "ADDRESS_FR": "1145, croissant Greenlawn, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.745719367966757,
+          45.367213592878372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 235,
+        "FACILITYID": 27031,
+        "COURT_ID": 15,
+        "PARKNAME": "CATTAIL CREEK",
+        "PARKNAME_F": "CATTAIL CREEK",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "38 Chimo Drive, Kanata",
+        "ADDRESS_FR": "38, promenade Chimo, Kanata",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.890108482455759,
+          45.311300114512093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 438,
+        "FACILITYID": 27032,
+        "COURT_ID": 30,
+        "PARKNAME": "GOLDRIDGE",
+        "PARKNAME_F": "GOLDRIDGE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "400 Goldridge Drive, Kanata",
+        "ADDRESS_FR": "400, promenade Goldridge, Kanata",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.920198762385198,
+          45.318209617963902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 80,
+        "FACILITYID": 27034,
+        "COURT_ID": 40,
+        "PARKNAME": "KLONDIKE / MORGANS GRANT",
+        "PARKNAME_F": "KLONDIKE / MORGANS GRANT",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1365 Halton Terrace, Kanata",
+        "ADDRESS_FR": "1365, terrasse Halton, Kanata",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.938002430092908,
+          45.349102240992472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 903,
+        "FACILITYID": 27037,
+        "COURT_ID": 46,
+        "PARKNAME": "MARCH CENTRAL",
+        "PARKNAME_F": "MARCH CENTRAL",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "630 Cameron Harvey Drive",
+        "ADDRESS_FR": "630, promenade Cameron Harvey",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.954973818179951,
+          45.376095392781082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 320,
+        "FACILITYID": 27027,
+        "COURT_ID": 12,
+        "PARKNAME": "LONG PARK /STEVE MACLEAN PARK",
+        "PARKNAME_F": "PARC LONG/PARC STEVE-MACLEAN",
+        "CLUB": "Long Park Tennis Club",
+        "CLUB_FR": "Club de tennis de Long Park",
+        "ADDRESS": "1190 Deer Park Road, Nepean",
+        "ADDRESS_FR": "1190, chemin Deer Park, Nepean",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "no/non",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718823050728375,
+          45.361838397270468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 234,
+        "FACILITYID": 27028,
+        "COURT_ID": 8,
+        "PARKNAME": "GENERAL BURNS PARK",
+        "PARKNAME_F": "PARC DU GENERAL BURNS",
+        "CLUB": "General Burns Tennis Club",
+        "CLUB_FR": "Club de tennis General-Burns",
+        "ADDRESS": "107 Chesterton Drive, Nepean",
+        "ADDRESS_FR": "107, promenade Chesterton, Nepean",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.71893771641993,
+          45.351741369896935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 107,
+        "FACILITYID": 27010,
+        "COURT_ID": 8,
+        "PARKNAME": "BILLBERRY",
+        "PARKNAME_F": "BILLBERRY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "6600 Bilberry Drive, Gloucester",
+        "ADDRESS_FR": "6600, promenade Bilberry, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.531302785308498,
+          45.479016909616917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1511,
+        "FACILITYID": 27012,
+        "COURT_ID": 70,
+        "PARKNAME": "SOUTH FALLINGBROOK C.C.",
+        "PARKNAME_F": "CENTRE COMMUNAUTAIRE DE FALLINGBROOK",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "998 Valin Street, Cumberland",
+        "ADDRESS_FR": "998, rue Valin, Cumberland",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/10",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.462871386749029,
+          45.471437142507881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1700,
+        "FACILITYID": 27067,
+        "COURT_ID": 6,
+        "PARKNAME": "BEAVERBROOK",
+        "PARKNAME_F": "BEAVERBROOK",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "5 Beaverbrook Road, Kanata",
+        "ADDRESS_FR": "5, chemin Beaverbrook, Kanata",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.902319803935612,
+          45.328329855402856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36411,
+        "COURT_ID": 0,
+        "PARKNAME": "RIDEAU TENNIS CLUB",
+        "PARKNAME_F": "CLUB DE TENNIS RIDEAU",
+        "CLUB": "Rideau Tennis Club",
+        "CLUB_FR": "Club de tennis Rideau",
+        "ADDRESS": "1 Donald Street, Vanier",
+        "ADDRESS_FR": "1, rue Donald, Vanier",
+        "NO_COURTS": 19,
+        "INDOOR_COU": 6,
+        "OUTDOOR_CO": 13,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "argile / acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668706753854551,
+          45.427345186035708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 101,
+        "FACILITYID": 27026,
+        "COURT_ID": 20,
+        "PARKNAME": "TREND-ARLINGTON PARK",
+        "PARKNAME_F": "PARC TREND-ARLINGTON",
+        "CLUB": "Trend Arlington Tennis Club",
+        "CLUB_FR": "Club de tennis de Trend-Arlington",
+        "ADDRESS": "50 Bellman Drive, Nepean",
+        "ADDRESS_FR": "50, promenade Bellman, Nepean",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.783378546037866,
+          45.327250172786108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 377,
+        "FACILITYID": 7428,
+        "COURT_ID": 7,
+        "PARKNAME": "ELMRIDGE PARK",
+        "PARKNAME_F": "PARC ELMRIDGE",
+        "CLUB": "Elmridge Tennis Club",
+        "CLUB_FR": "Club de tennis Elmridge",
+        "ADDRESS": "1841 Elmridge Drive, Gloucester",
+        "ADDRESS_FR": "1841, promenade Elmridge, Gloucester",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604171923213727,
+          45.443282424027196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 514,
+        "FACILITYID": 7427,
+        "COURT_ID": 2,
+        "PARKNAME": "BEARBROOK PARK AND POOL",
+        "PARKNAME_F": "PARC ET PISCINE BEARBROOK",
+        "CLUB": "Blackburn Tennis Club",
+        "CLUB_FR": "Club de tennis de Blackburn",
+        "ADDRESS": "99 Bearbrook Road, Gloucester",
+        "ADDRESS_FR": "99, chemin Bearbrook, Gloucester",
+        "NO_COURTS": 6,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 6,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56252225650401,
+          45.433235290974615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 675,
+        "FACILITYID": 27035,
+        "COURT_ID": 14,
+        "PARKNAME": "CARSON GROVE",
+        "PARKNAME_F": "CARSON GROVE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1423 Matheson Road, Gloucester",
+        "ADDRESS_FR": "1423, chemin Matheson, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.621580782019592,
+          45.437316496963405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1080,
+        "FACILITYID": 27020,
+        "COURT_ID": 13,
+        "PARKNAME": "LYNWOOD PARK",
+        "PARKNAME_F": "PARC LYNWOOD",
+        "CLUB": "Lynwood Tennis Club",
+        "CLUB_FR": "Club de tennis de Lynwood",
+        "ADDRESS": "7 Sycamore Drive, Nepean",
+        "ADDRESS_FR": "7, promenade Sycamore, Nepean",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.821368362606904,
+          45.319702069742362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 653,
+        "FACILITYID": 27041,
+        "COURT_ID": 56,
+        "PARKNAME": "OSGOODE COMMUNITY CENTRE",
+        "PARKNAME_F": "CENTRE COMMUNAUTAIRE OSGOODE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "5660 Osgoode Main Street, Osgoode",
+        "ADDRESS_FR": "5660, rue Osgoode Main, Osgoode",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.601988323759883,
+          45.147165634588532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 9,
+        "FACILITYID": 27042,
+        "COURT_ID": 49,
+        "PARKNAME": "METCALFE C.C.",
+        "PARKNAME_F": "CENTRE COMMUNAUTAIRE DE METCALFE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2785 8th Line Road, Osgoode",
+        "ADDRESS_FR": "2785, chemin 8th Line, Osgoode",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.468296422064483,
+          45.23038911866076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 48,
+        "FACILITYID": 3724,
+        "COURT_ID": 16,
+        "PARKNAME": "CECIL MORRISON",
+        "PARKNAME_F": "CECIL-MORRISON",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1332 Avenue N, Ottawa",
+        "ADDRESS_FR": "1332, avenue N, Ottawa",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645361204072174,
+          45.417415934666288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 140,
+        "FACILITYID": 27055,
+        "COURT_ID": 10,
+        "PARKNAME": "PINEGLEN  SITE",
+        "PARKNAME_F": "EMPLACEMENT PINEGLEN",
+        "CLUB": "Grenfell Tennis Club - Pineglen Site",
+        "CLUB_FR": "Club de tennis de Grenfell - Emplacement Pineglen",
+        "ADDRESS": "22 Brisbane Road, Nepean",
+        "ADDRESS_FR": "22, chemin Brisbane, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709290127017482,
+          45.325183923265506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 49,
+        "FACILITYID": 27056,
+        "COURT_ID": 10,
+        "PARKNAME": "GRENFELL GLEN SITE",
+        "PARKNAME_F": "EMPLACEMENT GRENFELL GLEN",
+        "CLUB": "Grenfell Tennis Club - Grenfell Glen Site",
+        "CLUB_FR": "Club de tennis Grenfell - Emplacement Grenfell Glen",
+        "ADDRESS": "53 Avonlea Road, Nepean",
+        "ADDRESS_FR": "53, chemin Avonlea, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.730581675702652,
+          45.314990586180834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 283,
+        "FACILITYID": 27023,
+        "COURT_ID": 5,
+        "PARKNAME": "CORKSTOWN PARK",
+        "PARKNAME_F": "PARC CORKSTOWN",
+        "CLUB": "Crystal Beach Tennis Club",
+        "CLUB_FR": "Club de tennis de Crystal Beach",
+        "ADDRESS": "61 Corkstown Road, Nepean",
+        "ADDRESS_FR": "61, chemin Corkstown, Nepean",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.827932505601908,
+          45.345631601012805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 476,
+        "FACILITYID": 27003,
+        "COURT_ID": 64,
+        "PARKNAME": "RACETTE",
+        "PARKNAME_F": "RACETTE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1410 Henri Lauzon Street, Gloucester",
+        "ADDRESS_FR": "1410, rue Henri-Lauzon, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.536513105623101,
+          45.46241415316382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 631,
+        "FACILITYID": 36397,
+        "COURT_ID": 31,
+        "PARKNAME": "GREENBORO C.C.",
+        "PARKNAME_F": "CENTRE COMMUNAUTAIRE DE GREENBORO",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "250 Lorry Greenberg Drive, Ottawa",
+        "ADDRESS_FR": "250, promenade Lorry-Greenberg, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.633871329056234,
+          45.362732116131262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36398,
+        "COURT_ID": 0,
+        "PARKNAME": "COLONEL BY TENNIS ACADEMY",
+        "PARKNAME_F": "ACADÉMIE DE TENNIS COLONEL-BY",
+        "CLUB": "Tennis Courts - Colonel By Secondary School",
+        "CLUB_FR": "Courts de tennis - Colonel By Secondary School",
+        "ADDRESS": "2381 Ogilvie Road, Gloucester",
+        "ADDRESS_FR": "2381, chemin Ogilvie, Gloucester",
+        "NO_COURTS": 7,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 7,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "School Board Sites",
+        "COURT_TY_1": "Emplacement des conseils scolaires",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.600025119621847,
+          45.454062367777958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1031,
+        "FACILITYID": 27047,
+        "COURT_ID": 66,
+        "PARKNAME": "RUSSELL BOYD",
+        "PARKNAME_F": "RUSSELL-BOYD",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1735 St. Bernard Street, Gloucester",
+        "ADDRESS_FR": "1735, rue St. Bernard, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.625761674614935,
+          45.35215693958785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1053,
+        "FACILITYID": 27009,
+        "COURT_ID": 59,
+        "PARKNAME": "PIERRE ROCQUE LOWER",
+        "PARKNAME_F": "PARC PIERRE-ROCQUE NORD",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1257 Joseph Drouin Avenue, Gloucester",
+        "ADDRESS_FR": "1257, avenue Joseph-Drouin, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.525255095246735,
+          45.476144431628668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1178,
+        "FACILITYID": 27017,
+        "COURT_ID": 7,
+        "PARKNAME": "BIRDLAND",
+        "PARKNAME_F": "BIRDLAND",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3 Whippoorwill Drive, Gloucester",
+        "ADDRESS_FR": "3, promenade Whippoorwill, Gloucester",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614977643864833,
+          45.452113771011852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 506,
+        "FACILITYID": 7599,
+        "COURT_ID": 43,
+        "PARKNAME": "LIONS PARK RICHMOND",
+        "PARKNAME_F": "PARC LIONS, RICHMOND",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3302 Huntley Road, Goulbourn",
+        "ADDRESS_FR": "3302, chemin Huntley, Goulbourn",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.842999095786581,
+          45.196783418047843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 990,
+        "FACILITYID": 27021,
+        "COURT_ID": 78,
+        "PARKNAME": "WINDSOR PARK GLOUCESTER",
+        "PARKNAME_F": "PARC WINDSOR, GLOUCESTER",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3560 Wyman Place, Gloucester",
+        "ADDRESS_FR": "3560, place Wyman, Gloucester",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659483174761391,
+          45.345040189643413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 393,
+        "FACILITYID": 27059,
+        "COURT_ID": 3,
+        "PARKNAME": "CRESTVIEW PARK",
+        "PARKNAME_F": "PARC CRESTVIEW",
+        "CLUB": "City View Tennis Club",
+        "CLUB_FR": "Club de tennis City View",
+        "ADDRESS": "58 Fieldrow Street, Nepean",
+        "ADDRESS_FR": "58, rue Fieldrow, Nepean",
+        "NO_COURTS": 5,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 5,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.738287154458916,
+          45.344604469462944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 130,
+        "FACILITYID": 3773,
+        "COURT_ID": 57,
+        "PARKNAME": "OWL",
+        "PARKNAME_F": "OWL",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "215 Owl Drive, Ottawa",
+        "ADDRESS_FR": "215, promenade Owl, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.663969016270215,
+          45.354714050072708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36399,
+        "COURT_ID": 0,
+        "PARKNAME": "CARLETON UNIVERSITY",
+        "PARKNAME_F": "UNIVERSITÉ CARLETON",
+        "CLUB": "Carleton Tennis Center",
+        "CLUB_FR": "Centre de tennis de Carleton",
+        "ADDRESS": "1125 Colonel By Drive, Ottawa",
+        "ADDRESS_FR": "1125, promenade Colonel By, Ottawa",
+        "NO_COURTS": 5,
+        "INDOOR_COU": 4,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695022262239007,
+          45.388182310893214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36400,
+        "COURT_ID": 0,
+        "PARKNAME": "WOODROFFE",
+        "PARKNAME_F": "WOODROFFE",
+        "CLUB": "Tennis Courts - Woodroffe High School",
+        "CLUB_FR": "Courts de tennis - Woodroffe High School",
+        "ADDRESS": "2410 Georgina Drive, Ottawa",
+        "ADDRESS_FR": "2410, promenade Georgina, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "School Board Sites",
+        "COURT_TY_1": "Emplacement des conseils scolaires",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.778259035584256,
+          45.362935027523648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36401,
+        "COURT_ID": 0,
+        "PARKNAME": "BRITANNIA YACHT CLUB",
+        "PARKNAME_F": "CLUB NAUTIQUE DE BRITANNIA",
+        "CLUB": "Britannia Yacht Club (Tennis)",
+        "CLUB_FR": "Club nautique de Britannia (Tennis)",
+        "ADDRESS": "2777 Cassels Street, Ottawa",
+        "ADDRESS_FR": "2777, rue Cassels, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.802686543027107,
+          45.371893427098037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1053,
+        "FACILITYID": 27008,
+        "COURT_ID": 16,
+        "PARKNAME": "PIERRE ROCQUE UPPER",
+        "PARKNAME_F": "PARC PIERRE-ROCQUE SUD",
+        "CLUB": "Orléans Tennis Club",
+        "CLUB_FR": "Club de tennis d'Orléans",
+        "ADDRESS": "1257 Joseph Drouin Avenue, Gloucester",
+        "ADDRESS_FR": "1257, avenue Joseph-Drouin, Gloucester",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.525954148240785,
+          45.47466832268865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 808,
+        "FACILITYID": 3776,
+        "COURT_ID": 63,
+        "PARKNAME": "PUSHMAN",
+        "PARKNAME_F": "PUSHMAN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1270 Pebble Road, Ottawa",
+        "ADDRESS_FR": "1270, chemin Pebble, Ottawa",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64704795869622,
+          45.36003381925476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 543,
+        "FACILITYID": 3751,
+        "COURT_ID": 36,
+        "PARKNAME": "KALADAR",
+        "PARKNAME_F": "KALADAR",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2554 Kaladar Avenue, Ottawa",
+        "ADDRESS_FR": "2554, avenue Kaladar, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672584094069634,
+          45.372402864852305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 459,
+        "FACILITYID": 3744,
+        "COURT_ID": 67,
+        "PARKNAME": "RUTH WILDGEN",
+        "PARKNAME_F": "RUTH-WILDGEN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1099 Grenon Avenue, Ottawa",
+        "ADDRESS_FR": "1099, avenue Grenon, Ottawa",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795855183493771,
+          45.350531326464093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 141,
+        "FACILITYID": 3756,
+        "COURT_ID": 42,
+        "PARKNAME": "LINCOLN HEIGHTS",
+        "PARKNAME_F": "LINCOLN HEIGHTS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "265 Britannia Road, Ottawa",
+        "ADDRESS_FR": "265, chemin Britannia, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.792713630310061,
+          45.367630037968674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 267,
+        "FACILITYID": 27000,
+        "COURT_ID": 38,
+        "PARKNAME": "NAVAN CENTENNIAL",
+        "PARKNAME_F": "NAVAN CENTENNIAL",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1279 Colonial Road, Cumberland",
+        "ADDRESS_FR": "1279, chemin Colonial, Cumberland",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.424699418673882,
+          45.419605106686177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36402,
+        "COURT_ID": 0,
+        "PARKNAME": "HILLCREST",
+        "PARKNAME_F": "HILLCREST",
+        "CLUB": "Tennis Courts - Hillcrest High School",
+        "CLUB_FR": "Courts de tennis - Hillcrest High School",
+        "ADDRESS": "1900 Dauphin Road, Ottawa",
+        "ADDRESS_FR": "1900, chemin Dauphin, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "School Board Sites",
+        "COURT_TY_1": "Emplacement des conseils scolaires",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641668179626777,
+          45.399503012731536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1801,
+        "FACILITYID": 36403,
+        "COURT_ID": 77,
+        "PARKNAME": "WALDEN",
+        "PARKNAME_F": "WALDEN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "130 Walden Drive, Kanata",
+        "ADDRESS_FR": "130, promenade Walden, Kanata",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922209085747753,
+          45.328193600808312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36405,
+        "COURT_ID": 0,
+        "PARKNAME": "OTTAWA LAWN AND TENNIS CLUB",
+        "PARKNAME_F": "CLUB DE TENNIS ET DE BOULINGRIN D'OTTAWA",
+        "CLUB": "Ottawa Tennis and Lawn Bowling Club",
+        "CLUB_FR": "Club de tennis et de boulingrin d'Ottawa",
+        "ADDRESS": "176 Cameron Avenue, Ottawa",
+        "ADDRESS_FR": "176, avenue Cameron, Ottawa",
+        "NO_COURTS": 18,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 18,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "argile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686093611013035,
+          45.388544906691997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1620,
+        "FACILITYID": 7107,
+        "COURT_ID": 21,
+        "PARKNAME": "VALLEYSTREAM TENNIS CLUB",
+        "PARKNAME_F": "VALLEYSTREAM TENNIS CLUB",
+        "CLUB": "Valleystream Tennis Club",
+        "CLUB_FR": "Club de tennis Valleystream",
+        "ADDRESS": "3412 Richmond Road, Nepean",
+        "ADDRESS_FR": "3412, chemin Richmond, Nepean",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.808518947349953,
+          45.338941569421301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 776,
+        "FACILITYID": 27014,
+        "COURT_ID": 9,
+        "PARKNAME": "BEATON PARK",
+        "PARKNAME_F": "PARC BEATON",
+        "CLUB": "Glen Cairn Tennis Club",
+        "CLUB_FR": "Club de tennis de Glen Cairn",
+        "ADDRESS": "70 Castlefrank Road, Kanata",
+        "ADDRESS_FR": "70, chemin Castlefrank, Kanata",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.884314095914917,
+          45.294998532256074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 613,
+        "FACILITYID": 3755,
+        "COURT_ID": 41,
+        "PARKNAME": "LEXINGTON",
+        "PARKNAME_F": "LEXINGTON",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1404 Lexington Street, Ottawa",
+        "ADDRESS_FR": "1404, rue Lexington, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.712813740162204,
+          45.369813393302621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 484,
+        "FACILITYID": 27043,
+        "COURT_ID": 37,
+        "PARKNAME": "KEMP",
+        "PARKNAME_F": "KEMP",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "11 Robert Kemp Street, Gloucester",
+        "ADDRESS_FR": "11, rue Robert-Kemp, Gloucester",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606670487362095,
+          45.336486719867459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 10,
+        "FACILITYID": 27045,
+        "COURT_ID": 1,
+        "PARKNAME": "ALADDIN",
+        "PARKNAME_F": "ALADDIN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3939 Albion Road, Gloucester",
+        "ADDRESS_FR": "3939,chemin Albion, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.635006643749065,
+          45.34078237915611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1111,
+        "FACILITYID": 27046,
+        "COURT_ID": 75,
+        "PARKNAME": "TRAPPERS",
+        "PARKNAME_F": "TRAPPERS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3580 Trapper's Road, Gloucester",
+        "ADDRESS_FR": "3580, chemin Trapper's, Gloucester",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644934379281693,
+          45.346979489184548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 23,
+        "FACILITYID": 27050,
+        "COURT_ID": 20,
+        "PARKNAME": "DALE",
+        "PARKNAME_F": "DALE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1590 Alta Vista Drive, Ottawa",
+        "ADDRESS_FR": "1590, promenade Alta Vista,  Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659471929841402,
+          45.408261857529013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 940,
+        "FACILITYID": 3767,
+        "COURT_ID": 50,
+        "PARKNAME": "MOONEY'S BAY",
+        "PARKNAME_F": "MOONEY'S BAY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2960 Riverside Drive, Ottawa",
+        "ADDRESS_FR": "2960, promenade Riverside, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690259704196279,
+          45.366470156831667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1190,
+        "FACILITYID": 7103,
+        "COURT_ID": 74,
+        "PARKNAME": "TANGLEWOOD",
+        "PARKNAME_F": "TANGLEWOOD",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "30 Woodfield Drive, Nepean",
+        "ADDRESS_FR": "30, promenade Woodfield, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729554565742447,
+          45.336834123567684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 638,
+        "FACILITYID": 3204,
+        "COURT_ID": 19,
+        "PARKNAME": "ST JAMES TENNIS COURTS",
+        "PARKNAME_F": "COURTS DE TENNIS ST-JAMES",
+        "CLUB": "St. James Tennis Club",
+        "CLUB_FR": "Club de tennis St-James",
+        "ADDRESS": "690 Lyon Street South, Ottawa",
+        "ADDRESS_FR": "690, rue Lyon Sud, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "no/non",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.691842704600049,
+          45.402017543436898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 31,
+        "FACILITYID": 3722,
+        "COURT_ID": 13,
+        "PARKNAME": "CARLETON HEIGHTS",
+        "PARKNAME_F": "CARLETON HEIGHTS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1665 Apeldoorn Avenue, Ottawa",
+        "ADDRESS_FR": "1665, avenue Apeldoorn, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "no/non",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.701766486103892,
+          45.359513832043433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1588,
+        "FACILITYID": 27001,
+        "COURT_ID": 58,
+        "PARKNAME": "CELEBRATION",
+        "PARKNAME_F": "CELEBRATION",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "200 Central Park Drive, Ottawa",
+        "ADDRESS_FR": "200, promenade Central Park, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734427358873162,
+          45.367676412531615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 942,
+        "FACILITYID": 3758,
+        "COURT_ID": 11,
+        "PARKNAME": "LINDENLEA PARK",
+        "PARKNAME_F": "PARC LINDENLEA",
+        "CLUB": "Lindenlea Tennis Club",
+        "CLUB_FR": "Club de tennis de Lindenlea",
+        "ADDRESS": "15 Rockcliffe Way, Ottawa",
+        "ADDRESS_FR": "15, voie Rockcliffe, Ottawa",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675711932879551,
+          45.444220831819827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1191,
+        "FACILITYID": 36406,
+        "COURT_ID": 0,
+        "PARKNAME": "MEDHURST PARK",
+        "PARKNAME_F": "PARC MEDHURST",
+        "CLUB": "Tennis Practice Ball Wall - Medhurst Park",
+        "CLUB_FR": "Mur d'entraînement au tennis - Parc Medhurst",
+        "ADDRESS": "72 Medhurst Drive, Nepean",
+        "ADDRESS_FR": "72, promenade Medhurst, Nepean",
+        "NO_COURTS": 0,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 0,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "no/non",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Practice Ball Wall",
+        "COURT_TY_1": "Mur d'entraînement",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.743749953074342,
+          45.334741532881118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36407,
+        "COURT_ID": 0,
+        "PARKNAME": "RIDEAU",
+        "PARKNAME_F": "RIDEAU",
+        "CLUB": "Tennis Courts - Rideau High School",
+        "CLUB_FR": "Courts de tennis - Rideau High School",
+        "ADDRESS": "815 St. Laurent Boulevard, Ottawa",
+        "ADDRESS_FR": "815, boulevard St. Laurent, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "School Board Sites",
+        "COURT_TY_1": "Emplacement des conseils scolaires",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641175112506303,
+          45.435545887501831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36408,
+        "COURT_ID": 4,
+        "PARKNAME": "ALTA VISTA",
+        "PARKNAME_F": "ALTA VISTA",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1349 Randal Avenue, Ottawa",
+        "ADDRESS_FR": "1349, avenue Randal, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665291518065473,
+          45.384407705987883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 963,
+        "FACILITYID": 27044,
+        "COURT_ID": 18,
+        "PARKNAME": "DAVIDSON PARK",
+        "PARKNAME_F": "PARC DAVIDSON",
+        "CLUB": "Ryerson Tennis Club",
+        "CLUB_FR": "Club de tennis Ryerson",
+        "ADDRESS": "5 Ryerson Avenue, Nepean",
+        "ADDRESS_FR": "5, avenue Ryerson, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715046894007671,
+          45.265768137711078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1960,
+        "FACILITYID": 36409,
+        "COURT_ID": 62,
+        "PARKNAME": "PROVENCE",
+        "PARKNAME_F": "PROVENCE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2095 Provence Avenue, Cumberland",
+        "ADDRESS_FR": "2095, avenue Provence, Cumberland",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.457134998633322,
+          45.46152479486404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36410,
+        "COURT_ID": 0,
+        "PARKNAME": "RIDGEMONT",
+        "PARKNAME_F": "RIDGEMONT",
+        "CLUB": "Tennis Courts - Ridgemont High School",
+        "CLUB_FR": "Courts de tennis - Ridgemont High School",
+        "ADDRESS": "2597 Alta VIsta Drive, Ottawa",
+        "ADDRESS_FR": "2597, promenade Alta Vista",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "School Board Sites",
+        "COURT_TY_1": "Emplacement des conseils scolaires",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.658868041133672,
+          45.377029344955019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 22,
+        "FACILITYID": 3737,
+        "COURT_ID": 28,
+        "PARKNAME": "FRANK RYAN",
+        "PARKNAME_F": "FRANK RYAN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "950 Alpine Avenue, Ottawa",
+        "ADDRESS_FR": "950, avenue Alpine, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.786420146621126,
+          45.356718454040752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 249,
+        "FACILITYID": 3710,
+        "COURT_ID": 11,
+        "PARKNAME": "BRANTWOOD",
+        "PARKNAME_F": "BRANTWOOD",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "39 Onslow Crescent, Ottawa",
+        "ADDRESS_FR": "39, croissant Onslow, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672592516449825,
+          45.407175184629907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 208,
+        "FACILITYID": 3707,
+        "COURT_ID": 9,
+        "PARKNAME": "BINGHAM",
+        "PARKNAME_F": "BINGHAM",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "145 Cathcart Street, Ottawa",
+        "ADDRESS_FR": "145, rue Cathcart, Ottawa",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695921577596224,
+          45.433792165561542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 338,
+        "FACILITYID": 3792,
+        "COURT_ID": 21,
+        "PARKNAME": "DOVERCOURT",
+        "PARKNAME_F": "DOVERCOURT",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "411 Dovercourt Avenue, Ottawa",
+        "ADDRESS_FR": "411, avenue Dovercourt, Ottawa",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.753435509037118,
+          45.384029617954241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 330,
+        "FACILITYID": 27016,
+        "COURT_ID": 14,
+        "PARKNAME": "MANOTICK TENNIS CLUB",
+        "PARKNAME_F": "CLUB DE TENNIS DE MANOTICK",
+        "CLUB": "Manotick Tennis Club",
+        "CLUB_FR": "Club de tennis de Manotick",
+        "ADDRESS": "5572 Doctor Leach Drive, Rideau",
+        "ADDRESS_FR": "5572, promenade Doctor-Leach, Rideau",
+        "NO_COURTS": 6,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 6,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686922413105805,
+          45.221005311914851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 164,
+        "FACILITYID": 27033,
+        "COURT_ID": 15,
+        "PARKNAME": "MARCH TENNIS CLUB AND ACADEMY",
+        "PARKNAME_F": "ACADÉMIE ET CLUB DE TENNIS MARCH",
+        "CLUB": "March Tennis Club",
+        "CLUB_FR": "Club de tennis de March",
+        "ADDRESS": "2500 Campeau Drive, Kanata",
+        "ADDRESS_FR": "2500, promenade Campeau, Kanata",
+        "NO_COURTS": 8,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 8,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.896093696176109,
+          45.320556463486916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1323,
+        "FACILITYID": 27006,
+        "COURT_ID": 44,
+        "PARKNAME": "LONGLEAF",
+        "PARKNAME_F": "LONGLEAF",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "5831 Gladewoods Place, Gloucester",
+        "ADDRESS_FR": "5831, place Gladewoods, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533033333848223,
+          45.440033336032748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 343,
+        "FACILITYID": 27007,
+        "COURT_ID": 17,
+        "PARKNAME": "QUEENSWOOD HEIGHTS CENTENNIAL PARK",
+        "PARKNAME_F": "PARC QUEENSWOOD HEIGHTS CENTENNIAL",
+        "CLUB": "Queenswood/Fallingbrook Tennis Club",
+        "CLUB_FR": "Club de tennis de Queenswood/Fallingbrook",
+        "ADDRESS": "1485 Duford Drive, Cumberland",
+        "ADDRESS_FR": "1485, promenade Duford, Cumberland",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "argile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.507657485267643,
+          45.471295212775317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1056,
+        "FACILITYID": 27040,
+        "COURT_ID": 54,
+        "PARKNAME": "NEW EDINBURGH",
+        "PARKNAME_F": "NEW EDINBURGH",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "193 Stanley Avenue, Ottawa",
+        "ADDRESS_FR": "193, avenue Stanley, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686612711248131,
+          45.437864729908917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 132,
+        "FACILITYID": 3760,
+        "COURT_ID": 45,
+        "PARKNAME": "MANOR",
+        "PARKNAME_F": "MANOR",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "100 Braemar Street, Ottawa",
+        "ADDRESS_FR": "100, rue Braemar, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656904195438415,
+          45.44989741668779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 223,
+        "FACILITYID": 3725,
+        "COURT_ID": 17,
+        "PARKNAME": "CHAMBERLAIN",
+        "PARKNAME_F": "CHAMBERLAIN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "80 Chamberlain Avenue, Ottawa",
+        "ADDRESS_FR": "80, avenue Chamberlain, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.696570871145227,
+          45.405988453215187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1186,
+        "FACILITYID": 3794,
+        "COURT_ID": 79,
+        "PARKNAME": "WINDSOR PARK OTTAWA",
+        "PARKNAME_F": "PARC WINDSOR , OTTAWA",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1B Windsor Avenue, Ottawa",
+        "ADDRESS_FR": "1B, avenue Windsor, Ottawa",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675449072960902,
+          45.394530223516959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 415,
+        "FACILITYID": 3787,
+        "COURT_ID": 72,
+        "PARKNAME": "ST. LUKE'S",
+        "PARKNAME_F": "ST-LUKE'S",
+        "CLUB": "Leon Katz Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics de Leon-Katz",
+        "ADDRESS": "166 Frank Street, Ottawa",
+        "ADDRESS_FR": "166, rue Frank, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686113053881982,
+          45.415485852711171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 385,
+        "FACILITYID": 3735,
+        "COURT_ID": 25,
+        "PARKNAME": "FAIRMONT",
+        "PARKNAME_F": "FAIRMONT",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "265 Fairmont Avenue, Ottawa",
+        "ADDRESS_FR": "265, avenue Fairmont, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.718878282211051,
+          45.398069733445404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1094,
+        "FACILITYID": 3788,
+        "COURT_ID": 71,
+        "PARKNAME": "ST. GERMAIN",
+        "PARKNAME_F": "ST-GERMAIN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "86 Templeton Street, Ottawa",
+        "ADDRESS_FR": "86, rue Templeton, Ottawa",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675777214053127,
+          45.420988375619352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1001,
+        "FACILITYID": 27019,
+        "COURT_ID": 27,
+        "PARKNAME": "FOUR SEASONS",
+        "PARKNAME_F": "FOUR SEASONS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "4386 Spratt Road, Gloucester",
+        "ADDRESS_FR": "4386, chemin Spratt, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690067198909944,
+          45.275690192762774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 326,
+        "FACILITYID": 27005,
+        "COURT_ID": 18,
+        "PARKNAME": "CHAPEL HILL",
+        "PARKNAME_F": "CHAPEL HILL",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1556 Forest Valley Drive, Gloucester",
+        "ADDRESS_FR": "1556, promenade Forest Valley, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.538072465425884,
+          45.450822648866371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 495,
+        "FACILITYID": 27054,
+        "COURT_ID": 6,
+        "PARKNAME": "ELMDALE",
+        "PARKNAME_F": "ELMDALE",
+        "CLUB": "Elmdale Tennis Club",
+        "CLUB_FR": "Club de tennis Elmdale",
+        "ADDRESS": "250 Holland Avenue, Ottawa",
+        "ADDRESS_FR": "250, avenue Holland, Ottawa",
+        "NO_COURTS": 6,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 6,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "argile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731334713079619,
+          45.397564237265499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 449,
+        "FACILITYID": 27058,
+        "COURT_ID": 4,
+        "PARKNAME": "CRAIG HENRY PARK",
+        "PARKNAME_F": "PARC CRAIG-HENRY",
+        "CLUB": "Craig Henry Tennis Club",
+        "CLUB_FR": "Club de tennis Craig-Henry",
+        "ADDRESS": "135 Craig Henry Drive, Nepean",
+        "ADDRESS_FR": "135, promenade Craig-Henry, Nepean",
+        "NO_COURTS": 8,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 8,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.774250408316064,
+          45.333631764616847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 458,
+        "FACILITYID": 3748,
+        "COURT_ID": 35,
+        "PARKNAME": "JUDGE",
+        "PARKNAME_F": "JUDGE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "837 Grenon Avenue, Ottawa",
+        "ADDRESS_FR": "837, avenue Grenon, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.798331319921232,
+          45.356131723941182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 120,
+        "FACILITYID": 27049,
+        "COURT_ID": 24,
+        "PARKNAME": "ELIZABETH MANLEY",
+        "PARKNAME_F": "ELIZABETH-MANLEY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1161 Blohm Drive, Ottawa",
+        "ADDRESS_FR": "1161, promenade Blohm, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.618963693356037,
+          45.369664899927301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1160,
+        "FACILITYID": 27062,
+        "COURT_ID": 2,
+        "PARKNAME": "ALEXANDER GROVE",
+        "PARKNAME_F": "ALEXANDER-GROVE",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "10 Warner Colpitts Lane, Goulbourn",
+        "ADDRESS_FR": "10, ruelle Warner-Colpitts, Goulbourn",
+        "NO_COURTS": 3,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 3,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.925138296299011,
+          45.260127844091009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 541,
+        "FACILITYID": 27038,
+        "COURT_ID": 55,
+        "PARKNAME": "HUNTLEY COMMUNITY CENTRE",
+        "PARKNAME_F": "CENTRE COMMUNAUTAIRE HUNTLEY",
+        "CLUB": "Carp Tennis Club",
+        "CLUB_FR": "Club de tennis de Carp",
+        "ADDRESS": "108 Juanita Avenue, West Carleton",
+        "ADDRESS_FR": "108, avenue Juanita, West Carleton",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.037546927799028,
+          45.350476434665481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2389,
+        "FACILITYID": 34744,
+        "COURT_ID": 0,
+        "PARKNAME": "HALF MOON BAY PARK",
+        "PARKNAME_F": "PARC HALF MOON BAY",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3525 Cambrian Road, Nepean",
+        "ADDRESS_FR": "3525, chemin Cambrian, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2014/05/23",
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.737076540679922,
+          45.254035191757744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1122,
+        "FACILITYID": 3791,
+        "COURT_ID": 76,
+        "PARKNAME": "UPLANDS",
+        "PARKNAME_F": "UPLANDS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "3165 Uplands Drive, Ottawa",
+        "ADDRESS_FR": "3165, promenade Uplands, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681783880968808,
+          45.348768026951177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2508,
+        "FACILITYID": 35118,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "110 Mancini Way, Nepean",
+        "ADDRESS_FR": "110, voie Mancini, Nepean",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": null,
+        "CLUBHOUSE": null,
+        "BENCHES": null,
+        "FENCE": null,
+        "PRACTICE_C": null,
+        "BACKWALL": null,
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2015/09/17",
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.733362173448683,
+          45.270918733390459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2494,
+        "FACILITYID": 35117,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "290 Meadowbreeze Drive, Kanata",
+        "ADDRESS_FR": "290, promenade Meadowbreeze, Kanata",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "MODIFIED_D": "2017/05/08",
+        "CREATED_DA": "2015/09/17",
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.846481378100734,
+          45.273611866920874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2488,
+        "FACILITYID": 35821,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "7292 Parkway Road, Osgoode",
+        "ADDRESS_FR": "7292 Parkway Road, Osgoode",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "yes/oui",
+        "OPEN": null,
+        "MODIFIED_D": "2017/05/08",
+        "CREATED_DA": "2017/04/28",
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.550834393977553,
+          45.266411456724803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 976,
+        "FACILITYID": 27039,
+        "COURT_ID": 33,
+        "PARKNAME": "HAROLD BARNHART",
+        "PARKNAME_F": "HAROLD-BARNHART",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "5650 Scobie Crescent, Osgoode",
+        "ADDRESS_FR": "5650, croissant Scobie, Osgoode",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.642030101430038,
+          45.230271008465706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 591,
+        "FACILITYID": 27011,
+        "COURT_ID": 47,
+        "PARKNAME": "MARSHA",
+        "PARKNAME_F": "MARSHA",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "855 Lawnsberry Drive, Cumberland",
+        "ADDRESS_FR": "855, promenade Lawnsberry, Cumberland",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.512999439176753,
+          45.485502009695608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 468,
+        "FACILITYID": 3703,
+        "COURT_ID": 5,
+        "PARKNAME": "ARNOTT PARK",
+        "PARKNAME_F": "PARC ARNOTT",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "691 Hartman Crescent, Ottawa",
+        "ADDRESS_FR": "691, croissant Hartman, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681690900338737,
+          45.361548579960676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 843,
+        "FACILITYID": 27002,
+        "COURT_ID": 17,
+        "PARKNAME": "KINSELLA PARK",
+        "PARKNAME_F": "PARC KINSELLA",
+        "CLUB": "Queenswood/Fallingbrook Tennis Club - Kinsella",
+        "CLUB_FR": "Club de tennis de Queenswood/Fallingbrook - Kinsella",
+        "ADDRESS": "1600 Prestwick Drive, Cumberland",
+        "ADDRESS_FR": "1600, promenade Prestwick, Cumberland",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.498166666239825,
+          45.467950002051111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 921,
+        "FACILITYID": 27064,
+        "COURT_ID": 65,
+        "PARKNAME": "RIVERAIN",
+        "PARKNAME_F": "RIVERAIN",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "400 North River Road, Vanier",
+        "ADDRESS_FR": "400, chemin North River, Vanier",
+        "NO_COURTS": 4,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 4,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668568709853758,
+          45.428509843234799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 964,
+        "FACILITYID": 27048,
+        "COURT_ID": 69,
+        "PARKNAME": "SIEVERIGHT",
+        "PARKNAME_F": "SIEVERIGHT",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2999 Sable Ridge Drive, Gloucester",
+        "ADDRESS_FR": "2999, promenade Sable Ridge, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.636165014031519,
+          45.355478722769419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 582,
+        "FACILITYID": 7081,
+        "COURT_ID": 1,
+        "PARKNAME": "LARKIN PARK",
+        "PARKNAME_F": "PARC LARKIN",
+        "CLUB": "Barrhaven Tennis Club",
+        "CLUB_FR": "Club de tennis de Barrhaven",
+        "ADDRESS": "76 Larkin Drive, Nepean",
+        "ADDRESS_FR": "76, promenade Larkin, Nepean",
+        "NO_COURTS": 8,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 8,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.761830495082947,
+          45.282799977792905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 35589,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Rockcliffe Lawn Tennis Club",
+        "CLUB_FR": "Club de Tennis Rockcliffe",
+        "ADDRESS": "465 Lawsdowne Road North, Rockcliffe Park",
+        "ADDRESS_FR": "465 chemin Lansdowne Nord, Rockcliffe Park",
+        "NO_COURTS": 8,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 8,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016/05/16",
+        "SURFACE_CO": "argile / acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672848499340958,
+          45.45240502509386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 35587,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Ottawa New Edinburgh Club",
+        "CLUB_FR": "Ottawa New Edinburgh Club",
+        "ADDRESS": "504 Sir George-Étienne Cartier Parkway, Rockcliffe Park",
+        "ADDRESS_FR": "504 promenade de Sir George-Étienne Cartier, Rockcliffe Park",
+        "NO_COURTS": 11,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 11,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016/05/16",
+        "SURFACE_CO": "argile / acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677243293022499,
+          45.455909851146821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2499,
+        "FACILITYID": 35617,
+        "COURT_ID": 0,
+        "PARKNAME": null,
+        "PARKNAME_F": null,
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "560 Summerhill Street, Gloucester",
+        "ADDRESS_FR": "560, rue Summerhill, Gloucester",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": "2016/06/13",
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695665009832723,
+          45.268009296356517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 150,
+        "FACILITYID": 3708,
+        "COURT_ID": 10,
+        "PARKNAME": "BORDELEAU",
+        "PARKNAME_F": "BORDELEAU",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "349 Bruyère Street, Ottawa",
+        "ADDRESS_FR": "349, rue Bruyère, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687415794136811,
+          45.435953810440616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 831,
+        "FACILITYID": 3166,
+        "COURT_ID": 61,
+        "PARKNAME": "PLAYFAIR",
+        "PARKNAME_F": "PLAYFAIR",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1801 Playfair Drive, Ottawa",
+        "ADDRESS_FR": "1801, promenade Playfair, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644815465676103,
+          45.391544261773802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 728,
+        "FACILITYID": 3799,
+        "COURT_ID": 51,
+        "PARKNAME": "MORRISON",
+        "PARKNAME_F": "MORRISON",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1095 Morrison Drive, Ottawa",
+        "ADDRESS_FR": "1095, promenade Morrison, Ottawa",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.795280603017233,
+          45.344979686863709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1005,
+        "FACILITYID": 27004,
+        "COURT_ID": 73,
+        "PARKNAME": "ST. FRANCOIS",
+        "PARKNAME_F": "ST-FRANÇOIS",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "1855 Simard Drive, Gloucester",
+        "ADDRESS_FR": "1855, promenade Simard, Gloucester",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "no/non",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.518638742611941,
+          45.452426648859628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 182,
+        "FACILITYID": 3712,
+        "COURT_ID": 22,
+        "PARKNAME": "WEST OTTAWA TENNIS",
+        "PARKNAME_F": "TENNIS D'OTTAWA-OUEST",
+        "CLUB": "West Ottawa Tennis Centre",
+        "CLUB_FR": "Centre de tennis d'Ottawa-Ouest",
+        "ADDRESS": "2805 Carling Avenue, Ottawa",
+        "ADDRESS_FR": "2805, avenue Carling, Ottawa",
+        "NO_COURTS": 13,
+        "INDOOR_COU": 6,
+        "OUTDOOR_CO": 7,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "yes/oui",
+        "BACKWALL": "yes/oui",
+        "COURT_TYPE": "Membership Clubs",
+        "COURT_TY_1": "Abonnement des clubs",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "argile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.798676608685355,
+          45.362664389072144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 522,
+        "FACILITYID": 3747,
+        "COURT_ID": 34,
+        "PARKNAME": "JACK PURCELL",
+        "PARKNAME_F": "JACK PURCELL",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "320 Jack Purcell Lane, Ottawa",
+        "ADDRESS_FR": "320, ruelle Jack-Purcell, Ottawa",
+        "NO_COURTS": 1,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 1,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.689602439665137,
+          45.414805945678872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 734,
+        "FACILITYID": 27066,
+        "COURT_ID": 52,
+        "PARKNAME": "DOGWOOD (MUNSTER)",
+        "PARKNAME_F": "DOGWOOD (MUNSTER)",
+        "CLUB": "Public Tennis Courts",
+        "CLUB_FR": "Courts de tennis publics",
+        "ADDRESS": "2890 Munster Road, Goulbourn",
+        "ADDRESS_FR": "2890, chemin Munster, Goulbourn",
+        "NO_COURTS": 2,
+        "INDOOR_COU": 0,
+        "OUTDOOR_CO": 2,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "no/non",
+        "BENCHES": "no/non",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Public Courts",
+        "COURT_TY_1": "Courts publics",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "asphalte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.939583442772829,
+          45.162865719479449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 0,
+        "FACILITYID": 36404,
+        "COURT_ID": 0,
+        "PARKNAME": "OTTAWA ATHLETIC CLUB",
+        "PARKNAME_F": "CLUB D'ATHLÉTISME D'OTTAWA",
+        "CLUB": "Ottawa Athletic Club (Tennis)",
+        "CLUB_FR": "Club d'athlétisme d'Ottawa (tennis)",
+        "ADDRESS": "2525 Lancaster Road, Ottawa",
+        "ADDRESS_FR": "2525, chemin Lancaster, Ottawa",
+        "NO_COURTS": 14,
+        "INDOOR_COU": 8,
+        "OUTDOOR_CO": 6,
+        "LIGHTS": "yes/oui",
+        "CLUBHOUSE": "yes/oui",
+        "BENCHES": "yes/oui",
+        "FENCE": "yes/oui",
+        "PRACTICE_C": "no/non",
+        "BACKWALL": "no/non",
+        "COURT_TYPE": "Private Clubs",
+        "COURT_TY_1": "Clubs privés",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "MODIFIED_D": "2017/07/06",
+        "CREATED_DA": null,
+        "SURFACE_CO": "acrylique bleu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613085435579649,
+          45.401425943246835
+        ]
+      }
+    }
+  ]
+}
