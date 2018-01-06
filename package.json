@@ -45,6 +45,7 @@
     "es6-promise": "^3.3.1",
     "execa": "^0.6.0",
     "form-data": "^2.0.0",
+    "geojson-rbush": "^2.2.1",
     "geojson-stream": "0.0.1",
     "geojson-writer": "^0.3.6",
     "geojson2osm": "0.0.6",
