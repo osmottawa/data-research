@@ -86,7 +86,8 @@
                 "source:date": "2018-07-19",
                 "description": "320 Jack Purcell Lane, Jack-Purcell Community Centre",
                 "inscription": "This large mural was commissioned for the re-opening of the Jack Purcell Community Centre on Elgin Street in 1989. Its surface was built up with many layers of translucent colour, and contrasted between a fairly spontaneous handling of paint and a relativ",
-                "inscription:fr": "Cette grande peinture murale a ete commandée pour la réouverture du Centre communautaire Jack-Purcell rue Elgin en 1989. Sa surface est constituée de multiples couches de couleur translucide ; elle offre un contraste entre le traitement assez spontané de"
+                "inscription:fr": "Cette grande peinture murale a ete commandée pour la réouverture du Centre communautaire Jack-Purcell rue Elgin en 1989. Sa surface est constituée de multiples couches de couleur translucide ; elle offre un contraste entre le traitement assez spontané de",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -134,7 +135,8 @@
                 "source:date": "2018-07-19",
                 "description": "Wellington Street West",
                 "inscription": "Eighteen hand-carved marble sculptures are installed at intervals along Wellington West Street. The Wellington Marbles, a sculptural series by local artists Marcus Kucey-Jones and Ryan Lotecki was commissioned by the City of Ottawa as part of the Wellingt",
-                "inscription:fr": "Les dix-huit sculptures en marbre sont installées à intervalles le long de la rue Wellington Ouest. The Wellington Marbles, des artistes locaux Marcus Kucey-Jones et Ryan Lotecki, est une série de sculptures créées grâce à la Ville d’Ottawa pour la rue We"
+                "inscription:fr": "Les dix-huit sculptures en marbre sont installées à intervalles le long de la rue Wellington Ouest. The Wellington Marbles, des artistes locaux Marcus Kucey-Jones et Ryan Lotecki, est une série de sculptures créées grâce à la Ville d’Ottawa pour la rue We",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -182,7 +184,8 @@
                 "source:date": "2018-07-19",
                 "description": "24 Capilano Drive, Huron Early Learning Centre",
                 "inscription": "Pynn-Trudeau and Swain have executed a three part commission for the centre; an entrance mosaic, interior mural, and whimsical playground structure. The artwork fosters an artistic flow through the facility underlying the importance of ecological awarenes",
-                "inscription:fr": "Chandler Pynn-Trudeau et Carolynne Swain ont créé une œuvre en trois volets pour le Centre de la petite enfance Huron : une mosaïque à l’entrée, une murale intérieure et une structure originale englobant une aire de jeux. L’œuvre répand un courant artisti"
+                "inscription:fr": "Chandler Pynn-Trudeau et Carolynne Swain ont créé une œuvre en trois volets pour le Centre de la petite enfance Huron : une mosaïque à l’entrée, une murale intérieure et une structure originale englobant une aire de jeux. L’œuvre répand un courant artisti",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -254,7 +257,8 @@
                 "source:date": "2018-07-19",
                 "description": "King Edward Avenue (Rideau Street to Murray Street)",
                 "inscription": "The sculptural series, Celebration of Growth, by local artist Karl Ciesluk was commissioned for King Edward Avenue as part of the street renewal project. Nineteen sculptures of seed pods and plant growth are installed at intervals along Kind Edward Avenue",
-                "inscription:fr": "La série de sculptures Celebration of Growth, (Célébration de la croissance) de l'artiste local Karl Ciesluk est une commande dans le cadre du projet de réfection de l'avenue King Edward. Dix-neuf sculptures de gousses et de bourgeons sont installées à in"
+                "inscription:fr": "La série de sculptures Celebration of Growth, (Célébration de la croissance) de l'artiste local Karl Ciesluk est une commande dans le cadre du projet de réfection de l'avenue King Edward. Dix-neuf sculptures de gousses et de bourgeons sont installées à in",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -436,7 +440,6 @@
                 "tourism": "artwork",
                 "name": "Imprint: Intersections of City and Sky",
                 "name:fr": "Imprint: Intersections of City and Sky",
-                "artist_name": "",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_123_Imprint-Intersections-of-City-and-Sky.jpg",
                 "start_date": "2011",
                 "material": "clear anodized aluminium, glass ",
@@ -564,7 +567,8 @@
                 "source:date": "2018-07-19",
                 "description": "Somerset Street West\n",
                 "inscription": "The series of sculptures entitled Morphology commissioned for the Hintonburg district are formed as if windblown with glass forms morphing from a seed pod to an open flower, signifying growth and revitalization. The flame-worked glass elements playfully r",
-                "inscription:fr": "La série de sculptures intitulées Morphology (Morphologie), commandées pour le district de Hintonburg, semblent soufflées par le vent et comportent des formes en verre ressemblant à des gousses qui se transforment en fleurs épanouies, illustrant ainsi la"
+                "inscription:fr": "La série de sculptures intitulées Morphology (Morphologie), commandées pour le district de Hintonburg, semblent soufflées par le vent et comportent des formes en verre ressemblant à des gousses qui se transforment en fleurs épanouies, illustrant ainsi la",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +584,6 @@
                 "tourism": "artwork",
                 "name": "TRANSPOtting",
                 "name:fr": "TRANSPOtting",
-                "artist_name": "",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_129_TRANSPOtting.jpg",
                 "start_date": "2008",
                 "material": "LED panels and software",
@@ -612,7 +615,8 @@
                 "source:date": "2018-07-19",
                 "description": "1480 Heron Road, Heron Road Community Centre",
                 "inscription": "An 18 foot long curved mural is situated on the third floor of this centre. Predominantly abstract, the work evokes a number of familiar scenes and objects in a colourful and playful manner.",
-                "inscription:fr": "Situé au 3e étage du Centre, la grande peinture acrylique sur toile peut presque être qualifiée d’abstraite mais évoque néanmoins divers scènes et objets familiers d’une manière vive et colorée"
+                "inscription:fr": "Situé au 3e étage du Centre, la grande peinture acrylique sur toile peut presque être qualifiée d’abstraite mais évoque néanmoins divers scènes et objets familiers d’une manière vive et colorée",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -660,7 +664,8 @@
                 "source:date": "2018-07-19",
                 "description": "2757 Grand Vista Circle, Half Moon Bay, Cambrian and Greenbank",
                 "inscription": "Falling Star was commissioned by the City of Ottawa for Half Moon Bay Park in Barrhaven South.  The 13-foot high cast aluminum sculpture sits atop the toboggan hill at Cambrian and Greenbank roads, balanced on one of its five points. As if fallen from the",
-                "inscription:fr": "La sculpture Étoile filante a fait l’objet d’une commande de la Ville d’Ottawa pour le parc Half Moon Bay à Barrhaven Sud. Se présentant sous la forme d’une sculpture en aluminium coulé d’une hauteur de 4 m (13 pi), l’étoile se dresse en haut de la collin"
+                "inscription:fr": "La sculpture Étoile filante a fait l’objet d’une commande de la Ville d’Ottawa pour le parc Half Moon Bay à Barrhaven Sud. Se présentant sous la forme d’une sculpture en aluminium coulé d’une hauteur de 4 m (13 pi), l’étoile se dresse en haut de la collin",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -684,7 +689,8 @@
                 "source:date": "2018-07-19",
                 "description": "34 Iber Rd, Stittsville, Fire Station 46",
                 "inscription": "This sculpture by artist Michael Kinghorn engages with the word “overhaul” in two ways. A term frequently used by firefighters, overhaul refers to the stripping of walls and floors in order to search for trapped heat. Similarly, the layers of this sculptu",
-                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn évoque deux significations du mot anglais overhaul. Terme fréquemment utilisé par les pompiers, overhaul décrit l’enlèvement de murs et de planchers pour trouver de la chaleur emprisonnée. Dans le même ordre d"
+                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn évoque deux significations du mot anglais overhaul. Terme fréquemment utilisé par les pompiers, overhaul décrit l’enlèvement de murs et de planchers pour trouver de la chaleur emprisonnée. Dans le même ordre d",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -708,7 +714,8 @@
                 "source:date": "2018-07-19",
                 "description": "3559 Greenbank Road, Barrhaven South, Fire Station 47",
                 "inscription": "This sculpture by artist Michael Kinghorn reminds us of the dangerous conditions regularly faced by rescue workers.   The open corner exposes a jumble of weathered gears, tilling blades, horseshoes and wagon wheels. The deteriorating structure is secured",
-                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn nous rappelle les conditions dangereuses que doivent souvent affronter les membres d’équipes de secours. Le coin dégagé montre un amas d’engrenages, de lames de labourage, de fers à cheval et de roues de chari"
+                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn nous rappelle les conditions dangereuses que doivent souvent affronter les membres d’équipes de secours. Le coin dégagé montre un amas d’engrenages, de lames de labourage, de fers à cheval et de roues de chari",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -804,7 +811,8 @@
                 "source:date": "2018-07-19",
                 "description": "1265 Walkley Road, Jim Durrell Arena",
                 "inscription": "The aluminum base of the sculpture’s pyramid is 16 feet on its longest side and 6 feet on its shortest side. The top is a small glass pyramid about 4 feet high, reaching 18 feet high in the air. This is the mountain and its summit of ice.",
-                "inscription:fr": "La base en aluminium de la sculpture fait 16 pieds sur 6 pieds. La cime de la pyramide de verre, d’environ 4 pieds de haut, atteint une hauteur totale de 18 pieds. Tout comme une montagne et son sommet de glace."
+                "inscription:fr": "La base en aluminium de la sculpture fait 16 pieds sur 6 pieds. La cime de la pyramide de verre, d’environ 4 pieds de haut, atteint une hauteur totale de 18 pieds. Tout comme une montagne et son sommet de glace.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1057,7 +1065,8 @@
                 "source:date": "2018-07-19",
                 "description": "111 Sussex Drive",
                 "inscription": "Widgery’s three-part outdoor sculpture of cast bronze and aluminum offers a whimsical look at the relationship between nature and the human order of things. A polar bear atop a pyramid of star constellations, a man inside a rocket ship-like cone and a tre",
-                "inscription:fr": "Cette oeuvre de Widgery, une sculpture extérieure en bronze coulé et en aluminium composée de trois segments, jette un regard fantaisiste sur la relation entre la nature et l’ordre des choses imposé par l’homme. Un ours polaire au sommet d’une pyramide de"
+                "inscription:fr": "Cette oeuvre de Widgery, une sculpture extérieure en bronze coulé et en aluminium composée de trois segments, jette un regard fantaisiste sur la relation entre la nature et l’ordre des choses imposé par l’homme. Un ours polaire au sommet d’une pyramide de",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1081,7 +1090,8 @@
                 "source:date": "2018-07-19",
                 "description": "111 Sussex Drive",
                 "inscription": "Vox Populi or Voice of the People is a voice animated light sculpture. Directional microphones placed at the entrance doors pick up voices and sounds; the sound is then transformed by a micro-computer into light patterns that emanate from the central open",
-                "inscription:fr": "Vox Populi est une sculpture lumineuse commandée à Ia voix. Des microphones directionnels, placés aux portes d'entrée, recueillent les voix et les bruits, qui sont ensuite transformés en diagrammes de lumière commandés par ordinateur. Émanant de Ia niche"
+                "inscription:fr": "Vox Populi est une sculpture lumineuse commandée à Ia voix. Des microphones directionnels, placés aux portes d'entrée, recueillent les voix et les bruits, qui sont ensuite transformés en diagrammes de lumière commandés par ordinateur. Émanant de Ia niche",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1242,7 +1252,8 @@
                 "source:date": "2018-07-19",
                 "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
                 "inscription": "This sculptural installation was inspired by skiffs - long, slender boats with hulls so elongated that rowers balance themselves as though on a high wire. They speed forward so fast they barely touch the surface of the water. The long oars seem to walk on the water like the legs of a strange insect. Suspended above our heads in the lobby of the recreation complex, the two sculptures move across the space, evoking thoughts of water bugs and ying shes.\n\nThe artist was born on a small island and spent his childhood by the sea. The maritime landscape and culture forged his view of the world and continue to serve as the inspiration for his artistic practice.\n\nSkiff was produced in collaboration with Forge ornementale Lapointe.",
-                "inscription:fr": "Cette oeuvre est inspirée des skiffs, embarcations aux coques effilées sur lesquelles les rameurs se tiennent en équilibre comme sur un fil tendu. Ils se déplacent ainsi à toute allure, effleurant à peine la surface de l'eau. Les longues rames semblent marcher sur l'eau comme les pattes d'un étrange insecte. Suspendues au dessus de nos têtes dans le hall d'entrée du complexe récréatif, les deux sculptures en forme de skiffs traversent l'espace et font penser à punaises d’eau ou à des poissons volants. \n\nL'artiste est né sur une petite île et a vécu son enfance au bord de la mer. Le paysage et la culture maritimes ont forgé son regard sur le monde et continuent d'agir comme toile de fond de sa pratique artistique. \n\nSkiff a été réalisé en collaboration avec la Forge ornementale Lapointe."
+                "inscription:fr": "Cette oeuvre est inspirée des skiffs, embarcations aux coques effilées sur lesquelles les rameurs se tiennent en équilibre comme sur un fil tendu. Ils se déplacent ainsi à toute allure, effleurant à peine la surface de l'eau. Les longues rames semblent marcher sur l'eau comme les pattes d'un étrange insecte. Suspendues au dessus de nos têtes dans le hall d'entrée du complexe récréatif, les deux sculptures en forme de skiffs traversent l'espace et font penser à punaises d’eau ou à des poissons volants. \n\nL'artiste est né sur une petite île et a vécu son enfance au bord de la mer. Le paysage et la culture maritimes ont forgé son regard sur le monde et continuent d'agir comme toile de fond de sa pratique artistique. \n\nSkiff a été réalisé en collaboration avec la Forge ornementale Lapointe.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1258,7 +1269,6 @@
                 "tourism": "artwork",
                 "name": "A Flat and A Box",
                 "name:fr": "A Flat and A Box",
-                "artist_name": "",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_303_FlatBox.jpg",
                 "start_date": "2012",
                 "material": "granite and cement",
@@ -1266,7 +1276,8 @@
                 "source:date": "2018-07-19",
                 "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
                 "inscription": "A Flat and a Box has two main components: a flat area and a rectangular box. Skaters use the sculpture for many different tricks and approaches – the design accommodates beginner to expert skaters.\n\nArtists Alisdair MacRae and Negar Seyfollahy worked directly with skaters, the Ottawa Skateboard Community Association and New Line Skateparks Inc. to design the sculpture. Dimensions and materials were influenced by these key groups. A Flat and a Box and the skate plaza opened to the public in July 2014.",
-                "inscription:fr": "Cette œuvre compte deux éléments fondamentaux : une partie plane et une boîte rectangulaire. Les planchistes utilisent la sculpture pour de nombreuses figures et approches – sa conception convient tant aux novices qu'aux planchistes aguerris.\n\nPour la conception de la sculpture, les artistes Alisdair MacRae et Negar Seyfollahy ont travaillé directement avec des planchistes, l'Ottawa Skateboard Community Association et la société New Line Skateparks Inc. Ces groupes clés ont eu leur mot à dire sur les dimensions et les matériaux. Une plane et une boîte et le parc de planche à roulettes sont accessibles au public depuis juillet 2014."
+                "inscription:fr": "Cette œuvre compte deux éléments fondamentaux : une partie plane et une boîte rectangulaire. Les planchistes utilisent la sculpture pour de nombreuses figures et approches – sa conception convient tant aux novices qu'aux planchistes aguerris.\n\nPour la conception de la sculpture, les artistes Alisdair MacRae et Negar Seyfollahy ont travaillé directement avec des planchistes, l'Ottawa Skateboard Community Association et la société New Line Skateparks Inc. Ces groupes clés ont eu leur mot à dire sur les dimensions et les matériaux. Une plane et une boîte et le parc de planche à roulettes sont accessibles au public depuis juillet 2014.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1290,7 +1301,8 @@
                 "source:date": "2018-07-19",
                 "description": "2500 Campeau Drive, Ottawa Public Library, Beaverbrook Branch",
                 "inscription": "Inspired by the natural ecosystems of Kanata and the South March Highlands, Griffin's gestural concrete murals feature the Blanding's turtle, an important local species, as well as other indigenous flora and fauna. Thirteen concrete turtle sculptures roam the grounds of the library, offering places to sit, read or rest. Each is inscribed with a month in the Algonquin calendar, acknowledging some beliefs that each of the 13 plates on a turtle's shell represents one moon in a blue moon year.\n\nGriffin carved a 'bale' (group) of 13 Styrofoam turtles and volunteers added the concrete layers to ensure the sculptures survive the elements. Over 50 local volunteers joined artist Christopher Griffin for a series of evening sessions to complete part of the artwork.\n\nGriffin is inspired by ancient artwork on cave walls, and created all of his murals by hand, etching and inscribing the images directly into the wet concrete. With no time for hesitation, the creation of the artwork became a performance piece celebrating the natural local treasures and fostering inspiration and pride in the region.\n\nBlanding's Turtles of the South March Highlands was commissioned by the City of Ottawa as part of the renovations at this branch, located beside the John G Mlacak Centre. The artwork and the renovated library officially opened to the public on August 23, 2014.\n",
-                "inscription:fr": "Inspirées des écosystèmes naturels de Kanata et des hautes terres de South March, les sculptures murales gestuelles en béton de Christopher Griffin représentent la tortue mouchetée, importante espèce locale, ainsi que d'autres espèces de la flore et de la faune indigènes. Treize sculptures en béton représentant des tortues occupent le terrain de la bibliothèque, offrant des endroits où s'asseoir, lire ou se reposer. Sur chacune d'elles est gravé le nom d'un mois du calendrier algonquin, soulignant la croyance selon laquelle chacune des treize plaques de la carapace d'une tortue représente une lune d'une année de lune bleue.\n\nChristopher Griffin a été inspiré par les œuvres d'art anciennes qui ornent les murs des grottes et a créé toutes ses sculptures murales à la main, gravant les images directement sur le béton humide. Ne laissant aucune place à l'hésitation, la production de l'œuvre s'est transformée en une performance célébrant les trésors naturels locaux, favorisant l'inspiration et stimulant la fierté envers la région.\n\nChristopher a sculpté un « ensemble » (groupe) de 13 tortues en mousse de polystyrène et les bénévoles ont ajouté des couches de béton pour que les sculptures survivent aux éléments. Plus d’une cinquantaine de bénévoles locaux se sont joints à l’artiste Christopher Griffin pour une série de séances en soirée afin d’achever les œuvres d’art.\n\nLes tortues mouchetées des hautes terres de South March sont le résultat d'une commande passée par la Ville d’Ottawa dans le cadre de rénovations effectuées à la succursale Beaverbrook, tout près du Centre John-G.-Mlacak. Les œuvres d'art et la bibliothèque rénovée sont officiellement ouvertes au public depuis le 23 août 2014.\n"
+                "inscription:fr": "Inspirées des écosystèmes naturels de Kanata et des hautes terres de South March, les sculptures murales gestuelles en béton de Christopher Griffin représentent la tortue mouchetée, importante espèce locale, ainsi que d'autres espèces de la flore et de la faune indigènes. Treize sculptures en béton représentant des tortues occupent le terrain de la bibliothèque, offrant des endroits où s'asseoir, lire ou se reposer. Sur chacune d'elles est gravé le nom d'un mois du calendrier algonquin, soulignant la croyance selon laquelle chacune des treize plaques de la carapace d'une tortue représente une lune d'une année de lune bleue.\n\nChristopher Griffin a été inspiré par les œuvres d'art anciennes qui ornent les murs des grottes et a créé toutes ses sculptures murales à la main, gravant les images directement sur le béton humide. Ne laissant aucune place à l'hésitation, la production de l'œuvre s'est transformée en une performance célébrant les trésors naturels locaux, favorisant l'inspiration et stimulant la fierté envers la région.\n\nChristopher a sculpté un « ensemble » (groupe) de 13 tortues en mousse de polystyrène et les bénévoles ont ajouté des couches de béton pour que les sculptures survivent aux éléments. Plus d’une cinquantaine de bénévoles locaux se sont joints à l’artiste Christopher Griffin pour une série de séances en soirée afin d’achever les œuvres d’art.\n\nLes tortues mouchetées des hautes terres de South March sont le résultat d'une commande passée par la Ville d’Ottawa dans le cadre de rénovations effectuées à la succursale Beaverbrook, tout près du Centre John-G.-Mlacak. Les œuvres d'art et la bibliothèque rénovée sont officiellement ouvertes au public depuis le 23 août 2014.\n",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1314,7 +1326,8 @@
                 "source:date": "2018-07-19",
                 "description": "211 Bronson Avenue, Bronson Centre",
                 "inscription": "Community Channel by Andrew O’Malley is a bold and forward-thinking light-based permanent installation above the exterior entranceway of the Bronson Centre located at 211 Bronson Avenue. Composed of larger-than-life silhouettes, the sculpture represents various community members, each illuminated with changing coloured LED lights. O’Malley has programmed the illumination of the figures with unique colours that dynamically shift from individual hues, synchronizing into one shared group colour. The lighting animation broadcasts concepts of individuality when the colours are out of phase, and unity while synchronized together. The colour palette of the figures also shifts with the seasons to provide interest and variation throughout the year.",
-                "inscription:fr": "Voie communautaire d'Andrew O'Malley est une installation à base de lumière audacieuse et avant gardiste pour l'entrée extérieure du Centre Bronson, situé au 211, avenue Bronson. Composé de silhouettes plus grandes que nature, la sculpture représente divers membres de la collectivité, chacun illuminé par des diodes électroluminescentes. O'Malley a programmé l'illumination des figures de couleurs uniques passant de manière dynamique de teintes individuelles pour se synchroniser ensuite en une même couleur. L'animation de lumières évoque tour à tour des concepts d'individualité et d'unité : lorsque les couleurs ne sont pas harmonisées puis lorsqu'elles se synchronisent à nouveau. La palette de couleurs des personnages change également au gré des saisons afin de susciter de l'intérêt et d'offrir une belle variété tout au long de l'année."
+                "inscription:fr": "Voie communautaire d'Andrew O'Malley est une installation à base de lumière audacieuse et avant gardiste pour l'entrée extérieure du Centre Bronson, situé au 211, avenue Bronson. Composé de silhouettes plus grandes que nature, la sculpture représente divers membres de la collectivité, chacun illuminé par des diodes électroluminescentes. O'Malley a programmé l'illumination des figures de couleurs uniques passant de manière dynamique de teintes individuelles pour se synchroniser ensuite en une même couleur. L'animation de lumières évoque tour à tour des concepts d'individualité et d'unité : lorsque les couleurs ne sont pas harmonisées puis lorsqu'elles se synchronisent à nouveau. La palette de couleurs des personnages change également au gré des saisons afin de susciter de l'intérêt et d'offrir une belle variété tout au long de l'année.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1386,7 +1399,8 @@
                 "source:date": "2018-07-19",
                 "description": "3500 Cambrian Drive, Minto Recreation Complex (Barrhaven)",
                 "inscription": "The two modular sculptures suspended from the ceiling of the complex enhance the public site and create a dialogue between old and new with their retro-futuristic presence. Appearing simultaneously industrial and organic, Young and Giroux’s richly compositional artwork of grid-like aluminum tubes and colourful pods gives the impression that it will continue to grow and expand through space.  Inspired by the late, acclaimed Japanese architect Kisho Kurokawa, the artwork revisits a utopic vision of the future, expressing past ideals within a contemporary framework. Working together since 2002, contemporary artists Young and Giroux produce sculpture, public art and film installations that examine architecture, urban development and public space through a combined knowledge of art history and the latest in industrial technologies. Their work has been shown in numerous exhibitions across Canada and internationally, including the solo show Y&G #12 (curtain walls), at the Carleton University Art Gallery. Major public art commissions include Nyctophilia for the City of Toronto and Interregnum: Corner Displacement for John Andrews at the University of Toronto Scarborough. Young and Giroux are recipients of the Sobey Art Award (2011), Canada’s pre-eminent award for contemporary Canadian art.",
-                "inscription:fr": "La sculpture modulaire est accrochée au plafond du complexe, où sa présence rétro-futuriste agrémente l’espace public et fait dialoguer l’ancien et le nouveau. L’œuvre richement compositionnelle, d’apparence industrielle et organique tout à la fois, est composée de tubes d’aluminium et de nacelles colorées disposés en grillage, et donne l’impression d’une croissance continue. Inspirée de l’œuvre de l’architecte japonais Kisho Kurokawa, très apprécié et récemment décédé, elle propose une nouvelle vision utopique de l’avenir en exprimant des idéaux du passé dans un cadre contemporain. Les artistes contemporains Daniel Young et Christian Giroux collaborent depuis 2002 à la production de sculptures, d’art public et d’installations cinématographiques sur des thèmes comme l’architecture, l’aménagement urbain et l’espace public, en combinant leur connaissance de l’histoire de l’art et des plus récentes technologies industrielles. Leur travail a figuré dans de nombreuses expositions au Canada et ailleurs, y compris Y&G #12 (murs rideaux), exposition individuelle présentée à la galerie d’art de l’Université Carleton. Parmi les grandes commandes d’art public à leur actif, citons Nyctophilie, pour la Ville de Toronto, et Interrègne : déplacement angulaire pour John Andrews, pour l’Université de Toronto à Scarborough. Ils ont remporté le Prix Sobey pour les arts (2011), soit la plus grande récompense en art contemporain au Canada."
+                "inscription:fr": "La sculpture modulaire est accrochée au plafond du complexe, où sa présence rétro-futuriste agrémente l’espace public et fait dialoguer l’ancien et le nouveau. L’œuvre richement compositionnelle, d’apparence industrielle et organique tout à la fois, est composée de tubes d’aluminium et de nacelles colorées disposés en grillage, et donne l’impression d’une croissance continue. Inspirée de l’œuvre de l’architecte japonais Kisho Kurokawa, très apprécié et récemment décédé, elle propose une nouvelle vision utopique de l’avenir en exprimant des idéaux du passé dans un cadre contemporain. Les artistes contemporains Daniel Young et Christian Giroux collaborent depuis 2002 à la production de sculptures, d’art public et d’installations cinématographiques sur des thèmes comme l’architecture, l’aménagement urbain et l’espace public, en combinant leur connaissance de l’histoire de l’art et des plus récentes technologies industrielles. Leur travail a figuré dans de nombreuses expositions au Canada et ailleurs, y compris Y&G #12 (murs rideaux), exposition individuelle présentée à la galerie d’art de l’Université Carleton. Parmi les grandes commandes d’art public à leur actif, citons Nyctophilie, pour la Ville de Toronto, et Interrègne : déplacement angulaire pour John Andrews, pour l’Université de Toronto à Scarborough. Ils ont remporté le Prix Sobey pour les arts (2011), soit la plus grande récompense en art contemporain au Canada.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1410,7 +1424,8 @@
                 "source:date": "2018-07-19",
                 "description": "Trim Road (between Watters and Old Montreal Road)",
                 "inscription": "Over 10,000 years ago, glaciers scattered large boulders, commonly known as erratics, across the landscape. Inspired by clusters of ancient stone found in the Ottawa region, Erratic Field transforms the urban environment with carefully executed minimal sculptures. \n\nConstructed from Cor-ten steel, the surface weathers over time to an orange-brown patina and granular texture, bringing the sculptures closer to nature.  As viewers gather and move through the space they become a part of a constantly changing configuration suggestive of an ancient site of reverence akin to megalithic standing stones. \n\nBorn in Moose Jaw, Saskatchewan, Shayne Dark is known for his sculptural works and large public art installations. Dark’s work can be found in national and international collections including the Canada Council Art Bank and the Masur Museum of Art, Monroe, Louisiana. \n",
-                "inscription:fr": "Il y a plus de 10 000 ans, les glaciers ont laissé sur leur passage de grosses pierres, communément appelées des blocs erratiques, qui jonchent maintenant le paysage. Inspiré de ces amas de roches anciennes qui se trouvent dans la région de l’Outaouais, Champ de blocs erratiques transforme le milieu urbain au moyen de sculptures discrètement façonnées. \n\nConstruite en acier cor-ten, la surface des sculptures se transformera au fil du temps en une patine de couleur brun orangé et une texture granuleuse, ce qui rendra les sculptures plus représentatives de la nature. Alors que les visiteurs se rassembleront et circuleront dans l’espace, ils deviendront une partie intégrante de la configuration en constante évolution qui rappelle un ancien lieu de culte ressemblant aux menhirs mégalithiques.\n\nNé à Moose Jaw, en Saskatchewan, Shayne Dark est reconnu pour ses sculptures et ses grandes installations d’œuvres publiques. On retrouve des œuvres de Dark dans des collections nationales et internationales, y compris la Banque d’œuvres d’art du Conseil des arts du Canada et le Masur Museum of Art, à Monroe, en Louisiane.\n"
+                "inscription:fr": "Il y a plus de 10 000 ans, les glaciers ont laissé sur leur passage de grosses pierres, communément appelées des blocs erratiques, qui jonchent maintenant le paysage. Inspiré de ces amas de roches anciennes qui se trouvent dans la région de l’Outaouais, Champ de blocs erratiques transforme le milieu urbain au moyen de sculptures discrètement façonnées. \n\nConstruite en acier cor-ten, la surface des sculptures se transformera au fil du temps en une patine de couleur brun orangé et une texture granuleuse, ce qui rendra les sculptures plus représentatives de la nature. Alors que les visiteurs se rassembleront et circuleront dans l’espace, ils deviendront une partie intégrante de la configuration en constante évolution qui rappelle un ancien lieu de culte ressemblant aux menhirs mégalithiques.\n\nNé à Moose Jaw, en Saskatchewan, Shayne Dark est reconnu pour ses sculptures et ses grandes installations d’œuvres publiques. On retrouve des œuvres de Dark dans des collections nationales et internationales, y compris la Banque d’œuvres d’art du Conseil des arts du Canada et le Masur Museum of Art, à Monroe, en Louisiane.\n",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1456,7 +1471,8 @@
                 "source:date": "2018-07-19",
                 "description": "Rideau Street",
                 "inscription": "Glass artist Mark Thompson has created four sculptures along Rideau Street that explore how we perceive colour, light and motion. This art installation conveys a range of symbols and associations: Here at Waller Street, the energy of downtown glows red in Cube; Further east, in front of the Rideau branch of the Ottawa Public Library, many colours of Lattice represent interconnected knowledge; The values of community, integrity and health radiate from the green Sphere near Cobourg Street; A blue Wave announces the Rideau River and the natural world just beyond Wurtemburg Street.\n\nStrips of glass housed inside each artwork are lit by pre-programmed lights. The lights slowly change colour and intensity causing shifts in perception as we travel around the object. At night, the sculptures transform the streetscape and expand our sensory experience.\n\nLight is paramount to the work of Mark Thompson. He is interested in the way glass refracts light and how the eye perceives it.  Mark Thompson has worked with light using contemporary and traditional studio glass-working techniques for over 30 years.\n",
-                "inscription:fr": "L’artiste verrier Mark Thompson a créé quatre sculptures disposées le long de la rue Rideau, qui explorent notre perception de la couleur, de la lumière et du mouvement. Cette installation artistique exprime toute une gamme de symboles et d’associations. Ici, rue Waller, on voit l’énergie du centre-ville rougeoyer dans Cube. Plus à l’est, devant la succursale Rideau de la Bibliothèque publique d’Ottawa, les multiples couleurs de Treillis représentent l’interrelation des connaissances. Communauté, intégrité et santé sont les valeurs qui rayonnent de la Sphère verte située près de la rue Cobourg. Une Vague bleue annonce la rivière Rideau et le monde naturel situé juste au-delà de la rue Wurtemburg.\n\nÀ l’intérieur de chaque œuvre d’art, des languettes de verre sont illuminées grâce à un éclairage préprogrammé. Cet éclairage change lentement de couleur et d’intensité, ce qui fait varier notre perception lorsque nous nous déplaçons autour de l’objet. Le soir, les sculptures transforment le paysage urbain et amplifient l’expérience vécue par nos sens. \n\nDans l’œuvre de Mark Thompson, la lumière passe avant tout. La façon dont le verre réfracte la lumière et dont l’œil la perçoit le passionne. Mark Thompson travaille la lumière en studio au moyen de techniques de verrerie contemporaines et traditionnelles depuis plus de 30 ans. \n"
+                "inscription:fr": "L’artiste verrier Mark Thompson a créé quatre sculptures disposées le long de la rue Rideau, qui explorent notre perception de la couleur, de la lumière et du mouvement. Cette installation artistique exprime toute une gamme de symboles et d’associations. Ici, rue Waller, on voit l’énergie du centre-ville rougeoyer dans Cube. Plus à l’est, devant la succursale Rideau de la Bibliothèque publique d’Ottawa, les multiples couleurs de Treillis représentent l’interrelation des connaissances. Communauté, intégrité et santé sont les valeurs qui rayonnent de la Sphère verte située près de la rue Cobourg. Une Vague bleue annonce la rivière Rideau et le monde naturel situé juste au-delà de la rue Wurtemburg.\n\nÀ l’intérieur de chaque œuvre d’art, des languettes de verre sont illuminées grâce à un éclairage préprogrammé. Cet éclairage change lentement de couleur et d’intensité, ce qui fait varier notre perception lorsque nous nous déplaçons autour de l’objet. Le soir, les sculptures transforment le paysage urbain et amplifient l’expérience vécue par nos sens. \n\nDans l’œuvre de Mark Thompson, la lumière passe avant tout. La façon dont le verre réfracte la lumière et dont l’œil la perçoit le passionne. Mark Thompson travaille la lumière en studio au moyen de techniques de verrerie contemporaines et traditionnelles depuis plus de 30 ans. \n",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1480,7 +1496,8 @@
                 "source:date": "2018-07-19",
                 "description": "Churchill Avenue (at Byron)",
                 "inscription": "Artist Jennifer Stead tells stories by drawing the world around her. She began this project with her thoughts and experiences of the neighbourhood. Combining these with local history, she created a drawing using pencil and charcoal that was transformed into an 18-foot tall steel sculpture. Short Story takes on the form of a tree, a landscape and a vase of flowers.\n\nHidden within the stems and branches are images that pay tribute to community history and the natural environment: a horse pulling logs out of the forest ripples of river waves and local wildflowers. The past, present and future of the Ottawa Valley emerges from the myriad of images. \n\nJennifer Stead has been telling stories through landscape for over twenty years. Stead earned a Bachelor of Fine Arts degree from the Nova Scotia College of Art and Design and a Master of Fine Arts degree from the University of Calgary.  \n",
-                "inscription:fr": "L’artiste Jennifer Stead raconte des histoires en dessinant le monde qui l’entoure. Elle a entamé ce projet en utilisant les réflexions que lui inspiraient le quartier et les expériences qu’elle y a vécues. En effectuant l’amalgame de ces concepts et de l’histoire locale, elle a fait un dessin au crayon et au fusain qui a ensuite été transformé en sculpture d’acier d’une hauteur de 18 pieds. Petite histoire prend la forme d’un arbre, d’un paysage et d’un vase rempli de fleurs.\n\nDes images cachées parmi les tiges et les branches rendent hommage à l’histoire de la communauté et à l’environnement naturel : un cheval tirant des rondins qui sort de la forêt, des ondulations des vagues de la rivière et des fleurs sauvages locales. Le passé, le présent et l’avenir de la vallée de l’Outaouais émergent de cette myriade d’images.\n\nJennifer Stead raconte des histoires au moyen de paysages depuis plus de vingt ans. Elle a obtenu un baccalauréat en beaux-arts du Nova Scotia College of Art and Design et une maîtrise en beaux-arts de l’Université de Calgary.\n"
+                "inscription:fr": "L’artiste Jennifer Stead raconte des histoires en dessinant le monde qui l’entoure. Elle a entamé ce projet en utilisant les réflexions que lui inspiraient le quartier et les expériences qu’elle y a vécues. En effectuant l’amalgame de ces concepts et de l’histoire locale, elle a fait un dessin au crayon et au fusain qui a ensuite été transformé en sculpture d’acier d’une hauteur de 18 pieds. Petite histoire prend la forme d’un arbre, d’un paysage et d’un vase rempli de fleurs.\n\nDes images cachées parmi les tiges et les branches rendent hommage à l’histoire de la communauté et à l’environnement naturel : un cheval tirant des rondins qui sort de la forêt, des ondulations des vagues de la rivière et des fleurs sauvages locales. Le passé, le présent et l’avenir de la vallée de l’Outaouais émergent de cette myriade d’images.\n\nJennifer Stead raconte des histoires au moyen de paysages depuis plus de vingt ans. Elle a obtenu un baccalauréat en beaux-arts du Nova Scotia College of Art and Design et une maîtrise en beaux-arts de l’Université de Calgary.\n",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1528,7 +1545,8 @@
                 "source:date": "2018-07-19",
                 "description": "925 Belfast Road, OC Transpo",
                 "inscription": "Based on the common spider plant, these five sculptures were inspired by the clusters of tiny plantlets known as inflorescences that grow from the spider plant’s central stem. For the artist, Inflorescence represents the idea of interconnectedness, a fitting theme for OC Transpo. \n\nDeborah Margo handcrafted these sculptures: cutting, hammering, and assembling multiple copper pieces into plant-like forms. The artwork’s richly coloured and textured copper surfaces absorb and reflect artificial and natural light. \n\nDeborah Margo has been working in Ottawa as a sculptor, writer, professor and gardener for 25 years. Growth and change are important environmental themes present in many of her artworks.",
-                "inscription:fr": "L’Inflorescence est une œuvre composée de cinq sculptures inspirées par les petites plantes qui poussent sur la tige centrale de la plante-araignée, appelées inflorescences. Pour l’artiste, Deborah Margo, L’Inflorescence représente l’interdépendance, principe qui s’harmonise bien aux valeurs d’OC Transpo.\n\nÀ la main, l’artiste a taillé, martelé, puis assemblé des feuilles de cuivre pour créer diverses formes apparentées à des plantes. Le cuivre richement coloré et texturé reflète la lumière artificielle et naturelle.\n\nDeborah Margo travaille à Ottawa à titre de sculpteure, d’écrivaine, de professeure et de jardinière depuis 25 ans. Bon nombre de ses œuvres s’articulent autour de la croissance et du changement, deux thèmes environnementaux au cœur de sa démarche."
+                "inscription:fr": "L’Inflorescence est une œuvre composée de cinq sculptures inspirées par les petites plantes qui poussent sur la tige centrale de la plante-araignée, appelées inflorescences. Pour l’artiste, Deborah Margo, L’Inflorescence représente l’interdépendance, principe qui s’harmonise bien aux valeurs d’OC Transpo.\n\nÀ la main, l’artiste a taillé, martelé, puis assemblé des feuilles de cuivre pour créer diverses formes apparentées à des plantes. Le cuivre richement coloré et texturé reflète la lumière artificielle et naturelle.\n\nDeborah Margo travaille à Ottawa à titre de sculpteure, d’écrivaine, de professeure et de jardinière depuis 25 ans. Bon nombre de ses œuvres s’articulent autour de la croissance et du changement, deux thèmes environnementaux au cœur de sa démarche.",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1552,7 +1570,8 @@
                 "source:date": "2018-07-19",
                 "description": "170 Second Avenue, Glebe Parking Garage",
                 "inscription": "Animals etched and sculpted out of concrete found on the walls, columns, and roof guide us through this building. Christopher Griffin worked with the Ottawa Field-Naturalists' Club and the Canadian Museum of Nature to create a list of wildlife living in and around the Glebe's waterways. Each floor of the parking garage has its own theme and way finding system:\n\nFloor 1  Fishes: Dow's Lake\nFloor 2  Amphibians and reptiles: Patterson Creek\nFloor 3  Birds: Rideau Canal\nFloor 4  Mammals: Brown's Inlet\n\nEach animal is native to the Glebe and represents the diversity of species and ecosystems that exist downtown. It is easy to forget that city dwellers are living in close proximity to many wild animals. Griffin’s artwork reminds us to look out for these species and to celebrate the rich natural environment around us.\n\nGlebe resident Christopher Griffin has been creating unique concrete murals and sculptures for many years. His drawing style is inspired by ancient art found on cave walls. His images of birds, fish and mammals hold personal meanings for the artist and often reference biodiversity.",
-                "inscription:fr": "Les animaux gravés et sculptés dans le béton des murs, des colonnes et du plafond nous guident à travers le bâtiment. Christopher Griffin a travaillé avec l’Ottawa Field-Naturalists' Club et le Musée canadien de la nature en vue de dresser une liste des espèces naturelles qui habitent dans les cours d’eau du Glebe, ou tout près. Chaque étage du garage de stationnement s’inspire d’un thème particulier et dispose d’un système d’orientation qui lui est propre.\n\n1er étage Poissons : lac Dow\n2e étage Amphibiens et reptiles : ruisseau Patterson\n3e étage Oiseaux : canal Rideau\n4e étage Mammifères : étang Brown\n \nChaque animal est une espèce indigène du Glebe et représente la diversité des espèces et des écosystèmes qui existent au centre-ville. On oublie souvent que les citadins cohabitent de très près avec de nombreux animaux sauvages. Les œuvres de Griffin nous rappellent de faire attention à ces espèces et de célébrer la richesse du milieu naturel qui nous entoure.\n\nRésident du Glebe, Christopher Griffin crée des murales et des sculptures uniques en béton depuis de nombreuses années. Le style de ses dessins s’inspire de l’art ancien que l’on retrouve sur les murs des cavernes. Ses images d’oiseaux, de poissons et de mammifères ont une signification toute particulière pour cet artiste et font souvent référence à la biodiversité.\n"
+                "inscription:fr": "Les animaux gravés et sculptés dans le béton des murs, des colonnes et du plafond nous guident à travers le bâtiment. Christopher Griffin a travaillé avec l’Ottawa Field-Naturalists' Club et le Musée canadien de la nature en vue de dresser une liste des espèces naturelles qui habitent dans les cours d’eau du Glebe, ou tout près. Chaque étage du garage de stationnement s’inspire d’un thème particulier et dispose d’un système d’orientation qui lui est propre.\n\n1er étage Poissons : lac Dow\n2e étage Amphibiens et reptiles : ruisseau Patterson\n3e étage Oiseaux : canal Rideau\n4e étage Mammifères : étang Brown\n \nChaque animal est une espèce indigène du Glebe et représente la diversité des espèces et des écosystèmes qui existent au centre-ville. On oublie souvent que les citadins cohabitent de très près avec de nombreux animaux sauvages. Les œuvres de Griffin nous rappellent de faire attention à ces espèces et de célébrer la richesse du milieu naturel qui nous entoure.\n\nRésident du Glebe, Christopher Griffin crée des murales et des sculptures uniques en béton depuis de nombreuses années. Le style de ses dessins s’inspire de l’art ancien que l’on retrouve sur les murs des cavernes. Ses images d’oiseaux, de poissons et de mammifères ont une signification toute particulière pour cet artiste et font souvent référence à la biodiversité.\n",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -1683,7 +1702,6 @@
                 "name:fr": "Snow Birds-Face of our Community",
                 "artist_name": "Ciesluk, Karl",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_37_Snow-Birds-Face-of-our-Community.jpg",
-                "start_date": "",
                 "material": "ceramic mosaic",
                 "source": "City of Ottawa",
                 "source:date": "2018-07-19",
@@ -1801,7 +1819,8 @@
                 "source:date": "2018-07-19",
                 "description": "OC Transitway Greenboro",
                 "inscription": "This artwork comprises 200-square-feet of unglazed, fully vitrified clay tiles in rich, earthy tones.  Although the imagery is abstract, it conveys a strong sense of movement and liveliness as visible in the right side of the mural which contains a concen",
-                "inscription:fr": "Cette œuvre de Susan Feindel est composée de carreaux couleur terre vitrifiés mais non vernissés, de 18,5 mètres carrés. Malgré le style abstrait, l’œuvre produit une forte impression de mouvement et d’animation, particulièrement perceptible dans la parti"
+                "inscription:fr": "Cette œuvre de Susan Feindel est composée de carreaux couleur terre vitrifiés mais non vernissés, de 18,5 mètres carrés. Malgré le style abstrait, l’œuvre produit une forte impression de mouvement et d’animation, particulièrement perceptible dans la parti",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -2225,7 +2244,8 @@
                 "source:date": "2018-07-19",
                 "description": "OC Transitway Tunneys Pasture - Western Parkway Transitway Stations ",
                 "inscription": "Placed along the walls of the Transitway, these eight sculptures are meant to provide a humorous diversion by greeting and entertaining bus commuters. Each one expresses a different form of communication, including a waving hand, a hitchhiker's thumb, two",
-                "inscription:fr": "Placées le long des murs du Transitway, ces huit sculptures visent à accueillir et divertir les usagers du transport en commun à leur arrivée en faisant une diversion humoristique. Chacune exprime un signe de communication différent, comme un salut de la"
+                "inscription:fr": "Placées le long des murs du Transitway, ces huit sculptures visent à accueillir et divertir les usagers du transport en commun à leur arrivée en faisant une diversion humoristique. Chacune exprime un signe de communication différent, comme un salut de la",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -2295,7 +2315,8 @@
                 "source:date": "2018-07-19",
                 "description": "OC Transitway Pleasant Park Station",
                 "inscription": "The mural located at the western embankment incorporates the graphic energy of a contemporary landscape with the traditional art form of mosaic.  This work considers earth's regenerative energies, and is designed to delight viewers when seen either at clo",
-                "inscription:fr": "La murale, située au point d’embarquement ouest, rassemble l’énergie graphique d’un paysage contemporain et une mosaïque traditionnelle. Cette œuvre, qui évoque les énergies régénératrices de la terre, est conçue pour faire plaisir aux spectateurs, qu’ils"
+                "inscription:fr": "La murale, située au point d’embarquement ouest, rassemble l’énergie graphique d’un paysage contemporain et une mosaïque traditionnelle. Cette œuvre, qui évoque les énergies régénératrices de la terre, est conçue pour faire plaisir aux spectateurs, qu’ils",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -2319,7 +2340,8 @@
                 "source:date": "2018-07-19",
                 "description": "OC Transitway South Keys Station",
                 "inscription": "Located along the north and south walls of the South Keys underpass, Standish’s mural encourages transit users to touch the tiles and decode eleven Braille symbols.  Green and blue evokes the essence of a lush watery landscape and open sky while stainless",
-                "inscription:fr": "Située le long des murs nord et sud du passage inférieur South Keys, la murale de Standish encourage les usagers du transport en commun à toucher les tuiles pour décoder 11 symboles en braille. Le vert et le bleu évoquent le ciel et un paysage aquatique l"
+                "inscription:fr": "Située le long des murs nord et sud du passage inférieur South Keys, la murale de Standish encourage les usagers du transport en commun à toucher les tuiles pour décoder 11 symboles en braille. Le vert et le bleu évoquent le ciel et un paysage aquatique l",
+                "artwork_type": "mural"
             },
             "geometry": {
                 "type": "Point",
@@ -2582,7 +2604,8 @@
                 "source:date": "2018-07-19",
                 "description": "363 Lorry Greenberg Drive, Ottawa Public Library, Greenboro Branch",
                 "inscription": "Shelf: 759-760 was selected as the public art commission for the Greenboro Branch. Shelf: 759-760 is an abstraction of a bookshelf and consists of an aluminium and stained glass sculpture that will suspend in a central light well on the 2nd floor of the n",
-                "inscription:fr": "L’étagère : 759-760 d’Adrian Göllner a été choisie comme œuvre d’art public commandée pour la succersale Greenboro. L’étagère : 759-760 est une sculpture composée d’aluminium et de verre teinté, qui sera suspendue dans un puits de lumière au centre du 2e"
+                "inscription:fr": "L’étagère : 759-760 d’Adrian Göllner a été choisie comme œuvre d’art public commandée pour la succersale Greenboro. L’étagère : 759-760 est une sculpture composée d’aluminium et de verre teinté, qui sera suspendue dans un puits de lumière au centre du 2e",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -2606,7 +2629,8 @@
                 "source:date": "2018-07-19",
                 "description": "2465 Don Reid Road, Paramedic Headquarters",
                 "inscription": "In the spirit of the values and mission of Ottawa’s paramedics, artist team Jean Halstead and Svetlana Swinimer designed an abstract exterior sculpture with the emblematic symbols of wings, staff, and serpent for the new Ottawa Paramedic Service Headquart",
-                "inscription:fr": "Dans l’esprit des valeurs et de la mission des paramédics d’Ottawa, les artistes Jean Halstead et Svetlana Swinimer ont conçu une sculpture abstraite extérieure, représentant l’emblème des ailes, du bâton et du serpent pour le nouveau quartier général du"
+                "inscription:fr": "Dans l’esprit des valeurs et de la mission des paramédics d’Ottawa, les artistes Jean Halstead et Svetlana Swinimer ont conçu une sculpture abstraite extérieure, représentant l’emblème des ailes, du bâton et du serpent pour le nouveau quartier général du",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -2726,7 +2750,8 @@
                 "source:date": "2018-07-19",
                 "description": "245 Centrum Blvd, Shenkman Art Centre",
                 "inscription": "Lasserre’s sculpture, titled Resonance, consists of an upright piano made from hammered bronze and stainless steel accompanied by a partially-carved piano stool in a limestone boulder. Excavated during the construction of the Shenkman Arts Centre, the bou",
-                "inscription:fr": "La sculpture de Lasserre, intitulé Resonance, représente un piano droit fait de bronze martelé et d’acier inoxydable et un banc de piano partiellement sculpté dans un bloc de calcaire. Ce rocher, mis au jour lors de la construction du Centre des Arts Shen"
+                "inscription:fr": "La sculpture de Lasserre, intitulé Resonance, représente un piano droit fait de bronze martelé et d’acier inoxydable et un banc de piano partiellement sculpté dans un bloc de calcaire. Ce rocher, mis au jour lors de la construction du Centre des Arts Shen",
+                "artwork_type": "sculpture"
             },
             "geometry": {
                 "type": "Point",
@@ -2920,7 +2945,6 @@
                 "tourism": "artwork",
                 "name": "study for Hazeldean banners",
                 "name:fr": "study for Hazeldean banners",
-                "artist_name": "",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2010-0008.jpg",
                 "start_date": "2010",
                 "material": "aluminium ",
@@ -3228,7 +3252,6 @@
                 "tourism": "artwork",
                 "name": "Winston Chandelier",
                 "name:fr": "chandelier Winston",
-                "artist_name": "",
                 "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2017-0067a.jpg",
                 "start_date": "2015",
                 "material": "powder-coated aluminum",

@@ -23,7 +23,11 @@ csv2geojson.csv2geojson(csvString, {
       if(art.properties.ARTWORK.indexOf("Bicycle Racks")!=-1)
         return;
 
-      const properties = {
+      let type = ''
+      if(art.properties.TEXT.indexOf('mural')!=-1) type = 'mural'
+      if(art.properties.TEXT.indexOf('sculpture')!=-1) type = 'sculpture'
+
+      const props1 = {
           'tourism': 'artwork',
           'name': art.properties.ARTWORK.trim(),
           'name:fr': art.properties.ARTWORK_FR,
@@ -33,18 +37,38 @@ csv2geojson.csv2geojson(csvString, {
           'material': art.properties.MATERIAL,
           'source': 'City of Ottawa',
           'source:date': today,
+          'description': art.properties.LOCATION,
+          'inscription': art.properties.TEXT,
+          'inscription:fr': art.properties.TEXT_FR,
+          'artwork_type': type
       };
-      
-      if(art.properties.LOCATION!='') properties['description'] = art.properties.LOCATION
-      if(art.properties.TEXT!='') properties['inscription'] = art.properties.TEXT
-      if(art.properties.TEXT_FR!='') properties['inscription:fr'] = art.properties.TEXT_FR
+
+      const props2 = {
+          'tourism': 'artwork',
+          'name': art.properties.ARTWORK.trim(),
+          'artist_name': art.properties.ARTISTS,
+          'image': art.properties.IMAGE,
+          'description': art.properties.LOCATION,
+          'inscription': art.properties.TEXT,
+          'artwork_type': type
+      };
+
+
+      for (let propName in props1) {
+        if (props1[propName] == "") {
+          delete props1[propName];
+        }
+      }
 
       console.log("New art: ", art.properties.ARTWORK.trim());
-      const point = turf.point(art.geometry.coordinates, properties);
-      collection1.features.push(point);
+
+      const point = turf.point(art.geometry.coordinates, props1);
+      collection1.features.push(point)
 
       var circle = turf.circle(art.geometry.coordinates, 100, 10, 'meters');
+      circle.properties = props2
       collection2.features.push(circle)
+
   });
 
   fs.writeFileSync('publicart.geojson', JSON.stringify(collection1, null, 4))
