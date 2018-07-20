@@ -29,17 +29,17 @@ csv2geojson.csv2geojson(csvString, {
 
       const props1 = {
           'tourism': 'artwork',
-          'name': art.properties.ARTWORK.trim(),
-          'name:fr': art.properties.ARTWORK_FR,
-          'artist_name': art.properties.ARTISTS,
-          'image': art.properties.IMAGE,
-          'start_date': art.properties.YEAR,
-          'material': art.properties.MATERIAL,
+          'name': art.properties.ARTWORK.replace(/\s{2,}/g,' ').trim(),
+          'name:fr': art.properties.ARTWORK_FR.replace(/\s{2,}/g,' ').trim(),
+          'artist_name': art.properties.ARTISTS.replace(/\s{2,}/g,' ').trim(),
+          'image': art.properties.IMAGE.trim(),
+          'start_date': art.properties.YEAR.trim(),
+          'material': art.properties.MATERIAL.replace(/\s{2,}/g,' ').trim(),
           'source': 'City of Ottawa',
           'source:date': today,
-          'description': art.properties.LOCATION,
-          'inscription': art.properties.TEXT,
-          'inscription:fr': art.properties.TEXT_FR,
+          'description': art.properties.LOCATION.replace(/\s{2,}/g,' ').trim(),
+          'inscription': art.properties.TEXT.replace(/\s{2,}/g,' ').substr(0,255).trim(),
+          'inscription:fr': art.properties.TEXT_FR.replace(/\s{2,}/g,' ').substr(0,255).trim(),
           'artwork_type': type
       };
 
