@@ -32,6 +32,7 @@ pools.features.map(result => {
     const properties = {
         'amenity': 'school',
         'name': name,
+        'name:en': name,
         'name:fr': name_fr,
         'phone': phone,
         'fax': fax,

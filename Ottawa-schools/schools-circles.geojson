@@ -6,6 +6,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Elizabeth Ann Seton School",
+                "name:en": "Saint Elizabeth Ann Seton School",
                 "name:fr": "École Saint Elizabeth Ann Seton",
                 "phone": "+1-613-825-3596",
                 "fax": "+1-613-825-3903",
@@ -72,6 +73,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Mary Honeywell Elementary School",
+                "name:en": "Mary Honeywell Elementary School",
                 "name:fr": "École élémentaire Mary Honeywell",
                 "phone": "+1-613-825-4834",
                 "fax": "+1-613-825-5058",
@@ -138,6 +140,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Patrick School",
+                "name:en": "Saint Patrick School",
                 "name:fr": "École Saint Patrick",
                 "phone": "+1-613-825-4012",
                 "fax": "+1-613-825-1552",
@@ -204,6 +207,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Barrhaven Public School",
+                "name:en": "Barrhaven Public School",
                 "name:fr": "École publique Barrhaven",
                 "phone": "+1-613-825-2691",
                 "fax": "+1-613-825-9307",
@@ -270,6 +274,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Jockvale Elementary School",
+                "name:en": "Jockvale Elementary School",
                 "name:fr": "École élémentaire Jockvale",
                 "phone": "+1-613-825-1224",
                 "fax": "+1-613-825-1219",
@@ -336,6 +341,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Rose of Lima School",
+                "name:en": "Saint Rose of Lima School",
                 "name:fr": "École Saint Rose of Lima",
                 "phone": "+1-613-828-5158",
                 "fax": "+1-613-828-0032",
@@ -402,6 +408,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Glebe Collegiate Institute",
+                "name:en": "Glebe Collegiate Institute",
                 "name:fr": "École secondaire supérieure Glebe",
                 "phone": "+1-613-239-2424",
                 "fax": "+1-613-239-2655",
@@ -468,6 +475,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ridgemont High School",
+                "name:en": "Ridgemont High School",
                 "name:fr": "École secondaire Ridgemont",
                 "phone": "+1-613-733-4860",
                 "fax": "+1-613-521-9637",
@@ -534,6 +542,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Franco-Cité Catholic Secondary School",
+                "name:en": "Franco-Cité Catholic Secondary School",
                 "name:fr": "École secondaire catholique Franco-Cité",
                 "phone": "+1-613-521-4999",
                 "fax": "+1-613-521-8499",
@@ -600,6 +609,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Samuel-Genest Cathollic Middle School",
+                "name:en": "Samuel-Genest Cathollic Middle School",
                 "name:fr": "Collège catholique Samuel-Genest",
                 "phone": "+1-613-744-8344",
                 "fax": "+1-613-744-2727",
@@ -666,6 +676,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Gisèle-Lalonde Public High School",
+                "name:en": "Gisèle-Lalonde Public High School",
                 "name:fr": "École secondaire publique Gisèle-Lalonde",
                 "phone": "+1-613-833-0018",
                 "fax": "+1-613-833-3030",
@@ -732,6 +743,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Le Carrefour Adult School",
+                "name:en": "Le Carrefour Adult School",
                 "name:fr": "Écoles des adultes Le Carrefour",
                 "phone": "+1-613-731-7212",
                 "fax": "+1-613-731-8730",
@@ -798,6 +810,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bayshore Public School",
+                "name:en": "Bayshore Public School",
                 "name:fr": "École publique Bayshore",
                 "phone": "+1-613-828-8698",
                 "fax": "+1-613-828-6716",
@@ -864,6 +877,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Georges Vanier Catholic School",
+                "name:en": "Georges Vanier Catholic School",
                 "name:fr": "École catholique Georges Vanier",
                 "phone": "+1-613-592-4371",
                 "fax": "+1-613-592-2738",
@@ -930,6 +944,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Stephen Leacock Public School",
+                "name:en": "Stephen Leacock Public School",
                 "name:fr": "École publique Stephen Leacock",
                 "phone": "+1-613-592-2261",
                 "fax": "+1-613-592-3356",
@@ -996,6 +1011,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "W. Erskine Johnston Public School",
+                "name:en": "W. Erskine Johnston Public School",
                 "name:fr": "École publique W. Erskine Johnston",
                 "phone": "+1-613-592-4492",
                 "fax": "+1-613-592-6907",
@@ -1062,6 +1078,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Stephen School",
+                "name:en": "Saint Stephen School",
                 "name:fr": "École Saint Stephen",
                 "phone": "+1-613-831-8844",
                 "fax": "+1-613-831-9185",
@@ -1128,6 +1145,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Martin de Porres School",
+                "name:en": "Saint Martin de Porres School",
                 "name:fr": "École Saint Matin de Porres",
                 "phone": "+1-613-836-4754",
                 "fax": "+1-613-836-0843",
@@ -1194,6 +1212,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "John Young Elementary School",
+                "name:en": "John Young Elementary School",
                 "name:fr": "École élémentaire John Young",
                 "phone": "+1-613-836-5987",
                 "fax": "+1-613-836-5694",
@@ -1260,6 +1279,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Glen Cairn Public School",
+                "name:en": "Glen Cairn Public School",
                 "name:fr": "École publique Glen Cairn",
                 "phone": "+1-613-836-2342",
                 "fax": "+1-613-836-4620",
@@ -1326,6 +1346,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Monsignor Paul Baxter School",
+                "name:en": "Monsignor Paul Baxter School",
                 "name:fr": "École Monsignor Paul Baxter",
                 "phone": "+1-613-825-7544",
                 "fax": "+1-613-825-9942",
@@ -1392,6 +1413,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Carleton University",
+                "name:en": "Carleton University",
                 "name:fr": "Unitversité Carleton",
                 "phone": "+1-613-520-2600",
                 "fax": "+1-null",
@@ -1458,6 +1480,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "University of Ottawa",
+                "name:en": "University of Ottawa",
                 "name:fr": "Unitversité d'Ottawa",
                 "phone": "+1-613-562-5800",
                 "fax": "+1-613-562-5323",
@@ -1524,6 +1547,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Algonquin College",
+                "name:en": "Algonquin College",
                 "name:fr": "Collège Algonquin",
                 "phone": "+1-613-727-4723",
                 "fax": "+1-null",
@@ -1590,6 +1614,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Paul University",
+                "name:en": "Saint Paul University",
                 "name:fr": "Université Saint-Paul",
                 "phone": "+1-613-236-1393",
                 "fax": "+1-null",
@@ -1656,6 +1681,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "La Cité collégiale",
+                "name:en": "La Cité collégiale",
                 "name:fr": "La Cité collégiale",
                 "phone": "+1-613-742-2483",
                 "fax": "+1-null",
@@ -1722,6 +1748,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Devonshire Community Public School",
+                "name:en": "Devonshire Community Public School",
                 "name:fr": "École publique communautaire Devonshire",
                 "phone": "+1-613-729-3169",
                 "fax": "+1-613-729-8462",
@@ -1788,6 +1815,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Kanata Montessori School",
+                "name:en": "Kanata Montessori School",
                 "name:fr": "École Montessori Kanata",
                 "phone": "+1-613-592-2189",
                 "fax": "+1-613-592-3705",
@@ -1854,6 +1882,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Westboro Academy",
+                "name:en": "Westboro Academy",
                 "name:fr": "Académie Westboro",
                 "phone": "+1-613-737-9543",
                 "fax": "+1-613-737-7716",
@@ -1920,6 +1949,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Munster Elementary School",
+                "name:en": "Munster Elementary School",
                 "name:fr": "École élémentaire Munster",
                 "phone": "+1-613-838-3133",
                 "fax": "+1-613-838-4072",
@@ -1986,6 +2016,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Heritage Academy",
+                "name:en": "Heritage Academy",
                 "name:fr": "Académie Heritage",
                 "phone": "+1-613-722-0133",
                 "fax": "+1-613-722-7881",
@@ -2052,6 +2083,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Pope John XXIII School",
+                "name:en": "Pope John XXIII School",
                 "name:fr": "École Pope-John-XXIII",
                 "phone": "+1-613-226-6223",
                 "fax": "+1-613-226-3287",
@@ -2118,6 +2150,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Jerome School",
+                "name:en": "Saint Jerome School",
                 "name:fr": "École Saint Jerome",
                 "phone": "+1-613-822-1116",
                 "fax": "+1-613-822-9569",
@@ -2184,6 +2217,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Regina St Public School",
+                "name:en": "Regina St Public School",
                 "name:fr": "École publique de la rue Regina",
                 "phone": "+1-613-829-8777",
                 "fax": "+1-613-829-4412",
@@ -2250,6 +2284,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Marie-Curie Public Elementary School",
+                "name:en": "Marie-Curie Public Elementary School",
                 "name:fr": "École élémentaire publique Marie-Curie",
                 "phone": "+1-613-523-4975",
                 "fax": "+1-613-523-9108",
@@ -2316,6 +2351,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Horizon-Jeunesse Catholic Elementary School",
+                "name:en": "Horizon-Jeunesse Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Horizon-Jeunesse",
                 "phone": "+1-613-741-8515",
                 "fax": "+1-613-741-3547",
@@ -2382,6 +2418,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "John Paul II School",
+                "name:en": "John Paul II School",
                 "name:fr": "École John-Paul II",
                 "phone": "+1-613-744-3591",
                 "fax": "+1-613-744-5735",
@@ -2448,6 +2485,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Terre-des-Jeunes Catholic Elementary School",
+                "name:en": "Terre-des-Jeunes Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Terre-des-Jeunes",
                 "phone": "+1-613-820-2121",
                 "fax": "+1-613-228-0627",
@@ -2514,6 +2552,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Richmond Public School",
+                "name:en": "Richmond Public School",
                 "name:fr": "École publique Richmond",
                 "phone": "+1-613-838-2371",
                 "fax": "+1-613-838-2882",
@@ -2580,6 +2619,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Alain-Fortin Catholic Elementary School",
+                "name:en": "Alain-Fortin Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Alain-Fortin",
                 "phone": "+1-613-749-7454",
                 "fax": "+1-613-830-7912",
@@ -2646,6 +2686,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Le Prélude Public Elementary School",
+                "name:en": "Le Prélude Public Elementary School",
                 "name:fr": "École élémentaire publique Le Prélude",
                 "phone": "+1-613-834-8411",
                 "fax": "+1-613-834-8683",
@@ -2712,6 +2753,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sainte-Marie Catholic Elementary School",
+                "name:en": "Sainte-Marie Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Sainte-Marie",
                 "phone": "+1-613-745-2722",
                 "fax": "+1-613-824-8079",
@@ -2778,6 +2820,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Good Shepherd Catholic School",
+                "name:en": "Good Shepherd Catholic School",
                 "name:fr": "École catholique Good Shepherd",
                 "phone": "+1-613-824-4531",
                 "fax": "+1-613-824-1387",
@@ -2844,6 +2887,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Glen Ogilvie Public School",
+                "name:en": "Glen Ogilvie Public School",
                 "name:fr": "École publique Glen Ogilvie",
                 "phone": "+1-613-824-4014",
                 "fax": "+1-613-824-5519",
@@ -2910,6 +2954,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Leonard School",
+                "name:en": "Saint Leonard School",
                 "name:fr": "École Saint Leonard",
                 "phone": "+1-613-692-3521",
                 "fax": "+1-613-692-4743",
@@ -2976,6 +3021,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Manotick Public School",
+                "name:en": "Manotick Public School",
                 "name:fr": "École publique Manotick",
                 "phone": "+1-613-692-3311",
                 "fax": "+1-613-692-1659",
@@ -3042,6 +3088,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "North Gower/Marlborough Public School",
+                "name:en": "North Gower/Marlborough Public School",
                 "name:fr": "École publique North Gower/Marlborough",
                 "phone": "+1-613-489-3375",
                 "fax": "+1-613-489-0100",
@@ -3108,6 +3155,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Philip School",
+                "name:en": "Saint Philip School",
                 "name:fr": "École Saint Philip",
                 "phone": "+1-613-838-2466",
                 "fax": "+1-613-838-3263",
@@ -3174,6 +3222,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Orléans Montessori",
+                "name:en": "Orléans Montessori",
                 "name:fr": "École élémentaire Orleans Wood",
                 "phone": "+1-613-833-1442",
                 "fax": "+1-613-833-3758",
@@ -3240,6 +3289,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Urban Aboriginal Alternate Program (Ottawa)",
+                "name:en": "Urban Aboriginal Alternate Program (Ottawa)",
                 "name:fr": "Programme alternatif autochtone urbain (Ottawa)",
                 "phone": "+1-613-746-6328",
                 "fax": "+1-613-746-2083",
@@ -3306,6 +3356,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Richard Pfaff Secondary Alternate Program",
+                "name:en": "Richard Pfaff Secondary Alternate Program",
                 "name:fr": "Programme secondaire alternatif Richard Pfaff",
                 "phone": "+1-613-594-8020",
                 "fax": "+1-613-239-2288",
@@ -3372,6 +3423,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Elizabeth Wyn Wood Alternate Program (Nepean)",
+                "name:en": "Elizabeth Wyn Wood Alternate Program (Nepean)",
                 "name:fr": "Programme alternatif Elizabeth Wyn Wood",
                 "phone": "+1-613-225-8826",
                 "fax": "+1-613-225-1322",
@@ -3438,6 +3490,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "First Place Alternate Program",
+                "name:en": "First Place Alternate Program",
                 "name:fr": "Programme alternatif First Place",
                 "phone": "+1-613-239-2544",
                 "fax": "+1-613-239-2288",
@@ -3504,6 +3557,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Norman Johnston Secondary Alternate Program",
+                "name:en": "Norman Johnston Secondary Alternate Program",
                 "name:fr": "Programme secondaire alternatif Norman Johnston",
                 "phone": "+1-613-841-7510",
                 "fax": "+1-613-841-7509",
@@ -3570,6 +3624,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Frederick Banting Alternate Program (Stittsville)",
+                "name:en": "Frederick Banting Alternate Program (Stittsville)",
                 "name:fr": "Programme alternatif Frederick Banting (Stittsville)",
                 "phone": "+1-613-591-7678",
                 "fax": "+1-613-591-7685",
@@ -3636,6 +3691,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Reality Check",
+                "name:en": "Reality Check",
                 "name:fr": "Reality Check",
                 "phone": "+1-613-594-3208",
                 "fax": "+1-613-239-2288",
@@ -3702,6 +3758,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa-Carleton Detention Centre",
+                "name:en": "Ottawa-Carleton Detention Centre",
                 "name:fr": "Centre de détention d'Ottawa-Carleton",
                 "phone": "+1-613-824-6080",
                 "fax": "+1-613-824-1297",
@@ -3768,6 +3825,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Phoenix House for Youth Inc.",
+                "name:en": "Phoenix House for Youth Inc.",
                 "name:fr": "Phoenix House for Youth Inc.",
                 "phone": "+1-613-835-3537",
                 "fax": "+1-613-835-2013",
@@ -3834,6 +3892,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Family Reception Centre",
+                "name:en": "Family Reception Centre",
                 "name:fr": "Centre d'accueil des familles",
                 "phone": "+1-613-239-2416",
                 "fax": "+1-613-239-5990",
@@ -3900,6 +3959,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Queen of Angels Adult School",
+                "name:en": "Queen of Angels Adult School",
                 "name:fr": "École pour adultes Queen of Angels",
                 "phone": "+1-613-731-3237",
                 "fax": "+1-613-731-6636",
@@ -3966,6 +4026,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Joseph's Adult School",
+                "name:en": "Saint Joseph's Adult School",
                 "name:fr": "École pour adultes Saint Joseph's",
                 "phone": "+1-613-741-6808",
                 "fax": "+1-613-741-8553",
@@ -4032,6 +4093,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Continuing Education",
+                "name:en": "Continuing Education",
                 "name:fr": "Éducation continue",
                 "phone": "+1-613-239-2325",
                 "fax": "+1-613-239-2324",
@@ -4098,6 +4160,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Patrick's Adult School",
+                "name:en": "Saint Patrick's Adult School",
                 "name:fr": "École pour adultes Saint Patrick's",
                 "phone": "+1-613-594-5773",
                 "fax": "+1-613-594-8768",
@@ -4164,6 +4227,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Ambrose Training Centre of Excellence",
+                "name:en": "Saint Ambrose Training Centre of Excellence",
                 "name:fr": "Centre de formation en excellence Saint Ambrose",
                 "phone": "+1-613-228-6908",
                 "fax": "+1-613-228-9551",
@@ -4230,6 +4294,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "First Avenue Public School",
+                "name:en": "First Avenue Public School",
                 "name:fr": "École publique de l'avenue First",
                 "phone": "+1-613-239-2261",
                 "fax": "+1-613-563-8424",
@@ -4296,6 +4361,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Corpus Christi School",
+                "name:en": "Corpus Christi School",
                 "name:fr": "École Corpus Christi",
                 "phone": "+1-613-232-9743",
                 "fax": "+1-613-230-7848",
@@ -4362,6 +4428,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Mutchmor Public School",
+                "name:en": "Mutchmor Public School",
                 "name:fr": "École publique Mutchmor",
                 "phone": "+1-613-239-2267",
                 "fax": "+1-613-239-2743",
@@ -4428,6 +4495,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Marguerite d'Youville School",
+                "name:en": "Saint Marguerite d'Youville School",
                 "name:fr": "École Saint Margureite d'Youville",
                 "phone": "+1-613-737-1141",
                 "fax": "+1-613-737-6450",
@@ -4494,6 +4562,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Roberta Bondar Public School",
+                "name:en": "Roberta Bondar Public School",
                 "name:fr": "École publique Roberta Bondar",
                 "phone": "+1-613-736-7334",
                 "fax": "+1-613-736-6532",
@@ -4560,6 +4629,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Luke School",
+                "name:en": "Saint Luke School",
                 "name:fr": "École Saint Luke (Nepean)",
                 "phone": "+1-613-731-3541",
                 "fax": "+1-613-731-1387",
@@ -4626,6 +4696,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint-François-d'Assise Catholic Elementary School",
+                "name:en": "Saint-François-d'Assise Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Saint-François-dAssise",
                 "phone": "+1-613-729-1463",
                 "fax": "+1-613-729-2291",
@@ -4692,6 +4763,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Connaught Public School",
+                "name:en": "Connaught Public School",
                 "name:fr": "École publique Connaught",
                 "phone": "+1-613-728-4671",
                 "fax": "+1-613-728-9761",
@@ -4758,6 +4830,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Uplands Catholic School",
+                "name:en": "Uplands Catholic School",
                 "name:fr": "École catholique Uplands",
                 "phone": "+1-613-523-5807",
                 "fax": "+1-613-523-5778",
@@ -4824,6 +4897,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Our Lady Of Fatima School",
+                "name:en": "Our Lady Of Fatima School",
                 "name:fr": "École Our Lady of Fatima",
                 "phone": "+1-613-722-4075",
                 "fax": "+1-613-722-0453",
@@ -4890,6 +4964,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Woodroffe Avenue Public School",
+                "name:en": "Woodroffe Avenue Public School",
                 "name:fr": "École publique de l'avenue Woodroffe",
                 "phone": "+1-613-722-6585",
                 "fax": "+1-613-722-7951",
@@ -4956,6 +5031,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Churchill Alternative School",
+                "name:en": "Churchill Alternative School",
                 "name:fr": "École Alternative Churchill",
                 "phone": "+1-613-722-4474",
                 "fax": "+1-613-722-5655",
@@ -5022,11 +5098,12 @@
             "properties": {
                 "amenity": "school",
                 "name": "Rambam (Maimonides) Day School",
+                "name:en": "Rambam (Maimonides) Day School",
                 "name:fr": "École de jour Rambam (Maimonides)",
                 "phone": "+1-613-820-9484",
                 "fax": "+1-613-820-0029",
                 "isced:level": "1",
-                "addr:street": "Nadolny Sachs Priv (Lower Level)",
+                "addr:street": "Nadolny Sachs Private",
                 "addr:housenumber": "31",
                 "addr:postcode": "K1Z 1A2",
                 "operator": "Private"
@@ -5088,6 +5165,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Charles H. Hulse Public School",
+                "name:en": "Charles H. Hulse Public School",
                 "name:fr": "École publique Charles H. Hulse",
                 "phone": "+1-613-521-8535",
                 "fax": "+1-613-521-1477",
@@ -5154,6 +5232,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Prince Of Peace School",
+                "name:en": "Prince Of Peace School",
                 "name:fr": "École Prince-Of-Peace",
                 "phone": "+1-613-731-4733",
                 "fax": "+1-613-731-8696",
@@ -5220,6 +5299,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Marius-Barbeau Catholic Elementary School",
+                "name:en": "Marius-Barbeau Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Marius-Barbeau",
                 "phone": "+1-613-737-4404",
                 "fax": "+1-613-737-3168",
@@ -5286,6 +5366,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Riverview Alternative",
+                "name:en": "Riverview Alternative",
                 "name:fr": "École alternative Riverview",
                 "phone": "+1-613-733-6898",
                 "fax": "+1-613-733-0483",
@@ -5352,6 +5433,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Vincent Massey Public School",
+                "name:en": "Vincent Massey Public School",
                 "name:fr": "École publique Vincent-Massey",
                 "phone": "+1-613-733-5955",
                 "fax": "+1-613-733-0925",
@@ -5418,6 +5500,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lycée Claudel (École)",
+                "name:en": "Lycée Claudel (École)",
                 "name:fr": "Lycée Claudel",
                 "phone": "+1-613-733-8522",
                 "fax": "+1-613-733-3782",
@@ -5484,6 +5567,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Our Lady Of Mount Carmel School",
+                "name:en": "Our Lady Of Mount Carmel School",
                 "name:fr": "École Our-Lady-Of-Mount-Carmel",
                 "phone": "+1-613-745-4884",
                 "fax": "+1-613-745-3828",
@@ -5550,6 +5634,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Holy Cross School",
+                "name:en": "Holy Cross School",
                 "name:fr": "École Holy Cross",
                 "phone": "+1-613-733-5887",
                 "fax": "+1-613-733-1831",
@@ -5616,6 +5701,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "L'Étoile-de-l'Est Catholic Elementary School",
+                "name:en": "L'Étoile-de-l'Est Catholic Elementary School",
                 "name:fr": "École élémentaire catholique l'Étoile-de-l'Est",
                 "phone": "+1-613-744-5713",
                 "fax": "+1-613-837-6766",
@@ -5682,6 +5768,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Chapel Hill Catholic School",
+                "name:en": "Chapel Hill Catholic School",
                 "name:fr": "École catholique Chapel Hill",
                 "phone": "+1-613-837-3773",
                 "fax": "+1-613-837-1453",
@@ -5748,6 +5835,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Guardian Angels School",
+                "name:en": "Guardian Angels School",
                 "name:fr": "École Guardian Angels",
                 "phone": "+1-613-836-7423",
                 "fax": "+1-n/a",
@@ -5814,6 +5902,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Stittsville Public School",
+                "name:en": "Stittsville Public School",
                 "name:fr": "École publique Stittsville",
                 "phone": "+1-613-836-2818",
                 "fax": "+1-613-836-1806",
@@ -5880,6 +5969,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Jean-Paul II Catholic Elementary School",
+                "name:en": "Jean-Paul II Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Jean-Paul II",
                 "phone": "+1-613-521-7858",
                 "fax": "+1-613-836-3078",
@@ -5946,6 +6036,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Queen Elizabeth Public School",
+                "name:en": "Queen Elizabeth Public School",
                 "name:fr": "École publique Queen Elizabeth",
                 "phone": "+1-613-746-3246",
                 "fax": "+1-613-746-3508",
@@ -6012,6 +6103,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Monica School",
+                "name:en": "Saint Monica School",
                 "name:fr": "École Saint Monica",
                 "phone": "+1-613-226-5174",
                 "fax": "+1-613-226-5157",
@@ -6078,6 +6170,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Thomas D'Arcy McGee Catholic School",
+                "name:en": "Thomas D'Arcy McGee Catholic School",
                 "name:fr": "École catholique D'Arcy McGee",
                 "phone": "+1-613-749-2251",
                 "fax": "+1-613-749-3314",
@@ -6144,6 +6237,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Le Phare Elementary School",
+                "name:en": "Le Phare Elementary School",
                 "name:fr": "École élémentaire Le Phare",
                 "phone": "+1-613-744-2597",
                 "fax": "+1-613-744-1215",
@@ -6210,6 +6304,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Robert Hopkins Public School",
+                "name:en": "Robert Hopkins Public School",
                 "name:fr": "École publique Robert Hopkins",
                 "phone": "+1-613-745-2119",
                 "fax": "+1-613-745-9944",
@@ -6276,6 +6371,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Séraphin-Marion Public Elementary School",
+                "name:en": "Séraphin-Marion Public Elementary School",
                 "name:fr": "École élémentaire publique Séraphin-Marion",
                 "phone": "+1-613-748-7636",
                 "fax": "+1-613-748-6346",
@@ -6342,6 +6438,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Divine Infant School",
+                "name:en": "Divine Infant School",
                 "name:fr": "École Divine Infant",
                 "phone": "+1-613-824-1060",
                 "fax": "+1-613-830-3624",
@@ -6408,6 +6505,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Michael, Corkery School",
+                "name:en": "Saint Michael, Corkery School",
                 "name:fr": "École Saint Michael Corkery",
                 "phone": "+1-613-256-3672",
                 "fax": "+1-613-256-7060",
@@ -6474,6 +6572,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Huntley Centennial Public School",
+                "name:en": "Huntley Centennial Public School",
                 "name:fr": "École publique Huntley Centennial",
                 "phone": "+1-613-839-2020",
                 "fax": "+1-613-839-1963",
@@ -6540,6 +6639,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Isidore School",
+                "name:en": "Saint Isidore School",
                 "name:fr": "École Saint Isidore",
                 "phone": "+1-613-592-1798",
                 "fax": "+1-613-592-0929",
@@ -6606,6 +6706,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Holy Spirit School",
+                "name:en": "Holy Spirit School",
                 "name:fr": "École Holy Spirit",
                 "phone": "+1-613-831-1853",
                 "fax": "+1-613-831-3162",
@@ -6672,6 +6773,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Kanata Public Elementary School",
+                "name:en": "Kanata Public Elementary School",
                 "name:fr": "École élémentaire publique Kanata",
                 "phone": "+1-613-270-1043",
                 "fax": "+1-613-270-1066",
@@ -6738,6 +6840,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Jack Donohue Public School",
+                "name:en": "Jack Donohue Public School",
                 "name:fr": "École publique Jack Donohue",
                 "phone": "+1-613-271-9776",
                 "fax": "+1-613-271-7331",
@@ -6804,6 +6907,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "South March Public School",
+                "name:en": "South March Public School",
                 "name:fr": "École publique South March",
                 "phone": "+1-613-595-0543",
                 "fax": "+1-613-595-0605",
@@ -6870,6 +6974,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "March Academy",
+                "name:en": "March Academy",
                 "name:fr": "Académie March",
                 "phone": "+1-613-592-3398",
                 "fax": "+1-null",
@@ -6936,6 +7041,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "George-Étienne-Cartier Catholic Elementary School",
+                "name:en": "George-Étienne-Cartier Catholic Elementary School",
                 "name:fr": "École élémentaire catholique George-Étienne-Cartier",
                 "phone": "+1-613-731-6007",
                 "fax": "+1-613-731-6016",
@@ -7002,6 +7108,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Fielding Dr Public School",
+                "name:en": "Fielding Dr Public School",
                 "name:fr": "École publique de la promenade Fielding",
                 "phone": "+1-613-731-4928",
                 "fax": "+1-613-733-0928",
@@ -7068,6 +7175,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Venta Preparatory School",
+                "name:en": "Venta Preparatory School",
                 "name:fr": "École préparatoire Venta",
                 "phone": "+1-613-839-2175",
                 "fax": "+1-613-839-1956",
@@ -7134,6 +7242,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "W.O. Mitchell Elementary School",
+                "name:en": "W.O. Mitchell Elementary School",
                 "name:fr": "École élémentaire W.O. Mitchell",
                 "phone": "+1-613-271-1806",
                 "fax": "+1-613-271-1813",
@@ -7200,6 +7309,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Élisabeth-Bruyère Catholic Elementary School",
+                "name:en": "Élisabeth-Bruyère Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Élisabeth-Bruyère",
                 "phone": "+1-613-521-0176",
                 "fax": "+1-613-271-1558",
@@ -7266,6 +7376,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Cecilia School",
+                "name:en": "Saint Cecilia School",
                 "name:fr": "École Saint Cecilia",
                 "phone": "+1-613-692-6164",
                 "fax": "+1-613-692-0073",
@@ -7332,6 +7443,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Catholic Elementary School Saint Kateri",
+                "name:en": "Catholic Elementary School Saint Kateri",
                 "name:fr": "École élémentaire catholique Sainte-Kateri",
                 "phone": "+1-613-741-6754",
                 "fax": "+1-613-692-1591",
@@ -7398,6 +7510,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Catholic Elementary School Notre-Dame-des-Champs",
+                "name:en": "Catholic Elementary School Notre-Dame-des-Champs",
                 "name:fr": "École élémentaire catholique Notre-Dame-des-Champs",
                 "phone": "+1-613-741-5813",
                 "fax": "+1-613-837-4823",
@@ -7464,6 +7577,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "M.F. McHugh Education Centre",
+                "name:en": "M.F. McHugh Education Centre",
                 "name:fr": "Centre éducatif M.F. McHugh",
                 "phone": "+1-613-747-6885",
                 "fax": "+1-613-747-0258",
@@ -7530,6 +7644,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Nicholas Virtual Academy",
+                "name:en": "Saint Nicholas Virtual Academy",
                 "name:fr": "Académie virtuelle Saint Nicholas",
                 "phone": "+1-613-723-7757",
                 "fax": "+1-613-228-9967",
@@ -7596,6 +7711,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Michael, Fitzroy School",
+                "name:en": "Saint Michael, Fitzroy School",
                 "name:fr": "École Saint Michael, Fitzroy",
                 "phone": "+1-613-623-3114",
                 "fax": "+1-613-623-1984",
@@ -7662,6 +7778,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Osgoode Public School",
+                "name:en": "Osgoode Public School",
                 "name:fr": "École publique Osgoode",
                 "phone": "+1-613-826-2550",
                 "fax": "+1-613-826-1139",
@@ -7728,6 +7845,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Catherine School",
+                "name:en": "Saint Catherine School",
                 "name:fr": "École Saint Catherine",
                 "phone": "+1-613-821-1002",
                 "fax": "+1-613-821-5088",
@@ -7794,6 +7912,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Castor Valley Elementary School",
+                "name:en": "Castor Valley Elementary School",
                 "name:fr": "École élémentaire Castor Valley",
                 "phone": "+1-613-821-1272",
                 "fax": "+1-613-821-7937",
@@ -7860,6 +7979,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Metcalfe Public School",
+                "name:en": "Metcalfe Public School",
                 "name:fr": "École publique Metcalfe",
                 "phone": "+1-613-821-2261",
                 "fax": "+1-613-821-7801",
@@ -7926,6 +8046,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sainte-Thérèse-d'Avila Catholic Elementary School",
+                "name:en": "Sainte-Thérèse-d'Avila Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Sainte-Thérèse-d'Avila",
                 "phone": "+1-613-745-0282",
                 "fax": "+1-613-445-0565",
@@ -7992,6 +8113,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Blossom Park Public School",
+                "name:en": "Blossom Park Public School",
                 "name:fr": "École publique Blossom Park",
                 "phone": "+1-613-521-4299",
                 "fax": "+1-613-521-9654",
@@ -8058,6 +8180,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sawmill Creek Elementary School",
+                "name:en": "Sawmill Creek Elementary School",
                 "name:fr": "École élémentaire Sawmill Creek",
                 "phone": "+1-613-521-5922",
                 "fax": "+1-613-521-8003",
@@ -8124,6 +8247,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Laurier-Carrière Catholic Elementary School",
+                "name:en": "Laurier-Carrière Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Laurier-Carrière",
                 "phone": "+1-613-224-3211",
                 "fax": "+1-613-225-3783",
@@ -8190,6 +8314,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Rita School",
+                "name:en": "Saint Rita School",
                 "name:fr": "École Saint Rita",
                 "phone": "+1-613-224-6341",
                 "fax": "+1-613-224-6344",
@@ -8256,6 +8381,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Century Public School",
+                "name:en": "Century Public School",
                 "name:fr": "École publique Century",
                 "phone": "+1-613-224-4903",
                 "fax": "+1-613-224-1089",
@@ -8322,6 +8448,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Daniel School",
+                "name:en": "Saint Daniel School",
                 "name:fr": "École Saint Daniel",
                 "phone": "+1-613-225-4603",
                 "fax": "+1-613-225-4705",
@@ -8388,6 +8515,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Carson Grove Elementary School",
+                "name:en": "Carson Grove Elementary School",
                 "name:fr": "École élémentaire Carson Grove",
                 "phone": "+1-613-745-0195",
                 "fax": "+1-613-745-0291",
@@ -8454,6 +8582,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "D. Roy Kennedy Public School",
+                "name:en": "D. Roy Kennedy Public School",
                 "name:fr": "École publique D. Roy Kennedy",
                 "phone": "+1-613-728-1993",
                 "fax": "+1-613-722-5858",
@@ -8520,6 +8649,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Montfort Catholic Elementary School",
+                "name:en": "Montfort Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Montfort",
                 "phone": "+1-613-745-3310",
                 "fax": "+1-613-746-6785",
@@ -8586,6 +8716,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Centennial Public School",
+                "name:en": "Centennial Public School",
                 "name:fr": "École publique Centennial",
                 "phone": "+1-613-239-2277",
                 "fax": "+1-613-239-5979",
@@ -8652,6 +8783,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Elgin St Public School",
+                "name:en": "Elgin St Public School",
                 "name:fr": "École publique de la rue Elgin",
                 "phone": "+1-613-239-2231",
                 "fax": "+1-613-239-2408",
@@ -8718,6 +8850,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Merivale High School",
+                "name:en": "Merivale High School",
                 "name:fr": "École secondaire Merivale",
                 "phone": "+1-613-224-1807",
                 "fax": "+1-613-224-1416",
@@ -8784,6 +8917,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Minto Professional and Technical Centre",
+                "name:en": "Minto Professional and Technical Centre",
                 "name:fr": "Centre professionnel et technique Minto",
                 "phone": "+1-613-842-5319",
                 "fax": "+1-613-842-5118",
@@ -8850,6 +8984,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sir Guy Carleton Secondary School",
+                "name:en": "Sir Guy Carleton Secondary School",
                 "name:fr": "École secondaire Sir Guy Carleton",
                 "phone": "+1-613-723-5136",
                 "fax": "+1-613-723-8497",
@@ -8916,6 +9051,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lisgar Collegiate Institute",
+                "name:en": "Lisgar Collegiate Institute",
                 "name:fr": "Institut collégial Lisgar",
                 "phone": "+1-613-239-2696",
                 "fax": "+1-613-235-7497",
@@ -8982,6 +9118,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Rideau High School",
+                "name:en": "Rideau High School",
                 "name:fr": "École secondaire Rideau",
                 "phone": "+1-613-746-8196",
                 "fax": "+1-613-746-7834",
@@ -9048,6 +9185,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Colonel By Secondary School",
+                "name:en": "Colonel By Secondary School",
                 "name:fr": "École secondaire Colonel By",
                 "phone": "+1-613-745-9411",
                 "fax": "+1-613-745-4680",
@@ -9114,6 +9252,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sacred Heart High School",
+                "name:en": "Sacred Heart High School",
                 "name:fr": "École secondaire Sacred Heart",
                 "phone": "+1-613-831-6643",
                 "fax": "+1-613-831-6647",
@@ -9180,6 +9319,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "All Saints High School",
+                "name:en": "All Saints High School",
                 "name:fr": "École secondaire All Saints",
                 "phone": "+1-613-271-4254",
                 "fax": "+1-613-591-8127",
@@ -9246,6 +9386,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sir Wilfrid Laurier Secondary School",
+                "name:en": "Sir Wilfrid Laurier Secondary School",
                 "name:fr": "École secondaire Sir Wilfrid Laurier",
                 "phone": "+1-613-834-4500",
                 "fax": "+1-613-834-4511",
@@ -9312,6 +9453,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Béatrice-Desloges Catholic High School",
+                "name:en": "Béatrice-Desloges Catholic High School",
                 "name:fr": "École secondaire catholique Béatrice-Desloges",
                 "phone": "+1-613-820-3391",
                 "fax": "+1-613-830-5457",
@@ -9378,6 +9520,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "South Carleton High School",
+                "name:en": "South Carleton High School",
                 "name:fr": "École secondaire South Carleton",
                 "phone": "+1-613-838-2212",
                 "fax": "+1-613-838-5694",
@@ -9444,6 +9587,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Patrick's Intermediate School",
+                "name:en": "Saint Patrick's Intermediate School",
                 "name:fr": "École intermédiaire Saint Patrick's",
                 "phone": "+1-613-733-3736",
                 "fax": "+1-613-733-2125",
@@ -9510,6 +9654,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Emily Carr Middle School",
+                "name:en": "Emily Carr Middle School",
                 "name:fr": "École intermédiaire Emily Carr",
                 "phone": "+1-613-824-5455",
                 "fax": "+1-613-824-0487",
@@ -9576,6 +9721,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "D. Aubrey Moodie Intermediate School",
+                "name:en": "D. Aubrey Moodie Intermediate School",
                 "name:fr": "École intermédiaire D. Aubrey Moodie",
                 "phone": "+1-613-829-4080",
                 "fax": "+1-613-828-1569",
@@ -9642,6 +9788,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "MacDonald-Cartier Academy",
+                "name:en": "MacDonald-Cartier Academy",
                 "name:fr": "Académie MacDonald-Cartier",
                 "phone": "+1-613-744-8898",
                 "fax": "+1-613-744-2150",
@@ -9708,6 +9855,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Greenbank Middle School",
+                "name:en": "Greenbank Middle School",
                 "name:fr": "École intermédiaire Greenbank",
                 "phone": "+1-613-828-4587",
                 "fax": "+1-613-828-8975",
@@ -9774,6 +9922,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Fisher Park Public School / Summit Alternate School",
+                "name:en": "Fisher Park Public School / Summit Alternate School",
                 "name:fr": "Fisher Parc L'école publique / Sommet Alternative école",
                 "phone": "+1-613-729-5054",
                 "fax": "+1-613-729-5698",
@@ -9840,6 +9989,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sir Winston Churchill Public School",
+                "name:en": "Sir Winston Churchill Public School",
                 "name:fr": "École publique Sir Winston Churchill",
                 "phone": "+1-613-224-2336",
                 "fax": "+1-613-224-2544",
@@ -9906,6 +10056,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Frank Ryan Catholic Senior Elementary",
+                "name:en": "Frank Ryan Catholic Senior Elementary",
                 "name:fr": "École catholique du second cycle du primaire Frank Ryan",
                 "phone": "+1-613-224-8833",
                 "fax": "+1-613-224-0799",
@@ -9972,6 +10123,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "J. H. Putman Middle School",
+                "name:en": "J. H. Putman Middle School",
                 "name:fr": "École intermédiaire J. H. Putman",
                 "phone": "+1-613-225-4646",
                 "fax": "+1-613-727-8389",
@@ -10038,6 +10190,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Goulbourn Middle School",
+                "name:en": "Goulbourn Middle School",
                 "name:fr": "École intermédiaire Goulbourn",
                 "phone": "+1-613-836-1312",
                 "fax": "+1-613-836-3558",
@@ -10104,6 +10257,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Henry Munro Middle School",
+                "name:en": "Henry Munro Middle School",
                 "name:fr": "École intermédiaire Henry Munro",
                 "phone": "+1-613-748-0060",
                 "fax": "+1-613-749-3187",
@@ -10170,6 +10324,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Pierre-Savard Catholic Secondary School",
+                "name:en": "Pierre-Savard Catholic Secondary School",
                 "name:fr": "École secondaire catholique Pierre-Savard",
                 "phone": "+1-613-820-7293",
                 "fax": "+1-613-823-9767",
@@ -10236,6 +10391,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Kars on the Rideau Public School",
+                "name:en": "Kars on the Rideau Public School",
                 "name:fr": "École publique Kars on the Rideau",
                 "phone": "+1-613-489-2024",
                 "fax": "+1-613-489-4254",
@@ -10302,6 +10458,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Des Voyageurs Catholic Elementary School",
+                "name:en": "Des Voyageurs Catholic Elementary School",
                 "name:fr": "École élémentaire catholique des Voyageurs",
                 "phone": "+1-613-744-8345",
                 "fax": "+1-613-837-9081",
@@ -10368,6 +10525,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Orleans Wood Elementary School",
+                "name:en": "Orleans Wood Elementary School",
                 "name:fr": "Montessori Orléans",
                 "phone": "+1-613-837-4622",
                 "fax": "+1-613-837-0375",
@@ -10434,6 +10592,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "L'Odyssée Public Elementary School",
+                "name:en": "L'Odyssée Public Elementary School",
                 "name:fr": "École élémentaire publique L'Odyssée",
                 "phone": "+1-613-834-2097",
                 "fax": "+1-613-834-3614",
@@ -10500,6 +10659,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Convent Glen Elementary School",
+                "name:en": "Convent Glen Elementary School",
                 "name:fr": "École élémentaire Convent Glen",
                 "phone": "+1-613-824-8177",
                 "fax": "+1-613-824-1714",
@@ -10566,6 +10726,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Life Christian Academy",
+                "name:en": "Life Christian Academy",
                 "name:fr": "Académie chrétienne Life",
                 "phone": "+1-613-800-9368",
                 "fax": "+1-613-834-6589",
@@ -10632,6 +10793,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Thomas More School",
+                "name:en": "Saint Thomas More School",
                 "name:fr": "École Saint Thomas More",
                 "phone": "+1-613-739-7131",
                 "fax": "+1-613-739-1937",
@@ -10698,6 +10860,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Robert Bateman Public School",
+                "name:en": "Robert Bateman Public School",
                 "name:fr": "École publique Robert Bateman",
                 "phone": "+1-613-737-3169",
                 "fax": "+1-613-737-4651",
@@ -10764,6 +10927,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sainte-Geneviève Catholic Elementary School",
+                "name:en": "Sainte-Geneviève Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Sainte-Geneviève",
                 "phone": "+1-613-733-9729",
                 "fax": "+1-613-733-3451",
@@ -10830,6 +10994,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Arch St Public School",
+                "name:en": "Arch St Public School",
                 "name:fr": "École publique de la rue Arch",
                 "phone": "+1-613-733-0205",
                 "fax": "+1-613-733-5862",
@@ -10896,6 +11061,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Hawthorne Public School",
+                "name:en": "Hawthorne Public School",
                 "name:fr": "École publique Hawthorne",
                 "phone": "+1-613-733-6221",
                 "fax": "+1-613-521-1765",
@@ -10962,6 +11128,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Des Pins Catholic Elementary School",
+                "name:en": "Des Pins Catholic Elementary School",
                 "name:fr": "École élémentaire catholique des Pins",
                 "phone": "+1-613-741-2354",
                 "fax": "+1-613-741-6839",
@@ -11028,6 +11195,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Gemma School",
+                "name:en": "Saint Gemma School",
                 "name:fr": "École Saint Gemma",
                 "phone": "+1-613-731-8841",
                 "fax": "+1-613-731-8842",
@@ -11094,6 +11262,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Featherston Dr Public School",
+                "name:en": "Featherston Dr Public School",
                 "name:fr": "École publique de la promenade Featherstone",
                 "phone": "+1-613-731-3357",
                 "fax": "+1-613-731-6353",
@@ -11160,6 +11329,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Pleasant Park Public School",
+                "name:en": "Pleasant Park Public School",
                 "name:fr": "École publique du Pleasant Park",
                 "phone": "+1-613-733-5253",
                 "fax": "+1-613-733-2375",
@@ -11226,6 +11396,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Académie de la Capitale",
+                "name:en": "Académie de la Capitale",
                 "name:fr": "Académie de la Capitale",
                 "phone": "+1-613-721-3872",
                 "fax": "+1-613-820-7392",
@@ -11292,6 +11463,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Grant Alternative School",
+                "name:en": "Grant Alternative School",
                 "name:fr": "École alternative Grant",
                 "phone": "+1-613-596-0188",
                 "fax": "+1-613-596-5581",
@@ -11358,6 +11530,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "La Source Individualized Instruction Catholic Elementary School",
+                "name:en": "La Source Individualized Instruction Catholic Elementary School",
                 "name:fr": "École élémentaire catholique d'enseignement personnalisé La Source",
                 "phone": "+1-613-744-8346",
                 "fax": "+1-613-841-2372",
@@ -11424,6 +11597,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Our Lady Of Wisdom School",
+                "name:en": "Our Lady Of Wisdom School",
                 "name:fr": "École Our Lady Of Wisdom",
                 "phone": "+1-613-824-9700",
                 "fax": "+1-613-824-9010",
@@ -11490,6 +11664,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Dunning-Foubert Elementary School",
+                "name:en": "Dunning-Foubert Elementary School",
                 "name:fr": "École élémentaire Dunning-Foubert",
                 "phone": "+1-613-824-5800",
                 "fax": "+1-613-824-6934",
@@ -11556,6 +11731,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Reine-des-Bois Catholic Elementary School",
+                "name:en": "Reine-des-Bois Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Reine-des-Bois",
                 "phone": "+1-613-744-8647",
                 "fax": "+1-613-824-5596",
@@ -11622,6 +11798,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "General Vanier Public School",
+                "name:en": "General Vanier Public School",
                 "name:fr": "École publique Général Vanier",
                 "phone": "+1-613-731-3631",
                 "fax": "+1-613-521-5597",
@@ -11688,6 +11865,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "West Carleton Secondary School",
+                "name:en": "West Carleton Secondary School",
                 "name:fr": "École secondaire West Carleton",
                 "phone": "+1-613-832-2773",
                 "fax": "+1-613-832-0412",
@@ -11754,6 +11932,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Osgoode Township High School",
+                "name:en": "Osgoode Township High School",
                 "name:fr": "École secondaire du Canton d'Osgoode",
                 "phone": "+1-613-821-2241",
                 "fax": "+1-613-821-0684",
@@ -11820,6 +11999,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "John McCrae Secondary School",
+                "name:en": "John McCrae Secondary School",
                 "name:fr": "École secondaire John McCrae",
                 "phone": "+1-613-823-0367",
                 "fax": "+1-613-823-3755",
@@ -11886,6 +12066,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Gloucester High School",
+                "name:en": "Gloucester High School",
                 "name:fr": "École secondaire Gloucester",
                 "phone": "+1-613-745-7176",
                 "fax": "+1-613-745-5756",
@@ -11952,6 +12133,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Earl Of March Secondary School",
+                "name:en": "Earl Of March Secondary School",
                 "name:fr": "École secondaire Earl Of March",
                 "phone": "+1-613-592-3361",
                 "fax": "+1-613-592-9501",
@@ -12018,6 +12200,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "A.Y. Jackson Secondary School",
+                "name:en": "A.Y. Jackson Secondary School",
                 "name:fr": "École secondaire A.Y. Jackson",
                 "phone": "+1-613-836-2527",
                 "fax": "+1-613-836-5672",
@@ -12084,6 +12267,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Joseph High School",
+                "name:en": "Saint Joseph High School",
                 "name:fr": "École secondaire Saint Joseph",
                 "phone": "+1-613-823-4797",
                 "fax": "+1-613-823-9573",
@@ -12150,6 +12334,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Nicholas Adult High School (Central Campus)",
+                "name:en": "Saint Nicholas Adult High School (Central Campus)",
                 "name:fr": "École secondaire pour adultes St, Nicholas (Campus Centre)",
                 "phone": "+1-613-234-2768",
                 "fax": "+1-613-234-8125",
@@ -12216,6 +12401,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Immaculata High School",
+                "name:en": "Immaculata High School",
                 "name:fr": "École secondaire Immaculata",
                 "phone": "+1-613-237-2001",
                 "fax": "+1-613-563-8884",
@@ -12282,6 +12468,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Adult High School",
+                "name:en": "Adult High School",
                 "name:fr": "École secondaire pour adultes",
                 "phone": "+1-613-239-2707",
                 "fax": "+1-613-232-1616",
@@ -12348,6 +12535,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Woodroffe High School",
+                "name:en": "Woodroffe High School",
                 "name:fr": "École secondaire Woodroffe",
                 "phone": "+1-613-820-7186",
                 "fax": "+1-613-820-5993",
@@ -12414,6 +12602,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sir Robert Borden High School",
+                "name:en": "Sir Robert Borden High School",
                 "name:fr": "École secondaire Sir Robert Borden",
                 "phone": "+1-613-829-5320",
                 "fax": "+1-613-829-1287",
@@ -12480,6 +12669,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Collège Sphere College",
+                "name:en": "Collège Sphere College",
                 "name:fr": "Collège Sphere",
                 "phone": "+1-613-842-9111",
                 "fax": "+1-613-744-3681",
@@ -12546,6 +12736,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Crystal Bay Centre for Special Education",
+                "name:en": "Crystal Bay Centre for Special Education",
                 "name:fr": "Centre d'éducation spéciale Crystal Bay",
                 "phone": "+1-613-828-5376",
                 "fax": "+1-613-828-0713",
@@ -12612,6 +12803,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Clifford Bowey Public School",
+                "name:en": "Clifford Bowey Public School",
                 "name:fr": "École publique Clifford Bowey",
                 "phone": "+1-613-737-4401",
                 "fax": "+1-613-737-7548",
@@ -12678,6 +12870,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Storefront School",
+                "name:en": "Storefront School",
                 "name:fr": "École Storefront",
                 "phone": "+1-613-749-9550",
                 "fax": "+1-613-749-9174",
@@ -12744,6 +12937,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Anthony School",
+                "name:en": "Saint Anthony School",
                 "name:fr": "École Saint Anthony",
                 "phone": "+1-613-235-0340",
                 "fax": "+1-613-236-9466",
@@ -12810,6 +13004,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Cambridge St Community Public School",
+                "name:en": "Cambridge St Community Public School",
                 "name:fr": "École publique communautaire de la rue Cambridge",
                 "phone": "+1-613-239-2216",
                 "fax": "+1-613-239-5981",
@@ -12876,6 +13071,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Hilson Avenue Public School",
+                "name:en": "Hilson Avenue Public School",
                 "name:fr": "École publique de l'avenue Hilson",
                 "phone": "+1-613-728-4607",
                 "fax": "+1-613-729-0826",
@@ -12942,6 +13138,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Centre Jules Léger",
+                "name:en": "Centre Jules Léger",
                 "name:fr": "Centre Jules Léger",
                 "phone": "+1-613-761-9300",
                 "fax": "+1-613-761-9301",
@@ -13008,6 +13205,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Severn Avenue Public School",
+                "name:en": "Severn Avenue Public School",
                 "name:fr": "École publique de l'avenue Severn",
                 "phone": "+1-613-829-8082",
                 "fax": "+1-613-596-6063",
@@ -13074,6 +13272,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Édouard-Bond Individualized Instruction Catholic Elementary School",
+                "name:en": "Édouard-Bond Individualized Instruction Catholic Elementary School",
                 "name:fr": "École élémentaire catholique d'enseignement personnalisé Édouard-Bond",
                 "phone": "+1-613-820-4045",
                 "fax": "+1-613-820-5771",
@@ -13140,6 +13339,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Abraar School",
+                "name:en": "Abraar School",
                 "name:fr": "École Abraar",
                 "phone": "+1-613-226-1396",
                 "fax": "+1-613-226-2745",
@@ -13206,6 +13406,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Manordale Public School",
+                "name:en": "Manordale Public School",
                 "name:fr": "École publique Manordale",
                 "phone": "+1-613-226-6393",
                 "fax": "+1-613-226-8625",
@@ -13272,6 +13473,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Rockcliffe Park Public School",
+                "name:en": "Rockcliffe Park Public School",
                 "name:fr": "École publique Rockcliffe Park",
                 "phone": "+1-613-749-5387",
                 "fax": "+1-613-749-6333",
@@ -13338,6 +13540,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ashbury College",
+                "name:en": "Ashbury College",
                 "name:fr": "Collège Asbury",
                 "phone": "+1-613-749-5954",
                 "fax": "+1-613-749-9724",
@@ -13404,6 +13607,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Elmwood School",
+                "name:en": "Elmwood School",
                 "name:fr": "École Elmwood",
                 "phone": "+1-613-749-6761",
                 "fax": "+1-613-741-8210",
@@ -13470,6 +13674,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Manor Park Public School",
+                "name:en": "Manor Park Public School",
                 "name:fr": "École publique Manor Park",
                 "phone": "+1-613-746-8131",
                 "fax": "+1-613-746-2817",
@@ -13536,6 +13741,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Leitrim Montessori Preschool",
+                "name:en": "Leitrim Montessori Preschool",
                 "name:fr": "Centre préscolaire Montessori Leitrim",
                 "phone": "+1-613-822-6848",
                 "fax": "+1-613-822-6424",
@@ -13602,6 +13808,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint-Guillaume Catholic Elementary Schoolol",
+                "name:en": "Saint-Guillaume Catholic Elementary Schoolol",
                 "name:fr": "École élémentaire catholique Saint-Guillaume",
                 "phone": "+1-613-745-5981",
                 "fax": "+1-613-835-2999",
@@ -13668,6 +13875,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Heritage Public School",
+                "name:en": "Heritage Public School",
                 "name:fr": "École publique Heritage",
                 "phone": "+1-613-835-1700",
                 "fax": "+1-613-835-1799",
@@ -13734,6 +13942,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Adrienne Clarkson Public School",
+                "name:en": "Adrienne Clarkson Public School",
                 "name:fr": "École publique Adrienne Clarkson",
                 "phone": "+1-613-825-8600",
                 "fax": "+1-613-825-6872",
@@ -13800,6 +14009,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Andrew School",
+                "name:en": "Saint Andrew School",
                 "name:fr": "École Saint Andrew",
                 "phone": "+1-613-843-0050",
                 "fax": "+1-613-843-0303",
@@ -13866,6 +14076,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Farley Mowat Public School",
+                "name:en": "Farley Mowat Public School",
                 "name:fr": "École publique Farley Mowat",
                 "phone": "+1-613-825-3006",
                 "fax": "+1-613-825-6455",
@@ -13932,6 +14143,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Michaëlle-Jean Public Elementary School",
+                "name:en": "Michaëlle-Jean Public Elementary School",
                 "name:fr": "École élémentaire publique Michaëlle-Jean",
                 "phone": "+1-613-823-2288",
                 "fax": "+1-613-823-5989",
@@ -13998,6 +14210,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Steve MacLean Public School",
+                "name:en": "Steve MacLean Public School",
                 "name:fr": "École publique Steve MacLean",
                 "phone": "+1-613-822- 0341",
                 "fax": "+1-613-822-7874",
@@ -14064,6 +14277,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Matthew High School",
+                "name:en": "Saint Matthew High School",
                 "name:fr": "École secondaire Saint Matthew",
                 "phone": "+1-613-837-3161",
                 "fax": "+1-613-830-8333",
@@ -14130,6 +14344,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Peter High School",
+                "name:en": "Saint Peter High School",
                 "name:fr": "École secondaire Saint Peter",
                 "phone": "+1-613-837-9377",
                 "fax": "+1-613-837-7235",
@@ -14196,6 +14411,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Le Transit School",
+                "name:en": "Le Transit School",
                 "name:fr": "École Le Transit",
                 "phone": "+1-613-747-3838",
                 "fax": "+1-613-747-3844",
@@ -14262,6 +14478,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Paul High School",
+                "name:en": "Saint Paul High School",
                 "name:fr": "École secondaire Saint Paul",
                 "phone": "+1-613-820-9705",
                 "fax": "+1-613-820-9390",
@@ -14328,6 +14545,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Holy Trinity Catholic High School",
+                "name:en": "Holy Trinity Catholic High School",
                 "name:fr": "École secondaire catholique Holy Trinity",
                 "phone": "+1-613-591-9955",
                 "fax": "+1-613-592-4839",
@@ -14394,6 +14612,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Tancook Bell School",
+                "name:en": "Tancook Bell School",
                 "name:fr": "École Tancook Bell",
                 "phone": "+1-613-730-3970",
                 "fax": "+1-null",
@@ -14460,6 +14679,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Pius X Catholic Elementary School & High School",
+                "name:en": "Saint Pius X Catholic Elementary School & High School",
                 "name:fr": "École élémentaire et école secondaire catholique Saint Pius X",
                 "phone": "+1-613-225-8105",
                 "fax": "+1-613-225-9105",
@@ -14526,6 +14746,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lester B. Pearson Catholic High School",
+                "name:en": "Lester B. Pearson Catholic High School",
                 "name:fr": "École secondaire catholique Lester B. Pearson",
                 "phone": "+1-613-741-4525",
                 "fax": "+1-613-741-9593",
@@ -14592,6 +14813,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Mother Teresa High School",
+                "name:en": "Mother Teresa High School",
                 "name:fr": "École secondaire Mother Teresa",
                 "phone": "+1-613-823-1663",
                 "fax": "+1-613-823-4365",
@@ -14658,6 +14880,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Mark High School",
+                "name:en": "Saint Mark High School",
                 "name:fr": "École secondaire Saint Mark",
                 "phone": "+1-613-692-2551",
                 "fax": "+1-613-692-2447",
@@ -14724,6 +14947,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Glashan Public School",
+                "name:en": "Glashan Public School",
                 "name:fr": "École publique Glashan",
                 "phone": "+1-613-239-2264",
                 "fax": "+1-613-563-2955",
@@ -14790,6 +15014,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Cedarview Middle School",
+                "name:en": "Cedarview Middle School",
                 "name:fr": "École intermédiaire Cedarview",
                 "phone": "+1-613-825-2185",
                 "fax": "+1-613-825-4882",
@@ -14856,6 +15081,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Longfields-Davidson Heights Secondary School",
+                "name:en": "Longfields-Davidson Heights Secondary School",
                 "name:fr": "École secondaire Longfields-Davidson Heights",
                 "phone": "+1-613-843-7722",
                 "fax": "+1-613-843-7741",
@@ -14922,6 +15148,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Nicholas Adult High School (West Campus)",
+                "name:en": "Saint Nicholas Adult High School (West Campus)",
                 "name:fr": "École secondaire pour adultes Saint Nicholas (Campus Ouest)",
                 "phone": "+1-613-228-8888",
                 "fax": "+1-613-228-9967",
@@ -14988,6 +15215,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Francis Xavier High School",
+                "name:en": "Saint Francis Xavier High School",
                 "name:fr": "École Saint Francis-of-Assisi",
                 "phone": "+1-613-822-7900",
                 "fax": "+1-613-822-0214",
@@ -15054,6 +15282,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Louis-Riel Public High School",
+                "name:en": "Louis-Riel Public High School",
                 "name:fr": "École secondaire publique Louis-Riel",
                 "phone": "+1-613-590-2233",
                 "fax": "+1-613-837-6069",
@@ -15120,6 +15349,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Cairine Wilson Secondary School",
+                "name:en": "Cairine Wilson Secondary School",
                 "name:fr": "École secondaire Cairine-Wilson",
                 "phone": "+1-613-824-4411",
                 "fax": "+1-613-824-5679",
@@ -15186,6 +15416,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Redeemer Christian High School",
+                "name:en": "Redeemer Christian High School",
                 "name:fr": "École secondaire chrétienne Redeemer",
                 "phone": "+1-613-723-9262",
                 "fax": "+1-613-723-9321",
@@ -15252,6 +15483,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Hillcrest High School",
+                "name:en": "Hillcrest High School",
                 "name:fr": "École secondaire Hillcrest's",
                 "phone": "+1-613-733-1755",
                 "fax": "+1-613-733-6126",
@@ -15318,6 +15550,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Canterbury High School",
+                "name:en": "Canterbury High School",
                 "name:fr": "École secondaire Canterbury",
                 "phone": "+1-613-731-1191",
                 "fax": "+1-613-731-5210",
@@ -15384,6 +15617,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Brookfield High School",
+                "name:en": "Brookfield High School",
                 "name:fr": "École secondaire Brookfield",
                 "phone": "+1-613-733-0610",
                 "fax": "+1-613-733-8452",
@@ -15450,6 +15684,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "De la Salle Public High School",
+                "name:en": "De la Salle Public High School",
                 "name:fr": "École secondaire publique De la Salle",
                 "phone": "+1-613-789-0053",
                 "fax": "+1-613-789-1545",
@@ -15516,6 +15751,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Torah Institute High School",
+                "name:en": "Ottawa Torah Institute High School",
                 "name:fr": "École secondaire Ottawa Torah Institute",
                 "phone": "+1-613-244 9119",
                 "fax": "+1-613-244 3939",
@@ -15582,6 +15818,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Garneau Catholic High School",
+                "name:en": "Garneau Catholic High School",
                 "name:fr": "École secondaire catholique Garneau",
                 "phone": "+1-613-820-1750",
                 "fax": "+1-613-824-5789",
@@ -15648,6 +15885,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "L'Alternative Public High School",
+                "name:en": "L'Alternative Public High School",
                 "name:fr": "École secondaire publique L'Alternative",
                 "phone": "+1-613-745-0369",
                 "fax": "+1-613-745-1263",
@@ -15714,6 +15952,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Continuing Education",
+                "name:en": "Continuing Education",
                 "name:fr": "Éducation permanente",
                 "phone": "+1-613-741-2304",
                 "fax": "+1-613-741-2191",
@@ -15780,6 +16019,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Technical Secondary School",
+                "name:en": "Ottawa Technical Secondary School",
                 "name:fr": "École secondaire technique d'Ottawa",
                 "phone": "+1-613-745-0347",
                 "fax": "+1-613-745-8234",
@@ -15846,6 +16086,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Patrick's High School",
+                "name:en": "Saint Patrick's High School",
                 "name:fr": "École secondaire Saint Patrick's",
                 "phone": "+1-613-733-0501",
                 "fax": "+1-613-526-3198",
@@ -15912,6 +16153,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Machon Sarah High School",
+                "name:en": "Machon Sarah High School",
                 "name:fr": "Centre éducatif à l'extérieur McSkimming",
                 "phone": "+1-613-729-4172",
                 "fax": "+1-n/a",
@@ -15978,6 +16220,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Notre Dame High School",
+                "name:en": "Notre Dame High School",
                 "name:fr": "École secondaire Notre-Dame",
                 "phone": "+1-613-722-6565",
                 "fax": "+1-613-722-7471",
@@ -16044,6 +16287,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Nepean High School",
+                "name:en": "Nepean High School",
                 "name:fr": "École secondaire Nepean",
                 "phone": "+1-613-722-6551",
                 "fax": "+1-613-722-5983",
@@ -16110,6 +16354,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bell High School",
+                "name:en": "Bell High School",
                 "name:fr": "École secondaire Bell",
                 "phone": "+1-613-828-9101",
                 "fax": "+1-613-828-9022",
@@ -16176,6 +16421,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Children's Treatment Centre",
+                "name:en": "Ottawa Children's Treatment Centre",
                 "name:fr": "Centre de traitement pour enfants d'Ottawa",
                 "phone": "+1-613-737-0871",
                 "fax": "+1-613-523-5167",
@@ -16242,6 +16488,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Nicholas Adult High School (West Campus)",
+                "name:en": "Saint Nicholas Adult High School (West Campus)",
                 "name:fr": "Collège catholique Franco-Ouest",
                 "phone": "+1-613-820-2920",
                 "fax": "+1-613-820-7593",
@@ -16308,6 +16555,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Omer-Deslauriers Public High School",
+                "name:en": "Omer-Deslauriers Public High School",
                 "name:fr": "École secondaire publique Omer-Deslauriers",
                 "phone": "+1-613-820-0992",
                 "fax": "+1-613-820-9012",
@@ -16374,6 +16622,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Viscount Alexander Public School",
+                "name:en": "Viscount Alexander Public School",
                 "name:fr": "École publique Viscount Alexander",
                 "phone": "+1-613-239-2213",
                 "fax": "+1-613-239-5978",
@@ -16440,6 +16689,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Francojeunesse Public Elementary School",
+                "name:en": "Francojeunesse Public Elementary School",
                 "name:fr": "École élémentaire publique Francojeunesse",
                 "phone": "+1-613-232-0020",
                 "fax": "+1-613-565-1546",
@@ -16506,6 +16756,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Knoxdale Public School",
+                "name:en": "Knoxdale Public School",
                 "name:fr": "École publique Knoxdale",
                 "phone": "+1-613-828-0010",
                 "fax": "+1-613-828-2973",
@@ -16572,6 +16823,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Dunlop Public School",
+                "name:en": "Dunlop Public School",
                 "name:fr": "École publique Dunlop",
                 "phone": "+1-613-521-4611",
                 "fax": "+1-613-521-4652",
@@ -16638,6 +16890,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Assumption School",
+                "name:en": "Assumption School",
                 "name:fr": "École Assumption",
                 "phone": "+1-613-746-4822",
                 "fax": "+1-613-741-0683",
@@ -16704,6 +16957,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Robert E. Wilson Public School",
+                "name:en": "Robert E. Wilson Public School",
                 "name:fr": "École publique Robert E. Wilson",
                 "phone": "+1-613-745-9480",
                 "fax": "+1-613-745-9489",
@@ -16770,6 +17024,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sainte-Anne Catholic Elementary School",
+                "name:en": "Sainte-Anne Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Sainte-Anne",
                 "phone": "+1-613-789-3933",
                 "fax": "+1-613-789-1265",
@@ -16836,6 +17091,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "York St Public School",
+                "name:en": "York St Public School",
                 "name:fr": "École publique de la rue York",
                 "phone": "+1-613-239-2214",
                 "fax": "+1-613-789-4443",
@@ -16902,6 +17158,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Kateri Tekakwitha School",
+                "name:en": "Saint Kateri Tekakwitha School",
                 "name:fr": "École Saint Kateri Tekakwitha",
                 "phone": "+1-613-830-2454",
                 "fax": "+1-613-830-1436",
@@ -16968,6 +17225,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint-Joseph d'Orléans Catholic Elementary School",
+                "name:en": "Saint-Joseph d'Orléans Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Saint-Joseph d'Orléans",
                 "phone": "+1-613-745-7968",
                 "fax": "+1-613-824-6695",
@@ -17034,6 +17292,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Henry Larsen Elementary School",
+                "name:en": "Henry Larsen Elementary School",
                 "name:fr": "École élémentaire Henry Larsen",
                 "phone": "+1-613-830-4634",
                 "fax": "+1-613-830-4275",
@@ -17100,6 +17359,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Trille-des-Bois Public Elementary School",
+                "name:en": "Trille-des-Bois Public Elementary School",
                 "name:fr": "École élémentaire publique Trille des Bois",
                 "phone": "+1-613-746-6911",
                 "fax": "+1-null",
@@ -17166,6 +17426,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Convent Glen Catholic School",
+                "name:en": "Convent Glen Catholic School",
                 "name:fr": "École catholique Convent Glen",
                 "phone": "+1-613-824-8541",
                 "fax": "+1-613-824-5223",
@@ -17232,6 +17493,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Michael School",
+                "name:en": "Saint Michael School",
                 "name:fr": "École Saint Michael",
                 "phone": "+1-613-749-1642",
                 "fax": "+1-613-749-1710",
@@ -17298,6 +17560,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Queen Mary St Public School",
+                "name:en": "Queen Mary St Public School",
                 "name:fr": "École publique de la rue Queen Mary",
                 "phone": "+1-613-749-1692",
                 "fax": "+1-613-749-6184",
@@ -17364,6 +17627,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Elizabeth Park Public School",
+                "name:en": "Elizabeth Park Public School",
                 "name:fr": "École publique Elizabeth Park",
                 "phone": "+1-613-523-5406",
                 "fax": "+1-613-523-7458",
@@ -17430,6 +17694,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Holy Family School",
+                "name:en": "Holy Family School",
                 "name:fr": "École Holy Family",
                 "phone": "+1-613-521-0475",
                 "fax": "+1-613-521-0798",
@@ -17496,6 +17761,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bayview Public School",
+                "name:en": "Bayview Public School",
                 "name:fr": "École publique Bayview",
                 "phone": "+1-613-733-4726",
                 "fax": "+1-613-733-8509",
@@ -17562,6 +17828,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Fernhill School",
+                "name:en": "Fernhill School",
                 "name:fr": "École Fenhill",
                 "phone": "+1-613-746-0255",
                 "fax": "+1-613-749-7514",
@@ -17628,6 +17895,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Our Lady Of Victory School",
+                "name:en": "Our Lady Of Victory School",
                 "name:fr": "École Our Lady Of Victory",
                 "phone": "+1-613-828-5594",
                 "fax": "+1-613-828-5236",
@@ -17694,6 +17962,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Le Trillium Public Elementary School",
+                "name:en": "Le Trillium Public Elementary School",
                 "name:fr": "École élémentaire publique Le Trillium",
                 "phone": "+1-613-744-8523",
                 "fax": "+1-613-744-6759",
@@ -17760,6 +18029,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Pinecrest Public School",
+                "name:en": "Pinecrest Public School",
                 "name:fr": "École publique Pinecrest",
                 "phone": "+1-613-828-5115",
                 "fax": "+1-613-596-3821",
@@ -17826,6 +18096,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Luke School, (Nepean)",
+                "name:en": "Saint Luke School, (Nepean)",
                 "name:fr": "École Saint Luke (Nepean)",
                 "phone": "+1-613-825-2520",
                 "fax": "+1-613-825-4170",
@@ -17892,6 +18163,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Pierre-Elliott-Trudeau Catholic Elementary School",
+                "name:en": "Pierre-Elliott-Trudeau Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Pierre-Elliott-Trudeau",
                 "phone": "+1-613-521-1560",
                 "fax": "+1-613-823-5431",
@@ -17958,6 +18230,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Berrigan Elementary School",
+                "name:en": "Berrigan Elementary School",
                 "name:fr": "École élémentaire Berrigan",
                 "phone": "+1-613-825-0092",
                 "fax": "+1-613-825-5733",
@@ -18024,6 +18297,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Emily School",
+                "name:en": "Saint Emily School",
                 "name:fr": "École St.Emily",
                 "phone": "+1-613-825-4300",
                 "fax": "+1-613-825-1924",
@@ -18090,6 +18364,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Christian School",
+                "name:en": "Ottawa Christian School",
                 "name:fr": "École chrétienne d'Ottawa",
                 "phone": "+1-613-727-5066",
                 "fax": "+1-613-722-5836",
@@ -18156,6 +18431,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Jean-Robert-Gauthier Catholic Elementary School",
+                "name:en": "Jean-Robert-Gauthier Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Jean-Robert-Gauthier",
                 "phone": "+1-613-820-0757",
                 "fax": "+1-613-440-4023",
@@ -18222,6 +18498,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Islamic School",
+                "name:en": "Ottawa Islamic School",
                 "name:fr": "École islamique d'Otatwa",
                 "phone": "+1-613-727-5066",
                 "fax": "+1-613-727-8486",
@@ -18288,6 +18565,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Glebe Montessori School",
+                "name:en": "Glebe Montessori School",
                 "name:fr": "École Montessori du Glebe",
                 "phone": "+1-613-237-3824",
                 "fax": "+1-613-237-4962",
@@ -18354,6 +18632,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Hopewell Avenue Public School",
+                "name:en": "Hopewell Avenue Public School",
                 "name:fr": "École publique de l'avenue Hopewell",
                 "phone": "+1-613-239-2348",
                 "fax": "+1-613-566-7354",
@@ -18420,6 +18699,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lady Evelyn Alternative School",
+                "name:en": "Lady Evelyn Alternative School",
                 "name:fr": "École alternative Lady Evelyn",
                 "phone": "+1-613-239-2404",
                 "fax": "+1-613-563-7775",
@@ -18486,6 +18766,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Gabriel School",
+                "name:en": "Saint Gabriel School",
                 "name:fr": "École St.Gabriel",
                 "phone": "+1-613-271-6181",
                 "fax": "+1-613-271-8040",
@@ -18552,6 +18833,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint-Rémi Catholic Elementary School",
+                "name:en": "Saint-Rémi Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Saint-Rémi",
                 "phone": "+1-613-741-2360",
                 "fax": "+1-613-271-1494",
@@ -18618,6 +18900,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Westwind Public School",
+                "name:en": "Westwind Public School",
                 "name:fr": "École publique Westwind",
                 "phone": "+1-613-831-7840",
                 "fax": "+1-613-831-5699",
@@ -18684,6 +18967,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Chapman Mills Public School",
+                "name:en": "Chapman Mills Public School",
                 "name:fr": "École publique Chapman Mills",
                 "phone": "+1-613-823-3336",
                 "fax": "+1-613-823-3999",
@@ -18750,6 +19034,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Greely Elementary School",
+                "name:en": "Greely Elementary School",
                 "name:fr": "École élémentaire Greely",
                 "phone": "+1-613-821-2291",
                 "fax": "+1-613-821-3326",
@@ -18816,6 +19101,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Mary School",
+                "name:en": "Saint Mary School",
                 "name:fr": "École Saint Mary",
                 "phone": "+1-613-822-2985",
                 "fax": "+1-613-822-0288",
@@ -18882,6 +19168,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Joan Of Arc Academy",
+                "name:en": "Joan Of Arc Academy",
                 "name:fr": "Académie Joan of Arc",
                 "phone": "+1-613-728-6364",
                 "fax": "+1-613-728-2935",
@@ -18948,6 +19235,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bishop Hamilton Christian Montessori School (West)",
+                "name:en": "Bishop Hamilton Christian Montessori School (West)",
                 "name:fr": "École Montessori chrétienne Bishop Hamilton (Ouest)",
                 "phone": "+1-613-596-4013",
                 "fax": "+1-613-596-4971",
@@ -19014,6 +19302,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint George School",
+                "name:en": "Saint George School",
                 "name:fr": "Écoel Saint George",
                 "phone": "+1-613-728-8291",
                 "fax": "+1-613-728-5024",
@@ -19080,6 +19369,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Elmdale Public School",
+                "name:en": "Elmdale Public School",
                 "name:fr": "École publqiue Elmdale",
                 "phone": "+1-613-728-4653",
                 "fax": "+1-613-728-2301",
@@ -19146,6 +19436,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Holy Redeemer School",
+                "name:en": "Holy Redeemer School",
                 "name:fr": "École Holy Redeemer",
                 "phone": "+1-613-591-3256",
                 "fax": "+1-613-591-9427",
@@ -19212,6 +19503,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Castlefrank Elementary School",
+                "name:en": "Castlefrank Elementary School",
                 "name:fr": "École élémentaire Castlefrank",
                 "phone": "+1-613-592-8071",
                 "fax": "+1-613-592-0921",
@@ -19278,6 +19570,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Katimavik Elementary School",
+                "name:en": "Katimavik Elementary School",
                 "name:fr": "École élémentaire Katimavik",
                 "phone": "+1-613-592-5462",
                 "fax": "+1-613-592-6987",
@@ -19344,6 +19637,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Agincourt Road Public School",
+                "name:en": "Agincourt Road Public School",
                 "name:fr": "École publique Agincourt",
                 "phone": "+1-613-225-2750",
                 "fax": "+1-613-225-5804",
@@ -19410,6 +19704,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint John the Apostle School",
+                "name:en": "Saint John the Apostle School",
                 "name:fr": "École Saint John the Apostle",
                 "phone": "+1-613-828-0644",
                 "fax": "+1-613-828-2216",
@@ -19476,6 +19771,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Leslie Park Public School",
+                "name:en": "Leslie Park Public School",
                 "name:fr": "École publique Leslie Park",
                 "phone": "+1-613-828-5999",
                 "fax": "+1-613-828-9225",
@@ -19542,6 +19838,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Carleton Heights Public School",
+                "name:en": "Carleton Heights Public School",
                 "name:fr": "École publique Carleton Heights",
                 "phone": "+1-613-224-7922",
                 "fax": "+1-613-224-3737",
@@ -19608,6 +19905,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "W.E. Gowling Public School",
+                "name:en": "W.E. Gowling Public School",
                 "name:fr": "École publique W.E. Gowling",
                 "phone": "+1-613-728-3537",
                 "fax": "+1-613-728-9999",
@@ -19674,6 +19972,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Elizabeth School",
+                "name:en": "Saint Elizabeth School",
                 "name:fr": "École Saint Elizabeth",
                 "phone": "+1-613-728-4744",
                 "fax": "+1-613-728-5344",
@@ -19740,6 +20039,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Broadview Public School",
+                "name:en": "Broadview Public School",
                 "name:fr": "École publique Broadview",
                 "phone": "+1-613-728-1721",
                 "fax": "+1-613-728-5945",
@@ -19806,6 +20106,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Kanata Academy",
+                "name:en": "Kanata Academy",
                 "name:fr": "Académie de Kanata",
                 "phone": "+1-613-599-5399",
                 "fax": "+1-613-599-0556",
@@ -19872,6 +20173,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Our Lady Of Peace School",
+                "name:en": "Our Lady Of Peace School",
                 "name:fr": "École Our Lady Of Peace",
                 "phone": "+1-613-828-4037",
                 "fax": "+1-613-828-5778",
@@ -19938,6 +20240,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bells Corners Public School",
+                "name:en": "Bells Corners Public School",
                 "name:fr": "École publique Bells Corners",
                 "phone": "+1-613-828-3100",
                 "fax": "+1-613-828-3701",
@@ -20004,6 +20307,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Torah Academy of Ottawa",
+                "name:en": "Torah Academy of Ottawa",
                 "name:fr": "Académie de la Torah d'Ottawa",
                 "phone": "+1-613-274-0110",
                 "fax": "+1-null",
@@ -20070,6 +20374,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Alta Vista Public School",
+                "name:en": "Alta Vista Public School",
                 "name:fr": "École publique Alta Vista",
                 "phone": "+1-613-733-7124",
                 "fax": "+1-613-733-2730",
@@ -20136,6 +20441,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ecole IBN Batouta",
+                "name:en": "Ecole IBN Batouta",
                 "name:fr": "École IBN Batouta",
                 "phone": "+1-613-730-6396",
                 "fax": "+1-613-730-7751",
@@ -20202,6 +20508,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Gabrielle-Roy Public Elementary School",
+                "name:en": "Gabrielle-Roy Public Elementary School",
                 "name:fr": "École élémentaire publique Gabrielle-Roy",
                 "phone": "+1-613-733-8301",
                 "fax": "+1-613-733-1894",
@@ -20268,6 +20575,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Sainte-Bernadette Catholic Elementary School",
+                "name:en": "Sainte-Bernadette Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Sainte-Bernadette",
                 "phone": "+1-613-521-0875",
                 "fax": "+1-613-521-9010",
@@ -20334,6 +20642,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Bernard School",
+                "name:en": "Saint Bernard School",
                 "name:fr": "École Saint Bernard",
                 "phone": "+1-613-521-5894",
                 "fax": "+1-613-521-5780",
@@ -20400,6 +20709,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Roger-Saint-Denis Catholic Elementary School",
+                "name:en": "Roger-Saint-Denis Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Roger-Saint-Denis",
                 "phone": "+1-613-521-3815",
                 "fax": "+1-613-592-8275",
@@ -20466,6 +20776,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Montessori School",
+                "name:en": "Ottawa Montessori School",
                 "name:fr": "École Montessori Ottawa",
                 "phone": "+1-613-521-5185",
                 "fax": "+1-613-521-6796",
@@ -20532,6 +20843,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "La Vérendrye Catholic Elementary School",
+                "name:en": "La Vérendrye Catholic Elementary School",
                 "name:fr": "École élémentaire catholique La Vérendrye",
                 "phone": "+1-613-749-2349",
                 "fax": "+1-613-749-4924",
@@ -20598,6 +20910,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "A. Lorne Cassidy Elementary School",
+                "name:en": "A. Lorne Cassidy Elementary School",
                 "name:fr": "École élémentaire A.-Lorne-Cassidy",
                 "phone": "+1-613-831-3434",
                 "fax": "+1-613-831-3997",
@@ -20664,6 +20977,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint James School",
+                "name:en": "Saint James School",
                 "name:fr": "École Saint James",
                 "phone": "+1-613-599-6600",
                 "fax": "+1-613-599-9070",
@@ -20730,6 +21044,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Des Sentiers Public Elementary School",
+                "name:en": "Des Sentiers Public Elementary School",
                 "name:fr": "École élémentaire publique Des Sentiers",
                 "phone": "+1-613-834-4453",
                 "fax": "+1-613-834-7131",
@@ -20796,6 +21111,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Stonecrest Elementary School",
+                "name:en": "Stonecrest Elementary School",
                 "name:fr": "École élémentaire Stonecrest",
                 "phone": "+1-613-832-5527",
                 "fax": "+1-613-832-5525",
@@ -20862,6 +21178,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Community Christian School",
+                "name:en": "Community Christian School",
                 "name:fr": "Écoel chrétienne communautaire",
                 "phone": "+1-613-821-3669",
                 "fax": "+1-613-821-3669",
@@ -20928,6 +21245,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Brother André Catholic School",
+                "name:en": "Saint Brother André Catholic School",
                 "name:fr": "École catholique Saint Brother André",
                 "phone": "+1-613-741-0100",
                 "fax": "+1-613-745-4794",
@@ -20994,6 +21312,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Roland Michener Public School",
+                "name:en": "Roland Michener Public School",
                 "name:fr": "École publique Roland-Michener",
                 "phone": "+1-613-592-2126",
                 "fax": "+1-613-592-3254",
@@ -21060,6 +21379,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lamoureux Catholic Elementary School - Individualized Instruction",
+                "name:en": "Lamoureux Catholic Elementary School - Individualized Instruction",
                 "name:fr": "École élémentaire catholique Lamoureux - Enseignement personnalisé",
                 "phone": "+1-613-731-3713",
                 "fax": "+1-613-731-4231",
@@ -21126,6 +21446,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Charlotte-Lemieux Public Elementary School",
+                "name:en": "Charlotte-Lemieux Public Elementary School",
                 "name:fr": "École élémentaire publique Charlotte-Lemieux",
                 "phone": "+1-613-225-1113",
                 "fax": "+1-613-225-6567",
@@ -21192,6 +21513,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Briargreen Public School",
+                "name:en": "Briargreen Public School",
                 "name:fr": "École publique Briargreen",
                 "phone": "+1-613-828-5027",
                 "fax": "+1-613-828-1485",
@@ -21258,6 +21580,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Forest Valley Elementary School",
+                "name:en": "Forest Valley Elementary School",
                 "name:fr": "École élémentaire Forest Valley",
                 "phone": "+1-613-824-0733",
                 "fax": "+1-613-824-0737",
@@ -21324,6 +21647,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Turnbull School",
+                "name:en": "Turnbull School",
                 "name:fr": "École Turnbull",
                 "phone": "+1-613-729-9940",
                 "fax": "+1-613-729-1636",
@@ -21390,6 +21714,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Augustine School",
+                "name:en": "Saint Augustine School",
                 "name:fr": "École Saint Augustine",
                 "phone": "+1-613-225-8020",
                 "fax": "+1-613-225-4107",
@@ -21456,6 +21781,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Gregory School",
+                "name:en": "Saint Gregory School",
                 "name:fr": "École Saint Gregory",
                 "phone": "+1-613-224-3011",
                 "fax": "+1-613-224-5692",
@@ -21522,6 +21848,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Meadowlands Public School",
+                "name:en": "Meadowlands Public School",
                 "name:fr": "École publique Meadowlands",
                 "phone": "+1-613-224-1733",
                 "fax": "+1-613-224-1920",
@@ -21588,6 +21915,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bernard-Grandmaître Catholic Elementary School",
+                "name:en": "Bernard-Grandmaître Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Bernard-Grandmaître",
                 "phone": "+1-613-820-3814",
                 "fax": "+1-613-822-0103",
@@ -21654,6 +21982,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Lakeview Public School",
+                "name:en": "Lakeview Public School",
                 "name:fr": "Longfields-Davidson Heights Intermediate School",
                 "phone": "+1-613-828-8077",
                 "fax": "+1-613-828-9122",
@@ -21720,6 +22049,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Dr. F. J. McDonald Catholic School",
+                "name:en": "Dr. F. J. McDonald Catholic School",
                 "name:fr": "École publique Lakeview",
                 "phone": "+1-613-829-3878",
                 "fax": "+1-613-829-3782",
@@ -21786,6 +22116,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Brigid School",
+                "name:en": "Saint Brigid School",
                 "name:fr": "École Saint Brigid",
                 "phone": "+1-613-746-4888",
                 "fax": "+1-613-746-4980",
@@ -21852,6 +22183,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Terry Fox Elementary School",
+                "name:en": "Terry Fox Elementary School",
                 "name:fr": "École élémentaire Terry-Fox",
                 "phone": "+1-613-837-3251",
                 "fax": "+1-613-837-7628",
@@ -21918,6 +22250,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Anne School",
+                "name:en": "Saint Anne School",
                 "name:fr": "École Saint Anne",
                 "phone": "+1-613-271-0308",
                 "fax": "+1-613-271-8017",
@@ -21984,6 +22317,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bridlewood Community Elementary School",
+                "name:en": "Bridlewood Community Elementary School",
                 "name:fr": "École élémentaire Bridlewood Community",
                 "phone": "+1-613-591-3683",
                 "fax": "+1-613-591-0788",
@@ -22050,6 +22384,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Roch Carrier Elementary School",
+                "name:en": "Roch Carrier Elementary School",
                 "name:fr": "École élémentaire Roch-Carrier",
                 "phone": "+1-613-254-8400",
                 "fax": "+1-613-254-9572",
@@ -22116,6 +22451,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Maurice-Lapointe Public Elementary School",
+                "name:en": "Maurice-Lapointe Public Elementary School",
                 "name:fr": "École élémentaire publique Maurice-Lapointe",
                 "phone": "+1-613-591-5384",
                 "fax": "+1-613-591-3127",
@@ -22182,6 +22518,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Fallingbrook Community Elementary School",
+                "name:en": "Fallingbrook Community Elementary School",
                 "name:fr": "École élémentaire Fallingbrook Community",
                 "phone": "+1-613-830-8817",
                 "fax": "+1-613-830-1039",
@@ -22248,6 +22585,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Des Pionniers Catholic Elementary School",
+                "name:en": "Des Pionniers Catholic Elementary School",
                 "name:fr": "École élémentaire catholique des Pionniers",
                 "phone": "+1-613-744-2448",
                 "fax": "+1-613-837-4296",
@@ -22314,6 +22652,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Trillium Elementary School",
+                "name:en": "Trillium Elementary School",
                 "name:fr": "École élémentaire Trillium",
                 "phone": "+1-613-841-7393",
                 "fax": "+1-613-841-7392",
@@ -22380,6 +22719,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Jeanne-Sauvé Public Elementary School",
+                "name:en": "Jeanne-Sauvé Public Elementary School",
                 "name:fr": "École élémentaire publique Jeanne-Sauvé",
                 "phone": "+1-613-824-9217",
                 "fax": "+1-613-824-3119",
@@ -22446,6 +22786,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Arc-en-ciel Catholic Elementary School",
+                "name:en": "Arc-en-ciel Catholic Elementary School",
                 "name:fr": "École élémentaire catholique Arc-en-ciel",
                 "phone": "+1-613-744-0486",
                 "fax": "+1-613-841-3494",
@@ -22512,6 +22853,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Clare School",
+                "name:en": "Saint Clare School",
                 "name:fr": "École Saint Clare",
                 "phone": "+1-613-834-6334",
                 "fax": "+1-613-834-4424",
@@ -22578,6 +22920,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Maple Ridge Elementary School",
+                "name:en": "Maple Ridge Elementary School",
                 "name:fr": "École élémentaire Maple Ridge",
                 "phone": "+1-613-834-1927",
                 "fax": "+1-613-834-6625",
@@ -22644,6 +22987,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Theresa School",
+                "name:en": "Saint Theresa School",
                 "name:fr": "École Saint Theresa",
                 "phone": "+1-613-837-4114",
                 "fax": "+1-613-837-6362",
@@ -22710,6 +23054,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "La Découverte Catholic Elementary School",
+                "name:en": "La Découverte Catholic Elementary School",
                 "name:fr": "École élémentaire catholique de la Découverte",
                 "phone": "+1-613-744-5894",
                 "fax": "+1-613-837-9161",
@@ -22776,6 +23121,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Avalon Public School",
+                "name:en": "Avalon Public School",
                 "name:fr": "École publique Avalon",
                 "phone": "+1-613-834-7313",
                 "fax": "+1-613-834-5274",
@@ -22842,6 +23188,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "International Student Program Office",
+                "name:en": "International Student Program Office",
                 "name:fr": "Bureau du programme pour étudiants internationaux",
                 "phone": "+1-613-239-0258",
                 "fax": "+1-613-239-0608",
@@ -22908,6 +23255,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Bill Mason Outdoor Education Centre",
+                "name:en": "Bill Mason Outdoor Education Centre",
                 "name:fr": "Centre éducatif à l'extérieur Bill-Mason",
                 "phone": "+1-613-833-2080",
                 "fax": "+1-613-833-0770",
@@ -22974,6 +23322,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "MacSkimming Outdoor Ed. Centre",
+                "name:en": "MacSkimming Outdoor Ed. Centre",
                 "name:fr": "École secondaire Machon Sarah",
                 "phone": "+1-613-833-2080",
                 "fax": "+1-613-833-0770",
@@ -23040,6 +23389,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Francis of Assisi School",
+                "name:en": "Saint Francis of Assisi School",
                 "name:fr": "École secondaire Saint Francis-Xavier",
                 "phone": "+1-613-830-3215",
                 "fax": "+1-613-830-5698",
@@ -23106,6 +23456,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Saint Dominic School",
+                "name:en": "Saint Dominic School",
                 "name:fr": "École Saint Dominic",
                 "phone": "+1-null",
                 "fax": "+1-null",
@@ -23172,6 +23523,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "The Greenwoods Academy",
+                "name:en": "The Greenwoods Academy",
                 "name:fr": "L'Académie Greenwoods",
                 "phone": "+1-613-591-3100",
                 "fax": "+1-null",
@@ -23238,6 +23590,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "MindWare Academy",
+                "name:en": "MindWare Academy",
                 "name:fr": "Académie MindWare",
                 "phone": "+1-613-829-2694",
                 "fax": "+1-613-829-2694",
@@ -23304,6 +23657,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Westboro Montessori School Campus 2",
+                "name:en": "Westboro Montessori School Campus 2",
                 "name:fr": "École Montessori de Westboro Campus 2",
                 "phone": "+1-613-680-0712",
                 "fax": "+1-null",
@@ -23370,6 +23724,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Maryvale Academy of Ottawa",
+                "name:en": "Maryvale Academy of Ottawa",
                 "name:fr": "Académie Maryvale d'Ottawa",
                 "phone": "+1-613-321-2186",
                 "fax": "+1-613-454-8167",
@@ -23436,6 +23791,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "VINCI School",
+                "name:en": "VINCI School",
                 "name:fr": "École VINCI",
                 "phone": "+1-613-842-7557",
                 "fax": "+1-613-842-7557",
@@ -23502,6 +23858,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Westboro Montessori School Campus 1",
+                "name:en": "Westboro Montessori School Campus 1",
                 "name:fr": "École Montessori de Westboro Campus 1",
                 "phone": "+1-613-321-0788",
                 "fax": "+1-null",
@@ -23568,6 +23925,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Manotick Montessori",
+                "name:en": "Manotick Montessori",
                 "name:fr": "École Montessori de Manotick",
                 "phone": "+1-613-692-1969",
                 "fax": "+1-613-692-1911",
@@ -23634,6 +23992,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Astolot Education Centre",
+                "name:en": "Astolot Education Centre",
                 "name:fr": "Centre d'éducation Astolot",
                 "phone": "+1-613-260-5996",
                 "fax": "+1-null",
@@ -23700,6 +24059,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Blyth Academy",
+                "name:en": "Blyth Academy",
                 "name:fr": "Académie Blyth",
                 "phone": "+1-613-627-7356",
                 "fax": "+1-null",
@@ -23766,6 +24126,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Abraar School",
+                "name:en": "Abraar School",
                 "name:fr": "École Abraar",
                 "phone": "+1-613-820-0044",
                 "fax": "+1-613-820-1495",
@@ -23832,6 +24193,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ottawa Montessori School - The Element",
+                "name:en": "Ottawa Montessori School - The Element",
                 "name:fr": "École Montessori d'Ottawa - L'Elément",
                 "phone": "+1-613-862-8578",
                 "fax": "+1-null",
@@ -23898,6 +24260,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Parkdale Montessori School",
+                "name:en": "Parkdale Montessori School",
                 "name:fr": "École Montessori de Parkdale",
                 "phone": "+1-613-216-7275",
                 "fax": "+1-null",
@@ -23964,6 +24327,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ahlul-Bayt Islamic School",
+                "name:en": "Ahlul-Bayt Islamic School",
                 "name:fr": "Ahlul-Bayt école islamique",
                 "phone": "+1-613-526-0774",
                 "fax": "+1-613-526-1941",
@@ -24030,6 +24394,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Ganon Preschool",
+                "name:en": "Ganon Preschool",
                 "name:fr": "Préscolaire Ganon",
                 "phone": "+1-613-798-9818",
                 "fax": "+1-null",
@@ -24096,6 +24461,7 @@
             "properties": {
                 "amenity": "school",
                 "name": "Providence Academy Antonine Sisters",
+                "name:en": "Providence Academy Antonine Sisters",
                 "name:fr": "Académie Providence Surs Antonines",
                 "phone": "+1-613-744-8489",
                 "fax": "+1-null",
