@@ -1,0 +1,3403 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled 1977",
+                "name:fr": "Untitled 1977",
+                "artist_name": "McLaughlin, Monika",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_1_untitled.jpg",
+                "start_date": "1977",
+                "material": "concrete and ceramic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1895 Russell Road, Dempsey Community Centre",
+                "inscription": "This artwork was a collaboration between Monika McLaughlin (concept of concrete work) and Marguerite Weatherstone (supplier of handmade earthenware tiles). The stylized tree represents a community and its fruits symbolize individual contributions.",
+                "inscription:fr": "Cette œuvre d’art a été réalisée dans le cadre d’une collaboration entre Monika McLaughlin (qui a conçu l’œuvre de béton) et Marguerite Weatherstone (qui a réalisé à la main les tuiles de terre cuite). L’arbre stylisé représente une communauté, et ses fru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.627848,
+                    45.401988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "We are not getting any older now...",
+                "name:fr": "We are not getting any older now...",
+                "artist_name": "Wonnacott, Justin",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_10_We-are-not-getting-any-older-now....jpg",
+                "start_date": "1989",
+                "material": "Ektacolour print with text, dye-coupler print (Ektacolour)",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "inscription": "The text “WE’RE NOT GETTING ANY OLDER NOW” points out the fact that the photograph has arrested this moment for our consideration. The installation of the text on the floor accentuates the intended three dimensional illusion of the image and assigns impor",
+                "inscription:fr": "Le texte « WE’RE NOT GETTING ANY OLDER NOW » (nous ne vieillissons pas) signale le fait que le photographe a immortalisé ce moment pour le porter à notre attention. L’installation du texte sur le plancher accentue l’illusion de trois dimensions recherchée"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.724719,
+                    45.403638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Night Patrol",
+                "name:fr": "Night Patrol",
+                "artist_name": "Robertson, Erin",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_109_Night-Patrol.jpg",
+                "start_date": "2009",
+                "material": "acrylic and resin on wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "211 Huntmar Drive, West Division Patrol Station",
+                "inscription": "Night Patrol is the focal point of the main entrance lobby at the Ottawa Police Service’s patrol station, located at 211 Huntmar Drive in Kanata. The artwork reflects the role of the new station in the community through a composite night scene of a patrol",
+                "inscription:fr": "Night Patrol (Patrouille de nuit) orne le hall de l’entrée principale du poste de patrouille du Service de police d’Ottawa, situé au 211, promenade Huntmar, à Kanata. L’œuvre reflète le rôle du nouveau poste de patrouille dans la communauté au moyen d’une"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.924941,
+                    45.292429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Ouananiche",
+                "name:fr": "Ouananiche",
+                "artist_name": "Sharpe, Blair",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_11_Ouananiche.jpg",
+                "start_date": "1989",
+                "material": "acrylic on canvas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "320 Jack Purcell Lane, Jack-Purcell Community Centre",
+                "inscription": "This large mural was commissioned for the re-opening of the Jack Purcell Community Centre on Elgin Street in 1989. Its surface was built up with many layers of translucent colour, and contrasted between a fairly spontaneous handling of paint and a relativ",
+                "inscription:fr": "Cette grande peinture murale a ete commandée pour la réouverture du Centre communautaire Jack-Purcell rue Elgin en 1989. Sa surface est constituée de multiples couches de couleur translucide ; elle offre un contraste entre le traitement assez spontané de",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.689035,
+                    45.415478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Postcards from the Piazzas",
+                "name:fr": "Postcards from the Piazzas",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_110_Postcards-from-the-Piazzas.jpg",
+                "start_date": "2010",
+                "material": "bronze, stainless steel and granite",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Preston Street",
+                "inscription": "After two years of collecting source material from community members, the artist created this sculptural series. It brings together fragments of the communities’ heritage and culture. Each element forges links and creates nostalgia between the viewer and",
+                "inscription:fr": "Après deux années à recueillir du matériel-source auprès de membres de la communauté, l'artiste a conçu son installation en intégrant ces fragments d'histoire et de géographie. Chaque élément forge liens et souvenirs entre le spectateur et le concept de p"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.711018,
+                    45.403128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Wellington Marbles",
+                "name:fr": "The Wellington Marbles",
+                "artist_name": "Kucey Jones and/et Lotecki, Marcus and/et Ryan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_111_The-Wellington-Marbles.jpg",
+                "start_date": "2010",
+                "material": "marble and limestone",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Wellington Street West",
+                "inscription": "Eighteen hand-carved marble sculptures are installed at intervals along Wellington West Street. The Wellington Marbles, a sculptural series by local artists Marcus Kucey-Jones and Ryan Lotecki was commissioned by the City of Ottawa as part of the Wellingt",
+                "inscription:fr": "Les dix-huit sculptures en marbre sont installées à intervalles le long de la rue Wellington Ouest. The Wellington Marbles, des artistes locaux Marcus Kucey-Jones et Ryan Lotecki, est une série de sculptures créées grâce à la Ville d’Ottawa pour la rue We",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Vision Weave",
+                "name:fr": "Toile de vision",
+                "artist_name": "Ewen, Thoma and Gabriel Ewen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_112_Vision-Weave.jpg",
+                "start_date": "2010",
+                "material": "mixed fibre tapestry and wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1550 Heatherington Rd, Albion-Heatherington Community Centre",
+                "inscription": "Vision Weave, by artists Thoma Ewen and Gabriel Ewen, is a visual expression of inter-cultural and inter-generational creative collaboration. Hidden within the woven wool banners suspended from the foyer ceiling are over 100 ‘vision messages’ for the pres",
+                "inscription:fr": "Toile de vision, projet dirigé par les artistes Thoma Ewen et Gabriel Ewen, est l’expression visuelle d’une collaboration créative interculturelle et intergénérationnelle. Plus de cent « messages de vision » du présent et de l’avenir, écrits par les membr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.646768,
+                    45.372866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A Place For Us All",
+                "name:fr": "A Place For Us All",
+                "artist_name": "Pynn-Trudeau, Carolynne and Chandler Swain",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_113_A-Place-For-Us-All.jpg",
+                "start_date": "2010",
+                "material": "clay, acrylic, wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "24 Capilano Drive, Huron Early Learning Centre",
+                "inscription": "Pynn-Trudeau and Swain have executed a three part commission for the centre; an entrance mosaic, interior mural, and whimsical playground structure. The artwork fosters an artistic flow through the facility underlying the importance of ecological awarenes",
+                "inscription:fr": "Chandler Pynn-Trudeau et Carolynne Swain ont créé une œuvre en trois volets pour le Centre de la petite enfance Huron : une mosaïque à l’entrée, une murale intérieure et une structure originale englobant une aire de jeux. L’œuvre répand un courant artisti",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.732862,
+                    45.356993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Bellwether",
+                "name:fr": "Bellwether",
+                "artist_name": "Erin Robertson and Anna Williams",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_114_Bellwether.jpg",
+                "start_date": "2011",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "645 Longfields Drive, Longfields Transit Station",
+                "inscription": "Bellwether is a permanent sculptural installation, primarily located on the vegetative roofs of the transit station, which consists of four life-sized sheep and one life-sized Border collie sheepdog all cast in bronze and finished with patina.",
+                "inscription:fr": "L’œuvre intitulée Bellwether est une sculpture permanente, que l’on aperçoit sur les toits végétaux de la station de transport en commun; elle se compose de quatre moutons et d’un chien berger de type Border-Collie, de grandeur nature, coulés dans le bron"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.744491,
+                    45.284463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Currents",
+                "name:fr": "Courants",
+                "artist_name": "Pagurek, Cheryl",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_115_Currents.jpg",
+                "start_date": "2011",
+                "material": "LED panels and video",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "65 Marketplace Avenue, Marketplace Transit Station",
+                "inscription": "Central themes found in Cheryl Pagurek’s artwork investigate concepts of time, memory, history and the ephemeral quality of the disappearing past. Currents, a twenty-minute loop of constantly changing video, prominently features imagery of the Jock River,",
+                "inscription:fr": "Les thèmes dominants représentés dans l’œuvre de Cheryl Pagurek explorent les concepts du temps, de la mémoire, de l’histoire et de la nature éphémère du passé évanescent. Currents, une œuvre consistant en des images vidéo à changement constant diffusées"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.742951,
+                    45.269854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Celebration of Growth",
+                "name:fr": "Célébration de la croissance",
+                "artist_name": "Ciesluk, Karl",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_116_Celebration-of-Growth.jpg",
+                "start_date": "2004",
+                "material": "aluminum, stainless steel and stone",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "King Edward Avenue (Rideau Street to Murray Street)",
+                "inscription": "The sculptural series, Celebration of Growth, by local artist Karl Ciesluk was commissioned for King Edward Avenue as part of the street renewal project. Nineteen sculptures of seed pods and plant growth are installed at intervals along Kind Edward Avenue",
+                "inscription:fr": "La série de sculptures Celebration of Growth, (Célébration de la croissance) de l'artiste local Karl Ciesluk est une commande dans le cadre du projet de réfection de l'avenue King Edward. Dix-neuf sculptures de gousses et de bourgeons sont installées à in",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.678529,
+                    45.42012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Curtain Time",
+                "name:fr": "Curtain Time",
+                "artist_name": "Cronin, Lynda",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_117_Curtain-Time.jpg",
+                "start_date": "2010",
+                "material": "glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "101 Centrepointe Drive, Ben Franklin Place, 1st and 2nd, Centrepointe Theatre",
+                "inscription": "Ottawa’s 250-seat studio theatre at Centrepointe Theatre features a public art commission by Lynda Cronin and Michèle Provost, inspired by elegant historical theatre billboards. Incorporated onto the corridor and lobby walls of the expansion, the artist t",
+                "inscription:fr": "Le tout nouveau théâtre d’atelier de 250 places du Théâtre Centrepointe, à Ottawa, présente une œuvre d’art public de Lynda Cronin et de Michèle Provost inspirée des élégants panneaux d’affichage des théâtres d’antan. Les deux artistes ont intégré dans le"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76448,
+                    45.34459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Archive",
+                "name:fr": "Archive",
+                "artist_name": "Maynard, Don",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_118_Archive.jpg",
+                "start_date": "2009",
+                "material": "stainless steel, stone, LED",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "100 Tallwood Drive, Central Archives",
+                "inscription": "As if defying gravity, a stainless steel house floats twenty feet off the plaza. Tethered to the ground, ropes and boulders anchor the house, preventing it from floating away. Archive speaks to the challenge and importance of collecting and preserving our",
+                "inscription:fr": "Défiant la loi de la gravité, une maison en acier inoxydable flotte à une vingtaine de pieds au-dessus de la place. Fixés au sol, des câbles et des blocs rocheux ancrent la structure, l’empêchant de partir à la dérive. L’œuvre symbolise la difficulté et l"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.761316,
+                    45.340672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Connections",
+                "name:fr": "Connections",
+                "artist_name": "Cunnane, Cairn",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_119_Connections.jpg",
+                "start_date": "2010",
+                "material": "steel and zinc",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "33 Quill Street, Overbrook Community Centre",
+                "inscription": "Cairn Cunnane’s whimsical benches are created from collected, recycled, rescued, found and donated materials. The benches are a fluid collage of welded objects and forms inspired by themes of community and connections. Not only as resting places, these be",
+                "inscription:fr": "Les bancs fantaisistes de Cairn Cunnane sont créés à partir de matériaux recueillis, recyclés, sauvegardés, trouvés et reçus en cadeau. Les bancs sont un collage fluide d’objets soudés, inspiré par des thèmes de collectivité et de connexions. Ces bancs ne"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.657529,
+                    45.425571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Bathing in Champagne",
+                "name:fr": "Bain de champagne",
+                "artist_name": "Cabri, Mimi",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_12_Bathing-in-Champagne.jpg",
+                "start_date": "1990",
+                "material": "ceramic tile",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "321 King Edward Avenue, Champagne Bath Pool"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.686988,
+                    45.430499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Portal",
+                "name:fr": "Portal",
+                "artist_name": "St. Amand , Chris",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_120_Portal.jpg",
+                "start_date": "2010",
+                "material": "mixed media",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "33 Quill Street, Overbrook Community Centre",
+                "inscription": "A circular window built into the wall of the courtyard, displaying a magnified photograph of a maple leaf transports the natural world into the built environment of the community centre. Illuminated from within, the window’s light box is powered directly",
+                "inscription:fr": "Construite dans le mur d’une cour, une fenêtre circulaire présente la photographie agrandie d’une feuille d’érable, reliant le monde de la nature à l’environnement bâti du Centre. Éclairé de l’intérieur, le caisson lumineux de la fenêtre est alimenté dire"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.657529,
+                    45.425571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Metabolics of Peace: A Video Triptych",
+                "name:fr": "Metabolics of Peace: A Video Triptych",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_121_Metabolics-of-Peace-A-Video-Triptych.jpg",
+                "start_date": "2011",
+                "material": "digital media installation",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "363 Lorry Greenberg Drive, Greenboro Community Centre",
+                "inscription": "The artist describes the commissioned 3-channel video, mixed media installation “as an exploration of the body as a vehicle for new perceptions about wellness and exercise.”",
+                "inscription:fr": "L’artiste décrit l’installation qui lui a été commandée, une œuvre vidéo à trois canaux en technique mixte, comme étant une « exploration du corps en tant que véhicule de nouvelles perceptions de bien-être et d’exercice »."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.634656,
+                    45.363903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Narrative of Nature",
+                "name:fr": "Narrative of Nature",
+                "artist_name": "Stead, Jennifer",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_122_Narrative-of-Nature.jpg",
+                "start_date": "2011",
+                "material": "clear anodized aluminium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Hazeldean Road (Terry Fox Drive to Carp Road)",
+                "inscription": "Narrative of Nature celebrates the dramatic environment surrounding Kanata. Thirty-six designs illustrate Jennifer Stead’s careful attention to and manipulation of spatial relationships, ensuring each composition tells a complete story while remaining par",
+                "inscription:fr": "L’oeuvre Narrative of Nature (Récit de la nature) reflète l’environnement spectaculaire de Kanata. Les trente-six créations de Jennifer Stead révèlent l’attention minutieuse qu’a portée l’artiste à l’établissement de rapports spatiaux de façon à ce que ch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89571,
+                    45.293396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Imprint: Intersections of City and Sky",
+                "name:fr": "Imprint: Intersections of City and Sky",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_123_Imprint-Intersections-of-City-and-Sky.jpg",
+                "start_date": "2011",
+                "material": "clear anodized aluminium, glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Hazeldean Road (Terry Fox Drive to Carp Road)",
+                "inscription": "Poetically reconnecting urban travellers with nature’s guidance systems Imprint: Intersections of City & Sky, a series of twenty designs by artist team Alisdair MacRae and Negar Seyfollahy, draws attention to visible constellations in the north-eastern an",
+                "inscription:fr": "Rétablissant une connexion poétique entre le voyageur urbain et les systèmes d’orientation de la nature, l’œuvre Imprint: Intersections of City & Sky (Empreinte : rencontres de la ville et du ciel), une série de vingt créations du duo Alisdair MacRae et N"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89571,
+                    45.293396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Hazel Lyrics",
+                "name:fr": "Hazel Lyrics",
+                "artist_name": "Chan, Eric",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_124_Hazel-Lyrics.jpg",
+                "start_date": "2011",
+                "material": "red anodized aluminium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Hazeldean Road (Terry Fox Drive to Carp Road)",
+                "inscription": "Taking inspiration from the natural environment, local economy and community, Eric Chan and Lynda Cronin in a series of twenty-six designs, cleverly employ organic and animal forms combined with urban elements to achieve visual consistency in the designs.",
+                "inscription:fr": "Ayant puisé leur inspiration dans l’environnement naturel et l’économie de la collectivité, Eric Chan et Lynda Cronin démontrent dans cette série de vingt­six créations leur habilité à faire cohabiter des formes naturelles et animales à des éléments urbai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89571,
+                    45.293396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "For Everyone A Garden",
+                "name:fr": "À chacun son jardin",
+                "artist_name": "Margo, Deborah",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_125_For-Everyone-A-Garden.jpg",
+                "start_date": "2011",
+                "material": "copper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "260 Sunnyside Ave, Ottawa South Community Centre",
+                "inscription": "In collaboration with members of the Ottawa South community, Deborah Margo developed the imagery which was embossed and punctured onto the copper panels. Collected in an accompanying archive, the source imagery for the artwork focuses on local gardens and",
+                "inscription:fr": "En collaboration avec les membres de la collectivité d’Ottawa-Sud, Margo a élaboré l’imagerie qui a été estampée et perforée sur des panneaux de cuivre. Recueillies dans les archives jointes, les images sources de la maquette portent principalement sur le"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.682307,
+                    45.394707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A Place to Nest, a Place to Reflect, Have a Seat",
+                "name:fr": "A Place to Nest, a Place to Reflect, Have a Seat",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_126_A-Place-to-Nest-a-Place-to-Reflect-Have-a-Seat.jpg",
+                "start_date": "2007",
+                "material": "steel and found objects",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Bank Street, South (Highway 417 to Holmwood Avenue)",
+                "inscription": "A Place to Nest, a Place to Reflect, Have a Seat, by local artist Tim desClouds was commissioned for the Bank Street Glebe district as part of the reconstruction project. Artist and educator Tim desClouds has created an undoubtedly whimsical work of art r",
+                "inscription:fr": "Un endroit où se blottir, un endroit où réfléchir, prenez un siège une œuvre réalisée par l’artiste local Tim desClouds a été élaborée pour la rue Bank du quartier du Glebe, dans le cadre du projet de reconstruction. L’artiste et éducateur, Tim desClouds,"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.686537,
+                    45.399841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Silk Road Flower Rain",
+                "name:fr": "Pluie de fleurs sur la route de la soie",
+                "artist_name": "Lafontaine and/et Lotecki, Charlynne and/et Ryan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_127_Silk-Road-Flower-Rain.jpg",
+                "start_date": "2011",
+                "material": "aluminum and glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Somerset Street West (Chinatown)",
+                "inscription": "Towards Chinatown the series Silk Road Flower Rain exhibits colourful glass forms representing abstracted flowers and raindrops; bamboo for longevity, chrysanthemum for good health, and pomegranate to ward off evil spirits. The deliberate choice of eight",
+                "inscription:fr": "Vers le Quartier chinois, la série Silk Road Flower Rain (Pluie de fleurs sur la route de la soie) présente des formes colorées en verre qui représentent des fleurs et des gouttes de pluie abstraites : le bambou symbolisant la longévité, le chrysanthème s"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.706312,
+                    45.409883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Morphology",
+                "name:fr": "Morphologie",
+                "artist_name": "Lafontaine and/et Lotecki, Charlynne and/et Ryan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_128_Morphology.jpg",
+                "start_date": "2011",
+                "material": "aluminum and glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Somerset Street West",
+                "inscription": "The series of sculptures entitled Morphology commissioned for the Hintonburg district are formed as if windblown with glass forms morphing from a seed pod to an open flower, signifying growth and revitalization. The flame-worked glass elements playfully r",
+                "inscription:fr": "La série de sculptures intitulées Morphology (Morphologie), commandées pour le district de Hintonburg, semblent soufflées par le vent et comportent des formes en verre ressemblant à des gousses qui se transforment en fleurs épanouies, illustrant ainsi la",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72258,
+                    45.40586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "TRANSPOtting",
+                "name:fr": "TRANSPOtting",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_129_TRANSPOtting.jpg",
+                "start_date": "2008",
+                "material": "LED panels and software",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "745 Industrial Avenue, OC Transpo Bus Garage",
+                "inscription": "TRANSPOtting is comprised of 80 LED panels which are embedded in a sound wall. The visual experience of lights cycling different colours, intensities, and patterns through LED panels is cued from input from the OC Transpo bus schedule. As the first bus dr",
+                "inscription:fr": "L'œuvre de commande TRANSPOtting en est une qui s'appuie sur divers médias et comprend 80 panneaux à DEL encastrés dans des murs acoustiques. L'expérience visuelle, où les diodes changent de couleur et d'intensité et tracent sans cesse de nouvelles formes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.634927,
+                    45.408927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Home is Where the Heart Is",
+                "name:fr": "Home is Where the Heart Is",
+                "artist_name": "Durr, Pat",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_13_Home-is-Where-the-Heart-Is.jpg",
+                "start_date": "1990",
+                "material": "acrylic on cotton duck canvas on cassiform",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1480 Heron Road, Heron Road Community Centre",
+                "inscription": "An 18 foot long curved mural is situated on the third floor of this centre. Predominantly abstract, the work evokes a number of familiar scenes and objects in a colourful and playful manner.",
+                "inscription:fr": "Situé au 3e étage du Centre, la grande peinture acrylique sur toile peut presque être qualifiée d’abstraite mais évoque néanmoins divers scènes et objets familiers d’une manière vive et colorée",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.654049,
+                    45.379463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Water",
+                "name:fr": "Eau",
+                "artist_name": "Stead, Jennifer",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_130_Water.jpg",
+                "start_date": "2011",
+                "material": "aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2263 Portobello Boulevard, François Dupuis Pool",
+                "inscription": "Water introduces the force of nature to the built environment of the François Dupuis Recreation Centre through a visual exploration of water’s many moods and manifestations. The artwork amplifies the experience of being at the pool and our relationship w",
+                "inscription:fr": "Eau fait entrer la force de la nature au centre récréatif François-Dupuis en explorant les différentes expressions et dispositions caractéristiques de l’eau. Cette œuvre, tout en soulignant les activités et les objectifs du centre aquatique, enrichit notr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.466009,
+                    45.457771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Falling Star",
+                "name:fr": "Étoile filante",
+                "artist_name": "Maynard, Don",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_131_Falling-Star.jpg",
+                "start_date": "2011",
+                "material": "aluminum, acrylic and LED",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2757 Grand Vista Circle, Half Moon Bay, Cambrian and Greenbank",
+                "inscription": "Falling Star was commissioned by the City of Ottawa for Half Moon Bay Park in Barrhaven South. The 13-foot high cast aluminum sculpture sits atop the toboggan hill at Cambrian and Greenbank roads, balanced on one of its five points. As if fallen from the",
+                "inscription:fr": "La sculpture Étoile filante a fait l’objet d’une commande de la Ville d’Ottawa pour le parc Half Moon Bay à Barrhaven Sud. Se présentant sous la forme d’une sculpture en aluminium coulé d’une hauteur de 4 m (13 pi), l’étoile se dresse en haut de la collin",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.737779,
+                    45.252462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Overhaul",
+                "name:fr": "Overhaul",
+                "artist_name": "Kinghorn, Michael",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_132_Overhaul.jpg",
+                "start_date": "2012",
+                "material": "steel, brass, aluminum and rubber",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "34 Iber Rd, Stittsville, Fire Station 46",
+                "inscription": "This sculpture by artist Michael Kinghorn engages with the word “overhaul” in two ways. A term frequently used by firefighters, overhaul refers to the stripping of walls and floors in order to search for trapped heat. Similarly, the layers of this sculptu",
+                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn évoque deux significations du mot anglais overhaul. Terme fréquemment utilisé par les pompiers, overhaul décrit l’enlèvement de murs et de planchers pour trouver de la chaleur emprisonnée. Dans le même ordre d",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.909978,
+                    45.281583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Collapse",
+                "name:fr": "Collapse",
+                "artist_name": "Kinghorn, Michael",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_133_Collapse.jpg",
+                "start_date": "2012",
+                "material": "steel, stainless steel and copper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "3559 Greenbank Road, Barrhaven South, Fire Station 47",
+                "inscription": "This sculpture by artist Michael Kinghorn reminds us of the dangerous conditions regularly faced by rescue workers. The open corner exposes a jumble of weathered gears, tilling blades, horseshoes and wagon wheels. The deteriorating structure is secured",
+                "inscription:fr": "Cette sculpture de l’artiste Michael Kinghorn nous rappelle les conditions dangereuses que doivent souvent affronter les membres d’équipes de secours. Le coin dégagé montre un amas d’engrenages, de lames de labourage, de fers à cheval et de roues de chari",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.736022,
+                    45.253397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Chase",
+                "name:fr": "La chasse",
+                "artist_name": "Erin Robertson and Anna Williams",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_134_Chase.jpg",
+                "start_date": "2011",
+                "material": "bronze and stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
+                "inscription": "Chase, is a sculptural installation in bronze, mapping the trail of a red fox chasing a ball. Chase captures the animal in gestural movements as though stopped in motion, offering the viewer a sustained gaze of something that usually unfolds too fast for",
+                "inscription:fr": "La Chasse est une sculpture de bronze représentant le parcours d’un renard roux poursuivant une balle. La Chasse reproduit la gestuelle de l’animal interrompu dans son mouvement, offrant à l’observateur une vue soutenue sur une action habituellement trop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.930498,
+                    45.340496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Trellisworks",
+                "name:fr": "Trellisworks",
+                "artist_name": "Brown, Barbara",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_14_Trellisworks.jpg",
+                "start_date": "1991",
+                "material": "aluminum and wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "363 Lorry Greenberg Drive, Greenboro Community Centre",
+                "inscription": "It is my hope that this piece will have the effect of recalling the memories of being in a greenhouse or conservatory. The work is a reminder of growing and thriving plants, of hanging vines and trellises overhead, of the warmth of a summer day. It is a m",
+                "inscription:fr": "J’espère que cette œuvre éveillera des souvenirs de serre ou de conservatoire. Elle évoque des plantes florissantes, grimpantes et des treillis en surplomb par une chaude journée d’été. Il s’agit d’une représentation métaphorique de la vie organique."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.634656,
+                    45.363903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Shutters",
+                "name:fr": "Shutters",
+                "artist_name": "Brathwaite, Stephen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_15_Shutters.jpg",
+                "start_date": "1991",
+                "material": "bevelled and mouthblown glass, lead, heat coloured steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "250 Somerset Street East, Sandy Hill Community Centre",
+                "inscription": "Shutters is one work in a series of leaded glass designs based on deteriorating shutters in various stages of repair. Shutters resemble a set of Venetian blinds, whose glass strips change colour providing different perspectives on the surrounding visual",
+                "inscription:fr": "Shutters fait partie d'une série d'objets en verre au plomb, inspirés de la détérioration de volets, à divers stades de réparation. Shutters rappelle un ensemble de stores vénitiens, dont les parties en verre changent de couleur, donnant des perspectives"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.677901,
+                    45.422992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Glacier",
+                "name:fr": "Glacier",
+                "artist_name": "Vigneau, Jean-Yves",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_16_Glacier.jpg",
+                "start_date": "1991",
+                "material": "aluminum and Plexiglas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1265 Walkley Road, Jim Durrell Arena",
+                "inscription": "The aluminum base of the sculpture’s pyramid is 16 feet on its longest side and 6 feet on its shortest side. The top is a small glass pyramid about 4 feet high, reaching 18 feet high in the air. This is the mountain and its summit of ice.",
+                "inscription:fr": "La base en aluminium de la sculpture fait 16 pieds sur 6 pieds. La cime de la pyramide de verre, d’environ 4 pieds de haut, atteint une hauteur totale de 18 pieds. Tout comme une montagne et son sommet de glace.",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.658971,
+                    45.37225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Harvest",
+                "name:fr": "Harvest",
+                "artist_name": "Ciesluk, Karl",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_17_Harvest.jpg",
+                "start_date": "1991",
+                "material": "wood, metal, Plexiglas and concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "366 Parkdale Avenue, Parkdale Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.729756,
+                    45.401706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Indicator 03",
+                "name:fr": "Indicator 03",
+                "artist_name": "Robinson, David",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_18_Indicator-O3.jpg",
+                "start_date": "1992",
+                "material": "polychromed steel, wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "180 Percy Street, McNabb Community Centre",
+                "inscription": "This project was installed in order to promote and celebrate some of the diverse activities that occur in this vital community park and centre. The nets, and the coloured ball images in the brick represent different games and sports played by many differe",
+                "inscription:fr": "Ce projet a été mis sur pied dans le but de promouvoir et de célébrer quelques-unes des différentes activités qui ont lieu dans ce parc et centre communautaire de grande importance. Les filets et les images de balles colorées dans la brique représentent d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.701565,
+                    45.409278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Billings Bridge",
+                "name:fr": "Billings Bridge",
+                "artist_name": "Gill, Richard",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_19_Billings-Bridge.jpg",
+                "start_date": "1992",
+                "material": "clay",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2100 Cabot Street, Billings Estate Museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.672045,
+                    45.389782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "McClintock's Dream",
+                "name:fr": "McClintock's Dream",
+                "artist_name": "Tolgesy, Victor",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_2_McClintocks_Dream.jpg",
+                "start_date": "1978",
+                "material": "papier maché, acrylic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "55 ByWard Market Building",
+                "inscription": "The Hungarian-born artist who created this whimsical, lively and humorous paper-mâché cloud for the ByWard Market Building was turning away from abstract art in the few years before his early death in 1980, towards what he called “a deliberate involvement",
+                "inscription:fr": "C’est un artiste d’origine hongroise qui a réalisé le nuage en papier mâché à la fois fantaisiste et amusant qui orne l’édifice du marché By. Dans les années qui avaient précédé sa mort prématurée, survenue en 1980, Tolgesy avait décidé de se détourner de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.692613,
+                    45.427613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Strathcona's Folly",
+                "name:fr": "Strathcona's Folly",
+                "artist_name": "Brathwaite, Stephen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_20_Strathconas-Folly.jpg",
+                "start_date": "1992",
+                "material": "concrete, stone, bronze and wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "25 Range Road, Strathcona Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.672726,
+                    45.426752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled",
+                "name:fr": "Untitled",
+                "artist_name": "Slota, Marian",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_21_untitled.jpg",
+                "start_date": "1992",
+                "material": "paint on concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "145 Clarence, Clarence/Murray Street Parking Garage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691032,
+                    45.429947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Alley Cats",
+                "name:fr": "Les chats de gouttieres",
+                "artist_name": "Vigneau, Jean-Yves",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_22_Alley-Cats.jpg",
+                "start_date": "1993",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "145 Clarence, Clarence/Murray Street Parking Garage",
+                "inscription": "The Murray Street parking garage is home to 14 bronze alley cats by local sculptor Jean-Yves Vigneau. These alley cats will infiltrate your creative imaginings. One squints down at you from its perch, another arches its back and three kittens play in the",
+                "inscription:fr": "Le garage de stationnement de la rue Murray abrite les 14 chats de gouttière en bronze de Jean-Yves Vigneau, sculpteur de la région. Ces chats de gouttière s’infiltreront dans votre imaginaire. L’un vous toise du regard du haut de son perchoir, l’autre fa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691032,
+                    45.429947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Grand monochrome rouge et detail",
+                "name:fr": "Grand monochrome rouge et detail",
+                "artist_name": "Berlanga, Miguel",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_23_Grand-monochrome-rouge-et-detail.jpg",
+                "start_date": "1993",
+                "material": "corten steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2 Daly Avenue, Arts Court"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68899,
+                    45.425644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled benches",
+                "name:fr": "sans titre bancs",
+                "artist_name": "Thomson, Jim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_24_untitled-benches.jpg",
+                "start_date": "1994",
+                "material": "clay, wood and leather",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "inscription": "Using natural materials such as clay, wood and leather, Jim Thomson created a series of \"Forest benches\". The benches represent the four Ottawa seasons, bringing the outside natural world to the inside. Ceramic rocks with glazed and sculpted leaves, moss,",
+                "inscription:fr": "Tirant parti de matériaux naturels tels que l'argile, le bois et le cuir, Jim Thomson a créé toute une série de « Bancs sylvestres ». Ces bancs illustrent les quatre saisons à Ottawa, et recréent, dans I'enceinte même de l'hôtel de ville, le milieu nature"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696107,
+                    45.439069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled: Mayor's desk and Chair",
+                "name:fr": "Sans titre: pupitre et chaise du maire",
+                "artist_name": "Kerr, Randy",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_25_untitled-Mayors-desk-and-chair.jpg",
+                "start_date": "1993",
+                "material": "wood, leather, mother of pearl",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "100 Tallwood Drive, Central Archives",
+                "inscription": "This desk and chair was commissioned to integrate with the existing design of the Ottawa City Hall Council Chambers as part of renovations to the previous Ottawa City Hall at 111 Sussex Drive. Details in the chair and desk such as mother of pearl diamonds",
+                "inscription:fr": "La commande du pupitre et de la chaise visait à ce que le mobilier s'intègre dans la conception de la salle du Conseil municipal d'Ottawa dans le cadre des rénovations effectuées à l'ancien hôtel de ville au 111, promenade Sussex. Les détails dans le pupi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.761316,
+                    45.340672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Objective Memory",
+                "name:fr": "Objective Memory",
+                "artist_name": "Widgery, Catherine",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_26_Objective-Memory.jpg",
+                "start_date": "1993",
+                "material": "cast bronze and aluminium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "111 Sussex Drive",
+                "inscription": "Widgery’s three-part outdoor sculpture of cast bronze and aluminum offers a whimsical look at the relationship between nature and the human order of things. A polar bear atop a pyramid of star constellations, a man inside a rocket ship-like cone and a tre",
+                "inscription:fr": "Cette oeuvre de Widgery, une sculpture extérieure en bronze coulé et en aluminium composée de trois segments, jette un regard fantaisiste sur la relation entre la nature et l’ordre des choses imposé par l’homme. Un ours polaire au sommet d’une pyramide de",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696107,
+                    45.439069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Vox Populi",
+                "name:fr": "Vox Populi",
+                "artist_name": "Geuer, Juan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_27_Vox-Populi.jpg",
+                "start_date": "1994",
+                "material": "mixed media",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "111 Sussex Drive",
+                "inscription": "Vox Populi or Voice of the People is a voice animated light sculpture. Directional microphones placed at the entrance doors pick up voices and sounds; the sound is then transformed by a micro-computer into light patterns that emanate from the central open",
+                "inscription:fr": "Vox Populi est une sculpture lumineuse commandée à Ia voix. Des microphones directionnels, placés aux portes d'entrée, recueillent les voix et les bruits, qui sont ensuite transformés en diagrammes de lumière commandés par ordinateur. Émanant de Ia niche",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696107,
+                    45.439069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Je veux la lune",
+                "name:fr": "Je veux la lune",
+                "artist_name": "Beauchemin, Micheline",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_28_Je-veux-la-lune.jpg",
+                "start_date": "1994",
+                "material": "nylon filament, rope, dye",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "111 Sussex Drive",
+                "inscription": "The series of twelve sails are made of several layers of knotted nylon and dyed in various shades of yellow, orange, red and blue. Overlapping one another, the sails create new colours; the contrasting colours of the ropes outline their size and triangula",
+                "inscription:fr": "Cette serie de douze voiles est faite de plusieurs épaisseurs de nylon noué, teint en divers tons de jaune, d'orange, de rouge et de bleu. En se chevauchant, elles créent de toutes nouvelles teintes, tandis que les couleurs contrastantes des cordages font"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696107,
+                    45.439069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Switch Hitter",
+                "name:fr": "Switch Hitter",
+                "artist_name": "Yuristy, Russell",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_29_Switch-Hitter.jpg",
+                "start_date": "1994",
+                "material": "aluminum, concrete, acrylic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "300 Coventry Road, RCGT Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.653829,
+                    45.421254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Interactions Bleues",
+                "name:fr": "Interactions Bleues",
+                "artist_name": "Hardy, Pierre",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_3_Interactions_Bleues.jpg",
+                "start_date": "1986",
+                "material": "acrylic on concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1520 Caldwell Avenue, Carlington Rec Centre, Bellevue Gym"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.739452,
+                    45.373096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Shelter - Its Loss and Replacement",
+                "name:fr": "Shelter - Its Loss and Replacement",
+                "artist_name": "Wonnacott, Justin",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_30_Shelter-Its-Loss-and-Replacement.jpg",
+                "start_date": "1994",
+                "material": "inkjet print",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "inscription": "Justin Wonnacott was commissioned to create artworks for Rideau Street. He chose \"shelter, its loss and replacement\" as a theme for his work. The large granite disc, “From a Camper’s Diary”, uses a surveyor's words in a spiral around images of flames and",
+                "inscription:fr": "La Ville a demandé à Justin Wonnacott de créer des œuvres pour la rue Rideau. Le thème qu’il a choisi est celui de « l’abri, sa perte et son remplacement ». Le grand disque de granit, « From a Camper’s Diary », est gravé aux mots d’un arpenteur qui se dér"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68754,
+                    45.42805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "River's Invitation",
+                "name:fr": "River's Invitation",
+                "artist_name": "Sharpe, Blair",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_300_RiverInvitation.jpg",
+                "start_date": "1991",
+                "material": "stonhard flooring paint system",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Smyth Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.666747,
+                    45.401185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Silver Line",
+                "name:fr": "Ligne argentée",
+                "artist_name": "Lasserre, Maskull",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_301_SilverLine.jpg",
+                "start_date": "2011",
+                "material": "stainless steel, aluminum, bronze and prefabricated components",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
+                "inscription": "Silver Line is a three part installation consisting of a pair of binoculars, a cloud fabricated in aluminum and stainless steel, and a poised bronze female gure. The three sculptural components come into alignment when viewed through the binoculars. The c",
+                "inscription:fr": "Ligne argentée est une installation en trois parties composée de jumelles, d’un nuage en aluminium et en acier inoxydable et d’un bronze représentant le corps d’une femme en équilibre. Vues à travers les jumelles, les trois composantes sculpturales s’alig"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.930498,
+                    45.340496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Skiff",
+                "name:fr": "Skiff",
+                "artist_name": "Vigneau, Jean-Yves",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_302_Skiff.jpg",
+                "start_date": "2011",
+                "material": "aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
+                "inscription": "This sculptural installation was inspired by skiffs - long, slender boats with hulls so elongated that rowers balance themselves as though on a high wire. They speed forward so fast they barely touch the surface of the water. The long oars seem to walk on",
+                "inscription:fr": "Cette oeuvre est inspirée des skiffs, embarcations aux coques effilées sur lesquelles les rameurs se tiennent en équilibre comme sur un fil tendu. Ils se déplacent ainsi à toute allure, effleurant à peine la surface de l'eau. Les longues rames semblent ma",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.930498,
+                    45.340496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A Flat and A Box",
+                "name:fr": "A Flat and A Box",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_303_FlatBox.jpg",
+                "start_date": "2012",
+                "material": "granite and cement",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "4101 Innovation Drive, Richcraft Recreation Complex (commissions)",
+                "inscription": "A Flat and a Box has two main components: a flat area and a rectangular box. Skaters use the sculpture for many different tricks and approaches – the design accommodates beginner to expert skaters. Artists Alisdair MacRae and Negar Seyfollahy worked direc",
+                "inscription:fr": "Cette œuvre compte deux éléments fondamentaux : une partie plane et une boîte rectangulaire. Les planchistes utilisent la sculpture pour de nombreuses figures et approches – sa conception convient tant aux novices qu'aux planchistes aguerris. Pour la conc",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.930498,
+                    45.340496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Blanding’s Turtles of the South March Highlands",
+                "name:fr": "Les tortues mouchetées des hautes terres de South March",
+                "artist_name": "Griffin, Christopher",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_304_BlandingTurtles.jpg",
+                "start_date": "2013",
+                "material": "concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2500 Campeau Drive, Ottawa Public Library, Beaverbrook Branch",
+                "inscription": "Inspired by the natural ecosystems of Kanata and the South March Highlands, Griffin's gestural concrete murals feature the Blanding's turtle, an important local species, as well as other indigenous flora and fauna. Thirteen concrete turtle sculptures roam",
+                "inscription:fr": "Inspirées des écosystèmes naturels de Kanata et des hautes terres de South March, les sculptures murales gestuelles en béton de Christopher Griffin représentent la tortue mouchetée, importante espèce locale, ainsi que d'autres espèces de la flore et de la",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.895582,
+                    45.321918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Community Channel",
+                "name:fr": "Voie communautaire",
+                "artist_name": "O’Malley, Andrew",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_305_CommunityChannel.jpg",
+                "start_date": "2012",
+                "material": "LED, acrylic panels, software",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "211 Bronson Avenue, Bronson Centre",
+                "inscription": "Community Channel by Andrew O’Malley is a bold and forward-thinking light-based permanent installation above the exterior entranceway of the Bronson Centre located at 211 Bronson Avenue. Composed of larger-than-life silhouettes, the sculpture represents v",
+                "inscription:fr": "Voie communautaire d'Andrew O'Malley est une installation à base de lumière audacieuse et avant gardiste pour l'entrée extérieure du Centre Bronson, situé au 211, avenue Bronson. Composé de silhouettes plus grandes que nature, la sculpture représente dive",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.706344,
+                    45.413561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Sit for a While, In the Garden, and Watch the Parade",
+                "name:fr": "Prenez le temps de vous asseoir dans le jardin pour regarder le défilé",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_306_Sit.jpg",
+                "start_date": "2012",
+                "material": "powder-coated steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Bronson Avenue, 435 Bronson Avenue (entrance to McNabb Skate Park)",
+                "inscription": "Tim desClouds has created a dynamic and monumental artwork along Bronson Avenue at Gladstone Avenue. Sit for a While, In the Garden, and Watch the Parade features a large three dimensional silhouette of a stylized maple tree as a central image whose branc",
+                "inscription:fr": "Tim desClouds a créé une œuvre dynamique et monumentale en bordure de l’avenue Bronson à la hauteur de l’avenue Gladstone. La grande silhouette tridimensionnelle d’un érable stylisé dont les branches forment des arcades à l’entrée du parc McNabb se découp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.703351,
+                    45.407821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Spirit of OC Transpo",
+                "name:fr": "L’esprit d’OC Transpo",
+                "artist_name": "Bhat Boy",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_307_SpiritOCTranspo.jpg",
+                "start_date": "2014",
+                "material": "acrylic on canvas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1500 St. Laurent Blvd, OC Transpo, 1st Floor",
+                "inscription": "Local artist Bhat Boy has drawn on medieval painting traditions and his love of history and mapmaking to form an imaginative portrait of Ottawa’s transit network. The 15-foot long painting features 28 different examples of vehicles used for public transpo",
+                "inscription:fr": "L'artiste local Bhat Boy s'est inspiré des traditions de peinture médiévales et a tiré parti de sa passion pour l'histoire et la cartographie pour créer une image fantaisiste du réseau de transport en commun d'Ottawa. La peinture de 15 pieds (4,6 m) de lo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.631342,
+                    45.412696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Mr. Kurokawa",
+                "name:fr": "M. Kurokawa",
+                "artist_name": "Daniel Young & Christian Giroux",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_308_Kurokawa.jpg",
+                "start_date": "2012",
+                "material": "Plywood, aluminum, steel, glass, Phenolic resin",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "3500 Cambrian Drive, Minto Recreation Complex (Barrhaven)",
+                "inscription": "The two modular sculptures suspended from the ceiling of the complex enhance the public site and create a dialogue between old and new with their retro-futuristic presence. Appearing simultaneously industrial and organic, Young and Giroux’s richly composi",
+                "inscription:fr": "La sculpture modulaire est accrochée au plafond du complexe, où sa présence rétro-futuriste agrémente l’espace public et fait dialoguer l’ancien et le nouveau. L’œuvre richement compositionnelle, d’apparence industrielle et organique tout à la fois, est c",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73489,
+                    45.252821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Erratic Field",
+                "name:fr": "Champs de blocs erratiques",
+                "artist_name": "Dark, Shayne",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_309_ErraticField.jpg",
+                "start_date": "2013",
+                "material": "corten steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Trim Road (between Watters and Old Montreal Road)",
+                "inscription": "Over 10,000 years ago, glaciers scattered large boulders, commonly known as erratics, across the landscape. Inspired by clusters of ancient stone found in the Ottawa region, Erratic Field transforms the urban environment with carefully executed minimal sc",
+                "inscription:fr": "Il y a plus de 10 000 ans, les glaciers ont laissé sur leur passage de grosses pierres, communément appelées des blocs erratiques, qui jonchent maintenant le paysage. Inspiré de ces amas de roches anciennes qui se trouvent dans la région de l’Outaouais, C",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.476211,
+                    45.486549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Mechanics of Gauging a Trade",
+                "name:fr": "The Mechanics of Gauging a Trade",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_31_The-Mechanics-of-Gauging-a-Trade.jpg",
+                "start_date": "1995",
+                "material": "steel, chrome",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616032,
+                    45.379883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Cube, Lattice, Sphere, Wave",
+                "name:fr": "Cube, treillis, sphère et vague",
+                "artist_name": "Thompson, Mark",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_310_ShortStory.jpg",
+                "start_date": "2012",
+                "material": "glass, programmable LEDs, steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Rideau Street",
+                "inscription": "Glass artist Mark Thompson has created four sculptures along Rideau Street that explore how we perceive colour, light and motion. This art installation conveys a range of symbols and associations: Here at Waller Street, the energy of downtown glows red in",
+                "inscription:fr": "L’artiste verrier Mark Thompson a créé quatre sculptures disposées le long de la rue Rideau, qui explorent notre perception de la couleur, de la lumière et du mouvement. Cette installation artistique exprime toute une gamme de symboles et d’associations.",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.688763,
+                    45.427588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Short Story",
+                "name:fr": "Petite histoire",
+                "artist_name": "Stead, Jennifer",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_311_IocomOtion.jpg",
+                "start_date": "2013",
+                "material": "steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Churchill Avenue (at Byron)",
+                "inscription": "Artist Jennifer Stead tells stories by drawing the world around her. She began this project with her thoughts and experiences of the neighbourhood. Combining these with local history, she created a drawing using pencil and charcoal that was transformed in",
+                "inscription:fr": "L’artiste Jennifer Stead raconte des histoires en dessinant le monde qui l’entoure. Elle a entamé ce projet en utilisant les réflexions que lui inspiraient le quartier et les expériences qu’elle y a vécues. En effectuant l’amalgame de ces concepts et de l",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.752962,
+                    45.391082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "locomOtion",
+                "name:fr": "locomOtion",
+                "artist_name": "Kinmond, Stuart",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_312_Cube.jpg",
+                "start_date": "2013",
+                "material": "powder coated aluminum posts, aluminum panels with reflective sheeting, stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Carleton University O-Train station, 1125 Colonel By Dr",
+                "inscription": "The large scale of this artwork and its placement along the length of the platform gives the Carleton O-Train station a sense of place and architectural identity. As the eye passes along its length, the sequence of wheel segments plays on the idea of move",
+                "inscription:fr": "Le grand format de cette œuvre d’art et son installation le long du quai confèrent à la station Carleton de l’O-Train un sentiment d’appartenance au lieu et une identité architecturale. En balayant l’œuvre du regard, la succession de segments de roues don"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.695994,
+                    45.385361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Inflorescence",
+                "name:fr": "L’Inflorescence",
+                "artist_name": "Margo, Deborah",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_313_Inflorescence.jpg",
+                "start_date": "2015",
+                "material": "copper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "925 Belfast Road, OC Transpo",
+                "inscription": "Based on the common spider plant, these five sculptures were inspired by the clusters of tiny plantlets known as inflorescences that grow from the spider plant’s central stem. For the artist, Inflorescence represents the idea of interconnectedness, a fitt",
+                "inscription:fr": "L’Inflorescence est une œuvre composée de cinq sculptures inspirées par les petites plantes qui poussent sur la tige centrale de la plante-araignée, appelées inflorescences. Pour l’artiste, Deborah Margo, L’Inflorescence représente l’interdépendance, prin",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.633545,
+                    45.412211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "House of the Great Blue Heron",
+                "name:fr": "Domaine du grand heron",
+                "artist_name": "Griffin, Christopher",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_314_HouseGreatBlue.jpg",
+                "start_date": "2015",
+                "material": "concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "170 Second Avenue, Glebe Parking Garage",
+                "inscription": "Animals etched and sculpted out of concrete found on the walls, columns, and roof guide us through this building. Christopher Griffin worked with the Ottawa Field-Naturalists' Club and the Canadian Museum of Nature to create a list of wildlife living in a",
+                "inscription:fr": "Les animaux gravés et sculptés dans le béton des murs, des colonnes et du plafond nous guident à travers le bâtiment. Christopher Griffin a travaillé avec l’Ottawa Field-Naturalists' Club et le Musée canadien de la nature en vue de dresser une liste des e",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.688979,
+                    45.403541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled, from the Community Series",
+                "name:fr": "Untitled, from the Community Series",
+                "artist_name": "Astman, Barbara",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_32_untitled-from-the-Community-series.jpg",
+                "start_date": "1995",
+                "material": "sand blasted glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.646343,
+                    45.435623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Earth of Kanata 45°18'N - 75°55'W",
+                "name:fr": "Earth of Kanata 45°18'N - 75°55'W",
+                "artist_name": "Feindel, Susan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_33_Earth-of-Kanata.jpg",
+                "start_date": "1997",
+                "material": "porcelain tile mosaic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2500 Campeau Drive, John G Mlacak Community Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.895681,
+                    45.319954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Applause",
+                "name:fr": "Applause",
+                "artist_name": "Pfaff, Mary",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_34_Applause.jpg",
+                "start_date": "1998",
+                "material": "acrylic on canvas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "101 Centrepointe Drive, Ben Franklin Place, 1st and 2nd, Centrepointe Theatre",
+                "inscription": "Commissioned by the City of Nepean to commemorate Centrepointe Theatre’s10th anniversary.",
+                "inscription:fr": "Exécuté à la demande de la Ville de Nepean pour célébrer le 10e anniversaire du Théâtre Centrepointe."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76448,
+                    45.34459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Wonder is the Beginning of Wisdom",
+                "name:fr": "Wonder is the Beginning of Wisdom",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_35_Wonder-is-the-Beginning-of-Wisdom.jpg",
+                "start_date": "1995",
+                "material": "painted steel and Galvalume pipe",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1705 Orleans Blvd, Ottawa Public Library, Orleans Branch",
+                "inscription": "Wonder is the Beginning of Wisdom was created for the Gloucester Public Library and represents the human desire to seek knowledge. Born in Montreal, Tim DesClouds has a B.FA from York University and a B.ED from Queens University. Besides his busy career a",
+                "inscription:fr": "L'oeuvre Wonder is the Beginning of Wisdom a été créée pour la Bibliothèque publique de Gloucester. Elle représente la volonté d'accéder à la connaissance. Né à Montréal, Tim DesClouds possède un baccalauréat en beaux-arts de l'Université York et un bacca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.524831,
+                    45.455995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Tree of Knowledge",
+                "name:fr": "Tree of Knowledge",
+                "artist_name": "Swan, Rosemary",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_36_Tree-of-Knowledge.jpg",
+                "start_date": "1998",
+                "material": "ceramic, raku fired",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2036 Oglivie Road, Ottawa Public Library, North Gloucester Branch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Snow Birds-Face of our Community",
+                "name:fr": "Snow Birds-Face of our Community",
+                "artist_name": "Ciesluk, Karl",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_37_Snow-Birds-Face-of-our-Community.jpg",
+                "material": "ceramic mosaic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "200 Glen Park Drive, Blackburn Community Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.497648,
+                    45.458408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Raising the Bar",
+                "name:fr": "Raising the Bar",
+                "artist_name": "Smith, Diane",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_38_Raising-the-Bar.jpg",
+                "start_date": "2000",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1490 Youville Drive Bob MacQuarrie Recreation Complex - Orléans"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.546161,
+                    45.465652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Terry Fox Memorial Sculpture",
+                "name:fr": "Terry Fox Memorial Sculpture",
+                "artist_name": "Hooper, John",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_39_Terry-Fox.jpg",
+                "start_date": "1983",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "90 Wellington and Metcalfe - Department of Heritage (NCC)",
+                "inscription": "At 21, Terry Fox set out on his Marathon of Hope to raise money for cancer research. He ran for 143 days, through the Atlantic provinces, Quebec and Ontario, before the bone cancer that had taken part of his right leg returned and forced him to stop near",
+                "inscription:fr": "À 21 ans, Terry Fox a entrepris son Marathon de l’espoir afin de recueillir des fonds pour la recherche contre le cancer. Il a couru pendant 143 jours, traversant les provinces de l’Atlantique, le Québec et l’Ontario, avant que le cancer des os qui l’av"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.683201,
+                    45.448473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "In Context",
+                "name:fr": "In Context",
+                "artist_name": "Nigro, Richard",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_4_In_Context.jpg",
+                "start_date": "1986",
+                "material": "wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "530 King Edward Street, Fire Station 13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.682985,
+                    45.42536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Phoenix Rising",
+                "name:fr": "Phoenix Rising",
+                "artist_name": "Lutkenhaus-Lackey, Almuth",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_40_Phoenix-Rising.jpg",
+                "start_date": "1990",
+                "material": "bronze casting",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "495 Richmond Road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76015,
+                    45.38881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Quarry Pillar",
+                "name:fr": "Quarry Pillar",
+                "artist_name": "Feindel, Susan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_41_Quarry-Pillar.jpg",
+                "start_date": "1994",
+                "material": "mosaic tile mural",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Greenboro",
+                "inscription": "This artwork comprises 200-square-feet of unglazed, fully vitrified clay tiles in rich, earthy tones. Although the imagery is abstract, it conveys a strong sense of movement and liveliness as visible in the right side of the mural which contains a concen",
+                "inscription:fr": "Cette œuvre de Susan Feindel est composée de carreaux couleur terre vitrifiés mais non vernissés, de 18,5 mètres carrés. Malgré le style abstrait, l’œuvre produit une forte impression de mouvement et d’animation, particulièrement perceptible dans la parti",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.667727,
+                    45.379006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Living Room",
+                "name:fr": "The Living Room",
+                "artist_name": "URBAN KEIOS",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_42_The-Living-Room.jpg",
+                "start_date": "1995",
+                "material": "aluminium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Originally planned as a theatrical stage set with props, this invented room provides a place for personal thinking and public observation. As visitors walk around and through The Living Room, a relationship between the participant's body and each object a",
+                "inscription:fr": "Conçu à l’origine comme un décor de théâtre avec des accessoires, ce salon imaginaire offre un espace pour la réflexion personnelle et l’observation. Une relation s’établit progressivement entre le corps des visiteurs qui déambulent dans le Salon et chacu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Tiles of Time (Les carreaux du temps)",
+                "name:fr": "Tiles of Time (Les carreaux du temps)",
+                "artist_name": "Grey, Jerry",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_43_Mosaic-Mural.jpg",
+                "start_date": "1983",
+                "material": "glass tiles, gold leaf tiles, silver plated buttons",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "474 Elgin Street, Police Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.685749,
+                    45.41243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Rivers Reflecting Seasons",
+                "name:fr": "Rivers Reflecting Seasons",
+                "artist_name": "Sabiston, Carole",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_45_Rivers-Reflecting-Seasons.jpg",
+                "start_date": "1990",
+                "material": "multi synthetic fabric, machine bonded",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, Teachers College, Meeting Rooms",
+                "inscription": "This tapestry, located in the Keefer Room of the Heritage Building, conveys an impression of the Ottawa, Rideau and Gatineau Rivers as portrayed on the Ottawa-Carlton regional flag and heraldic crest. The eleven panels, representing each of the previous",
+                "inscription:fr": "Accrochée dans la salle Keefer de l'édifice historique, la tapisserie évoque les rivières Outaouais, Rideau et Gatineau telles qu'elles figurent sur le drapeau et les armoiries de la région d'Ottawa-Carleton. Ses onze pans représentant chacune des ancienn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Nautilus",
+                "name:fr": "Nautilus",
+                "artist_name": "Murray, Paula",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_46_Nautilus.jpg",
+                "start_date": "1990",
+                "material": "anodized aluminum, translucent ceramic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Drawing inspiration from the Nautilus Shell, Paula Murray created Nautilus to celebrate the rhythmic energy paralleled in nature and society. The mathematically correct architecture of the symbolic spiral structure instills energy, strength, power, and u",
+                "inscription:fr": "S'inspirant de la coquille en spirale du nautile, Paula Murray célèbre dans Nautilus le rythme simultané qui anime la nature et la société. La composition mathématiquement précise de la spirale symbolique déploie une énergie, une force et une unité remarq"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Family Portrait",
+                "name:fr": "Family Portrait",
+                "artist_name": "Brathwaite, Stephen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_47_Family-Portrait.jpg",
+                "start_date": "1992",
+                "material": "glass and bronze casting",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Stephen Brathwaite belongs to the social realism school of art. Though his work is representational, the underlying meanings and inspiration justify viewer contemplation. Creating a welcome feeling of intimacy in the arcade, Family Portrait celebrates t",
+                "inscription:fr": "Stephen Brathwaite épouse le credo de l'école réaliste. Quoique figurative, son œuvre invite à la contemplation par ses sous-entendus et son inspiration. Introduisant une sensation bienvenue d'intimité dans la galerie, Family Portrait rend hommage aux per"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "On Top of the world",
+                "name:fr": "On Top of the world",
+                "artist_name": "Thomson, Jim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_48_On-Top-of-the-world.jpg",
+                "start_date": "1990",
+                "material": "stoneware and concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "To add a spirit of optimism to the place where people pay their municipal taxes, artist Jim Thomson proposed this statue assembly to be placed in the entrance of the Client Service area of City Hall. The statue's reference various mythological traditions",
+                "inscription:fr": "Pour ajouter une note d'optimisme à l'endroit où les gens paient leurs taxes municipales, l'artiste Jim Thomson a proposé que cette statue soit placée à l'entrée du Service à la clientèle à l'Hôtel de ville. Les sculptures font référence à diverses tradit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Lost Child",
+                "name:fr": "The Lost Child",
+                "artist_name": "Piqtoukun, David",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_49_The-Lost-Child.jpg",
+                "start_date": "1990",
+                "material": "Kingston hue sandstone",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Centuries-old Inuit customs of guiding travelers inspired the artist to create this cairn, a directional marker. The assemblage of stones recalls the artist’s childhood experience of wandering amongst tall city buildings. The leading stone represents a se",
+                "inscription:fr": "L’artiste s'est inspiré de la coutume séculaire inuite de guider les voyageurs pour créer ce cairn, qui sert de point de repère. L’assemblage de pierres rappelle l'expérience de l'artiste qui, enfant, s'était perdu parmi les gratte-ciel de la ville. La pi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Time Flow",
+                "name:fr": "Time Flow",
+                "artist_name": "Garner, Bruce",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_5_Time_Flow.jpg",
+                "start_date": "1987",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2730 Carling Avenue, Old Forge Community Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.792376,
+                    45.360547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Structure",
+                "name:fr": "Structure",
+                "artist_name": "Brathwaite, Stephen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_50_Structure.jpg",
+                "start_date": "1989",
+                "material": "glass, granite and steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "For this particular piece, fragments of polished granite with cut and raw edges are being supported and united by a structure of steel. Located in Council Chambers as a backdrop to all City decisions, the work expresses the need for collaboration. A figu",
+                "inscription:fr": "L'œuvre composée de fragments de granit poli aux rebords bruts soutenus et unis par une structure en aluminium est située dans la salle du conseil. Toile de fond des décisions prises par la Ville, elle exprime la nécessité de collaboration. Une figure mou"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled",
+                "name:fr": "Untitled",
+                "artist_name": "McMaster, Gerald",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_51_untitled.jpg",
+                "start_date": "1991",
+                "material": "epoxy coating",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Riverside Station",
+                "inscription": "Drawn from traditional symbols used in the artist's native Plains Cree culture, repeated images of humans, horses, handprints, dots and crosses suggest movement and freedom in modern urban transportation. The artwork is located at the embarkation area, c",
+                "inscription:fr": "Les images répétées d’humains, de chevaux, d’empreintes de main, de points et de croix, issues des symboles traditionnels utilisés dans la culture des Cris des plaines, à laquelle l’artiste appartient, évoquent le mouvement et la liberté dans les transpor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.667083,
+                    45.401471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Accelerator/Decelerator",
+                "name:fr": "Accelerator/Decelerator",
+                "artist_name": "Sherman, Tom",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_52_Accelerator_Decelerator.jpg",
+                "start_date": "1990",
+                "material": "glazed concrete blocks",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Lycée Claudel Station",
+                "inscription": "Using principles of perspective and motion, this work located in the pedestrian underpass area, is designed to present a visual directional context for passengers as they enter and exit the station.",
+                "inscription:fr": "Fondée sur les principes de la perspective et du mouvement, cette œuvre, située dans le secteur du passage inférieur pour piétons, est conçue pour présenter un contexte visuel directionnel pour les passagers qui entrent dans la station et ceux qui en sort"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Fable VII",
+                "name:fr": "Fable VII",
+                "artist_name": "Gould, Trevor",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_53_Fable-VII.jpg",
+                "start_date": "1990",
+                "material": "cast iron and bronze, sand blasted glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Fable VII consists of 3-components; the interior inscription, a bronze element in the exterior pool, and the lion with an accompanying frame. The artist anticipates the viewer to gravitate towards the interior pool inside the main lobby and find the inscr",
+                "inscription:fr": "Fable VII comprend trois volets : l'inscription à l'intérieur, un élément en bronze dans le bassin extérieur et le lion et son cadre. L'artiste s'attend à ce que le spectateur gravite vers le bassin intérieur dans l'entrée principale et y découvre l'inscr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Birdhouse Garden",
+                "name:fr": "The Birdhouse Garden",
+                "artist_name": "Rogers-Bell, Su",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_54_The-Birdhouse-Garden.jpg",
+                "start_date": "1993",
+                "material": "painted wood",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "55 Lodge Road, Carleton Lodge",
+                "inscription": "In memory of my father, Peter G. Rogers.",
+                "inscription:fr": "À la mémoire de mon père, Peter G. Rogers."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.706993,
+                    45.263767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Suntent",
+                "name:fr": "Suntent",
+                "artist_name": "Marsters, Mark",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_55_Suntent.jpg",
+                "start_date": "1993",
+                "material": "enamel on aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.683647,
+                    45.432264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Carnavalesque",
+                "name:fr": "Carnavalesque",
+                "artist_name": "Geuer, Juan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_56_Carnavalesque.jpg",
+                "start_date": "1994",
+                "material": "mixed media",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "inscription": "Mobile and static elements of tubing and mirrors are placed throughout the station. Each becomes a playful and alleviating aspect of the architectural structure, embracing and reflecting light and sky.",
+                "inscription:fr": "Des éléments mobiles et statiques composés de tubes et de miroirs sont placés aux quatre coins de la station. Chacun se veut un jeu sur l’aspect de la structure architecturale, et embrasse et reflète la lumière et le ciel."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.518349,
+                    45.475387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A Brief History of Ottawa",
+                "name:fr": "A Brief History of Ottawa",
+                "artist_name": ",",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_57_A-Brief-History-of-Ottawa.jpg",
+                "start_date": "1992",
+                "material": "sand blasted concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Walkley Station",
+                "inscription": "Located on the sloping planes underneath the bridge at Walkley Station, historic maps trace significant moments in local history. From early rivers, lakes and forests to the urbanization of the capital, even the expansion of the transit system is presente",
+                "inscription:fr": "Situées sur les plans en pente qui se trouvent sous le pont à la station Walkley, les cartes historiques tracent les moments importants de l’histoire locale. L’époque où le territoire était couvert de rivières, de lacs et de forêts, la période d’urbanisat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.605654,
+                    45.393434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Linkages",
+                "name:fr": "Linkages",
+                "artist_name": "Durr, Pat",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_58_Linkages.jpg",
+                "start_date": "1992",
+                "material": "coloured concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Heron Station",
+                "inscription": "Linkages treats the site as a whole, dramatically uniting the landscape and the architecture with colour and image. Laser engraved drawings of plant and animal life unify interior surfaces with the environment while colours drawn from the landscape are e",
+                "inscription:fr": "L’œuvre Linkages considère le site dans son ensemble, et unit de manière spectaculaire, grâce à ses couleurs et à ses images, le paysage et l’architecture. Les dessins de la faune et de la flore gravés au laser assemblent les surfaces intérieures et l’env"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.696922,
+                    45.376036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Salut/Salute",
+                "name:fr": "Salut/Salute",
+                "artist_name": "Marsters, Mark",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_59_Salut_Salute.jpg",
+                "start_date": "1995",
+                "material": "vacuum formed ABS plastic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Tunneys Pasture - Western Parkway Transitway Stations",
+                "inscription": "Placed along the walls of the Transitway, these eight sculptures are meant to provide a humorous diversion by greeting and entertaining bus commuters. Each one expresses a different form of communication, including a waving hand, a hitchhiker's thumb, two",
+                "inscription:fr": "Placées le long des murs du Transitway, ces huit sculptures visent à accueillir et divertir les usagers du transport en commun à leur arrivée en faisant une diversion humoristique. Chacune exprime un signe de communication différent, comme un salut de la",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.745279,
+                    45.399086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "From Sea to Sea",
+                "name:fr": "From Sea to Sea",
+                "artist_name": "Schreier, Hilde",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_6_From_Sea_to_Sea.jpg",
+                "start_date": "1987",
+                "material": "wool, rope, and stone",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2 Daly Avenue, Ottawa Art Gallery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.703085,
+                    45.359131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "V.I.P.",
+                "name:fr": "V.I.P.",
+                "artist_name": "Bussiere, Michael",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_60_V.I.P.-Virtual-Instrument-Paradigm.jpg",
+                "start_date": "1996",
+                "material": "concrete, computer, speaker, sound system, video camera",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "110 Laurier, City Hall commissions",
+                "inscription": "Made up of concrete towers housing speakers and electronic components, V.I.P. is one of the City of Ottawa's earliest computer-based artworks. V.I.P. may generate its own music or emit sound compositions activated by movement on the pathway. Developed by",
+                "inscription:fr": "Constitué de tours de béton qui logent des haut-parleurs et des éléments électroniques, V.I.P. est l’une des premières œuvres d’art informatique de la Ville d’Ottawa. Activé par les mouvements qui se produisent sur le sentier, l’instrument génère sa propr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690861,
+                    45.421848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Ploughed Field : Hillside, Circuit",
+                "name:fr": "Ploughed Field : Hillside, Circuit",
+                "artist_name": "Feindel, Susan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_61_Ploughed-Field_Hillside_Circuit.jpg",
+                "start_date": "1995",
+                "material": "stained glass and porcelain tile mosaic on concrete wall",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Pleasant Park Station",
+                "inscription": "The mural located at the western embankment incorporates the graphic energy of a contemporary landscape with the traditional art form of mosaic. This work considers earth's regenerative energies, and is designed to delight viewers when seen either at clo",
+                "inscription:fr": "La murale, située au point d’embarquement ouest, rassemble l’énergie graphique d’un paysage contemporain et une mosaïque traditionnelle. Cette œuvre, qui évoque les énergies régénératrices de la terre, est conçue pour faire plaisir aux spectateurs, qu’ils",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.639644,
+                    45.39372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "South Keys Code",
+                "name:fr": "South Keys Code",
+                "artist_name": "Standish, Ineke",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_62_South-Keys-Code.jpg",
+                "start_date": "1996",
+                "material": "embossed stainless steel mural plates",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway South Keys Station",
+                "inscription": "Located along the north and south walls of the South Keys underpass, Standish’s mural encourages transit users to touch the tiles and decode eleven Braille symbols. Green and blue evokes the essence of a lush watery landscape and open sky while stainless",
+                "inscription:fr": "Située le long des murs nord et sud du passage inférieur South Keys, la murale de Standish encourage les usagers du transport en commun à toucher les tuiles pour décoder 11 symboles en braille. Le vert et le bleu évoquent le ciel et un paysage aquatique l",
+                "artwork_type": "mural"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.667727,
+                    45.379006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "mem-o-mobilia",
+                "name:fr": "mem-o-mobilia",
+                "artist_name": "Marsters, Mark",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_63_mem-o-mobilia.jpg",
+                "start_date": "1991",
+                "material": "enamel on aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "OC Transitway Billings Bridge Station",
+                "inscription": "This series of images imitates a historical advertising campaign with the intention of both entertaining and informing the viewer. The images depict news items and commercial products of specific eras that greatly affected the development of the Billings",
+                "inscription:fr": "Cette série d’images qui imite une campagne publicitaire ancienne a un but à la fois ludique et informatif. Elle figure des actualités et des nouveautés commerciales d’époques précises qui ont marqué le développement de la communauté de Billings Bridge. L"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.667727,
+                    45.379006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "... compass rose ...",
+                "name:fr": "... compass rose ...",
+                "artist_name": "Wonnacott, Justin",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_64_...-compass-rose-....jpg",
+                "start_date": "2003",
+                "material": "granite",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Waller Street Mall (between Rideau and George)",
+                "inscription": "Justin Wonnacott was commissioned to create artwork for Waller Street. He chose \"shelter, its loss and replacement\" as a theme for his work. Compass Rose combines images of Ottawa from space, a sextant and the word “domicile”.",
+                "inscription:fr": "La Ville a demandé à Justin Wonnacott de créer des œuvres pour la rue Waller. Le thème qu’il a choisi est celui de « l’abri, sa perte et son remplacement ». Compass Rose combine des images d’Ottawa vues de l’espace au sextant et au mot « domicile »."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.686072,
+                    45.422627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Skipping Stones",
+                "name:fr": "Skipping Stones",
+                "artist_name": "Lasserre, Maskull",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_65_Skipping-Stones.jpg",
+                "start_date": "2003",
+                "material": "bronze, copper, steel, patina, Plexiglas, paint",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "930 Somerset Street W, Plant Recreation Centre",
+                "inscription": "Skipping Stones reflects a peaceful underwater world with fourteen swimming animals - loons, fish and beaver. The activity of making a beaver lodge implies the feeling of home and shelter. The cast shadowy human forms represent the families, children and",
+                "inscription:fr": "Skipping Stones reflète un monde sous-marin paisible grâce à quatorze silhouettes d’animaux nageurs – huards, poissons et castors. La construction d’une hutte de castor suggère le sentiment du chez-soi et de l’abri. Les silhouettes humaines floues représe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.714647,
+                    45.408182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Second Storey",
+                "name:fr": "The Second Storey",
+                "artist_name": "Emig, Kenneth",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_66_The-Second-Storey.jpg",
+                "start_date": "2004",
+                "material": "wood, mirror, fluorescent light",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "65 Stonehaven Drive, Eva James Memorial Community Centre",
+                "inscription": "Kenneth Emig, a local visual and performance artist, created the three-framed light and mirror artworks located in the rotunda. The artwork generates the illusion of expanding the architectural space through multiple reflections. The artist hopes to stimu",
+                "inscription:fr": "Kenneth Emig, artiste visuel et multiartiste local, a réalisé les trois oeuvres encadrées constituées de lampes et de miroirs qui sont situées dans la rotonde. Par le jeu des multiples reflets, l'ensemble donne l'impression d'élargir l'espace architectura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Neighbourhood Perspectives",
+                "name:fr": "Neighbourhood Perspectives",
+                "artist_name": "Feraud, Pynn-Trudeau & Pal, Marie-Christine, Carolynne & Mary",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_67_Neighbourhood-Perspectives.jpg",
+                "start_date": "2004",
+                "material": "acrylic, ceramic, cotton, found objects, paper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "175 3rd Avenue, Glebe Community Centre",
+                "inscription": "Glebe artists, Marie-Christine Féraud, Carolynne Pynn-Trudeau, and Mary Pal, share with local residents in the success of the Glebe Community Centre’s public art project. Children and adults from the Glebe created and donated elements for the three instal",
+                "inscription:fr": "Les artistes du Glebe, Marie-Christine Féraud, Carolynne Pynn-Trudeau et Mary Pal, partagent, avec les habitants du quartier, le succès du projet d’art public du Centre communautaire du Glebe. Dans le cadre d’ateliers d’art animés par les artistes, les en"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.690894,
+                    45.402073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Wanderer",
+                "name:fr": "Wanderer",
+                "artist_name": "Cronin, Lynda",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_68_Wanderer.jpg",
+                "start_date": "2005",
+                "material": "wood and glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "inscription": "Wanderer is composed of seven glass panels in the facility’s Multi-Faith Worship Centre. The piece celebrates the journey of bird migration, as each year billions of birds navigate from one geographic area to another. This pilgrimage is guided by an inter",
+                "inscription:fr": "Wanderer est composé de sept panneaux de verre au centre de recueillement multiconfessionnel du foyer. L’œuvre célèbre la migration des oiseaux, alors que tous les ans, des milliards d’oiseaux se déplacent d’une région géographique à une autre. Ils sont g"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.709833,
+                    45.261106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Histories: Whimisical Voyages",
+                "name:fr": "Histories: Whimisical Voyages",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_69_Histories-Whimisical-Voyages.jpg",
+                "start_date": "2005",
+                "material": "wood construction, mixed media, found objects and photographs",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "200 Island Lodge Road, Garry J. Armstrong Long Term Care Facility",
+                "inscription": "For every residential floor, Tim desClouds has created a unique and whimsical flying vessel. As interpretations of magical quality of the human existence, these vessels enlighten us to our own daily journeys and to the environments we find along the way.",
+                "inscription:fr": "Pour chacun des étages de la résidence, Tim desClouds a créé un navire volant unique et imaginaire. Afin de recréer la magie de la vie, ces navires nous emmènent dans notre quotidien et nous divertissent le long du parcours. Pour agrémenter le foyer de so"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.709833,
+                    45.261106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Lest We Forget The Wilderness",
+                "name:fr": "Lest We Forget The Wilderness",
+                "artist_name": "Firth, Christine",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_7_Lest-We-Forget-The-Wilderness.jpg",
+                "start_date": "1988",
+                "material": "fresco: oil and acrylic on paper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2250 Torquay Avenue, Pinecrest Pool",
+                "inscription": "The sky has always been the most vital and important element for artist Christine Firth, a former glider pilot and the first woman in Canada to glide over 100 kilometres. She celebrates the sky through paint and poetry.",
+                "inscription:fr": "Pour l’artiste Christine Firth, ancienne pilote de planeur et première Canadienne à effectuer un vol plané sur plus de 100 kilomètres, le ciel a toujours constitué un élément vital. C’est par la peinture et la poésie qu’elle célèbre le ciel."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.775039,
+                    45.347399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Flock of Fancies",
+                "name:fr": "Flock of Fancies",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_70_Flock-of-Fancies.jpg",
+                "start_date": "2005",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "200 Island Lodge Road, Garry J. Armstrong Long Term Care Facility",
+                "inscription": "Each unique bird, installed on a balcony, mixes a full dose of humour into the pleasurable activity of bird watching. The simple joy of these 18 birds, “all dressed up” in familiar garments and accessories, is their ability to awaken the imaginations of r",
+                "inscription:fr": "Chaque oiseau unique, installé à un balcon, ajoute une bonne dose d’humour à cette activité très plaisante qu’est l’observation des oiseaux. Ces 18 oiseaux, vêtus d’habits et d’accessoires de tous les jours, éveillent l’imagination des résidents, de leurs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.709833,
+                    45.261106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Migration, Central Experimental Farm, Ottawa",
+                "name:fr": "Migration, Central Experimental Farm, Ottawa",
+                "artist_name": "Wardrop, Dana",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_71_Migration_Central-Experimental-Farm_Ottawa.jpg",
+                "start_date": "2005",
+                "material": "acrylic, plaster, oil",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "200 Island Lodge Road, Garry J. Armstrong Long Term Care Facility",
+                "inscription": "Migration, Central Experimental Farm, Ottawa transcends culture, age and religion by depicting a beloved scene in the Ottawa region. The artist team, WardropLanglois, terms the experience of migrating birds taking off at the Central Experimental Farm as a",
+                "inscription:fr": "Migration, Ferme expérimentale centrale, Ottawa, transcende la culture, l’âge et la religion en représentant nos scènes préférées de la région d’Ottawa. Les artistes, WardropLanglois (Dana Wardrop et Peter Langlois), décrivent l’expérience des oiseaux mig"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.709833,
+                    45.261106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "SHELF: 759 - 760",
+                "name:fr": "SHELF: 759 - 760",
+                "artist_name": "Göllner, Adrian",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_72_SHELF-759-760.jpg",
+                "start_date": "2004",
+                "material": "aluminium and stained glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "363 Lorry Greenberg Drive, Ottawa Public Library, Greenboro Branch",
+                "inscription": "Shelf: 759-760 was selected as the public art commission for the Greenboro Branch. Shelf: 759-760 is an abstraction of a bookshelf and consists of an aluminium and stained glass sculpture that will suspend in a central light well on the 2nd floor of the n",
+                "inscription:fr": "L’étagère : 759-760 d’Adrian Göllner a été choisie comme œuvre d’art public commandée pour la succersale Greenboro. L’étagère : 759-760 est une sculpture composée d’aluminium et de verre teinté, qui sera suspendue dans un puits de lumière au centre du 2e",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.634656,
+                    45.363903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Alipes",
+                "name:fr": "Alipes",
+                "artist_name": "Halstead & Swinimer, Jean & Svetlana",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_73_Alipes.jpg",
+                "start_date": "2006",
+                "material": "concrete and steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2465 Don Reid Road, Paramedic Headquarters",
+                "inscription": "In the spirit of the values and mission of Ottawa’s paramedics, artist team Jean Halstead and Svetlana Swinimer designed an abstract exterior sculpture with the emblematic symbols of wings, staff, and serpent for the new Ottawa Paramedic Service Headquart",
+                "inscription:fr": "Dans l’esprit des valeurs et de la mission des paramédics d’Ottawa, les artistes Jean Halstead et Svetlana Swinimer ont conçu une sculpture abstraite extérieure, représentant l’emblème des ailes, du bâton et du serpent pour le nouveau quartier général du",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.635555,
+                    45.378531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Richmond Gateways",
+                "name:fr": "Richmond Gateways",
+                "artist_name": "Kucey-Jones, Marcus",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_74_Richmond-Gateways.jpg",
+                "start_date": "2006",
+                "material": "limestone",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Perth Street, Richmond",
+                "inscription": "At the east and west entrances to the Village of Richmond stand welcoming gateways hand carved by local artist Marcus Kucey Jones. On each gateway, leaves of 18 tree species are carved in high relief into the limestone façade as tribute to the trees plant",
+                "inscription:fr": "Les accueillantes arches, taillées à la main par l’artiste local Marcus Kucey Jones, s’élèvent aux entrées est et ouest du village de Richmond. Sur la façade en calcaire de chaque arche, des feuilles appartenant à 18 espèces d’arbres sont gravées en haut-"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Stilt Walkers",
+                "name:fr": "Stilt Walkers",
+                "artist_name": "Brathwaite, Stephen",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_75_Stilt-Walkers.jpg",
+                "start_date": "2007",
+                "material": "bronze",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "5670 Carp Road, Kinburn Community Centre, Client Service Centre",
+                "inscription": "In the spring of 2008, local artist Stephen Brathwaite installed two bronze stilt walkers adjacent to the pedestrian pathway between the Kinburn Client Service Centre and the Arena Complex in West Carleton. The teetering stilt walkers, which are partial c",
+                "inscription:fr": "Au printemps 2008, Stephen Brathwaite, artiste de la région, installait deux marcheurs en échasses le long du sentier piétonnier reliant le centre du service à la clientèle Kinburn et le complexe de l’aréna de West Carleton. Ces marcheurs vacillants, fabr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691182,
+                    45.421781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Interdependencies #2",
+                "name:fr": "Interdependencies #2",
+                "artist_name": "O'Brien, Cynthia",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_76_Interdependencies_2.jpg",
+                "start_date": "2007",
+                "material": "clay",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1500 Shea Road, Goulbourn Recreation Complex",
+                "inscription": "The Goulbourn Recreation Complex is home to a beautiful work of art by local ceramic artist Cynthia O’Brien. The artwork consists of more than 2,000 individual clay leaves arranged in the shape of a tree reaching up from a planter and incorporates itself",
+                "inscription:fr": "Le Complexe récréatif de Goulbourn abrite une superbe œuvre d’art de la céramiste d’art de la région, Cynthia O’Brien. L’œuvre d’art consiste en plus de 2 000 feuilles d’argile individuelles arrangées sous la forme d’un arbre qui s’élève d’une jardinière"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.908555,
+                    45.265098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Stand",
+                "name:fr": "Stand",
+                "artist_name": "Göllner, Adrian",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_77_Stand.jpg",
+                "start_date": "2009",
+                "material": "glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "245 Centrum Blvd, Shenkman Art Centre",
+                "inscription": "Stand by Adrian Göllner adorns the front glazed façade of the new Shenkman Arts Centre and will use coloured glass and light to enhance the Centre’s sense of identity. As the new hub for cultural activities in Orléans, the building itself is an artistic s",
+                "inscription:fr": "Stand d’Adrian Göllner orne la devanture vitrée du Centre des arts Shenkman. Le sentiment d’identité du Centre sera rehaussé par l’œuvre dont le verre coloré laisse passer la lumière. L’édifice, nouveau foyer culturel d’Orléans, constitue à lui seul une p"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.510982,
+                    45.480367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Resonance",
+                "name:fr": "Resonance",
+                "artist_name": "Lasserre, Maskull",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_78_Resonance.jpg",
+                "start_date": "2009",
+                "material": "bronze, stainless steel, limestone and cement",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "245 Centrum Blvd, Shenkman Art Centre",
+                "inscription": "Lasserre’s sculpture, titled Resonance, consists of an upright piano made from hammered bronze and stainless steel accompanied by a partially-carved piano stool in a limestone boulder. Excavated during the construction of the Shenkman Arts Centre, the bou",
+                "inscription:fr": "La sculpture de Lasserre, intitulé Resonance, représente un piano droit fait de bronze martelé et d’acier inoxydable et un banc de piano partiellement sculpté dans un bloc de calcaire. Ce rocher, mis au jour lors de la construction du Centre des Arts Shen",
+                "artwork_type": "sculpture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.510982,
+                    45.480367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Midnight and Neighbourhood",
+                "name:fr": "Midnight and Neighbourhood",
+                "artist_name": "Moorhead, Janice",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_8_Midnight-and-Neighbourhood.jpg",
+                "start_date": "1988",
+                "material": "stained glass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "100 Braemar Street, Manor Park Fieldhouse",
+                "inscription": "Part of the expansion and upgrade of the Manor Park Field House in the mid-eighties included the installation of coloured glass collages in the north and south windows by local artist Janice Moorhead. The images in each window are composed of four differe",
+                "inscription:fr": "Les travaux d’agrandissement et d’améliorations du Pavillon Manor Park effectués au milieu des années quatre-vingt comprenaient l’installation de collages de verre teinté de l’artiste locale Janice Moorhead dans les fenêtres nord et sud. Les images de cha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.655325,
+                    45.450207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "West Ottawa Streetscape",
+                "name:fr": "West Ottawa Streetscape",
+                "artist_name": "Gill, Richard",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/Public_Art_9_West-Ottawa-Streetscape.jpg",
+                "start_date": "1989",
+                "material": "ceramic",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1064 Wellington Street, Hintonburg Community Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.724719,
+                    45.403638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Portes Rideau",
+                "name:fr": "Portes Rideau",
+                "artist_name": "Berlanga, Miguel",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1994-0002a-4.jpg",
+                "start_date": "1993",
+                "material": "glass, slate and brass",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "111 Sussex Drive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.693755,
+                    45.43963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Call for Expressions-Many Voices/Miltunkasik",
+                "name:fr": "Call for Expressions-Many Voices/Miltunkasik",
+                "artist_name": "Newdigate, Ann",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1994-0001-007a.jpg",
+                "start_date": "1993",
+                "material": "tapestry and canvas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "111 Sussex Drive"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.693755,
+                    45.43963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Tempus",
+                "name:fr": "Tempus",
+                "artist_name": "Cronin, Lynda",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2017-0069a.jpg",
+                "start_date": "2016",
+                "material": "powder-coated aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1321-3043 Innovation Drive, Innovation Park and Ride"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.927333,
+                    45.339986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Firefighters in Action (Series)",
+                "name:fr": "Firefighters in Action (Series)",
+                "artist_name": "McVeigh, Don",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1989-0020.jpg",
+                "start_date": "1988",
+                "material": "oil on canvas",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "1445 Carling Avenue, Fire Station Administration offices"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.741218,
+                    45.384073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Our Fence",
+                "name:fr": "Notre clôture",
+                "artist_name": "Cunnane, Cairn",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2016-0004a.jpg",
+                "start_date": "2014",
+                "material": "powder-coated, stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Bingham Park, 145 Cathcart Street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.695625,
+                    45.433652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Listening Tree",
+                "name:fr": "L'arbre écoute",
+                "artist_name": "Mixed Metaphors Design",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2016-0033.jpg",
+                "start_date": "2015",
+                "material": "stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "166 Frank Street, St. Luke’s Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.686551,
+                    45.415331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "study for Hazeldean banners",
+                "name:fr": "study for Hazeldean banners",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2010-0008.jpg",
+                "start_date": "2010",
+                "material": "aluminium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "172 Guigues Avenue, 3rd Floor (Storage Room A & B)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691648,
+                    45.432048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Tell Me A Story...",
+                "name:fr": "Tell Me A Story...",
+                "artist_name": "Nigro, Richard",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1991-0007.01.jpg",
+                "start_date": "1991",
+                "material": "photo etching on zinc plates, concrete base",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "172 Guigues Avenue, 3rd Floor (Storage Room A & B)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691648,
+                    45.432048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Bywash 1832",
+                "name:fr": "Bywash 1832",
+                "artist_name": "CAAP Collective",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/T1999-0024a.jpg",
+                "start_date": "1998",
+                "material": "steel, cast glass, photography",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "172 Guigues Avenue, Main Floor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.691648,
+                    45.432048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Main2",
+                "name:fr": "Main2",
+                "artist_name": "Kinmond, Stuart",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2017-0068a.jpg",
+                "start_date": "2016",
+                "material": "ceramic frit on glass, aluminum, steel, and concrete",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "223 Main Street, St. Paul’s University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67608,
+                    45.406972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Almanac",
+                "name:fr": "Almanach",
+                "artist_name": "Thompson, Amy",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2017-0065.01.jpg",
+                "start_date": "2016",
+                "material": "powder-coated aluminum and stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2263 Portobello Boulevard, François Dupuis Pool"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.463712,
+                    45.45435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Kinetic Clock",
+                "name:fr": "Kinetic Clock",
+                "artist_name": "Stonyer, Andrew",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1989-0022.jpg",
+                "start_date": "1989",
+                "material": "steel and paint",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2280 Stevenage Drive, Heritage Grade Restoration"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.610229,
+                    45.378451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "The Olde Forge",
+                "name:fr": "The Olde Forge",
+                "artist_name": "Robertson, Jeannine",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1987-0095a.jpg",
+                "start_date": "1987",
+                "material": "silkscreen, oil pastel on paper",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2730 Carling Avenue, Old Forge Community Centre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.793279,
+                    45.360051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "13 Fire Axes",
+                "name:fr": "13 Fire Axes",
+                "artist_name": "McVeigh, Don",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1986-0084.jpg",
+                "start_date": "1986",
+                "material": "terrazzo, granite, and zinc",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "275 Coventry Road, Fire Station 56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.654656,
+                    45.42192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Stands of Time",
+                "name:fr": "Stands of Time",
+                "artist_name": "Kerr, Randy",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0001.jpg",
+                "start_date": "1994",
+                "material": "mixed media",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Repertoire of Reality",
+                "name:fr": "Repertoire of Reality",
+                "artist_name": "Cronin, Lynda",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0002.jpg",
+                "start_date": "1995",
+                "material": "cibachrome and steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Untitled",
+                "name:fr": "Untitled",
+                "artist_name": "Gilbert, Lorraine",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0003.01.jpg",
+                "start_date": "1994",
+                "material": "Ektachrome colour prints",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Maintaining",
+                "name:fr": "Maintaining",
+                "artist_name": "Feindel, Susan",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0004.jpg",
+                "start_date": "1995",
+                "material": "frescoe Bueno on galvanized steel lathing, plywood and steel support system, steel angle frame, acrylic medium",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "History of the Municipal Workshops Past",
+                "name:fr": "History of the Municipal Workshops Past",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0005.jpg",
+                "start_date": "1994",
+                "material": "limestone, sand, steel, wood, tripod, aluminum lunch box",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Retirement Suite",
+                "name:fr": "Retirement Suite",
+                "artist_name": "fleury, c j",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/1995-0006.jpg",
+                "start_date": "1994",
+                "material": "wood, steel, acrylic, plaster",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "2799 Swansea Crescent, Municipal Workshops Front Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.616101,
+                    45.379621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Winston Chandelier",
+                "name:fr": "chandelier Winston",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2017-0067a.jpg",
+                "start_date": "2015",
+                "material": "powder-coated aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "399 Winston Avenue, Winston Plaza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.756293,
+                    45.391378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "study for Sphere Field",
+                "name:fr": "étude pour Sphere Field",
+                "artist_name": "Emig, Kenneth",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2016-0006.jpg",
+                "start_date": "2015",
+                "material": "mixed media",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Ken Emig’s studio, 532 Dunning Lane"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.405868,
+                    45.516177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Ebb + Flow",
+                "name:fr": "Flux + Reflux",
+                "artist_name": "Kemp, Dave",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/DSC1060.jpg",
+                "start_date": "2016",
+                "material": "steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "56 Fieldrow Street, Crestview Pool"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.738052,
+                    45.34442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A CELEBRATION OF COMMUNITY",
+                "name:fr": "UNE CÉLÉBRATION DE LA COMMUNAUTÉ",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2016-0034.01.jpg",
+                "start_date": "2015",
+                "material": "powder-coated steel and stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Greely Village Park 7292 Parkway Road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.551898,
+                    45.265274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Cows Fly Home on Sunday",
+                "name:fr": "Cows Fly Home on Sunday",
+                "artist_name": "desClouds, Tim",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2001-0322a.jpg",
+                "start_date": "1994",
+                "material": "steel, copper, aluminum",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "955 Bank Street, Lansdowne Park Complex: Aberdeen Pavilion"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68235,
+                    45.400236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "A View from Two Sides",
+                "name:fr": "Une vue de deux côtés",
+                "artist_name": "Emig, Kenneth",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2016-0003a.jpg",
+                "start_date": "2014",
+                "material": "stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Adawe Crossing (Donald/Somerset at Rideau River)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.670037,
+                    45.426399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tourism": "artwork",
+                "name": "Along the boards",
+                "name:fr": "Le long de la bande",
+                "artist_name": "Griffin, Christopher",
+                "image": "http://ottawaxyz.ottawa.ca/wp-content/uploads/2014/03/2018-0001.01.jpg",
+                "start_date": "2017",
+                "material": "stainless steel",
+                "source": "City of Ottawa",
+                "source:date": "2018-07-20",
+                "description": "Jim Tubman Chevrolet SENS Rink"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.630215,
+                    45.390901
+                ]
+            }
+        }
+    ]
+}
