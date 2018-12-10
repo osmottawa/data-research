@@ -1,0 +1,7281 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/76270556",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:56Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Pretty Street",
+    "name:en": "Pretty Street",
+    "name:fr": "rue Pretty",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270556"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9146178,
+        45.2551928
+      ],
+      [
+        -75.9146633,
+        45.2552363
+      ],
+      [
+        -75.915072,
+        45.2556271
+      ],
+      [
+        -75.9181665,
+        45.2582795
+      ],
+      [
+        -75.9186339,
+        45.2586689
+      ],
+      [
+        -75.9187398,
+        45.2587448
+      ],
+      [
+        -75.918811,
+        45.2587958
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270559",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:57Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Sonia Court",
+    "name:en": "Sonia Court",
+    "name:fr": "cour Sonia",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270559"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9077531,
+        45.2524937
+      ],
+      [
+        -75.907625,
+        45.252562
+      ],
+      [
+        -75.9073687,
+        45.2526987
+      ],
+      [
+        -75.9070559,
+        45.2527973
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270598",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:57Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Cherry Drive",
+    "name:en": "Cherry Drive",
+    "name:fr": "promenade Cherry",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270598"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9116304,
+        45.2510484
+      ],
+      [
+        -75.911725,
+        45.2511324
+      ],
+      [
+        -75.9119566,
+        45.2513276
+      ],
+      [
+        -75.9120446,
+        45.251445
+      ],
+      [
+        -75.9121823,
+        45.2516797
+      ],
+      [
+        -75.9121815,
+        45.2517607
+      ],
+      [
+        -75.9121297,
+        45.2518414
+      ],
+      [
+        -75.9120399,
+        45.2519039
+      ],
+      [
+        -75.9105279,
+        45.252742
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270689",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:57Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "40",
+    "maxspeed:type": "sign",
+    "name": "Bradley Street",
+    "name:en": "Bradley Street",
+    "name:fr": "rue Bradley",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270689"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9148275,
+        45.2583435
+      ],
+      [
+        -75.9149051,
+        45.2584115
+      ],
+      [
+        -75.9164187,
+        45.2597374
+      ],
+      [
+        -75.9165716,
+        45.2598355
+      ],
+      [
+        -75.9166592,
+        45.2598917
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270725",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:58Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Brae Crescent",
+    "name:en": "Brae Crescent",
+    "name:fr": "croissant Brae",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270725"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9196847,
+        45.2555786
+      ],
+      [
+        -75.9194534,
+        45.2557754
+      ],
+      [
+        -75.9185668,
+        45.2563451
+      ],
+      [
+        -75.9184735,
+        45.2564051
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270801",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:58Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Ralphpark Street",
+    "name:en": "Ralphpark Street",
+    "name:fr": "rue Ralphpark",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270801"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9159802,
+        45.2577645
+      ],
+      [
+        -75.9164974,
+        45.2582159
+      ],
+      [
+        -75.9172557,
+        45.2588778
+      ],
+      [
+        -75.917559,
+        45.2591223
+      ],
+      [
+        -75.9176416,
+        45.2591891
+      ],
+      [
+        -75.9177175,
+        45.2592504
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270839",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:58Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Ralphpark Street",
+    "name:en": "Ralphpark Street",
+    "name:fr": "rue Ralphpark",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270839"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9136314,
+        45.2557097
+      ],
+      [
+        -75.9136969,
+        45.2557692
+      ],
+      [
+        -75.914717,
+        45.2566961
+      ],
+      [
+        -75.9151593,
+        45.2570493
+      ],
+      [
+        -75.9159802,
+        45.2577645
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76270852",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:58Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Bobcat Way",
+    "name:en": "Bobcat Way",
+    "name:fr": "voie Bobcat",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76270852"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9164918,
+        45.2526017
+      ],
+      [
+        -75.9163911,
+        45.2526649
+      ],
+      [
+        -75.9150185,
+        45.2535272
+      ],
+      [
+        -75.9149145,
+        45.2535925
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271001",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:59Z",
+    "version": "5",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Trechelle Private",
+    "name:en": "Trechelle Private",
+    "name:fr": "privé Trechelle",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/76271001"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9132977,
+        45.2523245
+      ],
+      [
+        -75.9131871,
+        45.2523975
+      ],
+      [
+        -75.911947,
+        45.2529131
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271054",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:59Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Brightside Avenue",
+    "name:en": "Brightside Avenue",
+    "name:fr": "avenue Brightside",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271054"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9039497,
+        45.2511865
+      ],
+      [
+        -75.9040337,
+        45.2511355
+      ],
+      [
+        -75.9049104,
+        45.2506034
+      ],
+      [
+        -75.9049361,
+        45.2505891
+      ],
+      [
+        -75.9049622,
+        45.2505316
+      ],
+      [
+        -75.9049679,
+        45.2504811
+      ],
+      [
+        -75.9049427,
+        45.2504413
+      ],
+      [
+        -75.9044207,
+        45.2500154
+      ],
+      [
+        -75.9044019,
+        45.25
+      ],
+      [
+        -75.9043333,
+        45.249944
+      ],
+      [
+        -75.9042701,
+        45.2498923
+      ],
+      [
+        -75.9037937,
+        45.2495037
+      ],
+      [
+        -75.9037433,
+        45.2494457
+      ],
+      [
+        -75.9037135,
+        45.2493661
+      ],
+      [
+        -75.9037246,
+        45.2492832
+      ],
+      [
+        -75.9037687,
+        45.2492121
+      ],
+      [
+        -75.9037869,
+        45.2491861
+      ],
+      [
+        -75.9038799,
+        45.2490712
+      ],
+      [
+        -75.9039623,
+        45.2490102
+      ],
+      [
+        -75.9042859,
+        45.2488135
+      ],
+      [
+        -75.9043676,
+        45.2488139
+      ],
+      [
+        -75.9044542,
+        45.2488252
+      ],
+      [
+        -75.9045152,
+        45.2488544
+      ],
+      [
+        -75.9046821,
+        45.2489894
+      ],
+      [
+        -75.904873,
+        45.2491438
+      ],
+      [
+        -75.905023,
+        45.2492651
+      ],
+      [
+        -75.9052768,
+        45.2494698
+      ],
+      [
+        -75.905379,
+        45.2495537
+      ],
+      [
+        -75.905557,
+        45.2496988
+      ],
+      [
+        -75.905724,
+        45.2498349
+      ],
+      [
+        -75.9058591,
+        45.249945
+      ],
+      [
+        -75.9059266,
+        45.25
+      ],
+      [
+        -75.9059463,
+        45.2500161
+      ],
+      [
+        -75.9066265,
+        45.2505711
+      ],
+      [
+        -75.9069988,
+        45.2508958
+      ],
+      [
+        -75.9070936,
+        45.2509785
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271190",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:59Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Norway Spruce Street",
+    "name:en": "Norway Spruce Street",
+    "name:fr": "rue Norway Spruce",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271190"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9146337,
+        45.2511704
+      ],
+      [
+        -75.9147119,
+        45.2512304
+      ],
+      [
+        -75.916062,
+        45.2522665
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271284",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:00Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Turtleback Way",
+    "name:en": "Turtleback Way",
+    "name:fr": "voie Turtleback",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271284"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9139603,
+        45.2485122
+      ],
+      [
+        -75.9140883,
+        45.2485253
+      ],
+      [
+        -75.914393,
+        45.2485504
+      ],
+      [
+        -75.9145073,
+        45.248587
+      ],
+      [
+        -75.9146845,
+        45.2487049
+      ],
+      [
+        -75.9150486,
+        45.2492197
+      ],
+      [
+        -75.9151487,
+        45.2494002
+      ],
+      [
+        -75.9152354,
+        45.2496436
+      ],
+      [
+        -75.9153157,
+        45.25
+      ],
+      [
+        -75.9153572,
+        45.2501842
+      ],
+      [
+        -75.9154703,
+        45.2503378
+      ],
+      [
+        -75.9156977,
+        45.2505279
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271408",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:00Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Samuel Mann Avenue",
+    "name:en": "Samuel Mann Avenue",
+    "name:fr": "avenue Samuel Mann",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271408"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9104289,
+        45.2561431
+      ],
+      [
+        -75.9103329,
+        45.2561944
+      ],
+      [
+        -75.9100001,
+        45.256372
+      ],
+      [
+        -75.9095068,
+        45.2565331
+      ],
+      [
+        -75.9090968,
+        45.2567753
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271431",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:01Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Bradley Street",
+    "name:en": "Bradley Street",
+    "name:fr": "rue Bradley",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271431"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9124532,
+        45.2562975
+      ],
+      [
+        -75.9125234,
+        45.2563623
+      ],
+      [
+        -75.9127182,
+        45.2565419
+      ],
+      [
+        -75.9147528,
+        45.2582797
+      ],
+      [
+        -75.9148275,
+        45.2583435
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271459",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:01Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Shining Star Circle",
+    "name:en": "Shining Star Circle",
+    "name:fr": "cercle Shining Star",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271459"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9023595,
+        45.2510604
+      ],
+      [
+        -75.9022584,
+        45.2511147
+      ],
+      [
+        -75.9018728,
+        45.2513321
+      ],
+      [
+        -75.9016708,
+        45.2514409
+      ],
+      [
+        -75.9016364,
+        45.2514752
+      ],
+      [
+        -75.9016054,
+        45.2515147
+      ],
+      [
+        -75.9015946,
+        45.2515652
+      ],
+      [
+        -75.9016145,
+        45.2516194
+      ],
+      [
+        -75.902419,
+        45.2523019
+      ],
+      [
+        -75.9024597,
+        45.2523201
+      ],
+      [
+        -75.9025259,
+        45.2523313
+      ],
+      [
+        -75.902618,
+        45.2523174
+      ],
+      [
+        -75.9032239,
+        45.2519778
+      ],
+      [
+        -75.9032449,
+        45.2519202
+      ],
+      [
+        -75.9032356,
+        45.2518407
+      ],
+      [
+        -75.903175,
+        45.2517755
+      ],
+      [
+        -75.902983,
+        45.2515869
+      ],
+      [
+        -75.9024621,
+        45.251147
+      ],
+      [
+        -75.9023595,
+        45.2510604
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271604",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:01Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Evelyn Street",
+    "name:en": "Evelyn Street",
+    "name:fr": "rue Evelyn",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271604"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.913662,
+        45.2589314
+      ],
+      [
+        -75.9135625,
+        45.2589833
+      ],
+      [
+        -75.91292,
+        45.2593186
+      ],
+      [
+        -75.9128421,
+        45.2593592
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271663",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:02Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Friendly Crescent",
+    "name:en": "Friendly Crescent",
+    "name:fr": "croissant Friendly",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271663"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9025915,
+        45.2491655
+      ],
+      [
+        -75.9024605,
+        45.2491397
+      ],
+      [
+        -75.9023429,
+        45.2491165
+      ],
+      [
+        -75.9021849,
+        45.249094
+      ],
+      [
+        -75.9020775,
+        45.2491151
+      ],
+      [
+        -75.901929,
+        45.2491576
+      ],
+      [
+        -75.9010523,
+        45.2496868
+      ],
+      [
+        -75.9005334,
+        45.25
+      ],
+      [
+        -75.9001926,
+        45.2502057
+      ],
+      [
+        -75.900141,
+        45.2502523
+      ],
+      [
+        -75.9001301,
+        45.2503208
+      ],
+      [
+        -75.9001448,
+        45.250375
+      ],
+      [
+        -75.9006762,
+        45.250818
+      ],
+      [
+        -75.9007576,
+        45.2508473
+      ],
+      [
+        -75.9008494,
+        45.250855
+      ],
+      [
+        -75.9009314,
+        45.2508265
+      ],
+      [
+        -75.9022157,
+        45.2500575
+      ],
+      [
+        -75.9023449,
+        45.2500041
+      ],
+      [
+        -75.9023571,
+        45.25
+      ],
+      [
+        -75.9025037,
+        45.2499508
+      ],
+      [
+        -75.9026514,
+        45.2499193
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271700",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:02Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "James Lewis Avenue",
+    "name:en": "James Lewis Avenue",
+    "name:fr": "avenue James Lewis",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271700"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9091008,
+        45.2490721
+      ],
+      [
+        -75.9089848,
+        45.2491423
+      ],
+      [
+        -75.9075691,
+        45.25
+      ],
+      [
+        -75.907265,
+        45.2501842
+      ],
+      [
+        -75.9067059,
+        45.250523
+      ],
+      [
+        -75.9066265,
+        45.2505711
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271707",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:02Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "James Lewis Avenue",
+    "name:en": "James Lewis Avenue",
+    "name:fr": "avenue James Lewis",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271707"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9066265,
+        45.2505711
+      ],
+      [
+        -75.9065168,
+        45.2506356
+      ],
+      [
+        -75.9047256,
+        45.2517093
+      ],
+      [
+        -75.9046342,
+        45.2517641
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271835",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:03Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Hearn Crescent",
+    "name:en": "Hearn Crescent",
+    "name:fr": "croissant Hearn",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271835"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9213385,
+        45.2520684
+      ],
+      [
+        -75.9214227,
+        45.2521358
+      ],
+      [
+        -75.9217682,
+        45.2524126
+      ],
+      [
+        -75.9217932,
+        45.2524577
+      ],
+      [
+        -75.9217797,
+        45.2525296
+      ],
+      [
+        -75.9217137,
+        45.2527543
+      ],
+      [
+        -75.9216228,
+        45.2529248
+      ],
+      [
+        -75.9213266,
+        45.2532382
+      ],
+      [
+        -75.9211731,
+        45.2533005
+      ],
+      [
+        -75.9208963,
+        45.2533713
+      ],
+      [
+        -75.9208094,
+        45.253401
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271880",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:04Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Bell Park Street",
+    "name:en": "Bell Park Street",
+    "name:fr": "rue Bell Park",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271880"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.910478,
+        45.2501771
+      ],
+      [
+        -75.910412,
+        45.250217
+      ],
+      [
+        -75.9081208,
+        45.2516029
+      ],
+      [
+        -75.9080293,
+        45.2516582
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271883",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:04Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Trafalgar Crescent",
+    "name:en": "Trafalgar Crescent",
+    "name:fr": "croissant Trafalgar",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271883"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9126222,
+        45.2549427
+      ],
+      [
+        -75.9124285,
+        45.2549836
+      ],
+      [
+        -75.9105057,
+        45.2560986
+      ],
+      [
+        -75.9104289,
+        45.2561431
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271884",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:04Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Cherry Drive",
+    "name:en": "Cherry Drive",
+    "name:fr": "promenade Cherry",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271884"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.910478,
+        45.2501771
+      ],
+      [
+        -75.9105344,
+        45.2502189
+      ],
+      [
+        -75.9114799,
+        45.2509472
+      ],
+      [
+        -75.9115196,
+        45.2509712
+      ],
+      [
+        -75.9116304,
+        45.2510484
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271945",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:05Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Basswood Avenue",
+    "name:en": "Basswood Avenue",
+    "name:fr": "avenue Basswood",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271945"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9095323,
+        45.2553736
+      ],
+      [
+        -75.9095898,
+        45.2554229
+      ],
+      [
+        -75.9104289,
+        45.2561431
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76271981",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:05Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Caribou Avenue",
+    "name:en": "Caribou Avenue",
+    "name:fr": "avenue Caribou",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76271981"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9090968,
+        45.2567753
+      ],
+      [
+        -75.9091675,
+        45.2568323
+      ],
+      [
+        -75.910022,
+        45.257522
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272008",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:05Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Cordukes Street",
+    "name:en": "Cordukes Street",
+    "name:fr": "rue Cordukes",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272008"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9170222,
+        45.2517921
+      ],
+      [
+        -75.9165746,
+        45.2519812
+      ],
+      [
+        -75.9161191,
+        45.2522347
+      ],
+      [
+        -75.916062,
+        45.2522665
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272022",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:06Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Evelyn Street",
+    "name:en": "Evelyn Street",
+    "name:fr": "rue Evelyn",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272022"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9159802,
+        45.2577645
+      ],
+      [
+        -75.9158971,
+        45.2578063
+      ],
+      [
+        -75.9148275,
+        45.2583435
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272144",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:06Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Coachman Crescent",
+    "name:en": "Coachman Crescent",
+    "name:fr": "croissant Coachman",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272144"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9365562,
+        45.255312
+      ],
+      [
+        -75.9366847,
+        45.2554123
+      ],
+      [
+        -75.9371803,
+        45.2557989
+      ],
+      [
+        -75.9372504,
+        45.2558822
+      ],
+      [
+        -75.9372497,
+        45.2559479
+      ],
+      [
+        -75.9371806,
+        45.2560166
+      ],
+      [
+        -75.9370112,
+        45.2560832
+      ],
+      [
+        -75.9368102,
+        45.2561461
+      ],
+      [
+        -75.9365576,
+        45.2562295
+      ],
+      [
+        -75.9362684,
+        45.2562955
+      ],
+      [
+        -75.9360992,
+        45.2563499
+      ],
+      [
+        -75.9359496,
+        45.2564045
+      ],
+      [
+        -75.9358096,
+        45.2564625
+      ],
+      [
+        -75.9356992,
+        45.2565103
+      ],
+      [
+        -75.9356011,
+        45.256541
+      ],
+      [
+        -75.9355473,
+        45.2565424
+      ],
+      [
+        -75.9354838,
+        45.2565317
+      ],
+      [
+        -75.9354084,
+        45.2564968
+      ],
+      [
+        -75.9352483,
+        45.2563664
+      ],
+      [
+        -75.9350416,
+        45.2562013
+      ],
+      [
+        -75.9349061,
+        45.2560555
+      ],
+      [
+        -75.9348258,
+        45.2559637
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272353",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:07Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "John Sidney Crescent",
+    "name:en": "John Sidney Crescent",
+    "name:fr": "croissant John Sidney",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272353"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9056505,
+        45.2525368
+      ],
+      [
+        -75.905504,
+        45.2526249
+      ],
+      [
+        -75.904894,
+        45.2529918
+      ],
+      [
+        -75.9048424,
+        45.2530545
+      ],
+      [
+        -75.904816,
+        45.2531444
+      ],
+      [
+        -75.9048406,
+        45.2532255
+      ],
+      [
+        -75.9058513,
+        45.2540496
+      ],
+      [
+        -75.9059528,
+        45.2540862
+      ],
+      [
+        -75.9061515,
+        45.2541097
+      ],
+      [
+        -75.9062709,
+        45.2541238
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272366",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:07Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Brigade Avenue",
+    "name:en": "Brigade Avenue",
+    "name:fr": "avenue Brigade",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272366"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9116304,
+        45.2510484
+      ],
+      [
+        -75.9112443,
+        45.2512249
+      ],
+      [
+        -75.9107848,
+        45.2513035
+      ],
+      [
+        -75.9105418,
+        45.2513923
+      ],
+      [
+        -75.9090153,
+        45.2522931
+      ],
+      [
+        -75.9089395,
+        45.2523379
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272380",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:07Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Norway Spruce Street",
+    "name:en": "Norway Spruce Street",
+    "name:fr": "rue Norway Spruce",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272380"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9188648,
+        45.2547735
+      ],
+      [
+        -75.9189524,
+        45.254927
+      ],
+      [
+        -75.9190783,
+        45.2550716
+      ],
+      [
+        -75.9196321,
+        45.2555346
+      ],
+      [
+        -75.9196847,
+        45.2555786
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272383",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:08Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Evelyn Street",
+    "name:en": "Evelyn Street",
+    "name:fr": "rue Evelyn",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272383"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9148275,
+        45.2583435
+      ],
+      [
+        -75.9137562,
+        45.2588839
+      ],
+      [
+        -75.913662,
+        45.2589314
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272425",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:08Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Eliza Crescent",
+    "name:en": "Eliza Crescent",
+    "name:fr": "croissant Eliza",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272425"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9271874,
+        45.2524289
+      ],
+      [
+        -75.9270391,
+        45.2525208
+      ],
+      [
+        -75.9258658,
+        45.253248
+      ],
+      [
+        -75.9258243,
+        45.2533055
+      ],
+      [
+        -75.9258296,
+        45.2533633
+      ],
+      [
+        -75.9263451,
+        45.2538116
+      ],
+      [
+        -75.9264091,
+        45.2538325
+      ],
+      [
+        -75.9264793,
+        45.2538288
+      ],
+      [
+        -75.9265672,
+        45.2538003
+      ],
+      [
+        -75.927751,
+        45.2530566
+      ],
+      [
+        -75.9278896,
+        45.2529695
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272447",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:08Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Evelyn Street",
+    "name:en": "Evelyn Street",
+    "name:fr": "rue Evelyn",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272447"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9128421,
+        45.2593592
+      ],
+      [
+        -75.9127164,
+        45.2594205
+      ],
+      [
+        -75.9121121,
+        45.2597154
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272448",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:08Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Spindle Way",
+    "name:en": "Spindle Way",
+    "name:fr": "voie Spindle",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272448"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9105279,
+        45.252742
+      ],
+      [
+        -75.9105829,
+        45.2528028
+      ],
+      [
+        -75.9106916,
+        45.2529229
+      ],
+      [
+        -75.9110454,
+        45.2532127
+      ],
+      [
+        -75.91107,
+        45.2532938
+      ],
+      [
+        -75.9110309,
+        45.2533746
+      ],
+      [
+        -75.9094381,
+        45.2543026
+      ],
+      [
+        -75.9093774,
+        45.2543379
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272468",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:09Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Jonathan Pack Street",
+    "name:en": "Jonathan Pack Street",
+    "name:fr": "rue Jonathan Pack",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272468"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9259301,
+        45.2553492
+      ],
+      [
+        -75.925994,
+        45.2553989
+      ],
+      [
+        -75.926676,
+        45.2559289
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272473",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:09Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Manchester Street",
+    "name:en": "Manchester Street",
+    "name:fr": "rue Manchester",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272473"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.926676,
+        45.2559289
+      ],
+      [
+        -75.9265751,
+        45.2559925
+      ],
+      [
+        -75.9255989,
+        45.2566074
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272505",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:09Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Norway Spruce Street",
+    "name:en": "Norway Spruce Street",
+    "name:fr": "rue Norway Spruce",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272505"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9132299,
+        45.2490678
+      ],
+      [
+        -75.9133063,
+        45.2491053
+      ],
+      [
+        -75.9134185,
+        45.2491664
+      ],
+      [
+        -75.9136084,
+        45.2492843
+      ],
+      [
+        -75.9138102,
+        45.2494833
+      ],
+      [
+        -75.9138976,
+        45.2496548
+      ],
+      [
+        -75.9139796,
+        45.25
+      ],
+      [
+        -75.9141052,
+        45.2505287
+      ],
+      [
+        -75.9141671,
+        45.2507
+      ],
+      [
+        -75.9142675,
+        45.2508535
+      ],
+      [
+        -75.9145668,
+        45.2511125
+      ],
+      [
+        -75.9146337,
+        45.2511704
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272517",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:10Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Greenhaven Crescent",
+    "name:en": "Greenhaven Crescent",
+    "name:fr": "croissant Greenhaven",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272517"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9260205,
+        45.251237
+      ],
+      [
+        -75.9258712,
+        45.2512717
+      ],
+      [
+        -75.9257503,
+        45.2512998
+      ],
+      [
+        -75.9256395,
+        45.2513519
+      ],
+      [
+        -75.9244467,
+        45.2521201
+      ],
+      [
+        -75.9244028,
+        45.2521785
+      ],
+      [
+        -75.9244066,
+        45.2522215
+      ],
+      [
+        -75.9244093,
+        45.2522524
+      ],
+      [
+        -75.9244592,
+        45.2523112
+      ],
+      [
+        -75.92491,
+        45.2526598
+      ],
+      [
+        -75.9249889,
+        45.252701
+      ],
+      [
+        -75.9250307,
+        45.2527024
+      ],
+      [
+        -75.9250754,
+        45.252704
+      ],
+      [
+        -75.9251369,
+        45.2526865
+      ],
+      [
+        -75.9263088,
+        45.2519366
+      ],
+      [
+        -75.9264335,
+        45.2518568
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272555",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:10Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Morningsun Crescent",
+    "name:en": "Morningsun Crescent",
+    "name:fr": "croissant Morningsun",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272555"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9077531,
+        45.2524937
+      ],
+      [
+        -75.9072854,
+        45.2521313
+      ],
+      [
+        -75.9071334,
+        45.2520496
+      ],
+      [
+        -75.9070573,
+        45.2520222
+      ],
+      [
+        -75.906752,
+        45.2519756
+      ],
+      [
+        -75.9064711,
+        45.2520281
+      ],
+      [
+        -75.9057388,
+        45.252482
+      ],
+      [
+        -75.9056505,
+        45.2525368
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272566",
+  "properties": {
+    "timestamp": "2018-05-11T17:35:10Z",
+    "version": "5",
+    "changeset": "58884898",
+    "user": "Matthew Darwin",
+    "uid": "5633991",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Willow Gardens Crescent",
+    "name:en": "Willow Gardens Crescent",
+    "name:fr": "croissant Willow Gardens",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272566"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9208094,
+        45.253401
+      ],
+      [
+        -75.9208529,
+        45.2534698
+      ],
+      [
+        -75.9209917,
+        45.2535965
+      ],
+      [
+        -75.9217253,
+        45.2539574
+      ],
+      [
+        -75.9218276,
+        45.2540104
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272572",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:10Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Carleton Cathcart Street",
+    "name:en": "Carleton Cathcart Street",
+    "name:fr": "rue Carleton Cathcart",
+    "sidewalk": "right",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272572"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9124532,
+        45.2562975
+      ],
+      [
+        -75.9119282,
+        45.2565468
+      ],
+      [
+        -75.9113952,
+        45.2568249
+      ],
+      [
+        -75.9112798,
+        45.2568827
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272586",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:10Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Shining Star Circle",
+    "name:en": "Shining Star Circle",
+    "name:fr": "cercle Shining Star",
+    "sidewalk": "left",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272586"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9032536,
+        45.250591
+      ],
+      [
+        -75.9031117,
+        45.2506622
+      ],
+      [
+        -75.9026533,
+        45.2508924
+      ],
+      [
+        -75.9023595,
+        45.2510604
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272677",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:11Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Forest Heights Avenue",
+    "name:en": "Forest Heights Avenue",
+    "name:fr": "avenue Forest Heights",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272677"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9255989,
+        45.2566074
+      ],
+      [
+        -75.9256888,
+        45.256678
+      ],
+      [
+        -75.9270527,
+        45.2577486
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272718",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:11Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Snowberry Way",
+    "name:en": "Snowberry Way",
+    "name:fr": "voie Snowberry",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272718"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9185992,
+        45.252545
+      ],
+      [
+        -75.9185258,
+        45.2525544
+      ],
+      [
+        -75.9181608,
+        45.2526012
+      ],
+      [
+        -75.9179183,
+        45.252636
+      ],
+      [
+        -75.9176884,
+        45.2526978
+      ],
+      [
+        -75.9174711,
+        45.2527687
+      ],
+      [
+        -75.917087,
+        45.2529826
+      ],
+      [
+        -75.9170226,
+        45.2530184
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272808",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:12Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Stitt Street",
+    "name:en": "Stitt Street",
+    "name:fr": "rue Stitt",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272808"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9268919,
+        45.2547331
+      ],
+      [
+        -75.9269627,
+        45.2547909
+      ],
+      [
+        -75.9273468,
+        45.2551044
+      ],
+      [
+        -75.9275752,
+        45.2551955
+      ],
+      [
+        -75.9278547,
+        45.2552779
+      ],
+      [
+        -75.9282095,
+        45.2554776
+      ],
+      [
+        -75.9290307,
+        45.2561657
+      ],
+      [
+        -75.9292819,
+        45.2565269
+      ],
+      [
+        -75.9294838,
+        45.2567259
+      ],
+      [
+        -75.9304822,
+        45.2575407
+      ],
+      [
+        -75.9304934,
+        45.2575588
+      ],
+      [
+        -75.9305323,
+        45.257622
+      ],
+      [
+        -75.9304938,
+        45.2576578
+      ],
+      [
+        -75.9295956,
+        45.2582241
+      ],
+      [
+        -75.9295449,
+        45.258256
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76272923",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:13Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Beechgrove Garden",
+    "name:en": "Beechgrove Garden",
+    "name:fr": "jardin Beechgrove",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76272923"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9244565,
+        45.253659
+      ],
+      [
+        -75.9243858,
+        45.2537034
+      ],
+      [
+        -75.9227512,
+        45.2547303
+      ],
+      [
+        -75.9225464,
+        45.2548192
+      ],
+      [
+        -75.922437,
+        45.2548574
+      ],
+      [
+        -75.9222988,
+        45.2548719
+      ],
+      [
+        -75.9221397,
+        45.2548313
+      ],
+      [
+        -75.9215609,
+        45.254484
+      ],
+      [
+        -75.9214801,
+        45.2544359
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273000",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:13Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Baywood Drive",
+    "name:en": "Baywood Drive",
+    "name:fr": "promenade Baywood",
+    "sidewalk": "both",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/76273000"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9065643,
+        45.2496304
+      ],
+      [
+        -75.9064661,
+        45.2496917
+      ],
+      [
+        -75.9060447,
+        45.2499547
+      ],
+      [
+        -75.9059721,
+        45.25
+      ],
+      [
+        -75.9059463,
+        45.2500161
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273003",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:13Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Carleton Cathcart Street",
+    "name:en": "Carleton Cathcart Street",
+    "name:fr": "rue Carleton Cathcart",
+    "sidewalk": "right",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273003"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9112798,
+        45.2568827
+      ],
+      [
+        -75.9111919,
+        45.2569264
+      ],
+      [
+        -75.9101095,
+        45.2574643
+      ],
+      [
+        -75.910022,
+        45.257522
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273108",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:14Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "McCuaig Drive",
+    "name:en": "McCuaig Drive",
+    "name:fr": "promenade McCuaig",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273108"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9207556,
+        45.2505087
+      ],
+      [
+        -75.9206542,
+        45.2505719
+      ],
+      [
+        -75.9195247,
+        45.2512763
+      ],
+      [
+        -75.9194217,
+        45.2513838
+      ],
+      [
+        -75.9194085,
+        45.2514287
+      ],
+      [
+        -75.9194205,
+        45.2515008
+      ],
+      [
+        -75.9194582,
+        45.251555
+      ],
+      [
+        -75.9198861,
+        45.2518846
+      ],
+      [
+        -75.9199638,
+        45.2519445
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273120",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:14Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Willow Gardens Crescent",
+    "name:en": "Willow Gardens Crescent",
+    "name:fr": "croissant Willow Gardens",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273120"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9221332,
+        45.2515955
+      ],
+      [
+        -75.9220153,
+        45.2516657
+      ],
+      [
+        -75.9213385,
+        45.2520684
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273164",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:14Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Sunnyside Drive",
+    "name:en": "Sunnyside Drive",
+    "name:fr": "promenade Sunnyside",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273164"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9089395,
+        45.2523379
+      ],
+      [
+        -75.9098063,
+        45.2530542
+      ],
+      [
+        -75.9098704,
+        45.253112
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273172",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:15Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Sunray Crescent",
+    "name:en": "Sunray Crescent",
+    "name:fr": "croissant Sunray",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273172"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9086451,
+        45.254928
+      ],
+      [
+        -75.9076806,
+        45.2555069
+      ],
+      [
+        -75.9076194,
+        45.2555436
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/76273235",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:15Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Turtleback Way",
+    "name:en": "Turtleback Way",
+    "name:fr": "voie Turtleback",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/76273235"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9156977,
+        45.2505279
+      ],
+      [
+        -75.9165947,
+        45.2512614
+      ],
+      [
+        -75.9167966,
+        45.2514514
+      ],
+      [
+        -75.9169224,
+        45.251605
+      ],
+      [
+        -75.9169894,
+        45.2517307
+      ],
+      [
+        -75.9170222,
+        45.2517921
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84820839",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:15Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Landswood Way",
+    "name:en": "Landswood Way",
+    "name:fr": "voie Landswood",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84820839"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9204646,
+        45.2453004
+      ],
+      [
+        -75.9206243,
+        45.2452718
+      ],
+      [
+        -75.920761,
+        45.2452474
+      ],
+      [
+        -75.9208614,
+        45.2452175
+      ],
+      [
+        -75.920966,
+        45.2451561
+      ],
+      [
+        -75.9219172,
+        45.2445549
+      ],
+      [
+        -75.9219357,
+        45.2444546
+      ],
+      [
+        -75.9218876,
+        45.2443894
+      ],
+      [
+        -75.9217029,
+        45.2442474
+      ],
+      [
+        -75.9215762,
+        45.2442035
+      ],
+      [
+        -75.9212495,
+        45.2441958
+      ],
+      [
+        -75.921124,
+        45.2441644
+      ],
+      [
+        -75.9210685,
+        45.2440935
+      ],
+      [
+        -75.9210454,
+        45.2440385
+      ],
+      [
+        -75.9208512,
+        45.2435752
+      ],
+      [
+        -75.9208962,
+        45.2434779
+      ],
+      [
+        -75.9210576,
+        45.2434291
+      ],
+      [
+        -75.9218496,
+        45.2434429
+      ],
+      [
+        -75.9219544,
+        45.2434401
+      ],
+      [
+        -75.9220931,
+        45.2434715
+      ],
+      [
+        -75.92221,
+        45.2435149
+      ],
+      [
+        -75.9223347,
+        45.2435926
+      ],
+      [
+        -75.9238276,
+        45.2447963
+      ],
+      [
+        -75.9248127,
+        45.2455906
+      ],
+      [
+        -75.92486,
+        45.2456835
+      ],
+      [
+        -75.924784,
+        45.2458024
+      ],
+      [
+        -75.9243832,
+        45.2460528
+      ],
+      [
+        -75.9229676,
+        45.2469369
+      ],
+      [
+        -75.9229276,
+        45.2470045
+      ],
+      [
+        -75.9229265,
+        45.2470843
+      ],
+      [
+        -75.9229419,
+        45.2472221
+      ],
+      [
+        -75.9229532,
+        45.2473227
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84820989",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:15Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Arrowwood Drive",
+    "name:en": "Arrowwood Drive",
+    "name:fr": "promenade Arrowwood",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84820989"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9078219,
+        45.245583
+      ],
+      [
+        -75.9079465,
+        45.2456831
+      ],
+      [
+        -75.9090875,
+        45.2466001
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84821550",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:16Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Hopetown Street",
+    "name:en": "Hopetown Street",
+    "name:fr": "rue Hopetown",
+    "sidewalk": "left",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84821550"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9043333,
+        45.249944
+      ],
+      [
+        -75.904223,
+        45.2500113
+      ],
+      [
+        -75.9035916,
+        45.2503884
+      ],
+      [
+        -75.9033686,
+        45.250522
+      ],
+      [
+        -75.9032536,
+        45.250591
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84821605",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:16Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Allgrove Way",
+    "name:en": "Allgrove Way",
+    "name:fr": "voie Allgrove",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84821605"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9085838,
+        45.2451172
+      ],
+      [
+        -75.908683,
+        45.2451983
+      ],
+      [
+        -75.9098717,
+        45.2461708
+      ],
+      [
+        -75.9108127,
+        45.2469442
+      ],
+      [
+        -75.9108824,
+        45.2470015
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84821608",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:16Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Coyote Crescent",
+    "name:en": "Coyote Crescent",
+    "name:fr": "croissant Coyote",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84821608"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.925553,
+        45.2481299
+      ],
+      [
+        -75.9254271,
+        45.2481813
+      ],
+      [
+        -75.925341,
+        45.2482165
+      ],
+      [
+        -75.9251898,
+        45.2482339
+      ],
+      [
+        -75.9242923,
+        45.2482672
+      ],
+      [
+        -75.924141,
+        45.2482963
+      ],
+      [
+        -75.9240076,
+        45.2483426
+      ],
+      [
+        -75.9238499,
+        45.2484016
+      ],
+      [
+        -75.9237648,
+        45.2484566
+      ],
+      [
+        -75.9221109,
+        45.2495066
+      ],
+      [
+        -75.9220442,
+        45.2495361
+      ],
+      [
+        -75.9219594,
+        45.249557
+      ],
+      [
+        -75.921881,
+        45.2495438
+      ],
+      [
+        -75.9217967,
+        45.2495135
+      ],
+      [
+        -75.920562,
+        45.2485434
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822072",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:16Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Black Bear Way",
+    "name:en": "Black Bear Way",
+    "name:fr": "voie Black Bear",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84822072"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9229532,
+        45.2473227
+      ],
+      [
+        -75.9229937,
+        45.2474562
+      ],
+      [
+        -75.9230029,
+        45.2474867
+      ],
+      [
+        -75.9230543,
+        45.2477772
+      ],
+      [
+        -75.9230351,
+        45.2478795
+      ],
+      [
+        -75.9229497,
+        45.2479601
+      ],
+      [
+        -75.9222323,
+        45.2484131
+      ],
+      [
+        -75.9221231,
+        45.2484595
+      ],
+      [
+        -75.9220383,
+        45.2484804
+      ],
+      [
+        -75.9219235,
+        45.2484756
+      ],
+      [
+        -75.9218334,
+        45.2484282
+      ],
+      [
+        -75.9214978,
+        45.2481576
+      ],
+      [
+        -75.9214258,
+        45.2481103
+      ],
+      [
+        -75.9213293,
+        45.248097
+      ],
+      [
+        -75.9212082,
+        45.2481263
+      ],
+      [
+        -75.9206349,
+        45.2484963
+      ],
+      [
+        -75.920562,
+        45.2485434
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822492",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "East Healey Avenue",
+    "name:en": "East Healey Avenue",
+    "name:fr": "avenue East Healey",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84822492"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9110954,
+        45.2372848
+      ],
+      [
+        -75.9113985,
+        45.2375294
+      ],
+      [
+        -75.9114487,
+        45.2376016
+      ],
+      [
+        -75.9115109,
+        45.2377459
+      ],
+      [
+        -75.9114969,
+        45.2378718
+      ],
+      [
+        -75.9114056,
+        45.2380783
+      ],
+      [
+        -75.9113284,
+        45.2381499
+      ],
+      [
+        -75.9107754,
+        45.2385109
+      ],
+      [
+        -75.9107129,
+        45.2385517
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822500",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Snowberry Way",
+    "name:en": "Snowberry Way",
+    "name:fr": "voie Snowberry",
+    "sidewalk": "right",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84822500"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9258016,
+        45.2489741
+      ],
+      [
+        -75.9256229,
+        45.2489802
+      ],
+      [
+        -75.92478,
+        45.2490089
+      ],
+      [
+        -75.9245503,
+        45.2490363
+      ],
+      [
+        -75.9244253,
+        45.2490602
+      ],
+      [
+        -75.9243121,
+        45.2491089
+      ],
+      [
+        -75.9242581,
+        45.2491389
+      ],
+      [
+        -75.9229115,
+        45.25
+      ],
+      [
+        -75.9223083,
+        45.2503857
+      ],
+      [
+        -75.9221031,
+        45.2506576
+      ],
+      [
+        -75.9214507,
+        45.2510521
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822516",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Upcountry Drive",
+    "name:en": "Upcountry Drive",
+    "name:fr": "promenade Upcountry",
+    "sidewalk": "right",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84822516"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9093451,
+        45.2446505
+      ],
+      [
+        -75.9094353,
+        45.2447249
+      ],
+      [
+        -75.9103874,
+        45.2455125
+      ],
+      [
+        -75.9104112,
+        45.2455297
+      ],
+      [
+        -75.9107217,
+        45.2457858
+      ],
+      [
+        -75.9108194,
+        45.2458663
+      ],
+      [
+        -75.9108764,
+        45.2458947
+      ],
+      [
+        -75.9109731,
+        45.2459263
+      ],
+      [
+        -75.9111006,
+        45.2459581
+      ],
+      [
+        -75.9112635,
+        45.245992
+      ],
+      [
+        -75.9118179,
+        45.2460392
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822549",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Franklin Cathcart Crescent",
+    "name:en": "Franklin Cathcart Crescent",
+    "name:fr": "croissant Franklin Cathcart",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84822549"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9258673,
+        45.2497373
+      ],
+      [
+        -75.9256793,
+        45.2497421
+      ],
+      [
+        -75.9251348,
+        45.2497559
+      ],
+      [
+        -75.9250011,
+        45.2497652
+      ],
+      [
+        -75.9249098,
+        45.2497877
+      ],
+      [
+        -75.9247675,
+        45.249847
+      ],
+      [
+        -75.9245327,
+        45.25
+      ],
+      [
+        -75.9233072,
+        45.2507986
+      ],
+      [
+        -75.9232346,
+        45.2508572
+      ],
+      [
+        -75.923234,
+        45.2509134
+      ],
+      [
+        -75.9232827,
+        45.2509698
+      ],
+      [
+        -75.9233269,
+        45.251006
+      ],
+      [
+        -75.9237563,
+        45.2513577
+      ],
+      [
+        -75.923847,
+        45.2513823
+      ],
+      [
+        -75.923919,
+        45.251388
+      ],
+      [
+        -75.9240054,
+        45.2513652
+      ],
+      [
+        -75.9252522,
+        45.2505573
+      ],
+      [
+        -75.9253254,
+        45.2505184
+      ],
+      [
+        -75.9254156,
+        45.2504977
+      ],
+      [
+        -75.92551,
+        45.250483
+      ],
+      [
+        -75.9259304,
+        45.2504691
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822672",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Monterossa Street",
+    "name:en": "Monterossa Street",
+    "name:fr": "rue Monterossa",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84822672"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9100922,
+        45.2441925
+      ],
+      [
+        -75.9101823,
+        45.2442657
+      ],
+      [
+        -75.9111618,
+        45.2450619
+      ],
+      [
+        -75.9112061,
+        45.2450979
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822926",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:17Z",
+    "version": "5",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Monterossa Street",
+    "name:en": "Monterossa Street",
+    "name:fr": "rue Monterossa",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84822926"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9112061,
+        45.2450979
+      ],
+      [
+        -75.9116742,
+        45.2454784
+      ],
+      [
+        -75.9117572,
+        45.2455598
+      ],
+      [
+        -75.9118223,
+        45.2456566
+      ],
+      [
+        -75.9118391,
+        45.2457346
+      ],
+      [
+        -75.9118428,
+        45.2458
+      ],
+      [
+        -75.9118291,
+        45.2459322
+      ],
+      [
+        -75.9118179,
+        45.2460392
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84822928",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:18Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "James Lewis Avenue",
+    "name:en": "James Lewis Avenue",
+    "name:fr": "avenue James Lewis",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84822928"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9112753,
+        45.2467668
+      ],
+      [
+        -75.9113628,
+        45.2468408
+      ],
+      [
+        -75.9115221,
+        45.2469755
+      ],
+      [
+        -75.9115699,
+        45.2470411
+      ],
+      [
+        -75.9116172,
+        45.2471158
+      ],
+      [
+        -75.9116462,
+        45.247228
+      ],
+      [
+        -75.9116421,
+        45.2473514
+      ],
+      [
+        -75.9115966,
+        45.2474999
+      ],
+      [
+        -75.9115516,
+        45.2475717
+      ],
+      [
+        -75.911498,
+        45.2476052
+      ],
+      [
+        -75.9091824,
+        45.2490256
+      ],
+      [
+        -75.9091008,
+        45.2490721
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84823075",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:18Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Mazari Crescent",
+    "name:en": "Mazari Crescent",
+    "name:fr": "croissant Mazari",
+    "sidewalk": "no",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/84823075"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9205131,
+        45.2459881
+      ],
+      [
+        -75.9206537,
+        45.2459935
+      ],
+      [
+        -75.9210411,
+        45.2460082
+      ],
+      [
+        -75.9212497,
+        45.2459786
+      ],
+      [
+        -75.92259,
+        45.2451496
+      ],
+      [
+        -75.9227687,
+        45.2451133
+      ],
+      [
+        -75.9228808,
+        45.2451568
+      ],
+      [
+        -75.923031,
+        45.2452827
+      ],
+      [
+        -75.923316,
+        45.2455217
+      ],
+      [
+        -75.9233728,
+        45.24563
+      ],
+      [
+        -75.9233058,
+        45.2457213
+      ],
+      [
+        -75.9213232,
+        45.2469412
+      ],
+      [
+        -75.9211887,
+        45.2470656
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/84823267",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:18Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Baywood Drive",
+    "name:en": "Baywood Drive",
+    "name:fr": "promenade Baywood",
+    "sidewalk": "right",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "unpaved",
+    "id": "way/84823267"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9118179,
+        45.2460392
+      ],
+      [
+        -75.9118059,
+        45.2461432
+      ],
+      [
+        -75.9117921,
+        45.2462629
+      ],
+      [
+        -75.9117208,
+        45.2464025
+      ],
+      [
+        -75.9116695,
+        45.2464832
+      ],
+      [
+        -75.9115928,
+        45.2465575
+      ],
+      [
+        -75.9115039,
+        45.2466048
+      ],
+      [
+        -75.9113843,
+        45.2466956
+      ],
+      [
+        -75.9112753,
+        45.2467668
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171302368",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:20Z",
+    "version": "11",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Dalewood Crescent",
+    "name:en": "Dalewood Crescent",
+    "name:fr": "croissant Dalewood",
+    "sidewalk": "left",
+    "source": "Bing",
+    "id": "way/171302368"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.917117,
+        45.2427801
+      ],
+      [
+        -75.9170998,
+        45.2429165
+      ],
+      [
+        -75.9170892,
+        45.243001
+      ],
+      [
+        -75.9170945,
+        45.2434175
+      ],
+      [
+        -75.9170356,
+        45.2436339
+      ],
+      [
+        -75.9169062,
+        45.2437583
+      ],
+      [
+        -75.9167421,
+        45.2438394
+      ],
+      [
+        -75.9165427,
+        45.2439417
+      ],
+      [
+        -75.9162586,
+        45.2440547
+      ],
+      [
+        -75.9161009,
+        45.2440695
+      ],
+      [
+        -75.9159624,
+        45.2440518
+      ],
+      [
+        -75.9149449,
+        45.24391
+      ],
+      [
+        -75.914688,
+        45.2438803
+      ],
+      [
+        -75.9141498,
+        45.243818
+      ],
+      [
+        -75.9140497,
+        45.2437337
+      ],
+      [
+        -75.9139961,
+        45.2436468
+      ],
+      [
+        -75.9139837,
+        45.2432069
+      ],
+      [
+        -75.9139737,
+        45.2428547
+      ],
+      [
+        -75.9139726,
+        45.2426818
+      ],
+      [
+        -75.914023,
+        45.2425843
+      ],
+      [
+        -75.9142794,
+        45.2422242
+      ],
+      [
+        -75.9143543,
+        45.2421191
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171302369",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:21Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Cresswell Court",
+    "name:en": "Cresswell Court",
+    "name:fr": "cour Cresswell",
+    "sidewalk": "no",
+    "source": "Bing",
+    "id": "way/171302369"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9135148,
+        45.2418245
+      ],
+      [
+        -75.9135361,
+        45.2417117
+      ],
+      [
+        -75.9135756,
+        45.2410922
+      ],
+      [
+        -75.913635,
+        45.2409921
+      ],
+      [
+        -75.9140123,
+        45.2407679
+      ],
+      [
+        -75.9142218,
+        45.2407245
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171302371",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:21Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Eckerson Avenue",
+    "name:en": "Eckerson Avenue",
+    "name:fr": "avenue Eckerson",
+    "sidewalk": "no",
+    "source": "Bing",
+    "id": "way/171302371"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9135756,
+        45.2410922
+      ],
+      [
+        -75.9137354,
+        45.2411454
+      ],
+      [
+        -75.9159597,
+        45.2418865
+      ],
+      [
+        -75.9171886,
+        45.2420746
+      ],
+      [
+        -75.9172776,
+        45.2421687
+      ],
+      [
+        -75.9171422,
+        45.2426843
+      ],
+      [
+        -75.917117,
+        45.2427801
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171302372",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:21Z",
+    "version": "10",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Barracks Way",
+    "name:en": "Barracks Way",
+    "name:fr": "voie Barracks",
+    "sidewalk": "no",
+    "source": "Bing",
+    "surface": "asphalt",
+    "id": "way/171302372"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9149449,
+        45.24391
+      ],
+      [
+        -75.9149757,
+        45.2438195
+      ],
+      [
+        -75.9151162,
+        45.2434063
+      ],
+      [
+        -75.915192,
+        45.2433359
+      ],
+      [
+        -75.9153079,
+        45.2432955
+      ],
+      [
+        -75.9154044,
+        45.2432859
+      ],
+      [
+        -75.9154649,
+        45.2432892
+      ],
+      [
+        -75.9159107,
+        45.2433552
+      ],
+      [
+        -75.9159846,
+        45.2433566
+      ],
+      [
+        -75.916037,
+        45.2433324
+      ],
+      [
+        -75.9160557,
+        45.2432953
+      ],
+      [
+        -75.9160596,
+        45.243246
+      ],
+      [
+        -75.9161082,
+        45.2429172
+      ],
+      [
+        -75.9161542,
+        45.2427791
+      ],
+      [
+        -75.916189,
+        45.2426743
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/171302373",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:21Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Heathrow Private",
+    "name:en": "Heathrow Private",
+    "name:fr": "privé Heathrow",
+    "sidewalk": "no",
+    "source": "Bing",
+    "id": "way/171302373"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9139737,
+        45.2428547
+      ],
+      [
+        -75.9138361,
+        45.2428571
+      ],
+      [
+        -75.9130841,
+        45.24287
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256125479",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:25Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Birchland Crescent",
+    "name:en": "Birchland Crescent",
+    "name:fr": "croissant Birchland",
+    "sidewalk": "no",
+    "id": "way/256125479"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9258673,
+        45.2497373
+      ],
+      [
+        -75.9260734,
+        45.2497264
+      ],
+      [
+        -75.9265257,
+        45.2497025
+      ],
+      [
+        -75.9267254,
+        45.2496637
+      ],
+      [
+        -75.9268228,
+        45.2496373
+      ],
+      [
+        -75.9269044,
+        45.2496152
+      ],
+      [
+        -75.9270558,
+        45.2495425
+      ],
+      [
+        -75.9282456,
+        45.2488206
+      ],
+      [
+        -75.928302,
+        45.2487864
+      ],
+      [
+        -75.9283612,
+        45.2487592
+      ],
+      [
+        -75.9284453,
+        45.2487329
+      ],
+      [
+        -75.9285247,
+        45.2487362
+      ],
+      [
+        -75.928598,
+        45.2487622
+      ],
+      [
+        -75.9291905,
+        45.249248
+      ],
+      [
+        -75.9297685,
+        45.2497219
+      ],
+      [
+        -75.9297996,
+        45.2497751
+      ],
+      [
+        -75.9297996,
+        45.2498376
+      ],
+      [
+        -75.9297622,
+        45.2498869
+      ],
+      [
+        -75.9297447,
+        45.2499075
+      ],
+      [
+        -75.9296927,
+        45.2499303
+      ],
+      [
+        -75.9296101,
+        45.2499739
+      ],
+      [
+        -75.9295206,
+        45.2500757
+      ],
+      [
+        -75.9292659,
+        45.2504974
+      ],
+      [
+        -75.9291901,
+        45.2506234
+      ],
+      [
+        -75.9290731,
+        45.2507591
+      ],
+      [
+        -75.9288184,
+        45.2509966
+      ],
+      [
+        -75.9287675,
+        45.2510212
+      ],
+      [
+        -75.9286928,
+        45.2510376
+      ],
+      [
+        -75.9286087,
+        45.2510409
+      ],
+      [
+        -75.9285433,
+        45.2510212
+      ],
+      [
+        -75.9284879,
+        45.2509869
+      ],
+      [
+        -75.9276892,
+        45.2503375
+      ],
+      [
+        -75.927656,
+        45.2502847
+      ],
+      [
+        -75.927656,
+        45.2502288
+      ],
+      [
+        -75.9276841,
+        45.2501762
+      ],
+      [
+        -75.9277237,
+        45.2501339
+      ],
+      [
+        -75.9290695,
+        45.2493211
+      ],
+      [
+        -75.9291905,
+        45.249248
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256125480",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:25Z",
+    "version": "7",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Adamson Crescent",
+    "name:en": "Adamson Crescent",
+    "name:fr": "croissant Adamson",
+    "sidewalk": "no",
+    "id": "way/256125480"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9258016,
+        45.2489741
+      ],
+      [
+        -75.9259446,
+        45.2489655
+      ],
+      [
+        -75.9263467,
+        45.2489415
+      ],
+      [
+        -75.9264569,
+        45.2489124
+      ],
+      [
+        -75.927572,
+        45.2482368
+      ],
+      [
+        -75.927641,
+        45.248195
+      ],
+      [
+        -75.9277099,
+        45.2481078
+      ],
+      [
+        -75.9276892,
+        45.2480254
+      ],
+      [
+        -75.9271385,
+        45.2475794
+      ],
+      [
+        -75.9270489,
+        45.2475455
+      ],
+      [
+        -75.9269526,
+        45.2475552
+      ],
+      [
+        -75.9268699,
+        45.247594
+      ],
+      [
+        -75.9268049,
+        45.2476323
+      ],
+      [
+        -75.9264087,
+        45.2478654
+      ],
+      [
+        -75.9257103,
+        45.2480813
+      ],
+      [
+        -75.925553,
+        45.2481299
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/256125481",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:25Z",
+    "version": "8",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Rockson Crescent",
+    "name:en": "Rockson Crescent",
+    "name:fr": "croissant Rockson",
+    "sidewalk": "no",
+    "id": "way/256125481"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9250779,
+        45.247646
+      ],
+      [
+        -75.9251924,
+        45.2475728
+      ],
+      [
+        -75.9260411,
+        45.2470301
+      ],
+      [
+        -75.9262434,
+        45.2469008
+      ],
+      [
+        -75.9262847,
+        45.2468427
+      ],
+      [
+        -75.9262572,
+        45.2467457
+      ],
+      [
+        -75.9257753,
+        45.2463579
+      ],
+      [
+        -75.9257133,
+        45.2463288
+      ],
+      [
+        -75.9256307,
+        45.2463143
+      ],
+      [
+        -75.9255136,
+        45.2463482
+      ],
+      [
+        -75.9250848,
+        45.2466177
+      ],
+      [
+        -75.924295,
+        45.2471141
+      ],
+      [
+        -75.9242416,
+        45.2472267
+      ],
+      [
+        -75.9242002,
+        45.2473138
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/313506650",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:26Z",
+    "version": "9",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Woodhurst Crescent",
+    "name:en": "Woodhurst Crescent",
+    "name:fr": "croissant Woodhurst",
+    "sidewalk": "no",
+    "id": "way/313506650"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9271874,
+        45.2524289
+      ],
+      [
+        -75.9273099,
+        45.2523587
+      ],
+      [
+        -75.9276856,
+        45.2521435
+      ],
+      [
+        -75.9280369,
+        45.2519401
+      ],
+      [
+        -75.9280666,
+        45.2518931
+      ],
+      [
+        -75.9280717,
+        45.2518464
+      ],
+      [
+        -75.9280437,
+        45.2518102
+      ],
+      [
+        -75.9270634,
+        45.2510106
+      ],
+      [
+        -75.9270023,
+        45.2509817
+      ],
+      [
+        -75.9269132,
+        45.2509635
+      ],
+      [
+        -75.9268194,
+        45.2509745
+      ],
+      [
+        -75.9267254,
+        45.2510182
+      ],
+      [
+        -75.9265324,
+        45.2511293
+      ],
+      [
+        -75.9263445,
+        45.2511579
+      ],
+      [
+        -75.9261804,
+        45.251198
+      ],
+      [
+        -75.9260205,
+        45.251237
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/363661156",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:26Z",
+    "version": "6",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Morel Private",
+    "name:en": "Morel Private",
+    "name:fr": "privé Morel",
+    "sidewalk": "no",
+    "source": "Bing",
+    "id": "way/363661156"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9131135,
+        45.2440612
+      ],
+      [
+        -75.9138341,
+        45.2440429
+      ],
+      [
+        -75.9139663,
+        45.244003
+      ],
+      [
+        -75.9140739,
+        45.2439216
+      ],
+      [
+        -75.9141048,
+        45.2438794
+      ],
+      [
+        -75.9141498,
+        45.243818
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/591024605",
+  "properties": {
+    "timestamp": "2018-12-06T15:35:30Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "access": "destination",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "West Ridge Drive",
+    "name:en": "West Ridge Drive",
+    "name:fr": "promenade West Ridge",
+    "note": "road closed for construction",
+    "sidewalk": "both",
+    "source": "CanVec 6.0 - NRCan",
+    "surface": "asphalt",
+    "id": "way/591024605"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -75.9127658,
+        45.2417717
+      ],
+      [
+        -75.9129619,
+        45.2417747
+      ],
+      [
+        -75.913163,
+        45.2417778
+      ],
+      [
+        -75.9135148,
+        45.2418245
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899569574",
+  "properties": {
+    "timestamp": "2012-07-13T02:19:55Z",
+    "version": "2",
+    "changeset": "12202275",
+    "user": "andrewpmk",
+    "uid": "1679",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/899569574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9070936,
+      45.2509785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899573288",
+  "properties": {
+    "timestamp": "2018-08-06T17:32:05Z",
+    "version": "4",
+    "changeset": "61410789",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "turning_circle",
+    "source": "Bing",
+    "id": "node/899573288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9070559,
+      45.2527973
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899601963",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/899601963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9101095,
+      45.2574643
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899603084",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/899603084"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9214507,
+      45.2510521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899611701",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/899611701"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9349061,
+      45.2560555
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899632244",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "turning_circle",
+    "id": "node/899632244"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9126222,
+      45.2549427
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899645897",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/899645897"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9217253,
+      45.2539574
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899648334",
+  "properties": {
+    "timestamp": "2018-08-06T17:52:37Z",
+    "version": "2",
+    "changeset": "61411275",
+    "user": "zzptichka",
+    "uid": "215433",
+    "crossing": "unmarked",
+    "highway": "crossing",
+    "id": "node/899648334"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9221031,
+      45.2506576
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899654439",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "give_way",
+    "id": "node/899654439"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.904223,
+      45.2500113
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/899655743",
+  "properties": {
+    "timestamp": "2012-07-13T01:55:20Z",
+    "version": "2",
+    "changeset": "12202204",
+    "user": "andrewpmk",
+    "uid": "1679",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/899655743"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9156977,
+      45.2505279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/984844794",
+  "properties": {
+    "timestamp": "2018-12-03T15:38:38Z",
+    "version": "3",
+    "changeset": "65129245",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "backward",
+    "highway": "stop",
+    "id": "node/984844794"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9133063,
+      45.2491053
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/984845124",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:48Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/984845124"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9211887,
+      45.2470656
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/984854304",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:49Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/984854304"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9025037,
+      45.2499508
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/984855598",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:49Z",
+    "version": "2",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/984855598"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9091824,
+      45.2490256
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823562960",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:28Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "backward",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/1823562960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9185258,
+      45.2525544
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823587634",
+  "properties": {
+    "timestamp": "2015-08-03T02:08:45Z",
+    "version": "2",
+    "changeset": "33059353",
+    "user": "andrewpmk",
+    "uid": "1679",
+    "highway": "turning_circle",
+    "id": "node/1823587634"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9142218,
+      45.2407245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823590281",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:26Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "forward",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/1823590281"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9067059,
+      45.250523
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823590284",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:26Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "backward",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/1823590284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9065168,
+      45.2506356
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1823590291",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:27Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "forward",
+    "highway": "stop",
+    "source": "Bing",
+    "id": "node/1823590291"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9061515,
+      45.2541097
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3161665425",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:32Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "forward",
+    "highway": "stop",
+    "id": "node/3161665425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9295956,
+      45.2582241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3678262782",
+  "properties": {
+    "timestamp": "2018-11-16T16:52:30Z",
+    "version": "2",
+    "changeset": "64571370",
+    "user": "zzptichka",
+    "uid": "215433",
+    "direction": "forward",
+    "highway": "stop",
+    "id": "node/3678262782"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9150185,
+      45.2535272
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5688807418",
+  "properties": {
+    "timestamp": "2018-06-13T20:24:53Z",
+    "version": "1",
+    "changeset": "59822782",
+    "user": "zzptichka",
+    "uid": "215433",
+    "crossing": "uncontrolled",
+    "highway": "crossing",
+    "id": "node/5688807418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9069988,
+      45.2508958
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121757044",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:35Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121757044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9111919,
+      45.2569264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758410",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.925994,
+      45.2553989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758411",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9163911,
+      45.2526649
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758412",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758412"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.917087,
+      45.2529826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758413",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "give_way",
+    "id": "node/6121758413"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9024621,
+      45.251147
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758414",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758414"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9198861,
+      45.2518846
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758415",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758415"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9131871,
+      45.2523975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758416",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758416"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.907625,
+      45.252562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758417",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758417"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9105057,
+      45.2560986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758418",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758418"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9103329,
+      45.2561944
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758419",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758419"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9091675,
+      45.2568323
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758420",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758420"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9113952,
+      45.2568249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758421",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758421"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9125234,
+      45.2563623
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758422",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758422"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9149051,
+      45.2584115
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758423",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:37Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758423"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9147528,
+      45.2582797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758424",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758424"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9137562,
+      45.2588839
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758425",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9135625,
+      45.2589833
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758426",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758426"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.91292,
+      45.2593186
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758427",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9127164,
+      45.2594205
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758430",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758430"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9165716,
+      45.2598355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758431",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758431"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9176416,
+      45.2591891
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758432",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758432"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9187398,
+      45.2587448
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758433",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758433"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9158971,
+      45.2578063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758434",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758434"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9146633,
+      45.2552363
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758435",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758435"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9136969,
+      45.2557692
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758436",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758436"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9095898,
+      45.2554229
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758437",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758437"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9076806,
+      45.2555069
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758447",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758447"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9094381,
+      45.2543026
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758448",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.905504,
+      45.2526249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758449",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758449"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9057388,
+      45.252482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758450",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758450"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9047256,
+      45.2517093
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758451",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758451"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9040337,
+      45.2511355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758453",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758453"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9031117,
+      45.2506622
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758454",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758454"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9033686,
+      45.250522
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758455",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758455"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9024605,
+      45.2491397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758456",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758456"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9060447,
+      45.2499547
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758457",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758457"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9081208,
+      45.2516029
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758458",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9090153,
+      45.2522931
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758459",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758459"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9098063,
+      45.2530542
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758460",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758460"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9105829,
+      45.2528028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758461",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758461"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.911725,
+      45.2511324
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758462",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758462"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9114799,
+      45.2509472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758463",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758463"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.910412,
+      45.250217
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758464",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:38Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758464"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9089848,
+      45.2491423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758465",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758465"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9094353,
+      45.2447249
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758466",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758466"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9118291,
+      45.2459322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758467",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758467"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9118059,
+      45.2461432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758468",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9113628,
+      45.2468408
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758469",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758469"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9108127,
+      45.2469442
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758470",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758470"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9079465,
+      45.2456831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758471",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.908683,
+      45.2451983
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758472",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758472"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9101823,
+      45.2442657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758474",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9140883,
+      45.2485253
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758476",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758476"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9147119,
+      45.2512304
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758477",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758477"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9145668,
+      45.2511125
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758478",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758478"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9161191,
+      45.2522347
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758479",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9169894,
+      45.2517307
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758481",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758481"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9243858,
+      45.2537034
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758484",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758484"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9107754,
+      45.2385109
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758485",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758485"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9141048,
+      45.2438794
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758486",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758486"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9138361,
+      45.2428571
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758487",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758487"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9149757,
+      45.2438195
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758488",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9137354,
+      45.2411454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758490",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9129619,
+      45.2417747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758491",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758491"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9135361,
+      45.2417117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758492",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758492"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9142794,
+      45.2422242
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758493",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9171422,
+      45.2426843
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758494",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758494"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9161542,
+      45.2427791
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758495",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758495"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9170998,
+      45.2429165
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758496",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758496"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9206243,
+      45.2452718
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758497",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758497"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9206537,
+      45.2459935
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758504",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758504"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9366847,
+      45.2554123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758506",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758506"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9206349,
+      45.2484963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758507",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758507"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9229937,
+      45.2474562
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758508",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:39Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758508"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9229419,
+      45.2472221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758509",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758509"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9242416,
+      45.2472267
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758510",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9251924,
+      45.2475728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758511",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758511"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9257103,
+      45.2480813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758512",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758512"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9254271,
+      45.2481813
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758513",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758513"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9260734,
+      45.2497264
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758514",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9256793,
+      45.2497421
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758515",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9259446,
+      45.2489655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758516",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758516"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9256229,
+      45.2489802
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758517",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9206542,
+      45.2505719
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758518",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758518"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9220153,
+      45.2516657
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758519",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758519"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9214227,
+      45.2521358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758520",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758520"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9208963,
+      45.2533713
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758521",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9215609,
+      45.254484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758522",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758522"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9196321,
+      45.2555346
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758523",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758523"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9185668,
+      45.2563451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758524",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9269627,
+      45.2547909
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758525",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758525"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9256888,
+      45.256678
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758526",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758526"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9265751,
+      45.2559925
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758527",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758527"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9261804,
+      45.251198
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758528",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758528"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9258712,
+      45.2512717
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758529",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758529"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9263088,
+      45.2519366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758530",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9273099,
+      45.2523587
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758531",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758531"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.9270391,
+      45.2525208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6121758532",
+  "properties": {
+    "timestamp": "2018-12-06T15:34:40Z",
+    "version": "1",
+    "changeset": "65242416",
+    "user": "zzptichka",
+    "uid": "215433",
+    "highway": "stop",
+    "id": "node/6121758532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.927751,
+      45.2530566
+    ]
+  }
+}
+]
+}

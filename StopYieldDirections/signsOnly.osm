@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='899569574' timestamp='2012-07-13T02:19:55Z' uid='1679' user='andrewpmk' visible='true' version='2' changeset='12202275' lat='45.2509785' lon='-75.9070936'>
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='899601963' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2574643' lon='-75.9101095'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='899603084' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2510521' lon='-75.9214507'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='899611701' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2560555' lon='-75.9349061'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='899645897' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2539574' lon='-75.9217253'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='899654439' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2500113' lon='-75.904223'>
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='899655743' timestamp='2012-07-13T01:55:20Z' uid='1679' user='andrewpmk' visible='true' version='2' changeset='12202204' lat='45.2505279' lon='-75.9156977'>
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='984844794' timestamp='2018-12-03T15:38:38Z' uid='215433' user='zzptichka' visible='true' version='3' changeset='65129245' lat='45.2491053' lon='-75.9133063'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='984845124' timestamp='2018-12-06T15:34:48Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2470656' lon='-75.9211887'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='984854304' timestamp='2018-12-06T15:34:49Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2499508' lon='-75.9025037'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='984855598' timestamp='2018-12-06T15:34:49Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='65242416' lat='45.2490256' lon='-75.9091824'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='1823562960' timestamp='2018-11-16T16:52:28Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.2525544' lon='-75.9185258'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='1823590281' timestamp='2018-11-16T16:52:26Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.250523' lon='-75.9067059'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='1823590284' timestamp='2018-11-16T16:52:26Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.2506356' lon='-75.9065168'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='1823590291' timestamp='2018-11-16T16:52:27Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.2541097' lon='-75.9061515'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='3161665425' timestamp='2018-11-16T16:52:32Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.2582241' lon='-75.9295956'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='3678262782' timestamp='2018-11-16T16:52:30Z' uid='215433' user='zzptichka' visible='true' version='2' changeset='64571370' lat='45.2535272' lon='-75.9150185'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121757044' timestamp='2018-12-06T15:34:35Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2569264' lon='-75.9111919'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758410' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2553989' lon='-75.925994'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758411' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2526649' lon='-75.9163911'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758412' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2529826' lon='-75.917087'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758413' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.251147' lon='-75.9024621'>
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='6121758414' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2518846' lon='-75.9198861'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758415' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2523975' lon='-75.9131871'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758416' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.252562' lon='-75.907625'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758417' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2560986' lon='-75.9105057'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758418' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2561944' lon='-75.9103329'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758419' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2568323' lon='-75.9091675'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758420' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2568249' lon='-75.9113952'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758421' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2563623' lon='-75.9125234'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758422' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2584115' lon='-75.9149051'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758423' timestamp='2018-12-06T15:34:37Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2582797' lon='-75.9147528'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758424' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2588839' lon='-75.9137562'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758425' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2589833' lon='-75.9135625'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758426' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2593186' lon='-75.91292'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758427' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2594205' lon='-75.9127164'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758430' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2598355' lon='-75.9165716'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758431' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2591891' lon='-75.9176416'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758432' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2587448' lon='-75.9187398'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758433' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2578063' lon='-75.9158971'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758434' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2552363' lon='-75.9146633'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758435' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2557692' lon='-75.9136969'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758436' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2554229' lon='-75.9095898'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758437' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2555069' lon='-75.9076806'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758447' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2543026' lon='-75.9094381'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758448' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2526249' lon='-75.905504'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758449' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.252482' lon='-75.9057388'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758450' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2517093' lon='-75.9047256'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758451' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2511355' lon='-75.9040337'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758453' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2506622' lon='-75.9031117'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758454' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.250522' lon='-75.9033686'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758455' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2491397' lon='-75.9024605'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758456' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2499547' lon='-75.9060447'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758457' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2516029' lon='-75.9081208'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758458' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2522931' lon='-75.9090153'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758459' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2530542' lon='-75.9098063'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758460' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2528028' lon='-75.9105829'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758461' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2511324' lon='-75.911725'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758462' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2509472' lon='-75.9114799'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758463' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.250217' lon='-75.910412'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758464' timestamp='2018-12-06T15:34:38Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2491423' lon='-75.9089848'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758465' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2447249' lon='-75.9094353'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758466' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2459322' lon='-75.9118291'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758467' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2461432' lon='-75.9118059'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758468' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2468408' lon='-75.9113628'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758469' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2469442' lon='-75.9108127'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758470' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2456831' lon='-75.9079465'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758471' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2451983' lon='-75.908683'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758472' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2442657' lon='-75.9101823'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758474' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2485253' lon='-75.9140883'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758476' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2512304' lon='-75.9147119'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758477' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2511125' lon='-75.9145668'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758478' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2522347' lon='-75.9161191'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758479' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2517307' lon='-75.9169894'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758481' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2537034' lon='-75.9243858'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758484' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2385109' lon='-75.9107754'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758485' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2438794' lon='-75.9141048'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758486' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2428571' lon='-75.9138361'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758487' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2438195' lon='-75.9149757'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758488' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2411454' lon='-75.9137354'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758490' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2417747' lon='-75.9129619'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758491' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2417117' lon='-75.9135361'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758492' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2422242' lon='-75.9142794'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758493' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2426843' lon='-75.9171422'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758494' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2427791' lon='-75.9161542'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758495' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2429165' lon='-75.9170998'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758496' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2452718' lon='-75.9206243'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758497' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2459935' lon='-75.9206537'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758504' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2554123' lon='-75.9366847'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758506' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2484963' lon='-75.9206349'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758507' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2474562' lon='-75.9229937'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758508' timestamp='2018-12-06T15:34:39Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2472221' lon='-75.9229419'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758509' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2472267' lon='-75.9242416'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758510' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2475728' lon='-75.9251924'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758511' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2480813' lon='-75.9257103'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758512' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2481813' lon='-75.9254271'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758513' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2497264' lon='-75.9260734'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758514' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2497421' lon='-75.9256793'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758515' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2489655' lon='-75.9259446'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758516' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2489802' lon='-75.9256229'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758517' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2505719' lon='-75.9206542'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758518' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2516657' lon='-75.9220153'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758519' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2521358' lon='-75.9214227'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758520' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2533713' lon='-75.9208963'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758521' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.254484' lon='-75.9215609'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758522' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2555346' lon='-75.9196321'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758523' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2563451' lon='-75.9185668'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758524' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2547909' lon='-75.9269627'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758525' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.256678' lon='-75.9256888'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758526' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2559925' lon='-75.9265751'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758527' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.251198' lon='-75.9261804'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758528' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2512717' lon='-75.9258712'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758529' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2519366' lon='-75.9263088'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758530' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2523587' lon='-75.9273099'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758531' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2525208' lon='-75.9270391'>
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6121758532' timestamp='2018-12-06T15:34:40Z' uid='215433' user='zzptichka' visible='true' version='1' changeset='65242416' lat='45.2530566' lon='-75.927751'>
+    <tag k='highway' v='stop' />
+  </node>
+</osm>
