@@ -10,7 +10,7 @@ const forwards = [];
 const backwards = [];
 const roads = reader('roadsWithSigns.json');
 
-const findSign = function(point){
+const findSign = function(point){   //return 'node/xxxx' if point is a stop or yield sign, '' otherwise
 
   const found = roads.features.find(function(element) {
     if(element.geometry.type != 'Point')
@@ -49,11 +49,11 @@ for(let road of roads.features){
       node2='';
   }
   if(node1!=''){
-    //console.log(`Node ${node1} is backwards sign`);
+    if(ruler.distance(point1, road.geometry.coordinates[0]) > 30) continue; //if stop sign is > 30m from the end - bad
     backwards.push(node1);
   }
   if(node2!=''){
-    //console.log(`Node ${node2} is forwards sign`);
+    if(ruler.distance(point2, road.geometry.coordinates[road.geometry.coordinates.length-1]) > 30) continue;
     forwards.push(node2);
   }
 }
