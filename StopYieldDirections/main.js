@@ -37,11 +37,19 @@ for(let road of roads.features){
     console.log(`Line has ${road.geometry.coordinates.length} points!`);
 
   //take 2 points (second and second-last for simplicity) and check if one if they are signs
-  const point1 = road.geometry.coordinates[1];
-  const point2 = road.geometry.coordinates[road.geometry.coordinates.length - 2];
+  let point1 = road.geometry.coordinates[1];
+  let point2 = road.geometry.coordinates[road.geometry.coordinates.length - 2];
 
   let node1 = findSign(point1);
+  if(node1=='' && road.geometry.coordinates.length > 2){
+    point1 = road.geometry.coordinates[2];
+    node1 = findSign(point1);
+  }
   let node2 = findSign(point2);
+  if(node2=='' && road.geometry.coordinates.length > 2){
+    point2 = road.geometry.coordinates[road.geometry.coordinates.length - 3];
+    node2 = findSign(point2);
+  }
   if(node1==node2 && node1!=''){  //if 3-line way - check which side is closer to the sign
     if(ruler.distance(point1, road.geometry.coordinates[0]) > ruler.distance(point1, road.geometry.coordinates[road.geometry.coordinates.length-1]))
       node1='';
@@ -49,11 +57,11 @@ for(let road of roads.features){
       node2='';
   }
   if(node1!=''){
-    if(ruler.distance(point1, road.geometry.coordinates[0]) > 30) continue; //if stop sign is > 30m from the end - bad
+    if(ruler.distance(point1, road.geometry.coordinates[0]) > 20) continue; //if stop sign is > 30m from the end - bad
     backwards.push(node1);
   }
   if(node2!=''){
-    if(ruler.distance(point2, road.geometry.coordinates[road.geometry.coordinates.length-1]) > 30) continue;
+    if(ruler.distance(point2, road.geometry.coordinates[road.geometry.coordinates.length-1]) > 20) continue;
     forwards.push(node2);
   }
 }
