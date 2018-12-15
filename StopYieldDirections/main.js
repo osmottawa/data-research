@@ -57,11 +57,11 @@ for(let road of roads.features){
       node2='';
   }
   if(node1!=''){
-    if(ruler.distance(point1, road.geometry.coordinates[0]) > 20) continue; //if stop sign is > 30m from the end - bad
+    if(ruler.distance(point1, road.geometry.coordinates[0]) > 25) continue; //if stop sign is > 25m from the end - bad
     backwards.push(node1);
   }
   if(node2!=''){
-    if(ruler.distance(point2, road.geometry.coordinates[road.geometry.coordinates.length-1]) > 20) continue;
+    if(ruler.distance(point2, road.geometry.coordinates[road.geometry.coordinates.length-1]) > 25) continue;
     forwards.push(node2);
   }
 }
