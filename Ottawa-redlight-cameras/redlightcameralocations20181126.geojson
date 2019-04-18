@@ -1,0 +1,997 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "15",
+                "description": "March Road/Eaglson Road & Campeau Drive/417 Westbound Off Ramp",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.88713900000,
+                    45.32253500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "46",
+                "description": "Tenth Line Road & Vanguard Dr",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.48637700000,
+                    45.45835800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "24",
+                "description": "Place D'Orléans Drive/Duford Drive & St. Joseph Boulevard",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51260300000,
+                    45.47766300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "10",
+                "description": "Catherine Street & O'Connor Street/417 Westbound On Ramp",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68941200000,
+                    45.41061000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "40",
+                "description": "Catherine Street & Kent Street (South Side)",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69376600000,
+                    45.40872100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "3",
+                "description": "Bank Street & Riverside Drive (North)",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67727200000,
+                    45.38881800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "60",
+                "description": "St. Joseph Boulevard & Tenth Line Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50103300000,
+                    45.48356300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "32",
+                "description": "Strandherd Drive & Jockvale Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75109400000,
+                    45.26869000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "17",
+                "description": "St. Laurent Boulevard & Belfast Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63045100000,
+                    45.41182400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "2",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "description": "Bank Street & Hunt Club Road",
+                "highway": "redlight_camera",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64737100000,
+                    45.35370800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "52",
+                "description": "Barnsdale Road & Prince of Wales Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71216900000,
+                    45.24100400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "28",
+                "description": "Aviation Parkway & Ogilvie Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62702600000,
+                    45.42796700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "14",
+                "description": "Heron Road & Riverside Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69149600000,
+                    45.37682700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "62",
+                "description": "Murray Street & Sussex Avenue",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69604600000,
+                    45.42867600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "45",
+                "description": "Hawthorne Road & Leitrim Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.57824000000,
+                    45.34062200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "27",
+                "description": "Conroy Road & Lorry Greenberg Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62213800000,
+                    45.36943700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "39",
+                "description": "Bank Street & Riverside Drive (South)",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67627000000,
+                    45.38802500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "21",
+                "description": "Albert Street & Booth Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71264700000,
+                    45.41290400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "6",
+                "description": "Bronson Avenue & Carling Avenue",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69973600000,
+                    45.40110200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "55",
+                "description": "Bronson Avenue & Powell Avenue",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70050900000,
+                    45.40244000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "35",
+                "description": "Old Tenth Line Road & St. Joseph Boulevard",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49809900000,
+                    45.48457800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "16",
+                "description": "Merivale Road & Meadowlands Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73354200000,
+                    45.35089400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "1",
+                "description": "Albert Street & Kent Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70237500000,
+                    45.41901300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "51",
+                "description": "Aviation Parkway & Montreal Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63910400000,
+                    45.44366000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "31",
+                "description": "Smyth Road & Saunderson Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63148500000,
+                    45.40052500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "8",
+                "description": "Carling Avenue & Island Park Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72670800000,
+                    45.38925100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "26",
+                "description": "Holland Avenue & Island Park Drive/NCC Driveway",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72575800000,
+                    45.38854200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "59",
+                "description": "Innes Road & Orléans Boulevard",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53278100000,
+                    45.44445100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "42",
+                "description": "Hogs Back Road & Meadowlands Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70120600000,
+                    45.36838800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "20",
+                "description": "Bronson Avenue & Commissioner Street/Slater Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70818500000,
+                    45.41571300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "5",
+                "description": "Booth Street & Wellington Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71468100000,
+                    45.41626400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "53",
+                "description": "Gladstone Avenue & Rochester Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70971400000,
+                    45.40529400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "34",
+                "description": "King Edward Avenue & St. Andrew Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69004400000,
+                    45.43381700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "19",
+                "description": "King Edward Avenue & St. Patrick Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68898900000,
+                    45.43253800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "13",
+                "description": "Eagleson Road & Hazeldean Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.87680400000,
+                    45.30404300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "30",
+                "description": "Fisher Avenue & Meadowlands Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71141300000,
+                    45.36264600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "44",
+                "description": "Cedarview Road & Fallowfield Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.77987800000,
+                    45.27866100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "7",
+                "description": "Carling Avenue & Richmond Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.79229100000,
+                    45.36071500000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "58",
+                "description": "Lyon Street & Slater Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70393200000,
+                    45.41756000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "41",
+                "description": "Catherine Street & Kent Street (East Side)",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69366100000,
+                    45.40886200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "23",
+                "description": "Cyrville Road & Innes Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60243600000,
+                    45.41648300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "57",
+                "description": "Bay Street & Slater Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70548900000,
+                    45.41690100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "18",
+                "description": "Walkley Road & Russell Road/Hawthorn Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60758300000,
+                    45.39285400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "48",
+                "description": "Heron Road 155m west of Bank Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66946800000,
+                    45.37840100000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "12",
+                "description": "Coventry/Ogilvie Road & St. Laurent Boulevard",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63731800000,
+                    45.42421800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "43",
+                "description": "Coldrey Avenue & Kirkwood Avenue",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73843900000,
+                    45.38162300000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "25",
+                "description": "Greenbank Road & Berrigan Drive/Wessex Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74898500000,
+                    45.27493800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "11",
+                "description": "Charlemagne Boulevard/Tompkins Avenue & Tenth Line Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49738200000,
+                    45.47735000000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "4",
+                "description": "Baseline Road & Merivale Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73084700000,
+                    45.36527400000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "61",
+                "description": "Elgin Street & Slater Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69372900000,
+                    45.42202600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "22",
+                "description": "Bank Street & Heron Road",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66753400000,
+                    45.37857800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "33",
+                "description": "Blair Road & Highway 174 Westbound/Gloucester Center",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60744300000,
+                    45.43335800000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "56",
+                "description": "Arlington Avenue & Kent Street",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69427500000,
+                    45.40944600000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "47",
+                "description": "Walkley Road & Glenhaven Private",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66494000000,
+                    45.36974200000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "29",
+                "description": "Elgin Street/Pretoria Bridge & Queen Elizabeth Drive",
+                "highway": "redlight_camera",
+                "source": "City of Ottawa",
+                "source:date": "2019-04-18",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68406400000,
+                    45.41132700000
+                ]
+            }
+        }
+    ]
+}
