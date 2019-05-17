@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-413603' action='modify' lat='45.419013' lon='-75.702375'>
+    <tag k='description' v='Albert Street &amp; Kent Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='1' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413604' action='modify' lat='45.353708' lon='-75.647371'>
+    <tag k='description' v='Bank Street &amp; Hunt Club Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='2' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413605' action='modify' lat='45.388818' lon='-75.677272'>
+    <tag k='description' v='Bank Street &amp; Riverside Drive (North)' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='3' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413606' action='modify' lat='45.365274' lon='-75.730847'>
+    <tag k='description' v='Baseline Road &amp; Merivale Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='4' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413607' action='modify' lat='45.416264' lon='-75.714681'>
+    <tag k='description' v='Booth Street &amp; Wellington Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='5' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413608' action='modify' lat='45.401102' lon='-75.699736'>
+    <tag k='description' v='Bronson Avenue &amp; Carling Avenue' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='6' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413609' action='modify' lat='45.360715' lon='-75.792291'>
+    <tag k='description' v='Carling Avenue &amp; Richmond Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='7' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413610' action='modify' lat='45.389251' lon='-75.726708'>
+    <tag k='description' v='Carling Avenue &amp; Island Park Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='8' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413611' action='modify' lat='45.41061' lon='-75.689412'>
+    <tag k='description' v='Catherine Street &amp; O&apos;Connor Street/417 Westbound On Ramp' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='10' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413612' action='modify' lat='45.47735' lon='-75.497382'>
+    <tag k='description' v='Charlemagne Boulevard/Tompkins Avenue &amp; Tenth Line Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='11' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413613' action='modify' lat='45.424218' lon='-75.637318'>
+    <tag k='description' v='Coventry/Ogilvie Road &amp; St. Laurent Boulevard' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='12' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413614' action='modify' lat='45.304043' lon='-75.876804'>
+    <tag k='description' v='Eagleson Road &amp; Hazeldean Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='13' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413615' action='modify' lat='45.376827' lon='-75.691496'>
+    <tag k='description' v='Heron Road &amp; Riverside Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='14' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413616' action='modify' lat='45.322535' lon='-75.887139'>
+    <tag k='description' v='March Road/Eaglson Road &amp; Campeau Drive/417 Westbound Off Ramp' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='15' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413617' action='modify' lat='45.350894' lon='-75.733542'>
+    <tag k='description' v='Merivale Road &amp; Meadowlands Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='16' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413618' action='modify' lat='45.411824' lon='-75.630451'>
+    <tag k='description' v='St. Laurent Boulevard &amp; Belfast Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='17' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413619' action='modify' lat='45.392854' lon='-75.607583'>
+    <tag k='description' v='Walkley Road &amp; Russell Road/Hawthorn Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='18' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413620' action='modify' lat='45.432538' lon='-75.688989'>
+    <tag k='description' v='King Edward Avenue &amp; St. Patrick Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='19' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413621' action='modify' lat='45.415713' lon='-75.708185'>
+    <tag k='description' v='Bronson Avenue &amp; Commissioner Street/Slater Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='20' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413622' action='modify' lat='45.412904' lon='-75.712647'>
+    <tag k='description' v='Albert Street &amp; Booth Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='21' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413623' action='modify' lat='45.378578' lon='-75.667534'>
+    <tag k='description' v='Bank Street &amp; Heron Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='22' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413624' action='modify' lat='45.416483' lon='-75.602436'>
+    <tag k='description' v='Cyrville Road &amp; Innes Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='23' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413625' action='modify' lat='45.477663' lon='-75.512603'>
+    <tag k='description' v='Place D&apos;Orléans Drive/Duford Drive &amp; St. Joseph Boulevard' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='24' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413626' action='modify' lat='45.274938' lon='-75.748985'>
+    <tag k='description' v='Greenbank Road &amp; Berrigan Drive/Wessex Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='25' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413627' action='modify' lat='45.388542' lon='-75.725758'>
+    <tag k='description' v='Holland Avenue &amp; Island Park Drive/NCC Driveway' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='26' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413628' action='modify' lat='45.369437' lon='-75.622138'>
+    <tag k='description' v='Conroy Road &amp; Lorry Greenberg Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='27' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413629' action='modify' lat='45.427967' lon='-75.627026'>
+    <tag k='description' v='Aviation Parkway &amp; Ogilvie Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='28' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413630' action='modify' lat='45.411327' lon='-75.684064'>
+    <tag k='description' v='Elgin Street/Pretoria Bridge &amp; Queen Elizabeth Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='29' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413631' action='modify' lat='45.362646' lon='-75.711413'>
+    <tag k='description' v='Fisher Avenue &amp; Meadowlands Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='30' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413632' action='modify' lat='45.400525' lon='-75.631485'>
+    <tag k='description' v='Smyth Road &amp; Saunderson Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='31' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413633' action='modify' lat='45.26869' lon='-75.751094'>
+    <tag k='description' v='Strandherd Drive &amp; Jockvale Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='32' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413634' action='modify' lat='45.433358' lon='-75.607443'>
+    <tag k='description' v='Blair Road &amp; Highway 174 Westbound/Gloucester Center' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='33' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413635' action='modify' lat='45.433817' lon='-75.690044'>
+    <tag k='description' v='King Edward Avenue &amp; St. Andrew Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='34' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413636' action='modify' lat='45.484578' lon='-75.498099'>
+    <tag k='description' v='Old Tenth Line Road &amp; St. Joseph Boulevard' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='35' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413637' action='modify' lat='45.388025' lon='-75.67627'>
+    <tag k='description' v='Bank Street &amp; Riverside Drive (South)' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='39' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413638' action='modify' lat='45.408721' lon='-75.693766'>
+    <tag k='description' v='Catherine Street &amp; Kent Street (South Side)' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='40' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413639' action='modify' lat='45.408862' lon='-75.693661'>
+    <tag k='description' v='Catherine Street &amp; Kent Street (East Side)' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='41' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413640' action='modify' lat='45.368388' lon='-75.701206'>
+    <tag k='description' v='Hogs Back Road &amp; Meadowlands Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='42' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413641' action='modify' lat='45.381623' lon='-75.738439'>
+    <tag k='description' v='Coldrey Avenue &amp; Kirkwood Avenue' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='43' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413642' action='modify' lat='45.278661' lon='-75.779878'>
+    <tag k='description' v='Cedarview Road &amp; Fallowfield Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='44' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413643' action='modify' lat='45.340622' lon='-75.57824'>
+    <tag k='description' v='Hawthorne Road &amp; Leitrim Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='45' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413644' action='modify' lat='45.458358' lon='-75.486377'>
+    <tag k='description' v='Tenth Line Road &amp; Vanguard Dr' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='46' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413645' action='modify' lat='45.369742' lon='-75.66494'>
+    <tag k='description' v='Walkley Road &amp; Glenhaven Private' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='47' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413646' action='modify' lat='45.378401' lon='-75.669468'>
+    <tag k='description' v='Heron Road 155m west of Bank Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='48' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413647' action='modify' lat='45.44366' lon='-75.639104'>
+    <tag k='description' v='Aviation Parkway &amp; Montreal Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='51' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413648' action='modify' lat='45.241004' lon='-75.712169'>
+    <tag k='description' v='Barnsdale Road &amp; Prince of Wales Drive' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='52' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413649' action='modify' lat='45.405294' lon='-75.709714'>
+    <tag k='description' v='Gladstone Avenue &amp; Rochester Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='53' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413650' action='modify' lat='45.40244' lon='-75.700509'>
+    <tag k='description' v='Bronson Avenue &amp; Powell Avenue' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='55' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413651' action='modify' lat='45.409446' lon='-75.694275'>
+    <tag k='description' v='Arlington Avenue &amp; Kent Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='56' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413652' action='modify' lat='45.416901' lon='-75.705489'>
+    <tag k='description' v='Bay Street &amp; Slater Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='57' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413653' action='modify' lat='45.41756' lon='-75.703932'>
+    <tag k='description' v='Lyon Street &amp; Slater Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='58' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413654' action='modify' lat='45.444451' lon='-75.532781'>
+    <tag k='description' v='Innes Road &amp; Orléans Boulevard' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413655' action='modify' lat='45.483563' lon='-75.501033'>
+    <tag k='description' v='St. Joseph Boulevard &amp; Tenth Line Road' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='60' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413656' action='modify' lat='45.422026' lon='-75.693729'>
+    <tag k='description' v='Elgin Street &amp; Slater Street' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='61' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+  <node id='-413657' action='modify' lat='45.428676' lon='-75.696046'>
+    <tag k='description' v='Murray Street &amp; Sussex Avenue' />
+    <tag k='highway' v='redlight_camera' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='62' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-04-18' />
+  </node>
+</osm>
