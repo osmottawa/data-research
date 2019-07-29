@@ -65,7 +65,8 @@
     "turf": "^3.0.14",
     "typescript": "^2.0.3",
     "whatwg-fetch": "^1.0.0",
-    "wikidata-sdk": "^4.1.0"
+    "wikidata-sdk": "^4.1.0",
+    "xmldom": "^0.1.27"
   },
   "devDependencies": {
     "@types/axios": "^0.9.33",

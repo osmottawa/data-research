@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-1195708' action='modify' lat='45.29544448853' lon='-75.88626098633'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Hazeldean Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='1' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195709' action='modify' lat='45.3211555481' lon='-75.82566833496'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Centennial Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='2' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195710' action='modify' lat='45.43016433716' lon='-75.68325042725'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Rideau Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='3' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195711' action='modify' lat='45.36346054077' lon='-75.6356048584'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Greenboro CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='4' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195712' action='modify' lat='45.37323760986' lon='-75.77178955078'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Carlingwood Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='5' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195713' action='modify' lat='45.32161712646' lon='-75.89530181885'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At John G Mlacak Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='6' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195714' action='modify' lat='45.37817382812' lon='-75.66177368164'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Alta Vista Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='7' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195715' action='modify' lat='45.43811035156' lon='-75.60077667236'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library North Gloucester Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='8' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195716' action='modify' lat='45.40165710449' lon='-75.72629547119'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Rosemount Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='9' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195717' action='modify' lat='45.45652389526' lon='-75.52388000488'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Orleans Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='10' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195718' action='modify' lat='45.35472106934' lon='-75.73338317871'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Emerald Plaza Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='11' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195719' action='modify' lat='45.39546585083' lon='-75.68379211426'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Sunnyside Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='12' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195720' action='modify' lat='45.42023849487' lon='-75.69538879395'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Main Library' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='13' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195721' action='modify' lat='45.26132202148' lon='-75.55759429932'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Greely Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='14' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195722' action='modify' lat='45.39949417114' lon='-75.62489318848'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Elmvale Acres Library' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='15' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195723' action='modify' lat='45.28058242798' lon='-75.76152038574'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ruth E. Dickinson Library' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='16' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195724' action='modify' lat='45.43654251099' lon='-75.64679718018'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At St-Laurent Library' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='17' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195725' action='modify' lat='45.26065444946' lon='-75.92665100098'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Johnny Leroux Stittsville Community Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='18' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195726' action='modify' lat='45.29424667358' lon='-75.90141296387'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Kanata Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='19' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195727' action='modify' lat='45.47013473511' lon='-76.20626068115'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Fitzroy Harbour CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='20' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195728' action='modify' lat='45.28038406372' lon='-75.76153564453'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Walter Baker Sports Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='21' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195729' action='modify' lat='45.36373901367' lon='-75.8013381958'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ron Kolbus Lakeside Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='22' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195730' action='modify' lat='45.40358352661' lon='-75.72429656982'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Hintonburg CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='23' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195731' action='modify' lat='45.34973526001' lon='-75.79457855225'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Foster Farm CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='24' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195732' action='modify' lat='45.47420120239' lon='-75.52600860596'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Pierre Rocque Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='25' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195733' action='modify' lat='45.37330627441' lon='-75.65905761719'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Jim Durrell Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='26' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195734' action='modify' lat='45.36737060547' lon='-75.65760803223'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Deborah Anne Kirwan Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='27' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195735' action='modify' lat='45.37899780273' lon='-75.65399169922'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Heron Rd Multi-Service Cntr.' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='28' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195736' action='modify' lat='45.46633911133' lon='-75.54510498047'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Bob MacQuarrie Recreation Complex - Orl‚ans' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='29' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195737' action='modify' lat='45.2635307312' lon='-75.90758514404'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Goulbourn Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='30' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195738' action='modify' lat='45.47201919556' lon='-75.49311065674'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ray Friel Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='31' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195739' action='modify' lat='45.35948562622' lon='-75.70220184326'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Carleton Heights CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='32' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195740' action='modify' lat='45.40948486328' lon='-75.70274353027'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At McNabb CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='33' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195741' action='modify' lat='45.42544174194' lon='-75.68880462646'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Arts Court' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='34' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195742' action='modify' lat='45.43752288818' lon='-75.60056304932'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Splash Wave Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='35' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195743' action='modify' lat='45.39093780518' lon='-75.62999725342'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Canterbury Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='36' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195744' action='modify' lat='45.34791946411' lon='-75.77291107178'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Pinecrest Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='37' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195745' action='modify' lat='45.45450592041' lon='-75.46310424805'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Fran‡ois Dupuis Rec Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='38' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195746' action='modify' lat='45.42273330688' lon='-75.67762756348'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Sandy Hill Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='39' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195747' action='modify' lat='45.3946723938' lon='-75.68181610107'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa South Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='40' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195748' action='modify' lat='45.2299079895' lon='-75.46839141846'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Metcalfe CC &amp; Larry Robinson Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='41' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195749' action='modify' lat='45.45321273804' lon='-75.47797393799'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Aquaview Community Hall' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='42' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195750' action='modify' lat='45.41575241089' lon='-75.68966674805'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Jack Purcell Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='43' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195751' action='modify' lat='45.4306602478' lon='-75.68672180176'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Champagne Bath Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='44' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195752' action='modify' lat='45.3311882019' lon='-75.59750366211'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Fred G. Barrett Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='45' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195753' action='modify' lat='45.42552947998' lon='-75.6568069458'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Overbrook Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='46' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195754' action='modify' lat='45.35214996338' lon='-75.67281341553'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Hunt Club Riverside CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='47' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195755' action='modify' lat='45.34972763062' lon='-75.63633728027'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Sawmill Creek Pool and Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='48' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195756' action='modify' lat='45.32856369019' lon='-75.82197570801'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Creative Arts Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='49' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195757' action='modify' lat='45.36346054077' lon='-75.6356048584'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Greenboro CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='50' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195758' action='modify' lat='45.43141937256' lon='-75.49394226074'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Notre Dame Des Champs Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='51' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195759' action='modify' lat='45.34915924072' lon='-76.03910064697'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Erskine Johnson Arena &amp; CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='52' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195760' action='modify' lat='45.34019088745' lon='-75.92945861816'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Richcraft Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='53' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195761' action='modify' lat='45.38343048096' lon='-75.75289916992'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Dovercourt Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='54' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195762' action='modify' lat='45.27737426758' lon='-75.68740081787'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Rideauview Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='55' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195763' action='modify' lat='45.43630218506' lon='-75.64781951904'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At St. Laurent Complex/Don Gamble Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='56' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195764' action='modify' lat='45.22190093994' lon='-75.68660736084'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Manotick Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='57' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195765' action='modify' lat='45.19584274292' lon='-75.83794403076'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Richmond Arena &amp; CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='58' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195766' action='modify' lat='45.41299438477' lon='-75.67988586426'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa East Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='59' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195767' action='modify' lat='45.29062652588' lon='-75.8576965332'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Eva James Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='60' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195768' action='modify' lat='45.42864227295' lon='-75.61975097656'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Cyrville CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='61' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195769' action='modify' lat='45.31142044067' lon='-75.89929199219'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Kanata Leisure &amp; Wave Pool Cntr' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='62' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195770' action='modify' lat='45.4105758667' lon='-75.70901489258'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Dalhousie Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='63' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195771' action='modify' lat='45.40799713135' lon='-75.71429443359'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Plant Bath Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='64' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195772' action='modify' lat='45.38052749634' lon='-75.73142242432'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Alexander CC' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='65' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195773' action='modify' lat='45.47095870972' lon='-75.46148681641'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At South Fallingbrook Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='66' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195774' action='modify' lat='45.34573364258' lon='-75.7639541626'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Mary Pitt Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='67' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195775' action='modify' lat='45.34448623657' lon='-75.76295471191'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ben Franklin Place' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='68' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195776' action='modify' lat='45.42095947266' lon='-75.6898727417'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa City Hall - 110 Laurier Avenue West' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='69' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195777' action='modify' lat='45.3268699646' lon='-75.74546813965'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Nepean Sportsplex' />
+    <tag k='indoor' v='yes' />
+    <tag k='ref' v='70' />
+    <tag k='seasonal' v='no' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195778' action='modify' lat='45.38446044922' lon='-75.7666015625'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Byron Linear Tramway Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='71' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195779' action='modify' lat='45.42451477051' lon='-75.61337280273'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Cedarcroft Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='72' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195780' action='modify' lat='45.45503234863' lon='-75.51557922363'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Champagne Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='73' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195781' action='modify' lat='45.45068740845' lon='-75.53907775879'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Chapel Hill Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='74' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195782' action='modify' lat='45.42834472656' lon='-75.61660766602'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At City Centre Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='75' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195783' action='modify' lat='45.4129486084' lon='-75.70113372803'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Dundonald Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='76' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195784' action='modify' lat='45.27546310425' lon='-75.69062805176'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Four Seasons Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='77' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195785' action='modify' lat='45.46917724609' lon='-75.53619384766'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Glen Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='78' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195786' action='modify' lat='45.41522598267' lon='-75.68933105469'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Jack Purcell Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='79' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195787' action='modify' lat='45.40341949463' lon='-75.68392181396'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Lionel Britton Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='80' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195788' action='modify' lat='45.48545074463' lon='-75.51198577881'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Marsha Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='81' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195789' action='modify' lat='45.40249252319' lon='-75.72721099854'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At McCormick Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='82' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195790' action='modify' lat='45.40896987915' lon='-75.70297241211'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At McNabb Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='83' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195791' action='modify' lat='45.13957214355' lon='-75.71813201904'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Meadowbrook Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='84' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195792' action='modify' lat='45.41677856445' lon='-75.68811035156'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Minto Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='85' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195793' action='modify' lat='45.42314910889' lon='-75.60388946533'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Pineview Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='86' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195794' action='modify' lat='45.44944763184' lon='-75.53004455566'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Roy Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='87' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195795' action='modify' lat='45.4280166626' lon='-75.67293548584'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Strathcona Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='88' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195796' action='modify' lat='45.40253448486' lon='-75.68238067627'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Sylvia Holden Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='89' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195797' action='modify' lat='45.43225479126' lon='-75.62731933594'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Whiterock Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='90' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+  <node id='-1195798' action='modify' lat='45.38737869263' lon='-75.68988037109'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Brewer Park' />
+    <tag k='indoor' v='no' />
+    <tag k='ref' v='91' />
+    <tag k='seasonal' v='yes' />
+    <tag k='source' v='City of Ottawa' />
+    <tag k='source:date' v='2019-05-15' />
+  </node>
+</osm>

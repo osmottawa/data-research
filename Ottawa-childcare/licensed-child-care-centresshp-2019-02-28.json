@@ -1,0 +1,7141 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Charlemagne Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "750 Charlemagne Boulevard",
+        "ADDRESS_FR": "750, boulevard Charlemagne",
+        "POSTALCODE": "K4A3M4",
+        "PHONE": "(613)-834-0081",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.476687832469921,
+          45.475540157580312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers Orleans Daycare Centre",
+        "NAME_FR": null,
+        "ADDRESS": "5160 Innes Road",
+        "ADDRESS_FR": "5160, chemin Innes",
+        "POSTALCODE": "K4A0G4",
+        "PHONE": "(613)-841-1818",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.455602459624146,
+          45.468547537181387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "New Edinburgh Community and Arts Centre After School Program",
+        "NAME_FR": null,
+        "ADDRESS": "39 Dufferin Road",
+        "ADDRESS_FR": "39, chemin Dufferin",
+        "POSTALCODE": "K1M2H3",
+        "PHONE": "(613)-745-2742",
+        "LINK": "nectarcentre.ca/community-programs/school",
+        "LINK_FR": "nectarcentre.ca/community-programs/school",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683083092911147,
+          45.440486124876813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centretown Parents' Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "94 James Street",
+        "ADDRESS_FR": "94, rue James",
+        "POSTALCODE": "K1R5M3",
+        "PHONE": "(613)-235-7473",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.698080533836276,
+          45.411737048933475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif coopérative Le Manège - Longfield",
+        "NAME_FR": null,
+        "ADDRESS": "601 Longfields Promenade",
+        "ADDRESS_FR": "601, promenade Longfields",
+        "POSTALCODE": "K2J4X1",
+        "PHONE": "(613)-823-5476",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.743877734697278,
+          45.285625447216013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rockcliffe Montessori Pre-School",
+        "NAME_FR": null,
+        "ADDRESS": "415 McArthur Avenue",
+        "ADDRESS_FR": "415, avenue McArthur",
+        "POSTALCODE": "K1K1G5",
+        "PHONE": "(613)-680-2852",
+        "LINK": "www.rockcliffe-montessori-ottawa.com",
+        "LINK_FR": "www.rockcliffe-montessori-ottawa.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648009923418101,
+          45.432427510664027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Universe Child Care - Dunning Foubert -1",
+        "NAME_FR": null,
+        "ADDRESS": "1610 Prestwick Drive",
+        "ADDRESS_FR": "1610, promenade Prestwick",
+        "POSTALCODE": "K1E2N1",
+        "PHONE": "(613)-837-9643",
+        "LINK": "www.childrensuniverse.net",
+        "LINK_FR": "www.childrensuniverse.net",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.498953983779444,
+          45.466873711707919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre préscolaire et parascolaire l'Étoile filante de Kanata Sud",
+        "NAME_FR": null,
+        "ADDRESS": "17 Bridgestone Drive",
+        "ADDRESS_FR": "17, promenade Bridgestone",
+        "POSTALCODE": "K2K2P9",
+        "PHONE": "(613)-591-8585",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.859063301553959,
+          45.278714239880259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MAC Preschool and Childcare:Abraar Location",
+        "NAME_FR": null,
+        "ADDRESS": "1085 Grenon Avenue",
+        "ADDRESS_FR": "1085, avenue Grenon",
+        "POSTALCODE": "K2B8L7",
+        "PHONE": "(613)-820-0044",
+        "LINK": "wwwmacchildcare.com",
+        "LINK_FR": "wwwmacchildcare.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.794377423824486,
+          45.351165574934782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MATRESHKA",
+        "NAME_FR": null,
+        "ADDRESS": "207 Woodroffe Avenue",
+        "ADDRESS_FR": "207, avenue Woodroffe",
+        "POSTALCODE": "K2A3V1",
+        "PHONE": "(613)-722-5591",
+        "LINK": "www.russiandaycare.ca",
+        "LINK_FR": "www.russiandaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.773061777792307,
+          45.375386590994857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Katimavik Cooperative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "64 Chimo Drive",
+        "ADDRESS_FR": "64, promenade Chimo",
+        "POSTALCODE": "K2L1Y9",
+        "PHONE": "(613)-592-1700",
+        "LINK": "www.kcns.ca",
+        "LINK_FR": "www.kcns.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.889970003651868,
+          45.31002445606412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Scholars Montessori Academy",
+        "NAME_FR": null,
+        "ADDRESS": "15-3500 Fallowfield Road",
+        "ADDRESS_FR": "15-3500, chemin Fallowfield",
+        "POSTALCODE": "K2J4A7",
+        "PHONE": "(613)-277-6866",
+        "LINK": "www.littlescholarsmontessori.com",
+        "LINK_FR": "www.littlescholarsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.742119730949639,
+          45.293038300844138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Westboro Village Co-operative Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "470 Roosevelt Avenue",
+        "ADDRESS_FR": "470, avenue Roosevelt",
+        "POSTALCODE": "K2A1Z6",
+        "PHONE": "(613)-728-9473",
+        "LINK": "wvcp.ca",
+        "LINK_FR": "wvcp.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755740309130786,
+          45.38865764787959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Heron Gate School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "1620-B Heatherington Road",
+        "ADDRESS_FR": "1620-B, chemin Heatherington",
+        "POSTALCODE": "K1V9P5",
+        "PHONE": "(613)-260-3958",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.645220354080976,
+          45.37385526047435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stepping Up Daycare Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "63 Glencoe Street",
+        "ADDRESS_FR": "63 rue Glencoe",
+        "POSTALCODE": "K2H8S5",
+        "PHONE": "(613)-686-3986",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.78114014980531,
+          45.325274272464007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Beaconwood School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "635 Laverendrye Drive",
+        "ADDRESS_FR": "635, promenade Laverendrye",
+        "POSTALCODE": "K1J7C2",
+        "PHONE": "(613)-749-7771",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604662223857744,
+          45.454351051856804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Churchill Carling Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "724 Churchill Avenue North",
+        "ADDRESS_FR": "724, avenue Churchill Nord",
+        "POSTALCODE": "K1Z5G5",
+        "PHONE": "(613)-722-0505",
+        "LINK": "www.churchilldaycare.ca",
+        "LINK_FR": "www.churchilldaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.747928852549506,
+          45.38149584505063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "River Parkway Children's Centre",
+        "NAME_FR": null,
+        "ADDRESS": "40 Cleary Avenue",
+        "ADDRESS_FR": "40, avenue Cleary",
+        "POSTALCODE": "K2A4A1",
+        "PHONE": "(613)-729-3129",
+        "LINK": "www.riverparkwaycentre.ca",
+        "LINK_FR": "www.riverparkwaycentre.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.772460685221702,
+          45.381210068026306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Bettye Hyde Cooperative Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "43 Blackburn Avenue",
+        "ADDRESS_FR": "43, avenue Blackburn",
+        "POSTALCODE": "K1N8A4",
+        "PHONE": "(613)-236-3108",
+        "LINK": "www.bettyehyde.com",
+        "LINK_FR": "www.bettyehyde.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675311383823654,
+          45.425999546341181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Pickles and Poppets",
+        "NAME_FR": null,
+        "ADDRESS": "3013 Jockvale Road",
+        "ADDRESS_FR": "3013, chemin Jockvale",
+        "POSTALCODE": "K2J4E4",
+        "PHONE": "(613)-823-9272",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.758747113504569,
+          45.272573854512892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle Reine des Bois",
+        "NAME_FR": null,
+        "ADDRESS": "1450 Duford Promenade",
+        "ADDRESS_FR": "1450, promenade Duford",
+        "POSTALCODE": "K1E1E6",
+        "PHONE": "(613)-824-7176",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509349585137556,
+          45.471720409555061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Fairview Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "437 Donald Street",
+        "ADDRESS_FR": "437, rue Donald",
+        "POSTALCODE": "K1K1L8",
+        "PHONE": "(613)-749-2556",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648508867417647,
+          45.428756482960651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Makonsag Aboriginal Head Start Inc",
+        "NAME_FR": null,
+        "ADDRESS": "149 King George Street",
+        "ADDRESS_FR": "149, rue King George",
+        "POSTALCODE": "K1K1V2",
+        "PHONE": "(613)-724-5844",
+        "LINK": "www.makonsag.ca",
+        "LINK_FR": "www.makonsag.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657955914706037,
+          45.425739982624542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Manotick Co-operative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "5572 Doctor Leach Drive",
+        "ADDRESS_FR": "5572, promenade Doctor Leach",
+        "POSTALCODE": "K4M1C8",
+        "PHONE": "(613)-692-2188",
+        "LINK": "www.manoticknurseryschool.com/",
+        "LINK_FR": "www.manoticknurseryschool.com/",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686325908323653,
+          45.22173606072581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Roger-St-Denis",
+        "NAME_FR": null,
+        "ADDRESS": "186 Barrow Crescent",
+        "ADDRESS_FR": "186, croissant Barrow",
+        "POSTALCODE": "K2L2C7",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88245533462279,
+          45.311567117469778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Mothercraft Ottawa Waterbridge Program",
+        "NAME_FR": null,
+        "ADDRESS": "75 Waterbridge Drive",
+        "ADDRESS_FR": "75, promenade Waterbridge",
+        "POSTALCODE": "K2G6T3",
+        "PHONE": "(613)-825-3110",
+        "LINK": "www.mothercraft.com",
+        "LINK_FR": "www.mothercraft.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708903789862575,
+          45.281766187240493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle Alain Fortin",
+        "NAME_FR": null,
+        "ADDRESS": "676 Lakeridge Promenade",
+        "ADDRESS_FR": "676, promenade Lakeridge",
+        "POSTALCODE": "K1C2X8",
+        "PHONE": "(613)-834-8055",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.473804961670965,
+          45.447072714710011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Village at Bridlewood",
+        "NAME_FR": null,
+        "ADDRESS": "63 Bluegrass Drive",
+        "ADDRESS_FR": "63, promenade Bluegrass",
+        "POSTALCODE": "K2M1G2",
+        "PHONE": "(613)-715-4217",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.862048056603882,
+          45.284794461804566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle École la Source",
+        "NAME_FR": null,
+        "ADDRESS": "1445 Duford Promenade",
+        "ADDRESS_FR": "1445, promenade Duford",
+        "POSTALCODE": "K1E1E8",
+        "PHONE": "(613)-830-0212",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.508459820675228,
+          45.472581460613739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St. Francis of Assisi Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "795B Watters Road",
+        "ADDRESS_FR": "795B, chemin Watters",
+        "POSTALCODE": "K4A2T2",
+        "PHONE": "(613)-830-7239",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.480479929258692,
+          45.478760932512323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Manotick Montessori Casa Dei Bambini",
+        "NAME_FR": null,
+        "ADDRESS": "5710 Longshadow Street",
+        "ADDRESS_FR": "5710, rue Longshadow",
+        "POSTALCODE": "K4M1M2",
+        "PHONE": "(613)-692-1969",
+        "LINK": "brightpathkids.com/",
+        "LINK_FR": "brightpathkids.com/",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.64647901159924,
+          45.24462808636239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Jackson Trails Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1145 B Stittsville Main Street",
+        "ADDRESS_FR": "1145 B, rue Stittsville Main",
+        "POSTALCODE": "K2S1B6",
+        "PHONE": "(613)-836-1290",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.931160122011462,
+          45.274574423459505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Huron Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "24 Capilano Drive",
+        "ADDRESS_FR": "24, promenade Capilano",
+        "POSTALCODE": "K2E6G2",
+        "PHONE": "(613)-852-3799",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.732080769837097,
+          45.35694100607973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Coeur des Jeunes Saint-Rémi",
+        "NAME_FR": null,
+        "ADDRESS": "100 Walden Drive",
+        "ADDRESS_FR": "100, promenade Walden",
+        "POSTALCODE": "K2L2C7",
+        "PHONE": "(613)-878-9686",
+        "LINK": "www.coeurdesjeunes.ca",
+        "LINK_FR": "www.coeurdesjeunes.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922355079501742,
+          45.327377935618443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St. Laurent Academy/Académie St. Laurent",
+        "NAME_FR": null,
+        "ADDRESS": "641 Sladen Avenue",
+        "ADDRESS_FR": "641, avenue Sladen",
+        "POSTALCODE": "K1K2S8",
+        "PHONE": "(613)-842-8047",
+        "LINK": "www.st-laurentacademy.com",
+        "LINK_FR": "www.st-laurentacademy.com",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643201204762391,
+          45.440227572550441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Churchill Carling Daycare KSA Division",
+        "NAME_FR": null,
+        "ADDRESS": "715 Roosevelt Avenue",
+        "ADDRESS_FR": "715, avenue Roosevelt",
+        "POSTALCODE": "K2A2A8",
+        "PHONE": "(613)-798-2440",
+        "LINK": "www.churchilldaycare.ca",
+        "LINK_FR": "www.churchilldaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.750263809207183,
+          45.380946576048572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Richmond Cooperative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "3529 McBean Street",
+        "ADDRESS_FR": "3529, rue McBean",
+        "POSTALCODE": "K0A2Z0",
+        "PHONE": "(613)-838-2575",
+        "LINK": "www.rcns.ca",
+        "LINK_FR": "www.rcns.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.834270260293025,
+          45.191201982788066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Bishop Hamilton Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "2199 Regency Terrace",
+        "ADDRESS_FR": "2199, terrasse Regency",
+        "POSTALCODE": "K2C1H2",
+        "PHONE": "(613)-596-4013",
+        "LINK": "BHMS.ca",
+        "LINK_FR": "BHMS.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.772289541442703,
+          45.349307073484972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Wellington Ward (Ottawa) Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "258 Lisgar Street",
+        "ADDRESS_FR": "258, rue Lisgar",
+        "POSTALCODE": "K2P0C9",
+        "PHONE": "(613)-236-0921",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694753273915083,
+          45.417563317855802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre Éducatif Brin de Soleil",
+        "NAME_FR": null,
+        "ADDRESS": "350 Den Haag Promenade",
+        "ADDRESS_FR": "350, promenade Den Haag",
+        "POSTALCODE": "K1K2S8",
+        "PHONE": "(613)-741-4025",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.630960386334479,
+          45.440505958434336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Carrefour d'Ottawa - Arch",
+        "NAME_FR": null,
+        "ADDRESS": "2198 Arch Rue",
+        "ADDRESS_FR": "2198, rue Arch",
+        "POSTALCODE": "K1G2H7",
+        "PHONE": "(613)-523-6468",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63129934313379,
+          45.39019015064202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "195 George Street",
+        "ADDRESS_FR": "195, rue George",
+        "POSTALCODE": "K1N5W6",
+        "PHONE": "(613)-789-4100",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.686838598658213,
+          45.429396566975825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "ABC Preschool Centre",
+        "NAME_FR": null,
+        "ADDRESS": "28 Oxford Street",
+        "ADDRESS_FR": "2, rue Oxford",
+        "POSTALCODE": "K1Y2R7",
+        "PHONE": "(613)-729-1677",
+        "LINK": "www.abcdaycarecentre.ca",
+        "LINK_FR": "www.abcdaycarecentre.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729552854268761,
+          45.402570926314809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Good Morning Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "174 First Avenue",
+        "ADDRESS_FR": "174, avenue First",
+        "POSTALCODE": "K1S2G4",
+        "PHONE": "(613)-276-7974",
+        "LINK": "www.gmcaps.com",
+        "LINK_FR": "www.gmcaps.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68848552439367,
+          45.404398519993265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre Éducatif La Clémentine Bernard - Grandmaître",
+        "NAME_FR": null,
+        "ADDRESS": "4170 Spratt Road",
+        "ADDRESS_FR": "4170, chemin Spratt",
+        "POSTALCODE": "K1V0Z5",
+        "PHONE": "(613)-822-4276",
+        "LINK": "www.laclementine.ca",
+        "LINK_FR": "www.laclementine.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682913459462924,
+          45.284734456789543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Cerf-Volant, école Terre-des-Jeunes",
+        "NAME_FR": null,
+        "ADDRESS": "1303 Fellows Chemin",
+        "ADDRESS_FR": "1303, chemin Fellows",
+        "POSTALCODE": "K2C2V8",
+        "PHONE": "(613)-828-7830",
+        "LINK": "www.grandirensemble.ca",
+        "LINK_FR": "www.grandirensemble.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76769460416827,
+          45.352047106499612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Cumberland Hub Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "103-261 Tompkins Avenue",
+        "ADDRESS_FR": "103-261, avenue Tompkins",
+        "POSTALCODE": "K1E3K9",
+        "PHONE": "(613)-834-8642",
+        "LINK": "www.cumberlandhubdaycare.ca",
+        "LINK_FR": "www.cumberlandhubdaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.508468076993239,
+          45.474359208810533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Florence Child Care",
+        "NAME_FR": null,
+        "ADDRESS": "79 Florence Street",
+        "ADDRESS_FR": "79, rue Florence",
+        "POSTALCODE": "K1R5N1",
+        "PHONE": "(613)-232-4101",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.697140876125033,
+          45.411778290469933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "CENTRE ÉDUCATIF SUR UN NUAGE",
+        "NAME_FR": null,
+        "ADDRESS": "614 Eastvale Promenade",
+        "ADDRESS_FR": "614, promenade Eastvale",
+        "POSTALCODE": "K1J6Z6",
+        "PHONE": "(613)-745-5514",
+        "LINK": "www.surunnuage.ca",
+        "LINK_FR": "www.surunnuage.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59745224838332,
+          45.460164297425081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "My Little Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "815 River Road",
+        "ADDRESS_FR": "815, chemin River",
+        "POSTALCODE": "K4M1B2",
+        "PHONE": "(613)-692-0004",
+        "LINK": "www.mylittlepreschool.ca",
+        "LINK_FR": "www.mylittlepreschool.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.696799709648388,
+          45.252938820366055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Foster's Farm Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1065 Ramsay Crescent",
+        "ADDRESS_FR": "1065, croissant Ramsay",
+        "POSTALCODE": "K2B7Z9",
+        "PHONE": "(613)-829-8939",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.794589786092274,
+          45.349587668042439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Marius-Barbeau",
+        "NAME_FR": null,
+        "ADDRESS": "1345 Nottinghill Avenue",
+        "ADDRESS_FR": "1345, avenue Nottinghill",
+        "POSTALCODE": "K1V6T3",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656829068983015,
+          45.371502322766439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Scholars Montessori Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "4-2910 Woodroffe Avenue",
+        "ADDRESS_FR": "4 - 2910, avenue Woodroffe",
+        "POSTALCODE": "K2J4G3",
+        "PHONE": "(613)-277-6866",
+        "LINK": "littlescholarsmontessori.com",
+        "LINK_FR": "littlescholarsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728892218196492,
+          45.292301345337819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre parascolaire \"Alpha 3-12\" d'Orléans Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "1917 Gardenway Chemin",
+        "ADDRESS_FR": "1917, promenade Gardenway",
+        "POSTALCODE": "K4A2Y7",
+        "PHONE": "(613)-824-8160",
+        "LINK": "www.alpha312.ca",
+        "LINK_FR": "www.alpha312.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.485224892921579,
+          45.465325573720364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Trillium School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "1515 B Varennes Boulevard",
+        "ADDRESS_FR": "1515 B, boulevard Varennes",
+        "POSTALCODE": "K4A3S1",
+        "PHONE": "(613)-841-5497",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.472972377018507,
+          45.479385245589071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rainbow Kidschool",
+        "NAME_FR": null,
+        "ADDRESS": "63 Evelyn Avenue",
+        "ADDRESS_FR": "63, avenue Evelyn",
+        "POSTALCODE": "K1S0C6",
+        "PHONE": "(613)-235-2255",
+        "LINK": "www.rainbowkidschool.ca",
+        "LINK_FR": "www.rainbowkidschool.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67827743973146,
+          45.411958889756903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Bells Corners Cooperative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "3955 Richmond Road",
+        "ADDRESS_FR": "3955, chemin Richmond",
+        "POSTALCODE": "K2H5C5",
+        "PHONE": "(613)-828-6011",
+        "LINK": "bccns.ca",
+        "LINK_FR": "bccns.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.828581959107254,
+          45.315934682385368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, De La Découverte",
+        "NAME_FR": null,
+        "ADDRESS": "866 Scala Avenue",
+        "ADDRESS_FR": "866, avenue Scala",
+        "POSTALCODE": "K4A3T6",
+        "PHONE": "(613)-841-3535",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460910914279665,
+          45.464884475449409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "VINCI School",
+        "NAME_FR": null,
+        "ADDRESS": "149 King George Street",
+        "ADDRESS_FR": "149, rue King George",
+        "POSTALCODE": "K1K1V2",
+        "PHONE": "(613)-842-7557",
+        "LINK": "www.vincischool.org",
+        "LINK_FR": "www.vincischool.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657955914706037,
+          45.425739982624542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MFRC-NCR Playtime Platoon Childcare Centre /Garderie",
+        "NAME_FR": null,
+        "ADDRESS": "330 Croil Private",
+        "ADDRESS_FR": "330, rue privée Croil",
+        "POSTALCODE": "K1V1J1",
+        "PHONE": "(613)-998-4888",
+        "LINK": "www.mfrc-ncr.org",
+        "LINK_FR": "www.mfrc-ncr.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672962277871918,
+          45.330847816082759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Mothercraft Ottawa Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "475 Evered Avenue",
+        "ADDRESS_FR": "475, avenue Evered",
+        "POSTALCODE": "K1Z5K9",
+        "PHONE": "(613)-728-1839",
+        "LINK": "www.mothercraft.com",
+        "LINK_FR": "www.mothercraft.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.749923302128892,
+          45.390236447681346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre Youville Centre",
+        "NAME_FR": null,
+        "ADDRESS": "150 Mann Avenue",
+        "ADDRESS_FR": "150, avenue Mann",
+        "POSTALCODE": "K1N8P4",
+        "PHONE": "(613)-231-5150",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669176694892485,
+          45.421712562610431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Children's Place (Megan's Place)",
+        "NAME_FR": null,
+        "ADDRESS": "312 Legget Drive",
+        "ADDRESS_FR": "312, promenade Legget",
+        "POSTALCODE": "K2K1Y6",
+        "PHONE": "(613)-592-5002",
+        "LINK": "www.childrensplace.on.ca",
+        "LINK_FR": "www.childrensplace.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.905857669238372,
+          45.339294705244441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Lady Macdonald Centre",
+        "NAME_FR": null,
+        "ADDRESS": "401 Stonehaven Drive",
+        "ADDRESS_FR": "401, promenade Stonehaven",
+        "POSTALCODE": "K2M3B5",
+        "PHONE": "(613)-725-2040",
+        "LINK": "www.childrensvillage.on.ca",
+        "LINK_FR": "www.childrensvillage.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.847274658185242,
+          45.283640609163747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Charles Hulse Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "2605 Alta Vista",
+        "ADDRESS_FR": "2605, promenade Alta Vista",
+        "POSTALCODE": "K1V7T3",
+        "PHONE": "(613)-736-1913",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659934759026342,
+          45.37484373447645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Elmdale Kindergarten School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "49 Iona Street",
+        "ADDRESS_FR": "49, rue Iona",
+        "POSTALCODE": "K1Y3L9",
+        "PHONE": "(613)-798-2273",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735886664323132,
+          45.394353104639606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Service à l'enfance Aladin Childcare Services",
+        "NAME_FR": null,
+        "ADDRESS": "2240 Russell  Road",
+        "ADDRESS_FR": "2240, chemin Russell",
+        "POSTALCODE": "K1G1B3",
+        "PHONE": "(613)-733-0553",
+        "LINK": "www.aladin.pw",
+        "LINK_FR": "www.aladin.pw",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61416207497345,
+          45.395336033062172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Pickles and Poppets Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "200 Katimavik Road",
+        "ADDRESS_FR": "200, chemin Katimavik",
+        "POSTALCODE": "K2L4A2",
+        "PHONE": "(613)-296-0668",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.905964511773647,
+          45.304832523382061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "335 Lindsay Street",
+        "ADDRESS_FR": "335, rue Lindsay",
+        "POSTALCODE": "K1G0L6",
+        "PHONE": "(613)-521-5185",
+        "LINK": "www.omsmontessori.com",
+        "LINK_FR": "www.omsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.652762007622258,
+          45.407706660100061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif des Bécasseaux",
+        "NAME_FR": null,
+        "ADDRESS": "510 Lacolle Way",
+        "ADDRESS_FR": "510, voie Lacolle",
+        "POSTALCODE": "K4A0N9",
+        "PHONE": "(613)-824-0722",
+        "LINK": "www.centredesbecasseaux.com",
+        "LINK_FR": "www.centredesbecasseaux.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.481171305906187,
+          45.490815301163096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa-Albert - Kids and Company",
+        "NAME_FR": null,
+        "ADDRESS": "360 Albert Street",
+        "ADDRESS_FR": "360, rue Albert, bureau 100",
+        "POSTALCODE": "K1R7X7",
+        "PHONE": "(613)-237-2658",
+        "LINK": "www.kidsandcompany.com",
+        "LINK_FR": "www.kidsandcompany.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.703131976926969,
+          45.418294497557063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Service à l'enfance Aladin, site Sainte-Anne",
+        "NAME_FR": null,
+        "ADDRESS": "235 Beausoleil Promenade",
+        "ADDRESS_FR": "235, promenade Beausoleil",
+        "POSTALCODE": "K1N8X8",
+        "PHONE": "(613)-241-0590",
+        "LINK": "www.aladin.services",
+        "LINK_FR": "www.aladin.services",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681736184522492,
+          45.432471120461159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Brown Bear Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "1572 Main Street",
+        "ADDRESS_FR": "1572, rue Stittsville Main",
+        "POSTALCODE": "K2S1A5",
+        "PHONE": "(613)-831-2272",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.918603110622072,
+          45.256014073265092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kids Kingdom",
+        "NAME_FR": null,
+        "ADDRESS": "66 Hearst Way",
+        "ADDRESS_FR": "66,voie Hearst",
+        "POSTALCODE": "K2L2P4",
+        "PHONE": "(613)-599-5437",
+        "LINK": "www.kidskingdom.ca",
+        "LINK_FR": "www.kidskingdom.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.886623156486451,
+          45.317519513304241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Centre",
+        "NAME_FR": null,
+        "ADDRESS": "407 Hilson Avenue",
+        "ADDRESS_FR": "407, avenue Hilson",
+        "POSTALCODE": "K1Z6B9",
+        "PHONE": "(613)-728-1797",
+        "LINK": "www.cbcel.ca",
+        "LINK_FR": "www.cbcel.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.744405241859852,
+          45.395265160494674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Munchkins Hideout Daycare Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1426 Hunt Club Road",
+        "ADDRESS_FR": "1426, chemin Hunt Club",
+        "POSTALCODE": "K1T1M6",
+        "PHONE": "(613)-321-0633",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.640290825472306,
+          45.35597563314051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Annavale Headstart Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "250 Anna Avenue",
+        "ADDRESS_FR": "250, avenue Anna",
+        "POSTALCODE": "K1Z7V6",
+        "PHONE": "(613)-798-5689",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731000014045122,
+          45.382340528790358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "C.P.E. du Rocher",
+        "NAME_FR": null,
+        "ADDRESS": "235 Donald Rue",
+        "ADDRESS_FR": "235 rue Donald , bureau 253",
+        "POSTALCODE": "K1K1N1",
+        "PHONE": "(819)-643-5679",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.658864126498287,
+          45.428210092609902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Cerf-Volant, George-Étienne-Cartier",
+        "NAME_FR": null,
+        "ADDRESS": "880 Thorndale Drive",
+        "ADDRESS_FR": "880, promenade Thorndale",
+        "POSTALCODE": "K1V6Y3",
+        "PHONE": "(613)-789-3020",
+        "LINK": "www.grandirensemble.ca",
+        "LINK_FR": "www.grandirensemble.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673043481245827,
+          45.363634201905036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Centre Éducatif St. Luc/St. Luke's Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "110 Laurier Avenue West",
+        "ADDRESS_FR": "110, avenue Laurier Ouest",
+        "POSTALCODE": "K1P1J1",
+        "PHONE": "(613)-234-3617",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.689660189339435,
+          45.421010649957601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Universe Daycare-Kanata North",
+        "NAME_FR": null,
+        "ADDRESS": "101 Schneider Road",
+        "ADDRESS_FR": "101, chemin Schneider",
+        "POSTALCODE": "K2K1Y3",
+        "PHONE": "(613)-591-1777",
+        "LINK": "www.childrensuniverse.net",
+        "LINK_FR": "www.childrensuniverse.net",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.901951491162563,
+          45.339158032142691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Alta Vista Co-operative Nursery School Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "480 Avalon Place",
+        "ADDRESS_FR": "480, place Avalon",
+        "POSTALCODE": "K1G0W4",
+        "PHONE": "(613)-733-9746",
+        "LINK": "www.avcns.com",
+        "LINK_FR": "www.avcns.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648946439705924,
+          45.405871886086913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Le Parasol",
+        "NAME_FR": null,
+        "ADDRESS": "14 Four Season Drive",
+        "ADDRESS_FR": "14, promenade Four Seasons",
+        "POSTALCODE": "K2E7P8",
+        "PHONE": "(613)-723-8970",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.712514129930241,
+          45.352181401167655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers Findlay Creek",
+        "NAME_FR": null,
+        "ADDRESS": "4772 Bank Street",
+        "ADDRESS_FR": "4772, rue Bank",
+        "POSTALCODE": "K1T4J5",
+        "PHONE": "(613)-822-2900",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.593868884861109,
+          45.318070187988887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Devonshire School Age Day Care #2",
+        "NAME_FR": null,
+        "ADDRESS": "175 Beech Street",
+        "ADDRESS_FR": "175, rue Beech",
+        "POSTALCODE": "K1Y3T1",
+        "PHONE": "(613)-828-8743",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.715812001295816,
+          45.399446198279577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Orleans Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "POSTALCODE": "K1C2X8",
+        "PHONE": "(613)-837-2979",
+        "LINK": "www.theorleanspreschool.com",
+        "LINK_FR": "www.theorleanspreschool.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.545415653679285,
+          45.46685952439325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Séraphin-Marion",
+        "NAME_FR": null,
+        "ADDRESS": "2147 Loyola Avenue",
+        "ADDRESS_FR": "2147, avenue Loyola",
+        "POSTALCODE": "K1J7W3",
+        "PHONE": "(613)-742-8960",
+        "LINK": "www.cepeo.on.ca",
+        "LINK_FR": "www.cepeo.on.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.592093946448045,
+          45.452458888542473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Montessori School (North Campus)",
+        "NAME_FR": null,
+        "ADDRESS": "1030 Riddell Drive",
+        "ADDRESS_FR": "1030, promenade Riddell",
+        "POSTALCODE": "K2K1X7",
+        "PHONE": "(613)-592-2189",
+        "LINK": "www.kanatamontessori.com",
+        "LINK_FR": "www.kanatamontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95532200531521,
+          45.376942132653092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Playspace at Hazeldean Village",
+        "NAME_FR": null,
+        "ADDRESS": "474 Hazeldean Road",
+        "ADDRESS_FR": "474, chemin Hazeldean",
+        "POSTALCODE": "K2L4E5",
+        "PHONE": "(613)-831-3400",
+        "LINK": "www.myplayspace.ca",
+        "LINK_FR": "www.myplayspace.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.887757778096656,
+          45.297275397878401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Playtime Daycare Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1160 Maitland Avenue",
+        "ADDRESS_FR": "1160, avenue Maitland",
+        "POSTALCODE": "K2C2C2",
+        "PHONE": "(613)-727-5858",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.750020283503162,
+          45.364882064828095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Community Coop Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "8 Withrow Avenue",
+        "ADDRESS_FR": "8, avenue Withrow",
+        "POSTALCODE": "K2G2H6",
+        "PHONE": "(613)-224-6173",
+        "LINK": "www.magma.ca/~ccps",
+        "LINK_FR": "www.magma.ca/~ccps",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73683255429367,
+          45.354702745809462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO école Étoile de l'Est",
+        "NAME_FR": null,
+        "ADDRESS": "6220 Beauséjour Promenade",
+        "ADDRESS_FR": "6220, promenade Beauséjour",
+        "POSTALCODE": "K1C8E4",
+        "PHONE": "(613)-834-5166",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53227161620282,
+          45.456810190433565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Elizabeth Park Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "101 Croil Private",
+        "ADDRESS_FR": "101, rue privée Croil",
+        "POSTALCODE": "K1V1B5",
+        "PHONE": "(613)-738-7714",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.667844981561728,
+          45.334539156233454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kids and Company Eagleson",
+        "NAME_FR": null,
+        "ADDRESS": "110 Michael Cowpland Drive",
+        "ADDRESS_FR": "110, promenade Michael-Cowpland",
+        "POSTALCODE": "K2M1X3",
+        "PHONE": "(905)-771-1153",
+        "LINK": "www.kidsandcompany.com",
+        "LINK_FR": "www.kidsandcompany.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.86862428560319,
+          45.285452018350554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "A Gym Tale",
+        "NAME_FR": null,
+        "ADDRESS": "3777 Strandherd Road",
+        "ADDRESS_FR": "3777, promenade Strandherd, bureau 100",
+        "POSTALCODE": "K2J4B1",
+        "PHONE": "(613)-825-9165",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.749577571333731,
+          45.267548405592912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stonehaven Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "50B Stonehaven Drive",
+        "ADDRESS_FR": "50B, promenade Stonehaven",
+        "POSTALCODE": "K2M2K6",
+        "PHONE": "(613)-599-4499",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.860795742460979,
+          45.29137550992867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers Corp.",
+        "NAME_FR": null,
+        "ADDRESS": "4456 Limebank Road",
+        "ADDRESS_FR": "4456, chemin Limebank",
+        "POSTALCODE": "K1V2N8",
+        "PHONE": "(613)-822-4588",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.672407579684887,
+          45.287504719509137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre préscolaire et parascolaire L Étoile filante de Kanata nord",
+        "NAME_FR": null,
+        "ADDRESS": "1385 Halton Terrasse",
+        "ADDRESS_FR": "1385 terrasse Halton",
+        "POSTALCODE": "K2K2P9",
+        "PHONE": "(613)-270-0060",
+        "LINK": "letoilefilante.ca",
+        "LINK_FR": "letoilefilante.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.936496696220772,
+          45.34888158675691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ruddy Family Y Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "265 Centrum Boulevard",
+        "ADDRESS_FR": "265, boulevard Centrum",
+        "POSTALCODE": "K1E3X7",
+        "PHONE": "(613)-830-4199",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50941826093721,
+          45.481328409472084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Crestway Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "201 Crestway Drive",
+        "ADDRESS_FR": "201, promenade Crestway",
+        "POSTALCODE": "K2G6Z3",
+        "PHONE": "(613)-823-8383",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708481504174102,
+          45.284762715750283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre de l'enfant Aux 4 vents",
+        "NAME_FR": null,
+        "ADDRESS": "2093 Bel-Air Promenade",
+        "ADDRESS_FR": "2093, promenade Bel-Air",
+        "POSTALCODE": "K2C0X2",
+        "PHONE": "(613)-228-2613",
+        "LINK": "www.4vents.ca",
+        "LINK_FR": "www.4vents.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76287925114552,
+          45.363057990730645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif les Débrouillards - école Trillium",
+        "NAME_FR": null,
+        "ADDRESS": "307 Montgomery Rue",
+        "ADDRESS_FR": "307, rue Montgomery",
+        "POSTALCODE": "K1L7W8",
+        "PHONE": "(613)-747-6524",
+        "LINK": "www.centrelesdebrouillards.com",
+        "LINK_FR": "www.centrelesdebrouillards.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.667072838908467,
+          45.432612160855264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Universe Day Care - Blackburn Hamlet",
+        "NAME_FR": null,
+        "ADDRESS": "2919 Innes Road",
+        "ADDRESS_FR": "2919, chemin Innes",
+        "POSTALCODE": "K1B4K5",
+        "PHONE": "(613)-590-9755",
+        "LINK": "www.childrensuniverse.net",
+        "LINK_FR": "www.childrensuniverse.net",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552236760366981,
+          45.436988594942271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Reines-des-Bois",
+        "NAME_FR": null,
+        "ADDRESS": "1450 Dufour Rue",
+        "ADDRESS_FR": "1450, rue Dufour",
+        "POSTALCODE": "K1E1E6",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509880742787104,
+          45.471920244012558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Carleton District School Board (Banting Preschool Program)",
+        "NAME_FR": null,
+        "ADDRESS": "1453 Stittsville Main Street",
+        "ADDRESS_FR": "1453, rue Stittsville Main",
+        "POSTALCODE": "K2S1A3",
+        "PHONE": "(613)-831-8827",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922416979883565,
+          45.260608330355609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Merrily We Go Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "1619 Stittsville Main Street",
+        "ADDRESS_FR": "1619, rue Stittsville Main",
+        "POSTALCODE": "K2S1B2",
+        "PHONE": "(613)-836-4320",
+        "LINK": "merrilywego@vpweb.ca",
+        "LINK_FR": "merrilywego@vpweb.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.915695112473458,
+          45.255030835108265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Carrefour d'Ottawa",
+        "NAME_FR": null,
+        "ADDRESS": "35 Melrose Avenue",
+        "ADDRESS_FR": "35, avenue Melrose",
+        "POSTALCODE": "K1Y1T8",
+        "PHONE": "(613)-798-0575",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.723918702683193,
+          45.402414846517267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Sessila Academy Inc./ Académie Séssila Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "1026 Baseline Road",
+        "ADDRESS_FR": "1026, chemin Baseline",
+        "POSTALCODE": "K2C0A6",
+        "PHONE": "(613)-252-4202",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.726980031415081,
+          45.365988155245368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers Kanata North Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "50 Colchester Square",
+        "ADDRESS_FR": "50, Colchester Square",
+        "POSTALCODE": "K2K2W9",
+        "PHONE": "(613)-599-9998",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.889717013459304,
+          45.320897901902356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Parents' Daycare Hopewell Campus",
+        "NAME_FR": null,
+        "ADDRESS": "17 Hopewell Avenue",
+        "ADDRESS_FR": "17, avenue Hopewell",
+        "POSTALCODE": "K1S2Y7",
+        "PHONE": "(613)-730-0515",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683974663261594,
+          45.393567513453775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Creative Kindergarten",
+        "NAME_FR": null,
+        "ADDRESS": "1817 Richardson Side Road Road West",
+        "ADDRESS_FR": "1817, chemin Richardson Ouest",
+        "POSTALCODE": "K0A1L0",
+        "PHONE": "(613)-592-1570",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.950320039929593,
+          45.308250138768173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Riverview Kindergarten and School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "260 Knox Crescent",
+        "ADDRESS_FR": "260, croissant Knox",
+        "POSTALCODE": "K1G0K8",
+        "PHONE": "(613)-526-1541",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.654858582825142,
+          45.40579739897499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Barrhaven Child Care Centre - Malvern Site",
+        "NAME_FR": null,
+        "ADDRESS": "101-A Malvern Drive",
+        "ADDRESS_FR": "101-A, promenade Malvern",
+        "POSTALCODE": "K2J2S8",
+        "PHONE": "(613)-825-1271",
+        "LINK": "barrhavenccc.org",
+        "LINK_FR": "barrhavenccc.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.759675109331155,
+          45.279589036364506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Devonshire School Age Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "100 Breezehill Avenue North",
+        "ADDRESS_FR": "100, avenue Breezehill Nord",
+        "POSTALCODE": "K1Y2H5",
+        "PHONE": "(613)-828-8743",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.719245462457565,
+          45.406093808758122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Providence Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "998 Frances Street",
+        "ADDRESS_FR": "998, rue Frances",
+        "POSTALCODE": "K1K3L5",
+        "PHONE": "(613)-744-0010",
+        "LINK": "www.antoninesisters.ca",
+        "LINK_FR": "www.antoninesisters.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.648510983667308,
+          45.427396783601559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Carleton District School Board (Adult High School Preschool Program)",
+        "NAME_FR": null,
+        "ADDRESS": "300 Rochester Street",
+        "ADDRESS_FR": "300, rue Rochester",
+        "POSTALCODE": "K1R7N4",
+        "PHONE": "(613)-233-2464",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.710366579884081,
+          45.40421814090606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Greenboro Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1400 Cahill Drive",
+        "ADDRESS_FR": "1400, promenade Cahill",
+        "POSTALCODE": "K1T2Y9",
+        "PHONE": "(613)-526-3203",
+        "LINK": "www.cbcel.ca",
+        "LINK_FR": "www.cbcel.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.644432790069743,
+          45.359042963294513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stittsville Imagination Station Preschool and Kinder - Carp Road",
+        "NAME_FR": null,
+        "ADDRESS": "1115 Carp Road",
+        "ADDRESS_FR": "1115, chemin Carp",
+        "POSTALCODE": "K2S1B9",
+        "PHONE": "(613)-435-9177",
+        "LINK": "www.ispreschool.ca",
+        "LINK_FR": "www.ispreschool.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.940959980962674,
+          45.269566572040013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Bernadette Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "100 Thomas More",
+        "ADDRESS_FR": "100, Thomas More",
+        "POSTALCODE": "K1N6N5",
+        "PHONE": "(613)-562-5937",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.681294584595989,
+          45.422678724588231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Hawthorne Meadows Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2244 Russell Road",
+        "ADDRESS_FR": "2244, chemin Russell",
+        "POSTALCODE": "K1G1B8",
+        "PHONE": "(613)-731-1507",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614453273647442,
+          45.395353171325922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Strandherd Montessori Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "Unit 116 4100 Strandherd Drive",
+        "ADDRESS_FR": "4100, promenade Strandherd, unité 116",
+        "POSTALCODE": "K2J4A7",
+        "PHONE": "(613)-277-6866",
+        "LINK": "littlescholarsmontessori.com",
+        "LINK_FR": "littlescholarsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.767779668456072,
+          45.25980161269311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centrepointe Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "75 Hemmingwood Way",
+        "ADDRESS_FR": "75, voie Hemmingwood",
+        "POSTALCODE": "K2G5T6",
+        "PHONE": "(613)-225-9678",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.770497012080369,
+          45.345604859552267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Strandherd School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "333 B Beatrice Drive",
+        "ADDRESS_FR": "333 B, promenade Beatrice",
+        "POSTALCODE": "K2J4W1",
+        "PHONE": "(613)-825-9399",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728907351478441,
+          45.28109604408872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Love Bugs Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "1160 Maitland Avenue",
+        "ADDRESS_FR": "1160, avenue Maitland",
+        "POSTALCODE": "K2C2C2",
+        "PHONE": "(613)-695-7701",
+        "LINK": "www.littlelovebugs.ca",
+        "LINK_FR": "www.littlelovebugs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.750020283503162,
+          45.364882064828095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Cooperative Para-scolaire Vanier Co-operative School-age Program",
+        "NAME_FR": null,
+        "ADDRESS": "236 Levis Avenue",
+        "ADDRESS_FR": "236, avenue Levis",
+        "POSTALCODE": "K1L6H8",
+        "PHONE": "(613)-741-5563",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66011294736046,
+          45.43503528401606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "A-Z Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "1145 St.Pierre Street",
+        "ADDRESS_FR": "1145, rue St-Pierre",
+        "POSTALCODE": "K1C1L4",
+        "PHONE": "(613)-824-1330",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521178588607071,
+          45.474422154010291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Cerf-Volant - Édouard-Bond",
+        "NAME_FR": null,
+        "ADDRESS": "920 Parkhaven Avenue",
+        "ADDRESS_FR": "920, avenue Parkhaven",
+        "POSTALCODE": "K2B5K3",
+        "PHONE": "(613)-596-1971",
+        "LINK": "www.grandirensemble.ca",
+        "LINK_FR": "www.grandirensemble.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.777060542799575,
+          45.363031450675422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Carleton District School Board (Woodroffe High School Infant Toddler Preschool Program)",
+        "NAME_FR": null,
+        "ADDRESS": "2410 Georgina Drive",
+        "ADDRESS_FR": "2410, promenade Georgina",
+        "POSTALCODE": "K2B7M8",
+        "PHONE": "(613)-828-4094",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.779193806043978,
+          45.362397944306196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Sunflower Co-operative Day Nursery",
+        "NAME_FR": null,
+        "ADDRESS": "700 Montreal Road",
+        "ADDRESS_FR": "700, chemin de Montréal",
+        "POSTALCODE": "K1A0P7",
+        "PHONE": "(613)-748-2268",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63601065883735,
+          45.442537664580726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Borden Farm Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "170 Chesterton Drive",
+        "ADDRESS_FR": "170, promenade Chesterton",
+        "POSTALCODE": "K2E5V1",
+        "PHONE": "(613)-224-1411",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.716711544361871,
+          45.34889201664312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St. Mary's Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "2 Canfield Road",
+        "ADDRESS_FR": "2, chemin Canfield",
+        "POSTALCODE": "K2H5T1",
+        "PHONE": "(613)-596-6279",
+        "LINK": "www.stmarysdaycare.ca",
+        "LINK_FR": "www.stmarysdaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.781803479838274,
+          45.329658645697577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Gardenway School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "2133B Gardenway Drive",
+        "ADDRESS_FR": "2133B, promenade Gardenway",
+        "POSTALCODE": "K4A3M2",
+        "PHONE": "(613)-841-7437",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.474556653155929,
+          45.469376416846615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Cerf-Volant, école Sainte-Bernadette",
+        "NAME_FR": null,
+        "ADDRESS": "3781 Sixth Rue",
+        "ADDRESS_FR": "3781, rue Sixth",
+        "POSTALCODE": "K1T1K5",
+        "PHONE": "(613)-282-9876",
+        "LINK": "www.grandirensemble.ca",
+        "LINK_FR": "www.grandirensemble.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.623143357727784,
+          45.352078421926073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Children's Montessori",
+        "NAME_FR": null,
+        "ADDRESS": "630 Island Park Drive",
+        "ADDRESS_FR": "630, promenade Island Park",
+        "POSTALCODE": "K1Y0B7",
+        "PHONE": "(613)-226-8771",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.733506710993481,
+          45.389415857948805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Castle Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "1187- 89 Huntclub Road",
+        "ADDRESS_FR": "1187- 89, chemin Hunt Club",
+        "POSTALCODE": "K1V8S4",
+        "PHONE": "(613)-733-0380",
+        "LINK": "www.ccdc1187.com",
+        "LINK_FR": "www.ccdc1187.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650270093711356,
+          45.352363369461436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Baywood School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "4 Baywood Street",
+        "ADDRESS_FR": "4, rue Baywood",
+        "POSTALCODE": "K2S1A5",
+        "PHONE": "(613)-831-7366",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.906518270827561,
+          45.248554604765133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO École des pins",
+        "NAME_FR": null,
+        "ADDRESS": "1487 Ridgebrook Promenade",
+        "ADDRESS_FR": "1487, promenade Ridgebrook",
+        "POSTALCODE": "K1B4K6",
+        "PHONE": "(613)-830-6436",
+        "LINK": "www.mifo.net",
+        "LINK_FR": "www.mifo.net",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.605064247352161,
+          45.421577025540195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, Arc-en-Ciel",
+        "NAME_FR": null,
+        "ADDRESS": "1830 Portobello Promenade",
+        "ADDRESS_FR": "1830, boulevard Portobello",
+        "POSTALCODE": "K4A3T6",
+        "PHONE": "(613)-841-4034",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.470803765170245,
+          45.471373203395423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif les débrouillards-Trille des Bois",
+        "NAME_FR": null,
+        "ADDRESS": "140 Genest Rue",
+        "ADDRESS_FR": "140, rue Genest",
+        "POSTALCODE": "K1L7Y9",
+        "PHONE": "(613)-747-6524",
+        "LINK": "debrouillards.educatif@gmail.com",
+        "LINK_FR": "debrouillards.educatif@gmail.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.669765481776736,
+          45.440567288811117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO école St. Joseph d'Orléans",
+        "NAME_FR": null,
+        "ADDRESS": "6664 Carrière Rue",
+        "ADDRESS_FR": "6664, rue Carrière",
+        "POSTALCODE": "K1C1J4",
+        "PHONE": "(613)-824-0820",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521679212053826,
+          45.465922804110818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école St-Joseph",
+        "NAME_FR": null,
+        "ADDRESS": "6664 Carrière Rue",
+        "ADDRESS_FR": "6664, rue Carrière",
+        "POSTALCODE": "K1C1J4",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.521509149040654,
+          45.465778495994648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Tunney's Day Care",
+        "NAME_FR": null,
+        "ADDRESS": "Main Bldg. Wing 1200, Stats. Canada,",
+        "ADDRESS_FR": "Aile 1200, Statistique Canada",
+        "POSTALCODE": "K1A0T6",
+        "PHONE": "(613)-230-1125",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734693357845742,
+          45.407021370378892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Keyworth Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "130B Keyworth Avenue",
+        "ADDRESS_FR": "130B, avenue Keyworth",
+        "POSTALCODE": "K1Y0E6",
+        "PHONE": "(613)-722-0411",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.748072070217077,
+          45.404286572371248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif coopérative Le Manège - River Mist",
+        "NAME_FR": null,
+        "ADDRESS": "2450 River Mist Road",
+        "ADDRESS_FR": "2450, chemin River Mist",
+        "POSTALCODE": "K2J4X1",
+        "PHONE": "(613)-271-8811",
+        "LINK": "www.lemanege.ca",
+        "LINK_FR": "www.lemanege.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.736166227721966,
+          45.245884469058275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Sainte Bernadette",
+        "NAME_FR": null,
+        "ADDRESS": "3781 Sixth Rue",
+        "ADDRESS_FR": "3781, rue Sixth",
+        "POSTALCODE": "K1T1K5",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62276461768883,
+          45.352113608531589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO école Sainte Marie",
+        "NAME_FR": null,
+        "ADDRESS": "2599 Innes Chemin",
+        "ADDRESS_FR": "2599, chemin Innes",
+        "POSTALCODE": "K1B3J8",
+        "PHONE": "(613)-824-6102",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566430686583132,
+          45.432346139185739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Aid Society Headstart Nursery",
+        "NAME_FR": null,
+        "ADDRESS": "1602 Telesat Court",
+        "ADDRESS_FR": "1602, cour Telesat",
+        "POSTALCODE": "K1B1B1",
+        "PHONE": "(613)-747-7800",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.604548930658765,
+          45.426989686271192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Mountshannon School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "60-B Mountshannon Drive",
+        "ADDRESS_FR": "60B, promenade Mountshannon",
+        "POSTALCODE": "K2J4B8",
+        "PHONE": "(613)-823-3196",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.73538088662238,
+          45.291163794412164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Blackburn Hamlet Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "202 Glen Park Drive",
+        "ADDRESS_FR": "202, promenade Glen Park",
+        "POSTALCODE": "K1B5A3",
+        "PHONE": "(613)-824-3251",
+        "LINK": "www.bhps.ca",
+        "LINK_FR": "www.bhps.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.562415405127553,
+          45.43067766771577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Overbrook Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "557 Queen Mary",
+        "ADDRESS_FR": "557, rue Queen Mary",
+        "POSTALCODE": "K1K1V9",
+        "PHONE": "(613)-736-1913",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6425093302081,
+          45.426377782506655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Alta Vista Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1349 Randall",
+        "ADDRESS_FR": "1349, avenue Randall",
+        "POSTALCODE": "K1H7T3",
+        "PHONE": "(613)-736-1913",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665299034297519,
+          45.383829487376225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Petits pas à trois école La Vérendrye",
+        "NAME_FR": null,
+        "ADDRESS": "614 Eastvale Promenade",
+        "ADDRESS_FR": "614, promenade Eastvale",
+        "POSTALCODE": "K1J6Z6",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.597653736617758,
+          45.460523616326121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif coopérative Le Manège - Chapman Mills",
+        "NAME_FR": null,
+        "ADDRESS": "651 Chapman Mills Promenade",
+        "ADDRESS_FR": "651, promenade Chapman Mills",
+        "POSTALCODE": "K2J4X1",
+        "PHONE": "(613)-440-0390",
+        "LINK": "www.lemanege.ca",
+        "LINK_FR": "www.lemanege.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.731696346270908,
+          45.270207671572365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "City View Centre for Child and Family Services (Group Care)",
+        "NAME_FR": null,
+        "ADDRESS": "1099 Longfields Drive",
+        "ADDRESS_FR": "1099, promenade Longfields",
+        "POSTALCODE": "K2J5L2",
+        "PHONE": "(613)-823-8244",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.739665530302773,
+          45.274290657284148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre des Petits d'Ottawa (2005) Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "445 Pleasant Park Chemin",
+        "ADDRESS_FR": "445, chemin Pleasant Park",
+        "POSTALCODE": "K1H5M9",
+        "PHONE": "(613)-562-4710",
+        "LINK": "www.cdpottawa.ca",
+        "LINK_FR": "www.cdpottawa.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.653364712722592,
+          45.393947881211652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Edgewood Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "9 Stevens Avenue",
+        "ADDRESS_FR": "9, avenue Stevens",
+        "POSTALCODE": "K1K1K4",
+        "PHONE": "(613)-748-7000",
+        "LINK": "edgewoodchildcare.ca",
+        "LINK_FR": "edgewoodchildcare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66731828254197,
+          45.429333808152784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Making Connections Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "235 Donald Street",
+        "ADDRESS_FR": "235, rue Donald",
+        "POSTALCODE": "K1K1N1",
+        "PHONE": "(613)-741-3511",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65889825958314,
+          45.428245461759914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Before and After School in Manor Park",
+        "NAME_FR": null,
+        "ADDRESS": "100 Braemar Street",
+        "ADDRESS_FR": "100, rue Braemar",
+        "POSTALCODE": "K1K3C9",
+        "PHONE": "(613)-741-4776",
+        "LINK": "www.manorpark.ca",
+        "LINK_FR": "www.manorpark.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.657059355360389,
+          45.450969819458479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Leitrim Montessori Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "4861 Bank Street",
+        "ADDRESS_FR": "4861, rue Bank",
+        "POSTALCODE": "K1X1G6",
+        "PHONE": "(613)-822-6848",
+        "LINK": "www.leitrimmontessori.com",
+        "LINK_FR": "www.leitrimmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.584882845387256,
+          45.306931476990158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Beaverbrook Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "990 Teron Road",
+        "ADDRESS_FR": "990, chemin Teron",
+        "POSTALCODE": "K2K1K1",
+        "PHONE": "(613)-614-4904",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.896281567197633,
+          45.325975679323832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Dr. Ernest Couture Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2185 Riverside Drive East",
+        "ADDRESS_FR": "2185, promenade Riverside E.",
+        "POSTALCODE": "K1H8K5",
+        "PHONE": "(613)-731-2980",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675118352290426,
+          45.388903600435732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stittsville Co-op Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "27 Hobin Street",
+        "ADDRESS_FR": "27, rue Hobin, unité 1",
+        "POSTALCODE": "K2S1G8",
+        "PHONE": "(613)-836-1500",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.933957601012466,
+          45.262925897858885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Children's Place (Annex)",
+        "NAME_FR": null,
+        "ADDRESS": "1160 Carling Avenue",
+        "ADDRESS_FR": "1160, avenue Carling",
+        "POSTALCODE": "K1Z7K6",
+        "PHONE": "(613)-725-9995",
+        "LINK": "www.childrensplace.on.ca",
+        "LINK_FR": "www.childrensplace.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728800729580328,
+          45.388093720542649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St. Thomas the Apostle Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2345 Alta Vista Drive",
+        "ADDRESS_FR": "2345, promenade Alta Vista",
+        "POSTALCODE": "K1H7M6",
+        "PHONE": "(613)-731-4150",
+        "LINK": "stthomasnurseryschool@bellnet.ca",
+        "LINK_FR": "stthomasnurseryschool@bellnet.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.661574557272758,
+          45.384112219145294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Acadekidz",
+        "NAME_FR": null,
+        "ADDRESS": "1010 Morrison Drive",
+        "ADDRESS_FR": "1010, promenade Morrison",
+        "POSTALCODE": "K2H8K7",
+        "PHONE": "(613)-721-3872",
+        "LINK": "www.acadekidz.org",
+        "LINK_FR": "www.acadekidz.org",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.790966138954943,
+          45.347056920330886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St-Laurent Academy",
+        "NAME_FR": null,
+        "ADDRESS": "2525 Lancaster Road",
+        "ADDRESS_FR": "2525 chemin Lancaster",
+        "POSTALCODE": "K1B4L5",
+        "PHONE": "(613)-842-8047",
+        "LINK": "www.st-laurentacademy.com",
+        "LINK_FR": "www.st-laurentacademy.com",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.614121377968715,
+          45.401611892625318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Weefolk Playhouse",
+        "NAME_FR": null,
+        "ADDRESS": "171 Greenbank Road",
+        "ADDRESS_FR": "171, chemin Greenbank",
+        "POSTALCODE": "K2H5V6",
+        "PHONE": "(613)-729-1535",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.780544281250897,
+          45.329092750973402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Coeur des Jeunes Roger-Saint-Denis",
+        "NAME_FR": null,
+        "ADDRESS": "186 Croissant Barrow",
+        "ADDRESS_FR": "186, Croissant Barrow",
+        "POSTALCODE": "K2L2C7",
+        "PHONE": "(613)-599-2225",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.882195915398825,
+          45.311219290079215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "River Heights Children's Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1515 Tenth Line Road",
+        "ADDRESS_FR": "1515, chemin Tenth Line",
+        "POSTALCODE": "K1E3E8",
+        "PHONE": "(613)-834-8152",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.493812545817036,
+          45.472600517956259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Munster Co-operative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "7816 Bleeks Road",
+        "ADDRESS_FR": "7816, chemin Bleeks",
+        "POSTALCODE": "K0A3P0",
+        "PHONE": "(613)-838-8754",
+        "LINK": "www.munstercns.org",
+        "LINK_FR": "www.munstercns.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.941736685113057,
+          45.162592062400101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Katimavik Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "180 Katimavik Road",
+        "ADDRESS_FR": "180, chemin Katimavik",
+        "POSTALCODE": "K2L4A7",
+        "PHONE": "(613)-591-5611",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.902234978012487,
+          45.308137759352697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Parents' Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "10 Fifth Avenue",
+        "ADDRESS_FR": "10, avenue Fifth",
+        "POSTALCODE": "K1S5N5",
+        "PHONE": "(613)-233-9268",
+        "LINK": "glebeparentsdaycare.ca",
+        "LINK_FR": "glebeparentsdaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682474887836278,
+          45.403201820234408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rodnichok Daycare",
+        "NAME_FR": null,
+        "ADDRESS": "1311 Pinecrest Road",
+        "ADDRESS_FR": "1311, chemin Pinecrest",
+        "POSTALCODE": "K2C3E7",
+        "PHONE": "(613)-596-5123",
+        "LINK": "rodnik.ca",
+        "LINK_FR": "rodnik.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.785867384506716,
+          45.343246738043199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Les Petites Frimousses et Centre éducatif spécialisé L'Image",
+        "NAME_FR": null,
+        "ADDRESS": "135 Alice Rue",
+        "ADDRESS_FR": "135, rue Alice",
+        "POSTALCODE": "K1L7X5",
+        "PHONE": "(613)-742-0884",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.670302831890112,
+          45.439961517009671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kidz Only Child Care",
+        "NAME_FR": null,
+        "ADDRESS": "7859 Decarie Drive",
+        "ADDRESS_FR": "7859, promenade Décarie",
+        "POSTALCODE": "K1C2J4",
+        "PHONE": "(613)-837-2324",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.528574521628443,
+          45.483474424773881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Centre Éducatif Tournesol",
+        "NAME_FR": null,
+        "ADDRESS": "194 McArthur Road",
+        "ADDRESS_FR": "194, chemin McArthur",
+        "POSTALCODE": "K1L6P5",
+        "PHONE": "(613)-745-2729",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6612889058066,
+          45.430915559579859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Fallingbrook School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "679-B Deancourt Crescent",
+        "ADDRESS_FR": "679-B, croissant Deancourt",
+        "POSTALCODE": "K4A3E1",
+        "PHONE": "(613)-830-6971",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.486389778907494,
+          45.48137521787141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Cerf-Volant, école Marius Barbeau",
+        "NAME_FR": null,
+        "ADDRESS": "1345 Nottinghill Avenue",
+        "ADDRESS_FR": "1345, avenue Nottinghill",
+        "POSTALCODE": "K1V6T3",
+        "PHONE": "(613)-695-5596",
+        "LINK": "www.grandirensemble.ca",
+        "LINK_FR": "www.grandirensemble.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.656829068983015,
+          45.371502322766439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers in Bridlewood",
+        "NAME_FR": null,
+        "ADDRESS": "64 Stonehaven Drive",
+        "ADDRESS_FR": "64, promenade Stonehaven",
+        "POSTALCODE": "K2M2Y2",
+        "PHONE": "(613)-599-6277",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.857190491237603,
+          45.291782769414382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Imagination Station Children's Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "3581 Albion Road",
+        "ADDRESS_FR": "3581, chemin Albion",
+        "POSTALCODE": "K1T1A2",
+        "PHONE": "(613)-526-4923",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.641445286322181,
+          45.352238922255253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Portobello Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2000B Portobello Boulevard",
+        "ADDRESS_FR": "2000B, boulevard Portobello",
+        "POSTALCODE": "K4A4M9",
+        "PHONE": "(613)-837-1784",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.467331323306482,
+          45.46318302096293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO école des Voyageurs",
+        "NAME_FR": null,
+        "ADDRESS": "6030 Voyageur Promenade",
+        "ADDRESS_FR": "6030, promenade Voyageur",
+        "POSTALCODE": "K1C2T1",
+        "PHONE": "(613)-830-1111",
+        "LINK": "www.mifo.net",
+        "LINK_FR": "www.mifo.net",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.552246596009837,
+          45.473616668581293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rideau Valley Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "5858 Rideau Valley Drive North",
+        "ADDRESS_FR": "5858, promenade Rideau Valley Nord",
+        "POSTALCODE": "K4M1B3",
+        "PHONE": "(613)-692-4625",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662336422784691,
+          45.209544189491403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "First Journey Montessori Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "1551 Laperriere Avenue",
+        "ADDRESS_FR": "1551, avenue Laperrière",
+        "POSTALCODE": "K1Z7T2",
+        "PHONE": "(613)-723-0838",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.744243351909034,
+          45.377365569291364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Pickles and Poppets Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2900 Jockvale Road",
+        "ADDRESS_FR": "2900, chemin Jockvale",
+        "POSTALCODE": "K2J4J5",
+        "PHONE": "(613)-296-0668",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.767851418904968,
+          45.27468265807957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Chapman Mills Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "500 B Chapman Mills Drive",
+        "ADDRESS_FR": "500 B, promenade Chapman Mills",
+        "POSTALCODE": "K2G3R4",
+        "PHONE": "(613)-823-9414",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.724935074157813,
+          45.271425821335285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Esther By Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1550 Caldwell Avenue",
+        "ADDRESS_FR": "1550, avenue Caldwell",
+        "POSTALCODE": "K1Z8M7",
+        "PHONE": "(613)-729-3242",
+        "LINK": "ottawa.ca/daycare",
+        "LINK_FR": "ottawa.ca/daycare",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.739820745583913,
+          45.373223647682266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Centre Éducatif Beausoleil Educational Centre",
+        "NAME_FR": null,
+        "ADDRESS": "333 York Street",
+        "ADDRESS_FR": "333, rue York",
+        "POSTALCODE": "K1N8W4",
+        "PHONE": "(613)-789-1398",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683632661378155,
+          45.433639506155224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif La Clémentine",
+        "NAME_FR": null,
+        "ADDRESS": "3395 D'Aoust Avenue",
+        "ADDRESS_FR": "3395, avenue D'Aoust",
+        "POSTALCODE": "K1T4A8",
+        "PHONE": "(613)-523-8429",
+        "LINK": "www.laclementine.ca",
+        "LINK_FR": "www.laclementine.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.634804030512797,
+          45.348570708472607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "West Carleton Kids' Korner Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "5670 Carp Road",
+        "ADDRESS_FR": "5670, chemin Carp",
+        "POSTALCODE": "K0A2H0",
+        "PHONE": "(613)-832-1300",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.147699600499877,
+          45.415809989546631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Universe Child Care - Glen Ogilvie",
+        "NAME_FR": null,
+        "ADDRESS": "46 Centrepark Drive",
+        "ADDRESS_FR": "46, promenade Centrepark",
+        "POSTALCODE": "K1B3C1",
+        "PHONE": "(613)-830-1227",
+        "LINK": "WWW.CHILDRENSUNIVERSE.NET",
+        "LINK_FR": "WWW.CHILDRENSUNIVERSE.NET",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.570546952659626,
+          45.434618503513697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, Le Prélude",
+        "NAME_FR": null,
+        "ADDRESS": "6025 Longleaf",
+        "ADDRESS_FR": "6025, promenade Longleaf",
+        "POSTALCODE": "K1W1G3",
+        "PHONE": "(613)-841-8630",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.530320799023912,
+          45.437695848164402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "355 Michael Cowpland Drive",
+        "ADDRESS_FR": "355, promenade Michael Cowpland",
+        "POSTALCODE": "K2M2C5",
+        "PHONE": "(613)-592-2189",
+        "LINK": "www.kanatamontessori.com",
+        "LINK_FR": "www.kanatamontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.877242510614849,
+          45.284393837490946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Riverside Montessori Pre-School",
+        "NAME_FR": null,
+        "ADDRESS": "88 Main Street",
+        "ADDRESS_FR": "88, rue Main",
+        "POSTALCODE": "K1S1C2",
+        "PHONE": "(613)-521-4888",
+        "LINK": "www.riversidemontessori.com",
+        "LINK_FR": "www.riversidemontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680127874421174,
+          45.411654584319209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Parent's Daycare Mutchmor Campus",
+        "NAME_FR": null,
+        "ADDRESS": "185 Fifth Avenue",
+        "ADDRESS_FR": "185, avenue Fifth",
+        "POSTALCODE": "K1S2N1",
+        "PHONE": "(613)-233-0124",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.690675362127166,
+          45.400806753086073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Research Park Family Centre - Summer Camp Program",
+        "NAME_FR": null,
+        "ADDRESS": "100 Penfield Drive",
+        "ADDRESS_FR": "100, promenade Penfield",
+        "POSTALCODE": "K2K2S5",
+        "PHONE": "(613)-591-1995",
+        "LINK": "www.krpfamilycentre.com",
+        "LINK_FR": "www.krpfamilycentre.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.893242803364259,
+          45.328543798173634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Greenwoods Academy",
+        "NAME_FR": null,
+        "ADDRESS": "1056 Klondike Road",
+        "ADDRESS_FR": "1056, chemin Klondike",
+        "POSTALCODE": "K2K1X7",
+        "PHONE": "(613)-591-3100",
+        "LINK": "www.greenwoodsacademy.com",
+        "LINK_FR": "www.greenwoodsacademy.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.929510971914951,
+          45.356603856644256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre de l'enfant Aux 4 vents - Barrhaven",
+        "NAME_FR": null,
+        "ADDRESS": "11 Claridge Chemin",
+        "ADDRESS_FR": "11, Chemin Claridge",
+        "POSTALCODE": "K2J5A3",
+        "PHONE": "(613)-825-9092",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.726480514030555,
+          45.287750350150851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rockcliffe Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "340 Buena Vista Road",
+        "ADDRESS_FR": "340, chemin Buena Vista",
+        "POSTALCODE": "K1M1C1",
+        "PHONE": "(613)-745-8005",
+        "LINK": "www.rccc.info",
+        "LINK_FR": "www.rccc.info",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67779559345901,
+          45.450666847509439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children on the Hill/Les enfants de la colline",
+        "NAME_FR": null,
+        "ADDRESS": "House of C Box 904, Confederation Bldg.",
+        "ADDRESS_FR": "Boîte 904, édifice de la Confédération",
+        "POSTALCODE": "K1A0A6",
+        "PHONE": "(613)-992-2879",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "ENGLISH,FRENCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.702959391578446,
+          45.421849834406537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO école de l'Odyssée",
+        "NAME_FR": null,
+        "ADDRESS": "1770 Grey Nuns Promenade",
+        "ADDRESS_FR": "1770, promenade Grey Nuns",
+        "POSTALCODE": "K1C1C3",
+        "PHONE": "(613)-590-1148",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.535455541911517,
+          45.468603267394137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, Béatrice-Desloges",
+        "NAME_FR": null,
+        "ADDRESS": "1999 Provence Avenue",
+        "ADDRESS_FR": "1999, avenue Provence",
+        "POSTALCODE": "K4A3Y6",
+        "PHONE": "(613)-841-2840",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45828276577295,
+          45.468728398840256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Heritage Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1425 St.Joseph Boulevard",
+        "ADDRESS_FR": "1425,  boulevard St-Joseph",
+        "POSTALCODE": "K1C7K9",
+        "PHONE": "(613)-837-9255",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566996168739351,
+          45.45874475299842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Queensway Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "429 Parkdale Avenue",
+        "ADDRESS_FR": "429, avenue Parkdale",
+        "POSTALCODE": "K1Y1H3",
+        "PHONE": "(613)-728-8053",
+        "LINK": "www.swchc.on.ca",
+        "LINK_FR": "www.swchc.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728081925981314,
+          45.399695414297128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, Des Sentiers",
+        "NAME_FR": null,
+        "ADDRESS": "2159 Nantes Rue",
+        "ADDRESS_FR": "2159, rue Nantes",
+        "POSTALCODE": "K4A4C4",
+        "PHONE": "(613)-837-9726",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46102944868106,
+          45.459342870683606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie éducative Renée Tassé",
+        "NAME_FR": null,
+        "ADDRESS": "801 l'Aviation Promenade",
+        "ADDRESS_FR": "801, promenade de l'Aviation",
+        "POSTALCODE": "K1K4R3",
+        "PHONE": "(613)-742-2493",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62866941018666,
+          45.439969883932342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Holy Spirit School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "1383 Main Street",
+        "ADDRESS_FR": "1383, rue Stittsville Main",
+        "POSTALCODE": "K2S1A8",
+        "PHONE": "(613)-831-3034",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.925371026823044,
+          45.263011929864867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Sandy Hill Child Care Centre - Centre d'enfants côte de sable",
+        "NAME_FR": null,
+        "ADDRESS": "300 Wilbrod Street",
+        "ADDRESS_FR": "300, rue Wilbrod",
+        "POSTALCODE": "K1N6M1",
+        "PHONE": "(613)-237-5232",
+        "LINK": "sandyhillchildcare.net",
+        "LINK_FR": "sandyhillchildcare.net",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68081084217151,
+          45.427113430789511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Queensway West Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "930 Watson Street",
+        "ADDRESS_FR": "930, rue Watson",
+        "POSTALCODE": "K2B6B9",
+        "PHONE": "(613)-721-1029",
+        "LINK": "www.qwmontessori.com",
+        "LINK_FR": "www.qwmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7944490757491,
+          45.354552350439576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Scholars Montessori Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1455 Woodroffe Avenue",
+        "ADDRESS_FR": "1455, avenue Woodroffe",
+        "POSTALCODE": "K2G1W1",
+        "PHONE": "(613)-277-6866",
+        "LINK": "www.littlescholarsmontessori.com",
+        "LINK_FR": "www.littlescholarsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.754819998830868,
+          45.339772578021552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Cornerstone Children's Centre/Heatherington Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2330 Don Reid Drive",
+        "ADDRESS_FR": "2330, promenade Don Reid",
+        "POSTALCODE": "K1H1E1",
+        "PHONE": "(613)-731-2440",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.634461591252716,
+          45.381397735827875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Research Park Family Centre",
+        "NAME_FR": null,
+        "ADDRESS": "100 Helmsdale Drive",
+        "ADDRESS_FR": "100, promenade Helmsdale",
+        "POSTALCODE": "K2K2S5",
+        "PHONE": "(613)-591-1995",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.917469751439882,
+          45.352471709184989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Monkey Around Play and Learn Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2950-2960 Bank Street",
+        "ADDRESS_FR": "2950-2960, rue Bank",
+        "POSTALCODE": "K1T1N8",
+        "PHONE": "(613)-299-6630",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62625941089469,
+          45.346069691630625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Horizon Jeunesse",
+        "NAME_FR": null,
+        "ADDRESS": "349 Olmstead Rue",
+        "ADDRESS_FR": "349, rue Olmstead",
+        "POSTALCODE": "K1L1B1",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659954452125817,
+          45.432531113330462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Orleans Montessori Children's House Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "1212 Arbuste Avenue",
+        "ADDRESS_FR": "1212, avenue Arbuste",
+        "POSTALCODE": "K4C1C2",
+        "PHONE": "(613)-833-1442",
+        "LINK": "www.orleansmontessori.ca",
+        "LINK_FR": "www.orleansmontessori.ca",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45387952186627,
+          45.500924616736377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Shoreline Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "4330B Spratt Road",
+        "ADDRESS_FR": "4330B, chemin Spratt",
+        "POSTALCODE": "K1V2A7",
+        "PHONE": "(613)-822-8956",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68943951218175,
+          45.276408809161893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois école Jean Paul II",
+        "NAME_FR": null,
+        "ADDRESS": "5473 Abbott Rue Est",
+        "ADDRESS_FR": "5473, rue Abbott Est",
+        "POSTALCODE": "K2S0A8",
+        "PHONE": "(613)-744-2555",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.903279066208071,
+          45.270226178185098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Avalon YMCA-YWCA Child Care",
+        "NAME_FR": null,
+        "ADDRESS": "2080 Portobello Boulevard",
+        "ADDRESS_FR": "2080, boulevard Portobello",
+        "POSTALCODE": "K4A0K5",
+        "PHONE": "(613)-824-2681",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.466665569170843,
+          45.457595235424975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Service à l'enfance Aladin Childcare Services-Hawthorne",
+        "NAME_FR": null,
+        "ADDRESS": "2158 St.Laurent Boulevard",
+        "ADDRESS_FR": "2158, boulevard St-Laurent",
+        "POSTALCODE": "K1G1H7",
+        "PHONE": "(613)-733-0553",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.620397400656088,
+          45.39209602690147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Barrhaven Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "56 Kennevale Drive",
+        "ADDRESS_FR": "56, promenade Kennevale",
+        "POSTALCODE": "K2J3B2",
+        "PHONE": "(613)-825-9385",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.76793904200197,
+          45.268111227769644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "St. Anthony's Children's Centre",
+        "NAME_FR": null,
+        "ADDRESS": "414 Booth Street",
+        "ADDRESS_FR": "414, rue Booth",
+        "POSTALCODE": "K1R7K7",
+        "PHONE": "(613)-232-4308",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.708749446317583,
+          45.405905806959076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Service à l'enfance Aladin Childcare Services - Pleasant Park",
+        "NAME_FR": null,
+        "ADDRESS": "564 Pleasant Park Road",
+        "ADDRESS_FR": "564, promenade Pleasant Park",
+        "POSTALCODE": "K1H5N1",
+        "PHONE": "(613)-733-0590",
+        "LINK": "www.aladin.services",
+        "LINK_FR": "www.aladin.services",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.646033384777482,
+          45.392495435337878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Village at Navan",
+        "NAME_FR": null,
+        "ADDRESS": "1375 Colonial Road",
+        "ADDRESS_FR": "1375, chemin Colonial",
+        "POSTALCODE": "K4B1N1",
+        "PHONE": "(613)-835-1583",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.416293752524382,
+          45.421613074961286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Nanny Goat Hill Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "755 Somerset Street",
+        "ADDRESS_FR": "755, rue Somerset",
+        "POSTALCODE": "K1R6R1",
+        "PHONE": "(613)-235-7561",
+        "LINK": "www.swchc.on.ca",
+        "LINK_FR": "www.swchc.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.709172688183457,
+          45.410530464149119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centretown Parent's Extended care",
+        "NAME_FR": null,
+        "ADDRESS": "376 Gloucester Street",
+        "ADDRESS_FR": "376, rue Gloucester",
+        "POSTALCODE": "K1R5E8",
+        "PHONE": "(613)-230-3020",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.704764538620552,
+          45.414865061646474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Parents' Daycare First Avenue Campus",
+        "NAME_FR": null,
+        "ADDRESS": "73 First Avenue",
+        "ADDRESS_FR": "73, avenue First",
+        "POSTALCODE": "K1S2G1",
+        "PHONE": "(613)-236-4502",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68533374792338,
+          45.406427850040302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Carleton District School Board (Rideau High School Infant Toddler Preschool Program)",
+        "NAME_FR": null,
+        "ADDRESS": "815 St.Laurent Boulevard",
+        "ADDRESS_FR": "815, boulevard St-Laurent",
+        "POSTALCODE": "K1K3A7",
+        "PHONE": "(613)-745-5414",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.642632684851691,
+          45.43506341326659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Whitehaven Kindergarten School Age Centre Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "919 Woodroffe Avenue",
+        "ADDRESS_FR": "919, avenue Woodroffe",
+        "POSTALCODE": "K2A3G9",
+        "PHONE": "(613)-759-8364",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.769513272497605,
+          45.36515238886436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Orleans Montessori Preschool and Child Care",
+        "NAME_FR": null,
+        "ADDRESS": "2820 Navan Road",
+        "ADDRESS_FR": "2820, chemin Navan",
+        "POSTALCODE": "K1C7G4",
+        "PHONE": "(613)-216-2507",
+        "LINK": "www.ompsc.com",
+        "LINK_FR": "www.ompsc.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.530236331311528,
+          45.433087637848416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Carleton Memorial Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "740 Melfa Crescent",
+        "ADDRESS_FR": "740, croissant Melfa",
+        "POSTALCODE": "K2C0P2",
+        "PHONE": "(613)-226-1953",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.699893657313794,
+          45.366095030625175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Pickles, Katimavik",
+        "NAME_FR": null,
+        "ADDRESS": "200 Katimavik Road",
+        "ADDRESS_FR": "200, chemin Katimavik",
+        "POSTALCODE": "K2L4A2",
+        "PHONE": "(613)-296-0668",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9058688450624,
+          45.304785597626726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif coopérative Le Manège-Stittsville",
+        "NAME_FR": null,
+        "ADDRESS": "5473 Abbott Rue Est",
+        "ADDRESS_FR": "5473, rue Abbott est",
+        "POSTALCODE": "K2S0A8",
+        "PHONE": "(613)-831-1226",
+        "LINK": "www.lemanege.ca",
+        "LINK_FR": "www.lemanege.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.903259023117045,
+          45.270208216240356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Explorers Reggio Emilia Pre-School",
+        "NAME_FR": null,
+        "ADDRESS": "6 Deakin Street",
+        "ADDRESS_FR": "6, rue Deakin",
+        "POSTALCODE": "K2E1C4",
+        "PHONE": "(613)-697-2810",
+        "LINK": "www.littleexplorers.ca",
+        "LINK_FR": "www.littleexplorers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.702697488665279,
+          45.33075441687496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Carleton Heights Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1660 Prince of Wales Drive",
+        "ADDRESS_FR": "1660, promenade Prince of Wales",
+        "POSTALCODE": "K2C1P4",
+        "PHONE": "(613)-736-1913",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.700890030826272,
+          45.360679096401824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO- école Notre Dame des Champs",
+        "NAME_FR": null,
+        "ADDRESS": "6280 Renaud Rue",
+        "ADDRESS_FR": "6280, rue Renaud",
+        "POSTALCODE": "K4B1H9",
+        "PHONE": "(613)-830-6436",
+        "LINK": "www.mifo.net",
+        "LINK_FR": "www.mifo.net",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509189670292074,
+          45.432166478582964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Algonquin College Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1385 Woodroffe Avenue",
+        "ADDRESS_FR": "1385, avenue Woodroffe",
+        "POSTALCODE": "K2G1V8",
+        "PHONE": "(613)-727-4723",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75758563684677,
+          45.347566498440109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata North Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "103-232 Herzberg Road",
+        "ADDRESS_FR": "103-232, chemin Herzberg",
+        "POSTALCODE": "K2K2A1",
+        "PHONE": "(613)-287-0806",
+        "LINK": "www.kanata-northelc.ca",
+        "LINK_FR": "www.kanata-northelc.ca",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.899106704136756,
+          45.340572137577567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Le Carrousel",
+        "NAME_FR": null,
+        "ADDRESS": "431 St-Laurent Boulevard",
+        "ADDRESS_FR": "431, boulevard St-Laurent",
+        "POSTALCODE": "K1K2Z8",
+        "PHONE": "(613)-789-3020",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.650080374411942,
+          45.44764931134106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Martin Luther Kindergarten",
+        "NAME_FR": null,
+        "ADDRESS": "579 Parkdale Avenue",
+        "ADDRESS_FR": "579, avenue Parkdale",
+        "POSTALCODE": "K1Y4K1",
+        "PHONE": "(613)-236-1570",
+        "LINK": "WWW.GLCO.ORG",
+        "LINK_FR": "WWW.GLCO.ORG",
+        "LANGUAGE_O": "English,GERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.725565564029921,
+          45.395895670724549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Capital Day Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1230 Bank Street",
+        "ADDRESS_FR": "1230, rue Bank",
+        "POSTALCODE": "K1S3Y3",
+        "PHONE": "(613)-733-8208",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.680925643860931,
+          45.391050847336516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Westboro Jewish Montessori Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "192 Switzer Avenue",
+        "ADDRESS_FR": "192, avenue Switzer",
+        "POSTALCODE": "K1Z7H9",
+        "PHONE": "(613)-729-1619",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.741726289721313,
+          45.385271145165333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif \"La Clémentine\"  Marie Curie",
+        "NAME_FR": null,
+        "ADDRESS": "860 Colson Avenue",
+        "ADDRESS_FR": "860, avenue Colson",
+        "POSTALCODE": "K1G1R7",
+        "PHONE": "(613)-260-1150",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.630878386383529,
+          45.398846965525181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Pinecrest Queensway Headstart Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2860 Ahearn Avenue",
+        "ADDRESS_FR": "2860, avenue Ahearn",
+        "POSTALCODE": "K2B6G2",
+        "PHONE": "(613)-829-1125",
+        "LINK": "www.pinecrest-queensway.com",
+        "LINK_FR": "www.pinecrest-queensway.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.800913480418757,
+          45.360105315720212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Children's Place (Carling)",
+        "NAME_FR": null,
+        "ADDRESS": "1150 Carling Avenue",
+        "ADDRESS_FR": "1150, avenue Carling",
+        "POSTALCODE": "K1Z7K5",
+        "PHONE": "(613)-729-1222",
+        "LINK": "www.childrensplace.on.ca",
+        "LINK_FR": "www.childrensplace.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.728302272965479,
+          45.388329235714991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "ABC Infant and Toddler Centre",
+        "NAME_FR": null,
+        "ADDRESS": "5 Pinehurst Avenue",
+        "ADDRESS_FR": "5, avenue Pinehurst",
+        "POSTALCODE": "K1Y1K2",
+        "PHONE": "(613)-729-9296",
+        "LINK": "www.abcdaycarecentre.ca",
+        "LINK_FR": "www.abcdaycarecentre.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.729181794178317,
+          45.403324781050493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Dalhousie Parents Daycare Centre",
+        "NAME_FR": null,
+        "ADDRESS": "391 Booth Street",
+        "ADDRESS_FR": "391, rue Booth",
+        "POSTALCODE": "K1R7K5",
+        "PHONE": "(613)-234-2850",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.707797866169869,
+          45.406799768480361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Emerald Meadows School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "500 B Stonehaven Drive",
+        "ADDRESS_FR": "500 B, promenade Stonehaven",
+        "POSTALCODE": "K2M2V6",
+        "PHONE": "(613)-270-9773",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.843848827343052,
+          45.282169782880935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "North Gower Co-operative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "2300 Community Way",
+        "ADDRESS_FR": "2300, voie Community",
+        "POSTALCODE": "K0A2T0",
+        "PHONE": "(613)-489-4271",
+        "LINK": "www.ngcns.com",
+        "LINK_FR": "www.ngcns.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.710881541071672,
+          45.13014539132989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ottawa Children's Treatment Centre Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "395 Smyth Road",
+        "ADDRESS_FR": "395, chemin Smyth",
+        "POSTALCODE": "K1H8L2",
+        "PHONE": "(613)-737-0871",
+        "LINK": "www.octc.ca",
+        "LINK_FR": "www.octc.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.651600936784689,
+          45.4010937998288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Brin de Soleil",
+        "NAME_FR": null,
+        "ADDRESS": "349 Olmstead Rue",
+        "ADDRESS_FR": "349, rue Olmstead",
+        "POSTALCODE": "K1L1B1",
+        "PHONE": "(613)-741-8515",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.659954452125817,
+          45.432531113330462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Charmian Craven Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2071 Jasmine Crescent",
+        "ADDRESS_FR": "2071, croissant Jasmine",
+        "POSTALCODE": "K1J7W2",
+        "PHONE": "(613)-746-9286",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.59675855930908,
+          45.442529897650779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Les Débrouillards",
+        "NAME_FR": null,
+        "ADDRESS": "135 Alice Rue",
+        "ADDRESS_FR": "135, rue Alice",
+        "POSTALCODE": "K1L7X5",
+        "PHONE": "(613)-746-6327",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.670924181708074,
+          45.439794605751082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Programme Petits pas à trois - École catholique Sainte-Anne",
+        "NAME_FR": null,
+        "ADDRESS": "235 Beausoleil Drive",
+        "ADDRESS_FR": "235, promenade Beausoleil",
+        "POSTALCODE": "K1N8X8",
+        "PHONE": "(613)-744-2555",
+        "LINK": "www.ecolecatholique.ca",
+        "LINK_FR": "www.ecolecatholique.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682058974301967,
+          45.432598427810987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Reggio Centre",
+        "NAME_FR": null,
+        "ADDRESS": "276 Sunnyside Avenue",
+        "ADDRESS_FR": "276, avenue Sunnyside",
+        "POSTALCODE": "K1S0R4",
+        "PHONE": "(613)-236-3000",
+        "LINK": "www.glebereggiocentre.ca",
+        "LINK_FR": "www.glebereggiocentre.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682653169444393,
+          45.394403446194033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif Pinocchio Educational Centre",
+        "NAME_FR": null,
+        "ADDRESS": "111 Sussex Drive",
+        "ADDRESS_FR": "111, promenade Sussex",
+        "POSTALCODE": "K1N5A1",
+        "PHONE": "(613)-789-1027",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.695157406955687,
+          45.439624320090296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Beacon Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2379 Ogilvie Road",
+        "ADDRESS_FR": "2379, chemin Ogilvie",
+        "POSTALCODE": "K1J7N4",
+        "PHONE": "(613)-741-3422",
+        "LINK": "www.beaconlearningcentre.com",
+        "LINK_FR": "www.beaconlearningcentre.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.598546371494379,
+          45.454447192190834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glen Cairn Coop Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "186 Morrena Road",
+        "ADDRESS_FR": "186, chemin Morrena",
+        "POSTALCODE": "K2L1E1",
+        "PHONE": "(613)-836-3318",
+        "LINK": "gccp.ca",
+        "LINK_FR": "gccp.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.885070102634558,
+          45.296066452442346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Forest Valley School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "1570A Forest Valley Drive",
+        "ADDRESS_FR": "1570A, promenade Forest Valley",
+        "POSTALCODE": "K1C6X7",
+        "PHONE": "(613)-841-8559",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.537682039424794,
+          45.449232636270033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Co-operative Nursery School Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "175 Third Avenue",
+        "ADDRESS_FR": "175, avenue Third",
+        "POSTALCODE": "K1S2K2",
+        "PHONE": "(613)-233-9708",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.691483041514203,
+          45.402224794984463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Elmridge School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "1923 Elmridge Drive",
+        "ADDRESS_FR": "1923, promenade Elmridge",
+        "POSTALCODE": "K1J8G7",
+        "PHONE": "(613)-746-2425",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.599373547201481,
+          45.443774742123935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "MIFO-école des Pionniers",
+        "NAME_FR": null,
+        "ADDRESS": "720 Merkley Promenade East",
+        "ADDRESS_FR": "720, rue Merkley",
+        "POSTALCODE": "K4A1L8",
+        "PHONE": "(613)-830-6436",
+        "LINK": "www.mifo.ca",
+        "LINK_FR": "www.mifo.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.481525694006436,
+          45.47374729581157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tiny Hoppers Barrhaven",
+        "NAME_FR": null,
+        "ADDRESS": "3023 Cedarview Road",
+        "ADDRESS_FR": "3023, chemin Cedarview",
+        "POSTALCODE": "K2J4A8",
+        "PHONE": "(613)-440-8507",
+        "LINK": "www.tinyhoppers.ca",
+        "LINK_FR": "www.tinyhoppers.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.771485820148229,
+          45.266128366646882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Osgoode Cooperative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "5660 Osgoode Main Street",
+        "ADDRESS_FR": "5660, rue Osgoode Main",
+        "POSTALCODE": "K0A2W0",
+        "PHONE": "(613)-826-2528",
+        "LINK": "www.theocns.com",
+        "LINK_FR": "www.theocns.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.602938362869168,
+          45.147366794730814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Dolphin Tale Child Care Ltd.",
+        "NAME_FR": null,
+        "ADDRESS": "59 Iber Road",
+        "ADDRESS_FR": "59, chemin Iber",
+        "POSTALCODE": "K2S1E7",
+        "PHONE": "(613)-825-7673",
+        "LINK": "www.dolphintalechildcare.ca",
+        "LINK_FR": "www.dolphintalechildcare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.906980866658344,
+          45.280122608023056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Lynwood Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "3877-B Richmond Road",
+        "ADDRESS_FR": "3877-B, chemin Old Richmond",
+        "POSTALCODE": "K2H5C1",
+        "PHONE": "(613)-224-4455",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.827224267548445,
+          45.321162453454633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kinderville",
+        "NAME_FR": null,
+        "ADDRESS": "1644 Bank Street",
+        "ADDRESS_FR": "1644, rue Bank",
+        "POSTALCODE": "K1V7Y6",
+        "PHONE": "(613)-523-8060",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.667419909300207,
+          45.375450033251823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Colonel By Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1125 Colonel By Drive",
+        "ADDRESS_FR": "1125, promenade Colonel-By",
+        "POSTALCODE": "K1S5B6",
+        "PHONE": "(613)-520-2715",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694112012993926,
+          45.385519558172092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "REKSAP Centres for Early Learning (Severn)",
+        "NAME_FR": null,
+        "ADDRESS": "2553 Severn Avenue",
+        "ADDRESS_FR": "2553, avenue Severn",
+        "POSTALCODE": "K2B7V8",
+        "PHONE": "(613)-828-8743",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.783016748151041,
+          45.357350389214048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Andrew Fleck Child Care Services - Stittsville Kindergarten and School Age Program",
+        "NAME_FR": null,
+        "ADDRESS": "40 Granite Ridge Drive",
+        "ADDRESS_FR": "40, promenade Granite Ridge",
+        "POSTALCODE": "K2S1Y9",
+        "PHONE": "(613)-836-0325",
+        "LINK": "www.afchildcare.on.ca",
+        "LINK_FR": "www.afchildcare.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.90816908291805,
+          45.270760245506672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Sivummut Head Start Program",
+        "NAME_FR": null,
+        "ADDRESS": "230 McArthur Avenue",
+        "ADDRESS_FR": "230, avenue McArthur",
+        "POSTALCODE": "K1L6P5",
+        "PHONE": "(613)-741-4396",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.660056035577043,
+          45.431055591502648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Taggart Family Y Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "180 Argyle Street",
+        "ADDRESS_FR": "180, rue Argyle",
+        "POSTALCODE": "K2P1B7",
+        "PHONE": "(613)-237-1320",
+        "LINK": "www.ymcaywca.ca",
+        "LINK_FR": "www.ymcaywca.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.689328051993755,
+          45.411216760568877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Tumiralaat Inuit Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "224 McArthur Avenue",
+        "ADDRESS_FR": "224, avenue Mc Arthur",
+        "POSTALCODE": "K1L6P5",
+        "PHONE": "(613)-744-3133",
+        "LINK": "www.ottawainuitchildrens.com",
+        "LINK_FR": "www.ottawainuitchildrens.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.660340590428589,
+          45.43113227548092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centrepointe Artistic Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "117 Centrepointe Drive",
+        "ADDRESS_FR": "117, promenade Centrepointe",
+        "POSTALCODE": "K2G5X3",
+        "PHONE": "(613)-226-6257",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.762086335855145,
+          45.342965649801165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Parkdale Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "555 Parkdale Avenue",
+        "ADDRESS_FR": "555, avenue Parkdale, unité B",
+        "POSTALCODE": "K1Y1H9",
+        "PHONE": "(613)-216-7275",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.726154834438432,
+          45.396882424409554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Bridlewood Child Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "2 Stonehaven Drive",
+        "ADDRESS_FR": "2, promenade Stonehaven",
+        "POSTALCODE": "K2M2P9",
+        "PHONE": "(613)-591-0171",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.867427103319926,
+          45.288421040127993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Rainbow Montessori School Inc",
+        "NAME_FR": null,
+        "ADDRESS": "2120 Prince Charles Road",
+        "ADDRESS_FR": "2120, chemin Prince Charles",
+        "POSTALCODE": "K2A3L3",
+        "PHONE": null,
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.771203926968866,
+          45.37597231415635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Lycée Claudel",
+        "NAME_FR": null,
+        "ADDRESS": "1635 Riverside Drive",
+        "ADDRESS_FR": "1635, promenade Riverside",
+        "POSTALCODE": "K1G0E5",
+        "PHONE": null,
+        "LINK": "www.claudel.org/",
+        "LINK_FR": "www.claudel.org/",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66324662994316,
+          45.40600010368248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Westboro Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "307 Richmond Road",
+        "ADDRESS_FR": "307, chemin Richmond",
+        "POSTALCODE": "K1Z6X3",
+        "PHONE": "(613)-321-0788",
+        "LINK": "westboromontessori.com",
+        "LINK_FR": "westboromontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75232899996746,
+          45.393165155669507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Acorn Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "600 Bank Street",
+        "ADDRESS_FR": "600, rue Bank",
+        "POSTALCODE": "K1S3T6",
+        "PHONE": "(613)-216-7668",
+        "LINK": "www.acornelc.com",
+        "LINK_FR": "www.acornelc.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.691148332096802,
+          45.40730679801468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "La Coccinelle, Saint-Guillaume",
+        "NAME_FR": null,
+        "ADDRESS": "5750 Buckland Chemin",
+        "ADDRESS_FR": "5750 chemin Buckland",
+        "POSTALCODE": "K0A3H0",
+        "PHONE": "(613)-835-3202",
+        "LINK": "www.lacoccinelle.com",
+        "LINK_FR": "www.lacoccinelle.com",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.354096783015379,
+          45.355491127191698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Centre éducatif coopérative Le Manège-Kanata",
+        "NAME_FR": null,
+        "ADDRESS": "100 Stonehaven Promenade",
+        "ADDRESS_FR": "100, promenade Stonehaven",
+        "POSTALCODE": "K2M2H4",
+        "PHONE": "(613)-271-1621",
+        "LINK": "www.lemanege.ca",
+        "LINK_FR": "www.lemanege.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.846129192334331,
+          45.287231315488896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Fern Hill School",
+        "NAME_FR": null,
+        "ADDRESS": "50 Vaughan Street",
+        "ADDRESS_FR": "50, rue Vaughan",
+        "POSTALCODE": "K1M1X1",
+        "PHONE": "(613)-746-0255",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.677769153666091,
+          45.440319250734952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Westboro Montessori Children's House",
+        "NAME_FR": null,
+        "ADDRESS": "387 Danforth Avenue",
+        "ADDRESS_FR": "387, avenue Danforth",
+        "POSTALCODE": "K2A0E1",
+        "PHONE": "(613)-680-0712",
+        "LINK": "www.westboromontessori.com",
+        "LINK_FR": "www.westboromontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.755798443092161,
+          45.390593250747237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Canyon Walk Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "4175-B Spratt Road",
+        "ADDRESS_FR": "4175-B, chemin Spratt",
+        "POSTALCODE": "K1V1T6",
+        "PHONE": "(613)-686-6646",
+        "LINK": "www.gccs.ca",
+        "LINK_FR": "www.gccs.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.685189311415641,
+          45.281623714816313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Carp Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "3774 Carp Road",
+        "ADDRESS_FR": "3774, chemin Carp",
+        "POSTALCODE": "K0A1L0",
+        "PHONE": "(613)-839-3416",
+        "LINK": "www.carpcooperativenurseryschool.org",
+        "LINK_FR": "www.carpcooperativenurseryschool.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.037257678667729,
+          45.346252336512222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Ganon Preschool",
+        "NAME_FR": null,
+        "ADDRESS": "21 Nadolny Sachs Private",
+        "ADDRESS_FR": "21, rue privée Nadolny Sachs",
+        "POSTALCODE": "K2A1R9",
+        "PHONE": "(613)-798-9818",
+        "LINK": "www.jccottawa.com/ganon",
+        "LINK_FR": "www.jccottawa.com/ganon",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.751745699044079,
+          45.375964243730209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stittsville Childcare Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1488 Main Street",
+        "ADDRESS_FR": "1488, rue Stittsville Main",
+        "POSTALCODE": "K2S1B2",
+        "PHONE": "(613)-831-8012",
+        "LINK": "www.stittsvillechildcarecentre.com",
+        "LINK_FR": "www.stittsvillechildcarecentre.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922109498927881,
+          45.258968854101283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Stittsville's Imagination Station Preschool and Kinder",
+        "NAME_FR": null,
+        "ADDRESS": "5891 Hazeldean Road",
+        "ADDRESS_FR": "5891, chemin Hazeldean",
+        "POSTALCODE": "K2S1B9",
+        "PHONE": "(613)-836-1771",
+        "LINK": "www.ispreschool.ca",
+        "LINK_FR": "www.ispreschool.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.920847134081313,
+          45.278347170983466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Brown Bear Day Care - Carp Road",
+        "NAME_FR": null,
+        "ADDRESS": "1079 Carp Road",
+        "ADDRESS_FR": "1079, chemin Carp",
+        "POSTALCODE": "K2S1B9",
+        "PHONE": "(613)-831-0774",
+        "LINK": "brownbeardaycare.ca",
+        "LINK_FR": "brownbeardaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.942695982198558,
+          45.270804207937736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": "City of Ottawa",
+        "LICENSEE_F": null,
+        "NAME": "Elsie Stapleford Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1000 Teron Road",
+        "ADDRESS_FR": "1000, chemin Teron",
+        "POSTALCODE": "K2K1R1",
+        "PHONE": "(613)-592-5151",
+        "LINK": "www.ottawa.ca/daycare",
+        "LINK_FR": "www.ottawa.ca/daycare",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.897213468291696,
+          45.326949820550269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Universe Daycare - Kanata",
+        "NAME_FR": null,
+        "ADDRESS": "80 Terence Matthews Crescent",
+        "ADDRESS_FR": "80, Terence Matthews, bureau 4",
+        "POSTALCODE": "K2M2B4",
+        "PHONE": "(613)-836-9000",
+        "LINK": "www.childrensuniverse.net",
+        "LINK_FR": "www.childrensuniverse.net",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.871514267563185,
+          45.288080095955472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Orchardview Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "1367 St.Joseph Boulevard",
+        "ADDRESS_FR": "1367, boulevard St-Joseph",
+        "POSTALCODE": "K1C7K9",
+        "PHONE": "(613)-424-7601",
+        "LINK": "orchardviewmontessori.com",
+        "LINK_FR": "orchardviewmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.566605128548474,
+          45.458352286665452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Glebe Montessori School",
+        "NAME_FR": null,
+        "ADDRESS": "650 Lyon Street South",
+        "ADDRESS_FR": "650, rue Lyon Sud",
+        "POSTALCODE": "K1S3Z7",
+        "PHONE": "(613)-237-3824",
+        "LINK": "www.glebemontessori.com",
+        "LINK_FR": "www.glebemontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.692513748405602,
+          45.403424048311507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Village at Klondike",
+        "NAME_FR": null,
+        "ADDRESS": "1032 Klondike Road",
+        "ADDRESS_FR": "1032, chemin Klondike",
+        "POSTALCODE": "K2K1X7",
+        "PHONE": "(613)-599-0008",
+        "LINK": "www.childrensvillage.on.ca",
+        "LINK_FR": "www.childrensvillage.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.927227837049927,
+          45.35756080886965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kids and Company - Kanata",
+        "NAME_FR": null,
+        "ADDRESS": "11 Hines Road",
+        "ADDRESS_FR": "11, chemin Hines",
+        "POSTALCODE": "K2K2X1",
+        "PHONE": "(416)-938-8024",
+        "LINK": "www.kidsandcompany.com",
+        "LINK_FR": "www.kidsandcompany.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.922676797167782,
+          45.341058237169484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Little School Daycare - Orleans",
+        "NAME_FR": null,
+        "ADDRESS": "850 Taylor Creek Boulevard",
+        "ADDRESS_FR": "850, boulevard Taylor Creek",
+        "POSTALCODE": "K1C1T1",
+        "PHONE": "(613)-837-9138",
+        "LINK": "www.thelittleschool.ca",
+        "LINK_FR": "www.thelittleschool.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.484515580369745,
+          45.49208716105359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "REKSAP Centres for Early Learning (Regina)",
+        "NAME_FR": null,
+        "ADDRESS": "2599 Regina Street",
+        "ADDRESS_FR": "2599, avenue Regina",
+        "POSTALCODE": "K2B6X4",
+        "PHONE": "(613)-828-8743",
+        "LINK": "www.reksap.org",
+        "LINK_FR": "www.reksap.org",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.790358264945112,
+          45.36659182481268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Children's Village at Stoneway",
+        "NAME_FR": null,
+        "ADDRESS": "170 Stoneway Drive",
+        "ADDRESS_FR": "170, promenade Stoneway",
+        "POSTALCODE": "K2G6R2",
+        "PHONE": "(613)-823-2200",
+        "LINK": null,
+        "LINK_FR": null,
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.717001419409257,
+          45.288709892967937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Early Beginnings Multicultural Child Development Centre of Ottawa-Carleton",
+        "NAME_FR": null,
+        "ADDRESS": "11 Nadolny Sachs Private",
+        "ADDRESS_FR": "11, rue privée Nadolny Sachs",
+        "POSTALCODE": "K2A1R9",
+        "PHONE": "(613)-722-5157",
+        "LINK": "www.earlybeginningsottawa.ca",
+        "LINK_FR": "www.earlybeginningsottawa.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.752133141827812,
+          45.376550006553259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Metcalfe Co-operative Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "8243 Victoria Street",
+        "ADDRESS_FR": "8243, rue Victoria",
+        "POSTALCODE": "K0A2P0",
+        "PHONE": "(613)-821-3196",
+        "LINK": "ruralfamilyconnections.ca",
+        "LINK_FR": "ruralfamilyconnections.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.471709459200028,
+          45.236591880878194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Brown Bear Day Care 3",
+        "NAME_FR": null,
+        "ADDRESS": "1536 Main Street",
+        "ADDRESS_FR": "1536, rue Stittsville Main",
+        "POSTALCODE": "K2S1A5",
+        "PHONE": "(613)-831-4747",
+        "LINK": "www.brownbeardaycare.ca",
+        "LINK_FR": "www.brownbeardaycare.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.919927812580383,
+          45.257370654171282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Play House Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "3350 Fallowfield Road",
+        "ADDRESS_FR": "3350, chemin Fallowfield",
+        "POSTALCODE": "K2J5L1",
+        "PHONE": "(613)-825-7529",
+        "LINK": "www.phlc.ca",
+        "LINK_FR": "www.phlc.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734084481648139,
+          45.296960198561408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Garderie Oasis Child Care Centre",
+        "NAME_FR": null,
+        "ADDRESS": "507 Smyth Chemin",
+        "ADDRESS_FR": "507, chemin Smyth",
+        "POSTALCODE": "K1H8M2",
+        "PHONE": "(613)-736-8206",
+        "LINK": "www.garderie-oasis-childcare.ca",
+        "LINK_FR": "www.garderie-oasis-childcare.ca",
+        "LANGUAGE_O": "French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.646747667293326,
+          45.401677598642763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Future Scholars Montessori Academy",
+        "NAME_FR": null,
+        "ADDRESS": "1000 Brookfield Avenue",
+        "ADDRESS_FR": "1000, avenue Brookfield",
+        "POSTALCODE": "K1V6J1",
+        "PHONE": "(613)-244-3762",
+        "LINK": "www.futurescholarsmontessori.com",
+        "LINK_FR": "www.futurescholarsmontessori.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.674696420013603,
+          45.373887584681228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Riverside Park Nursery School",
+        "NAME_FR": null,
+        "ADDRESS": "3191 Riverside Drive",
+        "ADDRESS_FR": "3191, promenade Riverside",
+        "POSTALCODE": "K1V8N8",
+        "PHONE": "(613)-738-0305",
+        "LINK": "www.rpnsottawa.com",
+        "LINK_FR": "www.rpnsottawa.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687914849618934,
+          45.359104070614919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Pro-Care After School Centre",
+        "NAME_FR": null,
+        "ADDRESS": "151 Holland Avenue",
+        "ADDRESS_FR": "151, avenue Holland",
+        "POSTALCODE": "K1Y0Y2",
+        "PHONE": "(613)-695-7762",
+        "LINK": "www.procarecentre.ca",
+        "LINK_FR": "www.procarecentre.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.730917685908381,
+          45.398705501042713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "The Children's Place (Kanata)",
+        "NAME_FR": null,
+        "ADDRESS": "310 Legget Drive",
+        "ADDRESS_FR": "310, promenade Legget",
+        "POSTALCODE": "K2K1Y6",
+        "PHONE": "(613)-592-5002",
+        "LINK": "www.childrensplace.on.ca",
+        "LINK_FR": "www.childrensplace.on.ca",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.905538548148769,
+          45.339464468968437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Little Acorn Early Learning Centre",
+        "NAME_FR": null,
+        "ADDRESS": "1921 Ogilvie Road",
+        "ADDRESS_FR": "1921, chemin Ogilvie",
+        "POSTALCODE": "K1J0B9",
+        "PHONE": "(613)-216-7668",
+        "LINK": "www.littleacornelc.com",
+        "LINK_FR": "www.littleacornelc.com",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613480678626189,
+          45.437262298263299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Dow's Lake Day Care / Garderie Lac Dow",
+        "NAME_FR": null,
+        "ADDRESS": "580 Booth Street",
+        "ADDRESS_FR": "580, rue Booth",
+        "POSTALCODE": "K1A0E4",
+        "PHONE": "(613)-567-9854",
+        "LINK": "www.dld-gld.com",
+        "LINK_FR": "www.dld-gld.com",
+        "LANGUAGE_O": "English,French"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.705577402185625,
+          45.399839471067473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LICENSEE": null,
+        "LICENSEE_F": null,
+        "NAME": "Kanata Academy Private School Reg. Inc.",
+        "NAME_FR": null,
+        "ADDRESS": "2 Beaverbrook Road West",
+        "ADDRESS_FR": "2, chemin Beaverbrook Ouest",
+        "POSTALCODE": "K2K1L1",
+        "PHONE": "(613)-599-5399",
+        "LINK": "www.kanataacademy.com",
+        "LINK_FR": "www.kanataacademy.com",
+        "LANGUAGE_O": "English"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.901098363086362,
+          45.328883790657166
+        ]
+      }
+    }
+  ]
+}
