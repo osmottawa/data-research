@@ -11,8 +11,8 @@ const oldTree = rbush(),
   newTree = rbush(),
   newExtents = rbush()
 
-const oldCampsites = reader('campsites_empty.geojson')
-const newCampsites = reader('campsites_sites_camping_vw_2019-10-07.geojson')
+const oldCampsites = reader('campsites_empty.geojson')        //when there is an update to dataset replace this with previous dataset version (newCampsites previous value)
+const newCampsites = reader('campsites_sites_camping_vw_2019-10-07.geojson')  //when there is an update to dataset save that file and provide the name here
 
 oldCampsites.features.map(camp => {
   const point = turf.point(camp.geometry.coordinates);
@@ -35,22 +35,23 @@ newCampsites.features.map(camp => {
   if(name_fr && name_fr.trim()!=''){properties['description:fr']=name_fr.trim();}
 
   const point = turf.point(camp.geometry.coordinates, properties);
-  let nearby = oldTree.search(turf.circle(point.geometry.coordinates, 10, 10, 'meters')).features  //check if there was one within 10m
+  let nearby = oldTree.search(turf.circle(point.geometry.coordinates, 1, 10, 'meters')).features  //check if there was one within 10m
   if(nearby.length){
     return;
   }
-  nearby = newTree.search(turf.circle(point.geometry.coordinates, 10, 10, 'meters')).features  //check if there was one within 10m
+  nearby = newTree.search(turf.circle(point.geometry.coordinates, 1, 10, 'meters')).features  //check if there was one within 10m
   if(nearby.length){
     return;
   }
 
 
-  var circle = turf.circle(point, 200, 10, 'meters');
+  var circle = turf.circle(point, 100, 10, 'meters');
   nearby = newExtents.search(circle).features;
   for(let area of nearby ){
     circle = turf.union(area, circle)
     newExtents.remove(area);
   }
+  circle.properties['name']=name_e;
   newExtents.insert(circle);
 
 
@@ -59,10 +60,14 @@ newCampsites.features.map(camp => {
 });
 
 newExtents.all().features.map(camp => {
-  const nearby = newTree.search(camp).features;
-  if(nearby.length < 10){     //campground should have at least 10 camp sites?
-    nearby.map(camp => {camp.properties['tourism']='camp_site';})
+  const inside = newTree.search(camp).features;
+  if(inside.length < 3){     //campground should have at least 3 camp sites?
+    inside.map(camp => {camp.properties['tourism']='camp_site';})
   }
+  if(inside.length < 10){                   //if fewer than 10 sites - always backcountry
+    camp.properties['backcountry']='yes';
+  }
+  camp.properties['capacity']=inside.length;
 });
 
 const osm = geojson2osm.geojson2osm(newTree.all())
