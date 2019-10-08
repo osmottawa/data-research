@@ -66,6 +66,7 @@ newExtents.all().features.map(camp => {
   }
   if(inside.length < 10){                   //if fewer than 10 sites - always backcountry
     camp.properties['backcountry']='yes';
+    inside.map(pitch => {pitch.properties['backcountry']='yes';})
   }
   camp.properties['capacity']=inside.length;
 });
