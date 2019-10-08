@@ -58,6 +58,13 @@ newCampsites.features.map(camp => {
   console.log('New camp: ', name_e)
 });
 
+newExtents.all().features.map(camp => {
+  const nearby = newTree.search(camp).features;
+  if(nearby.length < 10){     //campground should have at least 10 camp sites?
+    nearby.map(camp => {camp.properties['tourism']='camp_site';})
+  }
+});
+
 const osm = geojson2osm.geojson2osm(newTree.all())
 fs.writeFileSync('canada-new-campsites.osm', osm);
 fs.writeFileSync('canada-new-campsites-extents.geojson', JSON.stringify(newExtents.all(), null, 4));
