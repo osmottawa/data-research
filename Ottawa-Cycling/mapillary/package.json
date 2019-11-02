@@ -12,7 +12,7 @@
     "@turf/invariant": "^4.1.0",
     "@turf/meta": "^4.1.0",
     "@turf/turf": "^4.1.0",
-    "axios": "^0.16.1",
+    "axios": "^0.19.0",
     "geocoder-geojson": "^1.11.0",
     "global-mercator": "^2.7.0",
     "load-json-file": "^2.0.0",
