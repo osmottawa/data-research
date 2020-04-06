@@ -1,0 +1,2869 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "62",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "368585.6969",
+                "LOCATION_Y": "5028853.3067",
+                "LAT": "45.3967128351109",
+                "LONG": "-75.6852947784538"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68529711051,
+                    45.39672188629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "131",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "375677.6118",
+                "LOCATION_Y": "5020165.3246",
+                "LAT": "45.3178604215285",
+                "LONG": "-75.595969511235"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.59597180703,
+                    45.31786946297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "69",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "385757.0045",
+                "LOCATION_Y": "5037502.84",
+                "LAT": "45.4727585367984",
+                "LONG": "-75.4645834699323"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46458573518,
+                    45.47276761022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "38",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "341007.5441",
+                "LOCATION_Y": "5023028.5181",
+                "LAT": "45.3462686857226",
+                "LONG": "-76.0379488381404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.03795128267,
+                    45.34627771335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "107",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "384013.7559",
+                "LOCATION_Y": "5037585.5721",
+                "LAT": "45.4737027943747",
+                "LONG": "-75.4868622268337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.48686449957,
+                    45.47371186702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "45",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "349355.2832",
+                "LOCATION_Y": "5022619.1129",
+                "LAT": "45.3421041623153",
+                "LONG": "-75.9314634510353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.93146585998,
+                    45.34211319376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "110",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "385551.1333",
+                "LOCATION_Y": "5035981.6066",
+                "LAT": "45.4590957970171",
+                "LONG": "-75.4674659926268"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46746825768,
+                    45.45910486798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "152",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "362184.4363",
+                "LOCATION_Y": "5027374.5961",
+                "LAT": "45.3839614772412",
+                "LONG": "-75.7672199786031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76722233673,
+                    45.38397052279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "48",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "367860.8046",
+                "LOCATION_Y": "5033364.0319",
+                "LAT": "45.4373645359534",
+                "LONG": "-75.6939753242285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69397766262,
+                    45.43737359371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "117",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "375802.2905",
+                "LOCATION_Y": "5035087.1641",
+                "LAT": "45.4521069036614",
+                "LONG": "-75.5922330448501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.59223535074,
+                    45.45211596821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "159",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "356073.1241",
+                "LOCATION_Y": "5015753.8499",
+                "LAT": "45.279870673874",
+                "LONG": "-75.8464577372955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.84646011282,
+                    45.27987969827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "23",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "358662.4751",
+                "LOCATION_Y": "5023201.9993",
+                "LAT": "45.3466961234056",
+                "LONG": "-75.8126457329452"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.81264810295,
+                    45.34670516067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "88",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "385196.9865",
+                "LOCATION_Y": "5035832.705",
+                "LAT": "45.4577969628226",
+                "LONG": "-75.4720179437763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47202021024,
+                    45.45780603338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "26",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "361085.0941",
+                "LOCATION_Y": "5020964.6949",
+                "LAT": "45.3263746660562",
+                "LONG": "-75.7819868663696"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.78198922450,
+                    45.32638370114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "95",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "375060.408",
+                "LOCATION_Y": "5026379.3532",
+                "LAT": "45.3738336473381",
+                "LONG": "-75.6029581613184"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60296046415,
+                    45.37384269807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "33",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "349053.6086",
+                "LOCATION_Y": "5018056.4637",
+                "LAT": "45.3010672633896",
+                "LONG": "-75.9357204145619"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.93572282142,
+                    45.30107628764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "98",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "366457.5666",
+                "LOCATION_Y": "5029791.6206",
+                "LAT": "45.4053461750582",
+                "LONG": "-75.7123564691069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71235881087,
+                    45.40535522657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "8",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "380095.5208",
+                "LOCATION_Y": "5035001.2645",
+                "LAT": "45.4508846739192",
+                "LONG": "-75.5373646568634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53736694444,
+                    45.45089374056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "36",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "364771.2346",
+                "LOCATION_Y": "5012861.1699",
+                "LAT": "45.2531541565515",
+                "LONG": "-75.7359475323368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73594986904,
+                    45.25316318103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "137",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "389126.7231",
+                "LOCATION_Y": "5031866.6531",
+                "LAT": "45.4216514331419",
+                "LONG": "-75.422459277127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.42246152409,
+                    45.42166049959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "15",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "351264.4888",
+                "LOCATION_Y": "5020444.4074",
+                "LAT": "45.3224118285453",
+                "LONG": "-75.9073069431441"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.90730934242,
+                    45.32242085765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "75",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "366909.278",
+                "LOCATION_Y": "5015100.8179",
+                "LAT": "45.2731209346377",
+                "LONG": "-75.7084307329304"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70843306221,
+                    45.27312996369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "140",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "370245.1777",
+                "LOCATION_Y": "5029967.4871",
+                "LAT": "45.4065846781091",
+                "LONG": "-75.6639533836234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66395570945,
+                    45.40659373187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "18",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "350851.5923",
+                "LOCATION_Y": "5014062.4254",
+                "LAT": "45.2650121235359",
+                "LONG": "-75.9131660840523"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.91316848038,
+                    45.26502114257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "78",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "354334.5149",
+                "LOCATION_Y": "5015728.2243",
+                "LAT": "45.279764740436",
+                "LONG": "-75.8686197419494"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.86862212480,
+                    45.27977376388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "147",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "375179.8088",
+                "LOCATION_Y": "5031823.4363",
+                "LAT": "45.4228047301638",
+                "LONG": "-75.6006571394406"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60065944564,
+                    45.42281378936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "85",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368940.7041",
+                "LOCATION_Y": "5033559.5951",
+                "LAT": "45.439025907591",
+                "LONG": "-75.6801482926752"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68015062662,
+                    45.43903496621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "118",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "367917.4772",
+                "LOCATION_Y": "5033414.4529",
+                "LAT": "45.437813092382",
+                "LONG": "-75.6932445587282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69324689691,
+                    45.43782215025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "56",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "365874.4826",
+                "LOCATION_Y": "5028611.1625",
+                "LAT": "45.3947758174505",
+                "LONG": "-75.719950544059"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71995288744,
+                    45.39478486684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "125",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "367006.577",
+                "LOCATION_Y": "5016344.4602",
+                "LAT": "45.2843025306145",
+                "LONG": "-75.7070349381295"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70703726789,
+                    45.28431156165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "3",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "368383.9004",
+                "LOCATION_Y": "5030742.2898",
+                "LAT": "45.4137276535141",
+                "LONG": "-75.6876283819747"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68763071625,
+                    45.41373670750
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "63",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368972.6324",
+                "LOCATION_Y": "5026880.1194",
+                "LAT": "45.3789233502647",
+                "LONG": "-75.6806097056324"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68061203463,
+                    45.37893239860
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "128",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "370297.1112",
+                "LOCATION_Y": "5030559.9697",
+                "LAT": "45.4119107522189",
+                "LONG": "-75.6632112991616"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66321362519,
+                    45.41191980692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "66",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "369465.263",
+                "LOCATION_Y": "5031501.2225",
+                "LAT": "45.420457156793",
+                "LONG": "-75.6737143306673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67371666090,
+                    45.42046621252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "39",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "352491.9517",
+                "LOCATION_Y": "5014662.7137",
+                "LAT": "45.2703043853643",
+                "LONG": "-75.892206554404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89220894425,
+                    45.27031340619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "104",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "381173.3673",
+                "LOCATION_Y": "5032911.1441",
+                "LAT": "45.431962446925",
+                "LONG": "-75.5239109945892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.52391327610,
+                    45.43197151090
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "42",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "363324.198",
+                "LOCATION_Y": "5014774.2599",
+                "LAT": "45.270490069706",
+                "LONG": "-75.7541562818008"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75415862599,
+                    45.27049909639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "111",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "384908.026",
+                "LOCATION_Y": "5035936.374",
+                "LAT": "45.4587628681841",
+                "LONG": "-75.4756952023782"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47569747014,
+                    45.45877193875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "153",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "362367.5199",
+                "LOCATION_Y": "5027552.408",
+                "LAT": "45.3855463844234",
+                "LONG": "-75.7648615180653"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76486387555,
+                    45.38555543034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "49",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368559.7046",
+                "LOCATION_Y": "5032916.5892",
+                "LAT": "45.4332752310022",
+                "LONG": "-75.6851010437764"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68510337888,
+                    45.43328428843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "114",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "370088.5902",
+                "LOCATION_Y": "5027718.9515",
+                "LAT": "45.386367778133",
+                "LONG": "-75.666251129148"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66625345402,
+                    45.38637682835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "156",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "371064.1541",
+                "LOCATION_Y": "5029676.1728",
+                "LAT": "45.4038864948484",
+                "LONG": "-75.6535314448712"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65353376701,
+                    45.40389554859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "52",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368541.6011",
+                "LOCATION_Y": "5033566.3203",
+                "LAT": "45.439122918066",
+                "LONG": "-75.685248268226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68525060387,
+                    45.43913197649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "89",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "385362.0895",
+                "LOCATION_Y": "5035434.9919",
+                "LAT": "45.4541997020788",
+                "LONG": "-75.4699723787038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46997464418,
+                    45.45420877211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "27",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "372856.594",
+                "LOCATION_Y": "5023632.3521",
+                "LAT": "45.3493346820771",
+                "LONG": "-75.6314700857025"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63147239591,
+                    45.34934372742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "92",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "382099.5636",
+                "LOCATION_Y": "5038275.1952",
+                "LAT": "45.4801219323659",
+                "LONG": "-75.5112323651166"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51123464648,
+                    45.48013100509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "30",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "374263.3936",
+                "LOCATION_Y": "5032849.7709",
+                "LAT": "45.4321307397248",
+                "LONG": "-75.6122213013127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61222361214,
+                    45.43213980003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "99",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "370320.3559",
+                "LOCATION_Y": "5027353.989",
+                "LAT": "45.3830623294887",
+                "LONG": "-75.6633401935713"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66334251720,
+                    45.38307137926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "9",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "364887.4462",
+                "LOCATION_Y": "5016798.6426",
+                "LAT": "45.2885735930014",
+                "LONG": "-75.733990634495"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73399297354,
+                    45.28858262363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "37",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "352129.9011",
+                "LOCATION_Y": "5020667.2449",
+                "LAT": "45.3243591527161",
+                "LONG": "-75.8962472039102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89624959969,
+                    45.32436818262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "134",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "384705.1759",
+                "LOCATION_Y": "5039292.5289",
+                "LAT": "45.4889815649833",
+                "LONG": "-75.4777427089162"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47774497991,
+                    45.48899064062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "12",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "362513.0402",
+                "LOCATION_Y": "5015141.1829",
+                "LAT": "45.2738586983701",
+                "LONG": "-75.7644503240808"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76445267196,
+                    45.27386772520
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "72",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "385575.7918",
+                "LOCATION_Y": "5010855.0174",
+                "LAT": "45.2330234956232",
+                "LONG": "-75.4712541390404"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47125638641,
+                    45.23303252771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "141",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "379732.737",
+                "LOCATION_Y": "5036832.589",
+                "LAT": "45.4674005301438",
+                "LONG": "-75.5417230177842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.54172530820,
+                    45.46740959942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "19",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "348642.8456",
+                "LOCATION_Y": "5013722.7424",
+                "LAT": "45.2620966698156",
+                "LONG": "-75.941340672972"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.94134307837,
+                    45.26210568715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "79",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "355105.6321",
+                "LOCATION_Y": "5016984.4471",
+                "LAT": "45.2910137419147",
+                "LONG": "-75.8586641258689"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85866650638,
+                    45.29102276770
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "144",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "364436.229",
+                "LOCATION_Y": "5015358.8989",
+                "LAT": "45.2756572308505",
+                "LONG": "-75.7399153621125"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73991770203,
+                    45.27566625902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "82",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "366937.6326",
+                "LOCATION_Y": "5015978.5319",
+                "LAT": "45.2810160359063",
+                "LONG": "-75.7079595263376"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70796185613,
+                    45.28102506634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "119",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "384043.8693",
+                "LOCATION_Y": "5034856.5216",
+                "LAT": "45.4491458742104",
+                "LONG": "-75.4869170186928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.48691928937,
+                    45.44915494267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "57",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "363173.6895",
+                "LOCATION_Y": "5028911.5552",
+                "LAT": "45.3977090586472",
+                "LONG": "-75.7544067953377"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75440915039,
+                    45.39771810709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "122",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "364170.5168",
+                "LOCATION_Y": "5015906.2443",
+                "LAT": "45.2806047310616",
+                "LONG": "-75.7432361930693"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74323853450,
+                    45.28061375994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "60",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "369015.7151",
+                "LOCATION_Y": "5027429.5411",
+                "LAT": "45.3838629342963",
+                "LONG": "-75.6799881956426"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67999052486,
+                    45.38387198350
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "129",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "369698.1107",
+                "LOCATION_Y": "5034140.6696",
+                "LAT": "45.44418427918",
+                "LONG": "-75.6703914490575"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67039378021,
+                    45.44419333909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "67",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "371537.7256",
+                "LOCATION_Y": "5027879.543",
+                "LAT": "45.3876761449803",
+                "LONG": "-75.647725690186"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64772800903,
+                    45.38768519620
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "132",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "362644.6789",
+                "LOCATION_Y": "5015944.4411",
+                "LAT": "45.2810756319415",
+                "LONG": "-75.7626791313664"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76268147927,
+                    45.28108466008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "105",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "374702.7818",
+                "LOCATION_Y": "5000811.0852",
+                "LAT": "45.1438131032272",
+                "LONG": "-75.6111205859586"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61112287220,
+                    45.14382211414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "43",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "352215.9758",
+                "LOCATION_Y": "5015103.0728",
+                "LAT": "45.2742855275425",
+                "LONG": "-75.8956813834363"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89568377477,
+                    45.27429454890
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "108",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "386800.6649",
+                "LOCATION_Y": "5036705.436",
+                "LAT": "45.4654625476391",
+                "LONG": "-75.451370646553"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.45137290680,
+                    45.46547162037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "150",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "368609.07",
+                "LOCATION_Y": "5033043.1825",
+                "LAT": "45.4344097675522",
+                "LONG": "-75.6844537726291"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68445610761,
+                    45.43441882521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "46",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "367879.4342",
+                "LOCATION_Y": "5032788.7752",
+                "LAT": "45.4321868993737",
+                "LONG": "-75.6938109364044"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69381327430,
+                    45.43219595625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "115",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "365448.3445",
+                "LOCATION_Y": "5029668.0527",
+                "LAT": "45.4043225108349",
+                "LONG": "-75.7252627627285"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72526510868,
+                    45.40433156163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "157",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "387159.8738",
+                "LOCATION_Y": "5035824.9202",
+                "LAT": "45.457498310616",
+                "LONG": "-75.4469253467798"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.44692760488,
+                    45.45750738217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "53",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "366360.7004",
+                "LOCATION_Y": "5030006.5642",
+                "LAT": "45.4072887062468",
+                "LONG": "-75.7135669302466"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71356927258,
+                    45.40729775804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "86",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368467.7019",
+                "LOCATION_Y": "5033727.5981",
+                "LAT": "45.4405807680161",
+                "LONG": "-75.6861718970325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68617423311,
+                    45.44058982665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "24",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "362053.6843",
+                "LOCATION_Y": "5026414.5319",
+                "LAT": "45.3753336224675",
+                "LONG": "-75.7690008293883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76900318738,
+                    45.37534266647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "93",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "363078.1827",
+                "LOCATION_Y": "5014447.8564",
+                "LAT": "45.2675735070448",
+                "LONG": "-75.7573295872942"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75733193229,
+                    45.26758253309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "31",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "369803.7066",
+                "LOCATION_Y": "5033722.5944",
+                "LAT": "45.4404128032861",
+                "LONG": "-75.6690969563185"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66909928672,
+                    45.44042186261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "96",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "372296.643",
+                "LOCATION_Y": "5024734.3805",
+                "LAT": "45.3593044572862",
+                "LONG": "-75.638464845321"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63846715869,
+                    45.35931350404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "6",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "382132.6116",
+                "LOCATION_Y": "5038939.401",
+                "LAT": "45.4860942108706",
+                "LONG": "-75.5107051026449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51070738434,
+                    45.48610328464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "34",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "380418.7449",
+                "LOCATION_Y": "5035605.5759",
+                "LAT": "45.4562869018289",
+                "LONG": "-75.5331399927973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53314227942,
+                    45.45629596957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "135",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "348543.6459",
+                "LOCATION_Y": "5017628.8563",
+                "LAT": "45.2972514524351",
+                "LONG": "-75.9422603840105"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.94226279271,
+                    45.29726047575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "13",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "349587.6962",
+                "LOCATION_Y": "5020575.9825",
+                "LAT": "45.3237047616632",
+                "LONG": "-75.9286828336625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92868524012,
+                    45.32371379008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "73",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "368846.7032",
+                "LOCATION_Y": "5009805.3942",
+                "LAT": "45.2252993550486",
+                "LONG": "-75.6844233676005"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68442568491,
+                    45.22530837691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "138",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "350746.9693",
+                "LOCATION_Y": "5023788.9896",
+                "LAT": "45.3525411803669",
+                "LONG": "-75.9135974248751"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.91359982880,
+                    45.35255021435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "16",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "350178.0591",
+                "LOCATION_Y": "5019658.9104",
+                "LAT": "45.3154147916764",
+                "LONG": "-75.9212364988728"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92123890216,
+                    45.31542381899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "76",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "366852.6638",
+                "LOCATION_Y": "5015298.7651",
+                "LAT": "45.2749070486316",
+                "LONG": "-75.709127459318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70912978898,
+                    45.27491607796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "145",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "350067.9372",
+                "LOCATION_Y": "5019992.949",
+                "LAT": "45.3184276684501",
+                "LONG": "-75.9226104246823"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92261282868,
+                    45.31843669622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "83",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "355179.0097",
+                "LOCATION_Y": "5016442.8489",
+                "LAT": "45.2861350746787",
+                "LONG": "-75.8577837086279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85778608843,
+                    45.28614409967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "148",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "369026.3033",
+                "LOCATION_Y": "5032917.537",
+                "LAT": "45.4332410604637",
+                "LONG": "-75.6791380368819"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67914037000,
+                    45.43325011814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "54",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "367248.6381",
+                "LOCATION_Y": "5030647.1929",
+                "LAT": "45.4129742336211",
+                "LONG": "-75.702143538108"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70214587713,
+                    45.41298328687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "123",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "371220.6769",
+                "LOCATION_Y": "5024639.8315",
+                "LAT": "45.3585564972477",
+                "LONG": "-75.6522097859137"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65221210378,
+                    45.35856554330
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "1",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "367155.4892",
+                "LOCATION_Y": "5028942.3531",
+                "LAT": "45.3976428792558",
+                "LONG": "-75.7035491088225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70355144701,
+                    45.39765192983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "61",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "368694.0791",
+                "LOCATION_Y": "5028461.5043",
+                "LAT": "45.3931776379163",
+                "LONG": "-75.68396134675"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68396367807,
+                    45.39318668855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "126",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "356756.3775",
+                "LOCATION_Y": "5022601.3934",
+                "LAT": "45.3414356105662",
+                "LONG": "-75.8370314006883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83703377832,
+                    45.34144464590
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "4",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "383168.4641",
+                "LOCATION_Y": "5036507.3222",
+                "LAT": "45.4640970388793",
+                "LONG": "-75.4978437138109"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49784598938,
+                    45.46410610943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "64",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "369034.6595",
+                "LOCATION_Y": "5031064.1755",
+                "LAT": "45.4165644339009",
+                "LONG": "-75.6792729401602"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67927527191,
+                    45.41657348873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "133",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "384541.0288",
+                "LOCATION_Y": "5039598.1267",
+                "LAT": "45.4917498078101",
+                "LONG": "-75.4797927277735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47979499968,
+                    45.49175888383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "102",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "373137.5475",
+                "LOCATION_Y": "5023327.0741",
+                "LAT": "45.3465605837324",
+                "LONG": "-75.6279271904201"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62792949922,
+                    45.34656962875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "40",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "365901.3094",
+                "LOCATION_Y": "5023757.3562",
+                "LAT": "45.3510998953124",
+                "LONG": "-75.7202083966934"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72021073646,
+                    45.35110893723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "109",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "363494.7484",
+                "LOCATION_Y": "5028746.0916",
+                "LAT": "45.3961934049216",
+                "LONG": "-75.7503260265239"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75032838010,
+                    45.39620245327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "151",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "363590.0405",
+                "LOCATION_Y": "5028319.732",
+                "LAT": "45.3923490999509",
+                "LONG": "-75.7491598267869"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74916217965,
+                    45.39235814770
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "47",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "369769.5566",
+                "LOCATION_Y": "5031272.6615",
+                "LAT": "45.4183724604518",
+                "LONG": "-75.6698566480806"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66985897686,
+                    45.41838151598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "112",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "386301.2417",
+                "LOCATION_Y": "5036204.8984",
+                "LAT": "45.4610176584058",
+                "LONG": "-75.4578392178883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.45784147991,
+                    45.46102673010
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "154",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "364948.0501",
+                "LOCATION_Y": "5027679.2192",
+                "LAT": "45.3864705709637",
+                "LONG": "-75.7318955516027"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73189789824,
+                    45.38647961843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "50",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "368770.7067",
+                "LOCATION_Y": "5032290.5836",
+                "LAT": "45.427623395487",
+                "LONG": "-75.6824858710903"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68248820484,
+                    45.42763245206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "87",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "365788.7011",
+                "LOCATION_Y": "5028572.5521",
+                "LAT": "45.3944358866381",
+                "LONG": "-75.7210508251785"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72105316890,
+                    45.39444493592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "25",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "365783.3519",
+                "LOCATION_Y": "5023071.9225",
+                "LAT": "45.3449427370799",
+                "LONG": "-75.7217981822688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72180052204,
+                    45.34495177787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "90",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "384519.9658",
+                "LOCATION_Y": "5036660.6827",
+                "LAT": "45.4653239080618",
+                "LONG": "-75.480538906695"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.48054117662,
+                    45.46533297955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "28",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "375111.2412",
+                "LOCATION_Y": "5031530.3578",
+                "LAT": "45.420174665624",
+                "LONG": "-75.6015750439199"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60157735020,
+                    45.42018372433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "97",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "369187.6248",
+                "LOCATION_Y": "5033904.9181",
+                "LAT": "45.4421102895506",
+                "LONG": "-75.6769472823331"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67694961548,
+                    45.44211934883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "7",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "382289.8384",
+                "LOCATION_Y": "5033944.2385",
+                "LAT": "45.4411345744822",
+                "LONG": "-75.5094814570639"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50948373456,
+                    45.44114364063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "35",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "382271.1554",
+                "LOCATION_Y": "5033017.5869",
+                "LAT": "45.4327993856446",
+                "LONG": "-75.5098660707688"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.50986834769,
+                    45.43280845035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "100",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "364383.0396",
+                "LOCATION_Y": "5014814.1445",
+                "LAT": "45.2707600387945",
+                "LONG": "-75.7406585931138"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74066093286,
+                    45.27076906609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "10",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "364305.2395",
+                "LOCATION_Y": "5015646.3629",
+                "LAT": "45.2782549291749",
+                "LONG": "-75.7415502632757"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74155260395,
+                    45.27826395772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "70",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "385751.3498",
+                "LOCATION_Y": "5035489.42",
+                "LAT": "45.4546444093163",
+                "LONG": "-75.4649873427574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46498960662,
+                    45.45465347963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "139",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "371890.696",
+                "LOCATION_Y": "5024768.8789",
+                "LAT": "45.3596538259736",
+                "LONG": "-75.6436411346657"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64364344978,
+                    45.35966287257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "17",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "349295.6139",
+                "LOCATION_Y": "5018231.3748",
+                "LAT": "45.3026258804507",
+                "LONG": "-75.9326190477087"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.93262145367,
+                    45.30263490509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "77",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "355807.3465",
+                "LOCATION_Y": "5017070.2275",
+                "LAT": "45.2917350279279",
+                "LONG": "-75.8497098711122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.84971224872,
+                    45.29174405422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "142",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "377767.7449",
+                "LOCATION_Y": "5031503.5559",
+                "LAT": "45.4196615016902",
+                "LONG": "-75.5676391042863"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.56764139927,
+                    45.41967056173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "20",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "350500.3537",
+                "LOCATION_Y": "5016458.4708",
+                "LAT": "45.2865954249931",
+                "LONG": "-75.9174210979955"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.91742349757,
+                    45.28660444754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "80",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "355541.6319",
+                "LOCATION_Y": "5015153.4294",
+                "LAT": "45.274506524319",
+                "LONG": "-75.8532932318024"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85329560914,
+                    45.27451554751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "149",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "370196.8332",
+                "LOCATION_Y": "5032910.302",
+                "LAT": "45.4330674778726",
+                "LONG": "-75.664180305222"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66418263337,
+                    45.43307653615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "55",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "365163.696",
+                "LOCATION_Y": "5030242.5679",
+                "LAT": "45.409516468404",
+                "LONG": "-75.7288282627775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72883061036,
+                    45.40952551994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "120",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "363993.1446",
+                "LOCATION_Y": "5028145.0419",
+                "LAT": "45.3907433124759",
+                "LONG": "-75.7440329663393"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74403531736,
+                    45.39075236016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "58",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "368703.9707",
+                "LOCATION_Y": "5026298.9409",
+                "LAT": "45.3737186270478",
+                "LONG": "-75.6841149780668"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68411730779,
+                    45.37372767435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "127",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "368848.7445",
+                "LOCATION_Y": "5030891.4214",
+                "LAT": "45.4150270959153",
+                "LONG": "-75.6816705867704"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68167291918,
+                    45.41503615038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "5",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "382121.4812",
+                "LOCATION_Y": "5038764.2146",
+                "LAT": "45.4845192716553",
+                "LONG": "-75.5108750563305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51087733795,
+                    45.48452834515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "65",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "369220.552",
+                "LOCATION_Y": "5030200.1602",
+                "LAT": "45.4087732423165",
+                "LONG": "-75.677010962435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67701329277,
+                    45.40878229591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "130",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "364522.86",
+                "LOCATION_Y": "5026088.087",
+                "LAT": "45.3721902208478",
+                "LONG": "-75.7375173019334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73751964922,
+                    45.37219926564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "103",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "371559.7803",
+                "LOCATION_Y": "5034377.267",
+                "LAT": "45.446137754831",
+                "LONG": "-75.6465637861296"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64656610954,
+                    45.44614681608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "68",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "372655.9894",
+                "LOCATION_Y": "5029768.1534",
+                "LAT": "45.4045616010532",
+                "LONG": "-75.6331867502136"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63318906566,
+                    45.40457065577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "41",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "381881.3545",
+                "LOCATION_Y": "5038803.6161",
+                "LAT": "45.4849003281691",
+                "LONG": "-75.5139402019289"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51394248460,
+                    45.48490940160
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "106",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "380102.5472",
+                "LOCATION_Y": "5037040.3376",
+                "LAT": "45.4692299174441",
+                "LONG": "-75.5369625404262"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53696482942,
+                    45.46923898723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "44",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "373504.0416",
+                "LOCATION_Y": "5025452.3259",
+                "LAT": "45.3656469616987",
+                "LONG": "-75.6229554542004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62295776297,
+                    45.36565601019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "113",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "366575.283",
+                "LOCATION_Y": "5029221.0848",
+                "LAT": "45.4002022666615",
+                "LONG": "-75.7109243164787"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71092665733,
+                    45.40021131736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "155",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "370079.8021",
+                "LOCATION_Y": "5029390.7267",
+                "LAT": "45.4014106431686",
+                "LONG": "-75.6661421456717"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66614447178,
+                    45.40141969596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "51",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "371413.1212",
+                "LOCATION_Y": "5034131.2671",
+                "LAT": "45.4439383560635",
+                "LONG": "-75.6484717247677"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64847404862,
+                    45.44394741686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "116",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "329171.5656",
+                "LOCATION_Y": "5028024.2745",
+                "LAT": "45.3917341832137",
+                "LONG": "-76.1887406999814"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.18874319830,
+                    45.39174321214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "158",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "355913.634",
+                "LOCATION_Y": "5015513.4329",
+                "LAT": "45.2777189669888",
+                "LONG": "-75.8485152702847"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.84851764631,
+                    45.27772799093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "22",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "349866.954",
+                "LOCATION_Y": "5012357.823",
+                "LAT": "45.249737263766",
+                "LONG": "-75.9258672554935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92586965473,
+                    45.24974627964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "91",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "385098.2205",
+                "LOCATION_Y": "5037072.0018",
+                "LAT": "45.4689583300689",
+                "LONG": "-75.4730781607069"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47308042846,
+                    45.46896740249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "29",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "374246.7233",
+                "LOCATION_Y": "5033865.5841",
+                "LAT": "45.4412721275119",
+                "LONG": "-75.6122910252149"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61229333684,
+                    45.44128118937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "94",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "357077.6501",
+                "LOCATION_Y": "5019519.469",
+                "LAT": "45.3136802869967",
+                "LONG": "-75.8332576365243"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83326001055,
+                    45.31368931774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "32",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "361474.6708",
+                "LOCATION_Y": "5015252.4319",
+                "LAT": "45.2749441833008",
+                "LONG": "-75.7776705222597"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.77767287461,
+                    45.27495320976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "101",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "355247.4703",
+                "LOCATION_Y": "5017343.8596",
+                "LAT": "45.294237638121",
+                "LONG": "-75.8568194192152"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85682179939,
+                    45.29424666454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "11",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "364752.4711",
+                "LOCATION_Y": "5011929.1618",
+                "LAT": "45.2447695172107",
+                "LONG": "-75.7362989601353"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73630129625,
+                    45.24477854023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "71",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "386072.5037",
+                "LOCATION_Y": "5037272.5971",
+                "LAT": "45.470650396703",
+                "LONG": "-75.4605870760189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46058933977,
+                    45.47065946993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "136",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "383143.7164",
+                "LOCATION_Y": "5034437.9286",
+                "LAT": "45.4454812130786",
+                "LONG": "-75.498489782209"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49849205642,
+                    45.44549028042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "14",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "349680.5211",
+                "LOCATION_Y": "5020192.9057",
+                "LAT": "45.3202518055979",
+                "LONG": "-75.9275335240978"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92753592988,
+                    45.32026083347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "74",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "352117.6008",
+                "LOCATION_Y": "5013181.4155",
+                "LAT": "45.25700049254",
+                "LONG": "-75.8971181733009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89712056365,
+                    45.25700951088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "143",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "360723.6749",
+                "LOCATION_Y": "5014675.715",
+                "LAT": "45.2698149588439",
+                "LONG": "-75.7873063151953"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.78730867030,
+                    45.26982398401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "21",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "352651.6223",
+                "LOCATION_Y": "5014440.3399",
+                "LAT": "45.2682925551232",
+                "LONG": "-75.8901932312318"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89019562024,
+                    45.26830157569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "81",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "369744.7172",
+                "LOCATION_Y": "5027678.5426",
+                "LAT": "45.386036160498",
+                "LONG": "-75.6706473120435"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67064963834,
+                    45.38604521047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "146",
+                "INSTALLATI": "2019",
+                "LOCATION_X": "352996.0147",
+                "LOCATION_Y": "5015765.6502",
+                "LAT": "45.2801945444688",
+                "LONG": "-75.8856759928358"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.88567838137,
+                    45.28020356726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "84",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "364420.4781",
+                "LOCATION_Y": "5016472.8273",
+                "LAT": "45.2856816823845",
+                "LONG": "-75.7399822817718"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73998462255,
+                    45.28569071227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "121",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "364060.4104",
+                "LOCATION_Y": "5012838.1358",
+                "LAT": "45.253007116058",
+                "LONG": "-75.745005609312"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74500794900,
+                    45.25301614013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "59",
+                "INSTALLATI": "2016",
+                "LOCATION_X": "370224.7239",
+                "LOCATION_Y": "5024078.513",
+                "LAT": "45.3535995638255",
+                "LONG": "-75.6649949999554"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66499732164,
+                    45.35360860849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "124",
+                "INSTALLATI": "2018",
+                "LOCATION_X": "363978.8102",
+                "LOCATION_Y": "5028483.7294",
+                "LAT": "45.393791973515",
+                "LONG": "-75.7441753963446"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74417774767,
+                    45.39380102172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID_1": "2",
+                "INSTALLATI": "2017",
+                "LOCATION_X": "367860.5831",
+                "LOCATION_Y": "5032286.6619",
+                "LAT": "45.4276707575931",
+                "LONG": "-75.6941161388286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69411847644,
+                    45.42767981369
+                ]
+            }
+        }
+    ]
+}
