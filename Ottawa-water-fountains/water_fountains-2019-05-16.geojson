@@ -1,0 +1,1827 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "18",
+                "source": "City of Ottawa",
+                "description": "Johnny Leroux Stittsville Community Arena",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92665100098,
+                    45.26065444946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "76",
+                "source": "City of Ottawa",
+                "description": "Dundonald Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70113372803,
+                    45.41294860840
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "51",
+                "source": "City of Ottawa",
+                "description": "Notre Dame Des Champs Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49394226074,
+                    45.43141937256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "22",
+                "source": "City of Ottawa",
+                "description": "Ron Kolbus Lakeside Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.80133819580,
+                    45.36373901367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "55",
+                "source": "City of Ottawa",
+                "description": "Rideauview Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68740081787,
+                    45.27737426758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "81",
+                "source": "City of Ottawa",
+                "description": "Marsha Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51198577881,
+                    45.48545074463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "27",
+                "source": "City of Ottawa",
+                "description": "Deborah Anne Kirwan Pool",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65760803223,
+                    45.36737060547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "82",
+                "source": "City of Ottawa",
+                "description": "McCormick Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72721099854,
+                    45.40249252319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "64",
+                "source": "City of Ottawa",
+                "description": "Plant Bath Recreation Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71429443359,
+                    45.40799713135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "86",
+                "source": "City of Ottawa",
+                "description": "Pineview Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60388946533,
+                    45.42314910889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "36",
+                "source": "City of Ottawa",
+                "description": "Canterbury Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62999725342,
+                    45.39093780518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "69",
+                "source": "City of Ottawa",
+                "description": "Ottawa City Hall - 110 Laurier Avenue West",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68987274170,
+                    45.42095947266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "91",
+                "source": "City of Ottawa",
+                "description": "Brewer Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68988037109,
+                    45.38737869263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "9",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Rosemount Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72629547119,
+                    45.40165710449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "38",
+                "source": "City of Ottawa",
+                "description": "Fran‡ois Dupuis Rec Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46310424805,
+                    45.45450592041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "10",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Orleans Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.52388000488,
+                    45.45652389526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "43",
+                "source": "City of Ottawa",
+                "description": "Jack Purcell Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68966674805,
+                    45.41575241089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "15",
+                "source": "City of Ottawa",
+                "description": "Elmvale Acres Library",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62489318848,
+                    45.39949417114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "73",
+                "source": "City of Ottawa",
+                "description": "Champagne Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.51557922363,
+                    45.45503234863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "52",
+                "source": "City of Ottawa",
+                "description": "Erskine Johnson Arena & CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.03910064697,
+                    45.34915924072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "74",
+                "source": "City of Ottawa",
+                "description": "Chapel Hill Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53907775879,
+                    45.45068740845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "56",
+                "source": "City of Ottawa",
+                "description": "St. Laurent Complex/Don Gamble Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64781951904,
+                    45.43630218506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "28",
+                "source": "City of Ottawa",
+                "description": "Heron Rd Multi-Service Cntr.",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65399169922,
+                    45.37899780273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "79",
+                "source": "City of Ottawa",
+                "description": "Jack Purcell Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68933105469,
+                    45.41522598267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "61",
+                "source": "City of Ottawa",
+                "description": "Cyrville CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61975097656,
+                    45.42864227295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "33",
+                "source": "City of Ottawa",
+                "description": "McNabb CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70274353027,
+                    45.40948486328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "62",
+                "source": "City of Ottawa",
+                "description": "Kanata Leisure & Wave Pool Cntr",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89929199219,
+                    45.31142044067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "5",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Carlingwood Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.77178955078,
+                    45.37323760986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "34",
+                "source": "City of Ottawa",
+                "description": "Arts Court",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68880462646,
+                    45.42544174194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "67",
+                "source": "City of Ottawa",
+                "description": "Mary Pitt Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76395416260,
+                    45.34573364258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "7",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Alta Vista Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.66177368164,
+                    45.37817382813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "44",
+                "source": "City of Ottawa",
+                "description": "Champagne Bath Pool",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68672180176,
+                    45.43066024780
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "16",
+                "source": "City of Ottawa",
+                "description": "Ruth E. Dickinson Library",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76152038574,
+                    45.28058242798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "49",
+                "source": "City of Ottawa",
+                "description": "Creative Arts Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.82197570801,
+                    45.32856369019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "71",
+                "source": "City of Ottawa",
+                "description": "Byron Linear Tramway Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76660156250,
+                    45.38446044922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "21",
+                "source": "City of Ottawa",
+                "description": "Walter Baker Sports Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76153564453,
+                    45.28038406372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "50",
+                "source": "City of Ottawa",
+                "description": "Greenboro CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63560485840,
+                    45.36346054077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "25",
+                "source": "City of Ottawa",
+                "description": "Pierre Rocque Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.52600860596,
+                    45.47420120239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "54",
+                "source": "City of Ottawa",
+                "description": "Dovercourt Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.75289916992,
+                    45.38343048096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "80",
+                "source": "City of Ottawa",
+                "description": "Lionel Britton Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68392181396,
+                    45.40341949463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "26",
+                "source": "City of Ottawa",
+                "description": "Jim Durrell Recreation Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65905761719,
+                    45.37330627441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "59",
+                "source": "City of Ottawa",
+                "description": "Ottawa East Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67988586426,
+                    45.41299438477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "85",
+                "source": "City of Ottawa",
+                "description": "Minto Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68811035156,
+                    45.41677856445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "31",
+                "source": "City of Ottawa",
+                "description": "Ray Friel Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.49311065674,
+                    45.47201919556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "89",
+                "source": "City of Ottawa",
+                "description": "Sylvia Holden Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68238067627,
+                    45.40253448486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "68",
+                "source": "City of Ottawa",
+                "description": "Ben Franklin Place",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.76295471191,
+                    45.34448623657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "3",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Rideau Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68325042725,
+                    45.43016433716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "90",
+                "source": "City of Ottawa",
+                "description": "Whiterock Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62731933594,
+                    45.43225479126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "8",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library North Gloucester Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60077667236,
+                    45.43811035156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "41",
+                "source": "City of Ottawa",
+                "description": "Metcalfe CC & Larry Robinson Arena",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46839141846,
+                    45.22990798950
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "13",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Main Library",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69538879395,
+                    45.42023849487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "42",
+                "source": "City of Ottawa",
+                "description": "Aquaview Community Hall",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.47797393799,
+                    45.45321273804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "14",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Greely Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.55759429932,
+                    45.26132202148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "72",
+                "source": "City of Ottawa",
+                "description": "Cedarcroft Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61337280273,
+                    45.42451477051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "47",
+                "source": "City of Ottawa",
+                "description": "Hunt Club Riverside CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67281341553,
+                    45.35214996338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "19",
+                "source": "City of Ottawa",
+                "description": "Kanata Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.90141296387,
+                    45.29424667358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "77",
+                "source": "City of Ottawa",
+                "description": "Four Seasons Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.69062805176,
+                    45.27546310425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "23",
+                "source": "City of Ottawa",
+                "description": "Hintonburg CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.72429656982,
+                    45.40358352661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "78",
+                "source": "City of Ottawa",
+                "description": "Glen Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53619384766,
+                    45.46917724609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "60",
+                "source": "City of Ottawa",
+                "description": "Eva James Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.85769653320,
+                    45.29062652588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "32",
+                "source": "City of Ottawa",
+                "description": "Carleton Heights CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70220184326,
+                    45.35948562622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "83",
+                "source": "City of Ottawa",
+                "description": "McNabb Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70297241211,
+                    45.40896987915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "65",
+                "source": "City of Ottawa",
+                "description": "Alexander CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73142242432,
+                    45.38052749634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "4",
+                "source": "City of Ottawa",
+                "description": "Greenboro CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63560485840,
+                    45.36346054077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "87",
+                "source": "City of Ottawa",
+                "description": "Roy Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.53004455566,
+                    45.44944763184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "37",
+                "source": "City of Ottawa",
+                "description": "Pinecrest Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.77291107178,
+                    45.34791946411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "66",
+                "source": "City of Ottawa",
+                "description": "South Fallingbrook Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.46148681641,
+                    45.47095870972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "6",
+                "source": "City of Ottawa",
+                "description": "John G Mlacak Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.89530181885,
+                    45.32161712646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "39",
+                "source": "City of Ottawa",
+                "description": "Sandy Hill Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67762756348,
+                    45.42273330688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "11",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Emerald Plaza Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.73338317871,
+                    45.35472106934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "48",
+                "source": "City of Ottawa",
+                "description": "Sawmill Creek Pool and Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.63633728027,
+                    45.34972763062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "70",
+                "source": "City of Ottawa",
+                "description": "Nepean Sportsplex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.74546813965,
+                    45.32686996460
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "20",
+                "source": "City of Ottawa",
+                "description": "Fitzroy Harbour CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.20626068115,
+                    45.47013473511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "53",
+                "source": "City of Ottawa",
+                "description": "Richcraft Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.92945861816,
+                    45.34019088745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "24",
+                "source": "City of Ottawa",
+                "description": "Foster Farm CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.79457855225,
+                    45.34973526001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "75",
+                "source": "City of Ottawa",
+                "description": "City Centre Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.61660766602,
+                    45.42834472656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "57",
+                "source": "City of Ottawa",
+                "description": "Manotick Arena",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68660736084,
+                    45.22190093994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "29",
+                "source": "City of Ottawa",
+                "description": "Bob MacQuarrie Recreation Complex - Orl‚ans",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.54510498047,
+                    45.46633911133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "58",
+                "source": "City of Ottawa",
+                "description": "Richmond Arena & CC",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83794403076,
+                    45.19584274292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "84",
+                "source": "City of Ottawa",
+                "description": "Meadowbrook Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.71813201904,
+                    45.13957214355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "1",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Hazeldean Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.88626098633,
+                    45.29544448853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "30",
+                "source": "City of Ottawa",
+                "description": "Goulbourn Recreation Complex",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.90758514404,
+                    45.26353073120
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "yes",
+                "indoor": "no",
+                "ref": "88",
+                "source": "City of Ottawa",
+                "description": "Strathcona Park",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.67293548584,
+                    45.42801666260
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "63",
+                "source": "City of Ottawa",
+                "description": "Dalhousie Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.70901489258,
+                    45.41057586670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "2",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Centennial Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.82566833496,
+                    45.32115554810
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "35",
+                "source": "City of Ottawa",
+                "description": "Splash Wave Pool",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.60056304932,
+                    45.43752288818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "40",
+                "source": "City of Ottawa",
+                "description": "Ottawa South Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68181610107,
+                    45.39467239380
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "12",
+                "source": "City of Ottawa",
+                "description": "Ottawa Public Library Sunnyside Branch",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.68379211426,
+                    45.39546585083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "45",
+                "source": "City of Ottawa",
+                "description": "Fred G. Barrett Arena",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.59750366211,
+                    45.33118820190
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "17",
+                "source": "City of Ottawa",
+                "description": "St-Laurent Library",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.64679718018,
+                    45.43654251099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "seasonal": "no",
+                "indoor": "yes",
+                "ref": "46",
+                "source": "City of Ottawa",
+                "description": "Overbrook Community Centre",
+                "source:date": "2019-05-15",
+                "amenity": "drinking_water",
+                "operator": "City of Ottawa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.65680694580,
+                    45.42552947998
+                ]
+            }
+        }
+    ]
+}
