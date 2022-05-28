@@ -4,15 +4,23 @@ const turf = require("@turf/turf");
 const fs = require("fs");
 const geojson2osm = require('geojson2osm');
 const reader = require('geojson-writer').reader
+const rbush = require('geojson-rbush')
 
-const collection1 = turf.featureCollection([]);
-const collection2 = turf.featureCollection([]);
+const   oldTree = rbush(),
+        newTree = rbush(),
+        newCircles = rbush()
 
-let pools = reader('splash-pads-source.json')
+const oldFeatures = reader('splash-pads-source_2017-09.json')
+const newFeatures = reader('splash-pads-source_2022-05.geojson')
 
-pools.features.map(result => {
-    
-    const fullroad = result.properties.ADDRESS;
+oldFeatures.features.forEach(place => {
+    const point = turf.point(place.geometry.coordinates);
+    oldTree.insert(point)
+});
+
+newFeatures.features.forEach(feat => {
+
+    const fullroad = feat.properties.ADDRESS;
     let housenumber = fullroad.match(/^\d[\d\-a-zA-Z]*/) ? fullroad.match(/^\d[\d\-a-zA-Z]*/)[0] : undefined;
     let street = housenumber ? fullroad.replace(housenumber, '').trim().replace(/^,/, '').trim().replace(/,$/, '').trim() : undefined;
     street = street.replace('Ave.','Avenue').replace('Rd.','Road').replace('St.','Street').replace('Dr.','Drive').replace('Blvd.','Boulevard');
@@ -20,22 +28,22 @@ pools.features.map(result => {
     if (street && street.match(',')) {
         street = street.split(',')[0];
     }
-    const website = result.properties.LINK;
-    const wheelchair = result.properties.ACCESSIBLE.match(/yes/g) ? 'yes' : 'no';
-    const name = result.properties.NAME + ' - ' + result.properties.SHORTNAME;
-    const name_fr = result.properties.NAME_FR + ' - ' + result.properties.PARKNAME_F;
-    const ref = result.properties.FACILITYID
-    
+    const website = feat.properties.LINK;
+    const wheelchair = feat.properties.ACCESSIBLE.match(/yes/g) ? 'yes' : 'no';
+    const name = feat.properties.NAME + ' - ' + feat.properties.SHORTNAME;
+    const name_fr = feat.properties.NAME_FR + ' - ' + feat.properties.PARKNAME_FR;
+    const ref = feat.properties.FACILITYID
+
     let note = '';
-    if(result.properties.MONDAY && result.properties.MONDAY.match('Closed')){note+='Monday,' }
-    if(result.properties.TUESDAY && result.properties.TUESDAY.match('Closed')){note+='Tuesday,' }
-    if(result.properties.WEDNESDAY && result.properties.WEDNESDAY.match('Closed')){note+='Wednesday,' }
-    if(result.properties.THURSDAY && result.properties.THURSDAY.match('Closed')){note+='Thursday,' }
-    if(result.properties.FRIDAY && result.properties.FRIDAY.match('Closed')){note+='Friday,' }
-    if(result.properties.SATURDAY && result.properties.SATURDAY.match('Closed')){note+='Saturday,' }
-    if(result.properties.SUNDAY && result.properties.SUNDAY.match('Closed')){note+='Sunday,' }
+    if(feat.properties.MONDAY && feat.properties.MONDAY.match('Closed')){note+='Monday,' }
+    if(feat.properties.TUESDAY && feat.properties.TUESDAY.match('Closed')){note+='Tuesday,' }
+    if(feat.properties.WEDNESDAY && feat.properties.WEDNESDAY.match('Closed')){note+='Wednesday,' }
+    if(feat.properties.THURSDAY && feat.properties.THURSDAY.match('Closed')){note+='Thursday,' }
+    if(feat.properties.FRIDAY && feat.properties.FRIDAY.match('Closed')){note+='Friday,' }
+    if(feat.properties.SATURDAY && feat.properties.SATURDAY.match('Closed')){note+='Saturday,' }
+    if(feat.properties.SUNDAY && feat.properties.SUNDAY.match('Closed')){note+='Sunday,' }
     if(note!=''){ note = 'Closed: '+note.slice(0,-1)}
-    
+
     const properties = {
         name,
         'leisure': 'playground',
@@ -46,21 +54,29 @@ pools.features.map(result => {
         'addr:street': street,
         'wheelchair': wheelchair,
         'seasonal': 'summer',
-        //'note': note,
         'website' : website,
         'operator': 'City of Ottawa',
         'source': 'City of Ottawa',
-        'source:date': '2017-12-08',
-        'ref': ref                
+        'source:date': '2022-05-28',
+        'ref': ref
     };
+
+    const point = turf.point(feat.geometry.coordinates, properties);
+    let nearby = oldTree.search(turf.circle(point.geometry.coordinates, 1, 10, 'meters')).features  //check if there was an old one within 1m
+    if(nearby.length){
+        console.log("Duplicate: ", name);
+        return;
+    }
+
     console.log("New splash pad: ", name);
-    const point = turf.point(result.geometry.coordinates, properties);
-    collection1.features.push(point);
-    
-    var circle = turf.circle(result.geometry.coordinates, 200, 10, 'meters');
-    collection2.features.push(circle)
+
+    const circle = turf.circle(point, 100, 10, 'meters');
+    newCircles.insert(circle);
+    newTree.insert(point)
 });
 
-const osm = geojson2osm.geojson2osm(collection1)
+console.log('Circles:',newCircles.all().features.length, 'Splashpads:',newTree.all().features.length)
+
+const osm = geojson2osm.geojson2osm(newTree.all())
 fs.writeFileSync('splashpads.osm', osm);
-fs.writeFileSync('splashpads-circles.geojson', JSON.stringify(collection2, null, 4));
+fs.writeFileSync('splashpads-circles.geojson', JSON.stringify(newCircles.all(), null, 4));
