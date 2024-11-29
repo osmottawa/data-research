@@ -34,7 +34,7 @@
     "@types/request": "0.0.31",
     "@types/request-promise": "^3.0.32",
     "async": "^2.1.4",
-    "axios": "^0.15.2",
+    "axios": "^0.19.2",
     "babyparse": "^0.4.6",
     "change-case": "^3.0.0",
     "cheap-ruler": "^2.4.1",
