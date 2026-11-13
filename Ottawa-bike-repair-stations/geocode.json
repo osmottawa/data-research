@@ -1,0 +1,508 @@
+{
+ "address: 482 Slater Ave": null,
+ "name: Bronson and Slater": null,
+ "address: Presscott-Russell Tr & Smith Road": null,
+ "name: Harold H. Dent Rest Area": {
+  "lat": 45.4153234,
+  "lon": -75.4384992,
+  "category": "historic",
+  "name": "Harold H. Dent Rest Area, Prescott Russell Trail Link, Orléans South-Navan, Ottawa, Eastern Ontario, Ontario, K4B 1N6, Canada"
+ },
+ "address: 333 Dominion Avenue": {
+  "lat": 45.391457,
+  "lon": -75.7594033,
+  "category": "highway",
+  "name": "Dominion Avenue, Bay, Westboro, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K2A 4H5, Canada"
+ },
+ "name: Kichi Zibi Station": {
+  "lat": 45.3925667,
+  "lon": -75.7597005,
+  "category": "railway",
+  "name": "Kichi Zìbì, Dominion Avenue, Westboro Beach, Westboro, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K2A 4H5, Canada"
+ },
+ "address: 103 Benlea Dr": {
+  "lat": 45.3311175,
+  "lon": -75.7441659,
+  "category": "building",
+  "name": "103, Benlea Drive, Tanglewood, Knoxdale-Merivale, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 1W2, Canada"
+ },
+ "name: Nepean Trail": {
+  "lat": 45.3551981,
+  "lon": -75.731793,
+  "category": "highway",
+  "name": "Nepean Trail, Knoxdale-Merivale, Nepean, Ottawa, Eastern Ontario, Ontario, K2E 0C4, Canada"
+ },
+ "address: 300 Coventry Road": {
+  "lat": 45.4202454,
+  "lon": -75.6532522,
+  "category": "leisure",
+  "name": "Ottawa Stadium, 300, Coventry Road, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 4S3, Canada"
+ },
+ "name: Champions Stadium": null,
+ "address: 220 Beechwood Avenue": {
+  "lat": 45.442885,
+  "lon": -75.6702851,
+  "category": "amenity",
+  "name": "Ottawa Fire Station 57, 220, Beechwood Avenue, Vanier, Rideau-Vanier, Ottawa, Eastern Ontario, Ontario, K1L 8A1, Canada"
+ },
+ "name: Beechwood Fire Hall": null,
+ "address: 110 Laurier Avenue West": {
+  "lat": 45.421011,
+  "lon": -75.68966,
+  "category": "amenity",
+  "name": "St. Luke's Child Care Centre, 110, Laurier Avenue West, Golden Triangle, Centretown, Somerset, Ottawa, Eastern Ontario, Ontario, K1P 1J1, Canada"
+ },
+ "name: City Hall": {
+  "lat": 45.4208017,
+  "lon": -75.6902694,
+  "category": "amenity",
+  "name": "Ottawa City Hall / Hôtel de ville d'Ottawa, 110, Laurier Avenue West, Golden Triangle, Centretown, Somerset, Ottawa, Eastern Ontario, Ontario, K1P 1J1, Canada"
+ },
+ "address: 270 Marier Avenue": {
+  "lat": 45.4365167,
+  "lon": -75.6619442,
+  "category": "office",
+  "name": "Centre francophone de Vanier, 270, Marier Avenue, Vanier, Rideau-Vanier, Ottawa, Eastern Ontario, Ontario, K1L 6C4, Canada"
+ },
+ "name: Centre Francophone de Vanier": {
+  "lat": 45.4365167,
+  "lon": -75.6619442,
+  "category": "office",
+  "name": "Centre francophone de Vanier, 270, Marier Avenue, Vanier, Rideau-Vanier, Ottawa, Eastern Ontario, Ontario, K1L 6C4, Canada"
+ },
+ "address: 170 Second Avenue": {
+  "lat": 45.4030748,
+  "lon": -75.6892033,
+  "category": "amenity",
+  "name": "Lot 8, 170, Second Avenue, The Glebe, Capital, Ottawa, Eastern Ontario, Ontario, K1S 2G7, Canada"
+ },
+ "name: Glebe Parking Garage": null,
+ "address: 1585 Tenth Line Road": {
+  "lat": 45.4707865,
+  "lon": -75.4924908,
+  "category": "amenity",
+  "name": "25120, 1585, Tenth Line Road, Queenswood Heights, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, K1E 3E8, Canada"
+ },
+ "name: Cumberland Library": {
+  "lat": 45.471523,
+  "lon": -75.4932506,
+  "category": "amenity",
+  "name": "Ottawa Public Library - Cumberland Branch, 1599, Tenth Line Road, Fallingbrook, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, K1E 3E8, Canada"
+ },
+ "address: 363 Lorry Greenberg Drive": {
+  "lat": 45.363304,
+  "lon": -75.6354695,
+  "category": "amenity",
+  "name": "Greenboro Community Centre, 363, Lorry Greenberg Drive, South Keys, Gloucester-Southgate, Ottawa, Eastern Ontario, Ontario, K1T 3N2, Canada"
+ },
+ "name: Greenboro Library": {
+  "lat": 45.3635167,
+  "lon": -75.6355798,
+  "category": "amenity",
+  "name": "Ottawa Public Library - Greenboro Branch, 363, Lorry Greenberg Drive, South Keys, Gloucester-Southgate, Ottawa, Eastern Ontario, Ontario, K1T 3N2, Canada"
+ },
+ "address: 525 Coté Street": {
+  "lat": 45.4364202,
+  "lon": -75.6485304,
+  "category": "leisure",
+  "name": "26079, 525, Côté Street, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 1G5, Canada"
+ },
+ "name: St-Laurent Library": {
+  "lat": 45.4365004,
+  "lon": -75.6478303,
+  "category": "amenity",
+  "name": "Ottawa Public Library - St-Laurent Branch, 515, Côté Street, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 1G5, Canada"
+ },
+ "address: 100 Malvern Drive": {
+  "lat": 45.2802935,
+  "lon": -75.7617354,
+  "category": "leisure",
+  "name": "Walter Baker Sports Centre, 100, Malvern Drive, Old Barrhaven, Barrhaven West, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 2G5, Canada"
+ },
+ "name: Ruth E. Dickinson Library": {
+  "lat": 45.2798403,
+  "lon": -75.7617472,
+  "category": "amenity",
+  "name": "Ottawa Public Library - Ruth E. Dickinson Branch, 100, Malvern Drive, Old Barrhaven, Barrhaven West, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 2G5, Canada"
+ },
+ "address: 101 Centrepointe Drive": {
+  "lat": 45.3445913,
+  "lon": -75.7623726,
+  "category": "amenity",
+  "name": "Centrepointe Theatre, 101, Centrepointe Drive, Centrepointe, College, Nepean, Ottawa, Eastern Ontario, Ontario, K2G 5K7, Canada"
+ },
+ "name: Nepean Centrepointe Library": {
+  "lat": 45.3443951,
+  "lon": -75.7627726,
+  "category": "amenity",
+  "name": "Ottawa Public Library - Nepean Centrepointe Branch, 101, Centrepointe Drive, Centrepointe, College, Nepean, Ottawa, Eastern Ontario, Ontario, K2G 5K7, Canada"
+ },
+ "address: 40 Coburg Street": null,
+ "name: Lowertown Community Centre": {
+  "lat": 45.434497,
+  "lon": -75.6813393,
+  "category": "amenity",
+  "name": "Ottawa Lowertown Community Centre and Pool, 40, Cobourg Street, Lowertown, Rideau-Vanier, Ottawa, Eastern Ontario, Ontario, K1N 8Z6, Canada"
+ },
+ "address: 2500 Campeau Drive": {
+  "lat": 45.321359,
+  "lon": -75.8956053,
+  "category": "amenity",
+  "name": "Mlacak Centre, 2500, Campeau Drive, Kanata, Kanata North, Ottawa, Eastern Ontario, Ontario, K2K 3J4, Canada"
+ },
+ "name: Beaverbrook Library": {
+  "lat": 45.3218556,
+  "lon": -75.8953784,
+  "category": "amenity",
+  "name": "Ottawa Public Library - Beaverbrook Branch, 2500, Campeau Drive, Kanata, Kanata North, Ottawa, Eastern Ontario, Ontario, K2K 3J4, Canada"
+ },
+ "address: 6000 Abbott Street East": {
+  "lat": 45.2586505,
+  "lon": -75.9198384,
+  "category": "amenity",
+  "name": "Stittsville Station, 6000, Abbott Street East, Stittsville, Ottawa, Eastern Ontario, Ontario, K2S 1N4, Canada"
+ },
+ "name: Stittsville Village Square Park": null,
+ "address: 5025 Innovation Drive": {
+  "lat": 45.343335,
+  "lon": -75.931831,
+  "category": "place",
+  "name": "5025, Innovation Drive, Kanata, Kanata North, Ottawa, Eastern Ontario, Ontario, K2K 3K1, Canada"
+ },
+ "name: Innovation Park and Ride": null,
+ "address: 108 Juanita Avenue": {
+  "lat": 45.3490908,
+  "lon": -76.0400592,
+  "category": "amenity",
+  "name": "25149, 108, Juanita Avenue, West Carleton-March, Ottawa, Eastern Ontario, Ontario, K0A 1L0, Canada"
+ },
+ "name: Huntley Community Centre": {
+  "lat": 45.3534264,
+  "lon": -76.0510866,
+  "category": "amenity",
+  "name": "Huntley Community Centre Mess Hall, 2240, Craig's Side Road, Carp, Ottawa, Eastern Ontario, Ontario, K0A 1L0, Canada"
+ },
+ "address: 2960 Riverside Drive": {
+  "lat": 45.3703693,
+  "lon": -75.6923012,
+  "category": "leisure",
+  "name": "Terry Fox Stadium, 2960, Riverside Drive, Confederation Heights, River, Ottawa, Eastern Ontario, Ontario, K1V 8N5, Canada"
+ },
+ "name: Mooney's Bay": {
+  "lat": 45.3768649,
+  "lon": -75.6848898,
+  "category": "railway",
+  "name": "Mooney's Bay, Heron Road, River, Ottawa, Eastern Ontario, Ontario, K1V 6J3, Canada"
+ },
+ "address: 500 Millennium Boulevard": {
+  "lat": 45.4682722,
+  "lon": -75.4452114,
+  "category": "amenity",
+  "name": "École secondaire publique Gisèle-Lalonde, 500, Millennium Boulevard, Orléans, Orléans South-Navan, Ottawa, Eastern Ontario, Ontario, K4A 4X3, Canada"
+ },
+ "name: École secondaire publique Gisèle-Lalonde": {
+  "lat": 45.4682722,
+  "lon": -75.4452114,
+  "category": "amenity",
+  "name": "École secondaire publique Gisèle-Lalonde, 500, Millennium Boulevard, Orléans, Orléans South-Navan, Ottawa, Eastern Ontario, Ontario, K4A 4X3, Canada"
+ },
+ "address: 5479 Osgoode Main Street": {
+  "lat": 45.1433883,
+  "lon": -75.6113726,
+  "category": "amenity",
+  "name": "52249, 5479, Osgoode Main Street, Osgoode, Ottawa, Eastern Ontario, Ontario, K0A 2W0, Canada"
+ },
+ "name: Osgoode Link Pathway": {
+  "lat": 45.1432527,
+  "lon": -75.6112428,
+  "category": "information",
+  "name": "Osgoode Link Pathway, 5479, Osgoode Main Street, Osgoode, Ottawa, Eastern Ontario, Ontario, K0A 2W0, Canada"
+ },
+ "address: 2030 Baseline Road": {
+  "lat": 45.5350096,
+  "lon": -75.2233475,
+  "category": "place",
+  "name": "2030, Baseline Road, Clarence-Rockland, Prescott and Russell Counties, Eastern Ontario, Ontario, K4K 1K7, Canada"
+ },
+ "name: Baseline Station": null,
+ "address: 50 Woodridge Crescent": {
+  "lat": 45.3461618,
+  "lon": -75.809382,
+  "category": "amenity",
+  "name": "Bayshore Transitway Station, 50, Woodridge Crescent, Bayshore, Bay, Nepean, Ottawa, Eastern Ontario, Ontario, K2B 8S8, Canada"
+ },
+ "name: Bayshore Station": {
+  "lat": 45.3455029,
+  "lon": -75.8095386,
+  "category": "railway",
+  "name": "Bayshore, Western Transitway, Bayshore, Bay, Nepean, Ottawa, Eastern Ontario, Ontario, K2B 8S8, Canada"
+ },
+ "address: 101 Eagleson Road": {
+  "lat": 45.319602,
+  "lon": -75.882959,
+  "category": "place",
+  "name": "101, Eagleson Road, College, Nepean, Ottawa, Eastern Ontario, Ontario, K2L 2P4, Canada"
+ },
+ "name: Eagleson Station": null,
+ "address: 2100 Bank Street": {
+  "lat": 45.361154,
+  "lon": -75.658755,
+  "category": "place",
+  "name": "2100, Bank Street, South Keys, Gloucester-Southgate, Ottawa, Eastern Ontario, Ontario, K1V 8A8, Canada"
+ },
+ "name: Greenboro Station": {
+  "lat": 45.3595474,
+  "lon": -75.6591105,
+  "category": "railway",
+  "name": "Greenboro, Transitway, South Keys, Gloucester-Southgate, Ottawa, Eastern Ontario, Ontario, K1V 1J5, Canada"
+ },
+ "address: 900 Champlain Street": {
+  "lat": 45.4800084,
+  "lon": -75.5203261,
+  "category": "amenity",
+  "name": "Place d'Orléans Park & Ride, 900, Champlain Street, Bilberry Creek, Orléans, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, K1E 1W4, Canada"
+ },
+ "name: Place d’Orléans Station": {
+  "lat": 45.4794226,
+  "lon": -75.5191097,
+  "category": "railway",
+  "name": "Place-d'Orléans, Regional Road 174, Queenswood Village, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, K1C 2L9, Canada"
+ },
+ "address: 1248 St-Laurent Boulevard": {
+  "lat": 45.4203505,
+  "lon": -75.6392223,
+  "category": "building",
+  "name": "1248, St-Laurent Boulevard, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 3B0, Canada"
+ },
+ "name: St-Laurent Station": {
+  "lat": 45.4206528,
+  "lon": -75.6374038,
+  "category": "railway",
+  "name": "St-Laurent, 1300, St-Laurent Boulevard, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 3B0, Canada"
+ },
+ "address: 3680 Strandherd Drive": {
+  "lat": 45.274399,
+  "lon": -75.74571,
+  "category": "place",
+  "name": "3680, Strandherd Drive, Barrhaven East, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 4G8, Canada"
+ },
+ "name: Strandherd Park and Ride": null,
+ "address: 3355 Fallowfield Road": {
+  "lat": 45.298597,
+  "lon": -75.7364568,
+  "category": "building",
+  "name": "3355, Fallowfield Road, Barrhaven East, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 5K9, Canada"
+ },
+ "name: Fallowfield Station": {
+  "lat": 45.2992565,
+  "lon": -75.7365787,
+  "category": "railway",
+  "name": "Fallowfield, 3347, Fallowfield Road, Barrhaven East, Nepean, Ottawa, Eastern Ontario, Ontario, K2J 5K9, Canada"
+ },
+ "address: 960 Silver Street": {
+  "lat": 45.3806379,
+  "lon": -75.7312216,
+  "category": "amenity",
+  "name": "25019, 960, Silver Street, Carlington, River, Ottawa, Eastern Ontario, Ontario, K1Z 6H4, Canada"
+ },
+ "name: Carlington CHC": null,
+ "address: 1579 Bank Street": {
+  "lat": 45.3795695,
+  "lon": -75.6675323,
+  "category": "amenity",
+  "name": "Dr. John I. Kershman, 1579, Bank Street, Ridgemont, Alta Vista, Ottawa, Eastern Ontario, Ontario, K1H 7Z6, Canada"
+ },
+ "name: Dr. John I. Kershman – Orthodontics": null,
+ "address: 314 Pressland Road": null,
+ "name: Lola Park": {
+  "lat": 45.4233486,
+  "lon": -75.6519463,
+  "category": "leisure",
+  "name": "Lola Park, 1122, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, Canada"
+ },
+ "address: 5546 Manotick Main Street": {
+  "lat": 45.2249155,
+  "lon": -75.684091,
+  "category": "place",
+  "name": "5546, Manotick Main Street, Manotick, Rideau-Jock, Ottawa, Eastern Ontario, Ontario, K4M 1A3, Canada"
+ },
+ "name: 692 Coffee and Bar": null,
+ "address: 175 Woodridge Crescent": {
+  "lat": 45.3512837,
+  "lon": -75.8096209,
+  "category": "amenity",
+  "name": "25060, 175, Woodridge Crescent, Accora Village, Bay, Nepean, Ottawa, Eastern Ontario, Ontario, K2B 7T2, Canada"
+ },
+ "name: Bayshore Fieldhouse": null,
+ "address: 1291 Wellington Street West": {
+  "lat": 45.3991713,
+  "lon": -75.7351521,
+  "category": "building",
+  "name": "1291, Wellington Street West, Wellington Village, Hintonburg, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K1Y 3A8, Canada"
+ },
+ "name: Fresh Air Experience": {
+  "lat": 45.399135,
+  "lon": -75.7351586,
+  "category": "shop",
+  "name": "Fresh Air Experience, 1291, Wellington Street West, Wellington Village, Hintonburg, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K1Y 3A8, Canada"
+ },
+ "address: 100 Akerson Road": {
+  "lat": 45.282499,
+  "lon": -75.8735396,
+  "category": "amenity",
+  "name": "36194, 100, Akerson Road, Kanata, Kanata South, Ottawa, Eastern Ontario, Ontario, K2M 0E2, Canada"
+ },
+ "name: Kristina Kiss Park": {
+  "lat": 45.2812595,
+  "lon": -75.8724245,
+  "category": "leisure",
+  "name": "Kristina Kiss Park, 100, Kanata, Kanata South, Ottawa, Eastern Ontario, Ontario, Canada"
+ },
+ "address: 33 Quill Street": {
+  "lat": 45.4254727,
+  "lon": -75.656847,
+  "category": "amenity",
+  "name": "Overbrook Community Centre, 33, Quill Street, Overbrook, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 1V2, Canada"
+ },
+ "name: Overbrook Community Centre": {
+  "lat": 45.4254727,
+  "lon": -75.656847,
+  "category": "amenity",
+  "name": "Overbrook Community Centre, 33, Quill Street, Overbrook, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 1V2, Canada"
+ },
+ "address: 110 Bearbrook Road": {
+  "lat": 45.4320489,
+  "lon": -75.5655793,
+  "category": "building",
+  "name": "110, Bearbrook Road, Blackburn Hamlet, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, K1B 3H5, Canada"
+ },
+ "name: Blackburn Hamlet": {
+  "lat": 45.4319678,
+  "lon": -75.56428,
+  "category": "boundary",
+  "name": "Blackburn Hamlet, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, Canada"
+ },
+ "address: 760 Somerset Street West": {
+  "lat": 45.4102141,
+  "lon": -75.7083233,
+  "category": "building",
+  "name": "St Luke's Anglican Church, 760, Somerset Street West, Chinatown, Centretown, Somerset, Ottawa, Eastern Ontario, Ontario, K1R 6P9, Canada"
+ },
+ "name: St Luke’s Table": {
+  "lat": 45.4101624,
+  "lon": -75.7082248,
+  "category": "amenity",
+  "name": "St. Luke's Table, 760, Somerset Street West, Chinatown, Centretown, Somerset, Ottawa, Eastern Ontario, Ontario, K1R 6P9, Canada"
+ },
+ "address: 3320 Paul Anka Drive": {
+  "lat": 45.3520615,
+  "lon": -75.672744,
+  "category": "amenity",
+  "name": "Hunt Club Riverside Community Centre, 3320, Paul Anka Drive, Hunt Club, River, Ottawa, Eastern Ontario, Ontario, K1V 0X3, Canada"
+ },
+ "name: Huntclub-Riverside Park Community Centre": null,
+ "address: 1064 Wellington Street West": {
+  "lat": 45.4032794,
+  "lon": -75.7242627,
+  "category": "amenity",
+  "name": "4985, 1064, Wellington Street West, Hintonburg Shopping Area, Hintonburg, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K1Y 2Y3, Canada"
+ },
+ "name: Hintonburg Community Centre": {
+  "lat": 45.4036315,
+  "lon": -75.7242827,
+  "category": "amenity",
+  "name": "Hintonburg Community Centre, 1064, Wellington Street West, Hintonburg Shopping Area, Hintonburg, Kitchissippi, Ottawa, Eastern Ontario, Ontario, K1Y 2Y3, Canada"
+ },
+ "address: 1560 Heatherington Road": {
+  "lat": 45.373205,
+  "lon": -75.6478005,
+  "category": "amenity",
+  "name": "Albion Heatherington Community Centre, 1560, Heatherington Road, South Keys, Gloucester-Southgate, Ottawa, Eastern Ontario, Ontario, K1V 9P5, Canada"
+ },
+ "name: Albion-Heatherington Recreation Centre": null,
+ "address: 8699 Jeanne-d’Arc Boulevard North": {
+  "lat": 45.4969757,
+  "lon": -75.4856941,
+  "category": "place",
+  "name": "8699, Jeanne-d'Arc Boulevard North, Châtelaine Village, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, K4A 4J4, Canada"
+ },
+ "name: Orléans": {
+  "lat": 45.4653654,
+  "lon": -75.5035343,
+  "category": "boundary",
+  "name": "Orléans, Ottawa, Eastern Ontario, Ontario, Canada"
+ },
+ "address: 2955 Michèle Drive": {
+  "lat": 45.354627,
+  "lon": -75.8020142,
+  "category": "amenity",
+  "name": "Michele Heights Community Centre, 2955, Michèle Drive, Fairfield Heights, Bay, Ottawa, Eastern Ontario, Ontario, K2B 7K1, Canada"
+ },
+ "name: Michele Heights Community Centre": {
+  "lat": 45.354627,
+  "lon": -75.8020142,
+  "category": "amenity",
+  "name": "Michele Heights Community Centre, 2955, Michèle Drive, Fairfield Heights, Bay, Ottawa, Eastern Ontario, Ontario, K2B 7K1, Canada"
+ },
+ "address: 881 Orléans Boulevard": {
+  "lat": 45.4483169,
+  "lon": -75.5351107,
+  "category": "highway",
+  "name": "Orléans Boulevard, Chapel Hill North, Orléans, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, K1C 6X7, Canada"
+ },
+ "address: 755 Champlain Street": {
+  "lat": 45.4889855,
+  "lon": -75.5198249,
+  "category": "amenity",
+  "name": "56757, 755, Champlain Street, Queenswood Village, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, K1E 1A2, Canada"
+ },
+ "name: François Dupont Park": {
+  "lat": 45.4888337,
+  "lon": -75.5214024,
+  "category": "leisure",
+  "name": "François Dupont Park, 755, Orléans, Orléans East-Cumberland, Ottawa, Eastern Ontario, Ontario, Canada"
+ },
+ "address: 1520 Caldwell Avenue": {
+  "lat": 45.3724525,
+  "lon": -75.7391157,
+  "category": "leisure",
+  "name": "Carlington Recreation Centre, 1520, Caldwell Avenue, Caldwell Community, Carlington, River, Ottawa, Eastern Ontario, Ontario, K2C 4A2, Canada"
+ },
+ "name: Carlington Recreation Centre": {
+  "lat": 45.3724525,
+  "lon": -75.7391157,
+  "category": "leisure",
+  "name": "Carlington Recreation Centre, 1520, Caldwell Avenue, Caldwell Community, Carlington, River, Ottawa, Eastern Ontario, Ontario, K2C 4A2, Canada"
+ },
+ "address: 450 Queen Elizabeth Drive": null,
+ "name: Lansdowne": {
+  "lat": 45.3984326,
+  "lon": -75.6835457,
+  "category": "leisure",
+  "name": "TD Place Stadium, 1015, Bank Street, The Glebe, Capital, Ottawa, Eastern Ontario, Ontario, K1S 3W7, Canada"
+ },
+ "address: 1 Donald Street": {
+  "lat": 45.427515,
+  "lon": -75.6688868,
+  "category": "leisure",
+  "name": "Rideau Sports Centre, 1, Donald Street, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1K 4E6, Canada"
+ },
+ "name: Adàwe Crossing": {
+  "lat": 45.4263362,
+  "lon": -75.6701233,
+  "category": "highway",
+  "name": "Adàwe crossing, Rideau-Rockcliffe, Ottawa, Eastern Ontario, Ontario, K1N 8J6, Canada"
+ },
+ "address: 1490 Youville Drive": {
+  "lat": 45.4663445,
+  "lon": -75.5447921,
+  "category": "leisure",
+  "name": "Bob MacQuarrie Recreation Complex, 1490, Youville Drive, Orléans Industrial, Orléans, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, K1C 6E7, Canada"
+ },
+ "name: Bob MacQuarrie Recreation Complex": {
+  "lat": 45.4663445,
+  "lon": -75.5447921,
+  "category": "leisure",
+  "name": "Bob MacQuarrie Recreation Complex, 1490, Youville Drive, Orléans Industrial, Orléans, Orléans West-Innes, Ottawa, Eastern Ontario, Ontario, K1C 6E7, Canada"
+ }
+}
