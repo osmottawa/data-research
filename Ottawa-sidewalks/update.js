@@ -22,9 +22,10 @@ const OUTPUT = "ottawa-sidewalks-new.osm";
 const CITY_LAYER = "https://maps.ottawa.ca/arcgis/rest/services/Pedestrian_Plan/MapServer/0";
 const OVERPASS = [
   "https://overpass-api.de/api/interpreter",
-  "https://overpass.private.coffee/api/interpreter",
   "https://overpass.openstreetmap.fr/api/interpreter",
+  "https://overpass.private.coffee/api/interpreter",
 ];
+const MAX_OSM_AGE = 48; // hours; some Overpass mirrors lag months behind, their data is refused
 // anything a sidewalk could already be mapped as
 const OSM_HIGHWAYS = "footway|path|pedestrian|cycleway|steps|construction";
 
@@ -233,6 +234,8 @@ async function downloadOSM(lines) {
         headers: { "User-Agent": "ottawa-sidewalks-update" }, signal: AbortSignal.timeout(600000),
       });
       if (osm.remark) throw new Error(osm.remark); // e.g. the query ran out of time and the result is incomplete
+      const age = (Date.now() - Date.parse(osm.osm3s?.timestamp_osm_base)) / 3600000;
+      if (!(age < MAX_OSM_AGE)) throw new Error(`its data is as of ${osm.osm3s?.timestamp_osm_base}, too old`);
       console.log(`  OSM data as of ${osm.osm3s?.timestamp_osm_base}`);
       return osm;
     } catch (e) {

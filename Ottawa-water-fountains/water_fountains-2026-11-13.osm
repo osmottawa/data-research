@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.3634541' lon='-75.6356019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Greenboro Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='4' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3216112' lon='-75.8952988'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At John G Mlacak Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='6' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.4381039' lon='-75.6007737'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library North Gloucester Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='8' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.4016509' lon='-75.7262925'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Rosemount Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='9' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.3547149' lon='-75.7333802'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Emerald Plaza Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='11' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.3954595' lon='-75.6837891'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Sunnyside Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='12' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.4202322' lon='-75.6953858'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Main Library' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='13' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.2798539' lon='-75.7617494'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Ruth E. Dickinson' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='16' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.2942406' lon='-75.9014099'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Tony Graham Recreation Complex - Kanata' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='19' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.2805132' lon='-75.7618412'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Walter Baker Sports Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='21' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.4035773' lon='-75.7242936'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Hintonburg Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='23' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.3497293' lon='-75.7945755'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Foster Farm Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='24' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.3729719' lon='-75.6590608'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Jim Durrell Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='26' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.3673642' lon='-75.6576051'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Deborah Anne Kirwan Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='27' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.3789914' lon='-75.6539887'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Heron Road Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='28' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.3594794' lon='-75.7021989'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Carleton Heights Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='32' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.4094786' lon='-75.7027406'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At McNabb Arena and Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='33' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='45.4254354' lon='-75.6888016'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Arts Court' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='34' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='45.4375164' lon='-75.6005600'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Splash Wave Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='35' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='45.3909314' lon='-75.6299943'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Canterbury Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='36' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='45.3479134' lon='-75.7729081'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Pinecrest Recreation Complex' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='37' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.4544993' lon='-75.4631012'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At François Dupuis Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='38' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='45.3946661' lon='-75.6818131'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa South Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='40' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='45.2299013' lon='-75.4683884'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Metcalfe Community Centre and Larry Robinson Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='41' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.4532062' lon='-75.4779709'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Aquaview Community Hall' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='42' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='45.4255231' lon='-75.6568040'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Overbrook Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='46' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='45.3521436' lon='-75.6728105'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Hunt Club-Riverside Park Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='47' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.3497212' lon='-75.6363343'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Sawmill Creek Community Centre and Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='48' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='45.3491530' lon='-76.0390976'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At W. Erskine Johnston Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='52' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='45.3404846' lon='-75.9303573'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Richcraft Recreation Complex-Kanata' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='53' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='45.3834243' lon='-75.7528962'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Dovercourt Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='54' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='45.4286358' lon='-75.6197480'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Pat Clark Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='61' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='45.3114144' lon='-75.8992889'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Kanata Leisure Centre and Wave Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='62' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='45.4079909' lon='-75.7142915'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Plant Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='64' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.3805213' lon='-75.7314195'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Alexander Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='65' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='45.4709521' lon='-75.4614838'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At South Fallingbrook Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='66' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='45.3444802' lon='-75.7629517'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ben Franklin Place' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='68' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.3268638' lon='-75.7454652'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Nepean Sportsplex' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='70' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='45.1301693' lon='-75.7108526'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Alfred Taylor Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='91' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='45.3419562' lon='-75.7265346'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Howard Darwin Centennial Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='92' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='45.3920922' lon='-75.7543864'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Churchill Seniors Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='94' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='45.3724537' lon='-75.7391211'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Carlington Recreation Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='95' />
+  </node>
+  <node id='-43' action='modify' visible='true' lat='45.3246481' lon='-75.8109966'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Bell Centennial Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='96' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='45.4346203' lon='-75.6812874'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Lowertown Pool' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='97' />
+  </node>
+  <node id='-45' action='modify' visible='true' lat='45.4375235' lon='-75.6013771'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Earl Armstrong Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='98' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='45.3893554' lon='-75.6918817'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Brewer Park Complex - Pool Building' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='99' />
+  </node>
+  <node id='-47' action='modify' visible='true' lat='45.4438281' lon='-75.6595564'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Richelieu-Vanier Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='100' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='45.2962381' lon='-75.8848418'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Glen Cairn Community Building' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='101' />
+  </node>
+  <node id='-49' action='modify' visible='true' lat='45.3546481' lon='-75.8019594'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Michele Heights Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='102' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='45.3892357' lon='-75.6905190'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Brewer Park Complex - Arena Building' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='103' />
+  </node>
+  <node id='-51' action='modify' visible='true' lat='45.4328105' lon='-75.6554539'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Bernard-Grandmaître Arena' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='104' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='45.3731902' lon='-75.6478045'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Albion-Heatherington Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='105' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='45.4443706' lon='-75.6604844'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Ottawa Public Library Vanier Branch' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='108' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='45.4025809' lon='-75.6276481'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Dempsey Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='109' />
+  </node>
+  <node id='-55' action='modify' visible='true' lat='45.4589669' lon='-75.5988613'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Beacon Hill North Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='110' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='45.1631564' lon='-75.4548703'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Vernon Community Centre' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='no' />
+    <tag k='ref' v='111' />
+  </node>
+  <node id='-57' action='modify' visible='true' lat='45.3698557' lon='-75.6912907'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Terry Fox Athletic Facility' />
+    <tag k='indoor' v='no' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='112' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='45.3664463' lon='-75.6914659'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Mooney’s Bay Beach and Park' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='114' />
+  </node>
+  <node id='-59' action='modify' visible='true' lat='45.5035900' lon='-75.4955783'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Stuemer Park - Petrie Island' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='116' />
+  </node>
+  <node id='-60' action='modify' visible='true' lat='45.4202397' lon='-75.6538033'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At RGCT Stadium' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='117' />
+  </node>
+  <node id='-61' action='modify' visible='true' lat='45.3542519' lon='-75.6646250'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Owl Park' />
+    <tag k='indoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='118' />
+  </node>
+  <node id='-62' action='modify' visible='true' lat='45.3510339' lon='-75.8092577'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='At Bayshore Community Building' />
+    <tag k='indoor' v='no' />
+    <tag k='seasonal' v='yes' />
+    <tag k='ref' v='119' />
+  </node>
+</osm>

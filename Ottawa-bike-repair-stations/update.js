@@ -27,9 +27,10 @@ const OUTPUT = "ottawa-bike-repair-stations.osm";
 const CITY_LAYER = "https://services.arcgis.com/G6F8XLCl5KtAlZ2G/arcgis/rest/services/Bike_Repair/FeatureServer/0";
 const OVERPASS = [
   "https://overpass-api.de/api/interpreter",
-  "https://overpass.private.coffee/api/interpreter",
   "https://overpass.openstreetmap.fr/api/interpreter",
+  "https://overpass.private.coffee/api/interpreter",
 ];
+const MAX_OSM_AGE = 48; // hours; some Overpass mirrors lag months behind, their data is refused
 const NOMINATIM = "https://nominatim.openstreetmap.org/search";
 const BBOX = { south: 44.95, west: -76.4, north: 45.6, east: -75.2 }; // Ottawa with some margin
 
@@ -90,6 +91,8 @@ async function downloadOSM() {
     try {
       const osm = await getJSON(url, { method: "POST", body: new URLSearchParams({ data }) });
       if (osm.remark) throw new Error(osm.remark);
+      const age = (Date.now() - Date.parse(osm.osm3s?.timestamp_osm_base)) / 3600000;
+      if (!(age < MAX_OSM_AGE)) throw new Error(`its data is as of ${osm.osm3s?.timestamp_osm_base}, too old`);
       console.log(`OSM data as of ${osm.osm3s?.timestamp_osm_base} from ${new URL(url).host}`);
       return osm.elements.map(el => ({
         id: `${el.type[0]}${el.id}`, tags: el.tags || {},
