@@ -1,11 +1,11 @@
-// Finds City of Ottawa ball diamonds (in parks and on school grounds) that are missing in OSM and writes them to
-// ball-diamonds.osm, to review and upload from JOSM. Tags follow the earlier import that most Ottawa diamonds in
-// OSM come from (sport=baseball with baseball:diamond=softball/baseball/t-ball and baseball:* details), without
-// source and without generic names ("Ball Diamond").
+// Finds City of Ottawa ball diamonds in parks that are missing in OSM and writes them to ball-diamonds.osm, to
+// review and upload from JOSM. Tags follow the earlier import that most Ottawa diamonds in OSM come from
+// (sport=baseball with baseball:diamond=softball/baseball/t-ball and baseball:* details), without source and
+// without generic names ("Ball Diamond"). The city's "Ball Diamonds School" layer is left out, its points are poor.
 //
-//   node update.js [--new-parks <snapshot>] [--new-schools <snapshot>]
+//   node update.js [--new-parks <snapshot>]
 //
-//   --new-*  city datasets; downloaded and saved as ball-diamonds-parks/schools-<today>.json if omitted
+//   --new-parks  city dataset; downloaded and saved as ball-diamonds-parks-<today>.json if omitted
 //
 // City diamonds and OSM diamonds are matched one to one, closest first, within MATCH; a leftover with an unused
 // OSM diamond a bit farther (NEARBY) is listed instead (the city point is often off). Diamonds checked in imagery
@@ -17,10 +17,9 @@
 const fs = require("fs");
 const path = require("path");
 
-// source: https://open.ottawa.ca, "Ball Diamonds" and "Ball Diamonds School" (Parks Inventory)
+// source: https://open.ottawa.ca, "Ball Diamonds" (Parks Inventory)
 const LAYERS = {
   parks: "https://maps.ottawa.ca/arcgis/rest/services/Parks_Inventory/MapServer/1",
-  schools: "https://maps.ottawa.ca/arcgis/rest/services/Parks_Inventory/MapServer/2",
 };
 const OVERPASS = [
   "https://overpass-api.de/api/interpreter",
@@ -38,15 +37,9 @@ const NEARBY = 120;  // an unused OSM diamond this close is probably the one, wi
 // what Esri imagery showed on 2026-11-14 at the points of diamonds missing then (by FACILITYID); listed in the
 // console for the review, the diamonds are written anyway
 const SEEN = {
-  36037: "infield visible", 36069: "infield visible", 36030: "infield visible", 36017: "infield visible",
-  36060: "infield visible", 36053: "infield visible", 36026: "infield visible", 36066: "infield visible",
-  36024: "infield visible", 36036: "infield visible", 36008: "infield visible", 36010: "infield visible",
-  36029: "infield visible", 36062: "infield visible",
   33139: "point on the rink pad, no diamond seen", 33045: "point in a parking/storage lot, no diamond seen",
   33207: "point on grass among trees, no diamond seen", 3846: "point in the basketball court; the dirt field west of it may be the diamond",
-  3892: "point at the tennis court by the parking lot, no diamond seen", 36021: "point at the end of a rink",
-  36040: "point in a playground", 36064: "point in a construction site", 36072: "point at the school's street corner",
-  36013: "point under trees by the schoolyard",
+  3892: "point at the tennis court by the parking lot, no diamond seen",
 };
 
 const yesNo = v => v == null ? undefined : /^y/i.test(v) ? "yes" : /^n/i.test(v) ? "no" : undefined;
@@ -193,8 +186,7 @@ async function main() {
   const added = diamonds.filter(c => !c.osm), off = diamonds.filter(c => c.off);
 
   // report
-  console.log(`\nCity diamonds: ${diamonds.length} (closed, skipped: ${shut.length}), already in OSM: ${diamonds.length - added.length}, missing: ${added.length}` +
-    ` (${added.filter(c => c.p.PARK_ID != null).length} in parks, ${added.filter(c => c.p.PARK_ID == null).length} at schools)`);
+  console.log(`\nCity diamonds: ${diamonds.length} (closed, skipped: ${shut.length}), already in OSM: ${diamonds.length - added.length}, missing: ${added.length}`);
   for (const c of added) console.log(`  ${c.label}${SEEN[c.p.FACILITYID] ? ` - ${SEEN[c.p.FACILITYID]}` : ""}`);
   console.log(`\nNot written, an OSM diamond ${MATCH}-${NEARBY} m away is probably the one (city point off): ${off.length}`);
   for (const c of off) console.log(`  ${c.label}: ${c.osm.id} ${Math.round(c.d)} m`);
