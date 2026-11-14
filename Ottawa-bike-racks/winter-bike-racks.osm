@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.3901526' lon='-75.6793636'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='bollard' />
+    <tag k='capacity' v='2' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='seasonal' v='no' />
+    <tag k='winter_service' v='yes' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3898178' lon='-75.6789833'>
+    <tag k='amenity' v='bicycle_parking' />
+    <tag k='bicycle_parking' v='bollard' />
+    <tag k='capacity' v='2' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='seasonal' v='no' />
+    <tag k='winter_service' v='yes' />
+  </node>
+</osm>

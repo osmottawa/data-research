@@ -144,6 +144,17 @@ Things for the console, not the files:
   - **Kitigànensag:** OSM has a garden of that name 3.2 km away. The garden may have moved, so check whether the old one still exists.
 - Not written: 3 gardens the city lists as "In Development": Lindenlea, Queensway Terrace North and South Nepean Muslim Centre.
 
+## Winter-maintained bike racks (file ready)
+
+- [ ] [Ottawa-bike-racks/winter-bike-racks.osm](Ottawa-bike-racks/winter-bike-racks.osm): 2 racks, single ring-and-posts near Bank Street around Lansdowne. They have no ID in the city data, so they're probably recent.
+  - **Tags:**
+    - `bicycle_parking=bollard` and `capacity=2`. Ottawa maps ring-and-posts as `bollard`, U-racks as `stands` and hanger racks as `rack`.
+    - `operator=City of Ottawa`.
+    - `seasonal=no` + `winter_service=yes`. Ottawa marks racks taken in for the winter with `seasonal=yes`.
+  - **Why only 2 of the 18:** the city lists every ring separately, while OSM maps a spot as one node with a capacity. The city's 87 racks are 47 sites, and 42 are mapped.
+- Not written, 3 sites with OSM bike parking 27–44 m away, probably the same: a hanger rack, 2 U-racks at a pharmacy, and a ring-and-post.
+- [ ] **Idea:** the 42 mapped sites' bike parking has no `seasonal` tag. Adding `seasonal=no` + `winter_service=yes` would show which racks are usable in winter; no OSM bike parking in Ottawa says so yet.
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -151,7 +162,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | | City layer | City | Missing |
 |---|---|---|---|
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
-| [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
 
 ## Nothing to do
