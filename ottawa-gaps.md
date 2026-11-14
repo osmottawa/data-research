@@ -162,6 +162,22 @@ Things for the console, not the files:
   - **Uplands Riverside** has 2 records 36 m apart, written as one hill.
 - Already in OSM but more than 150 m from the city point: Alfred Taylor (183 m) and Gardenway (160 m), found by their 2017 `ref`; Conroy Pit (582 m), found by name.
 
+## Street lights (new lamps: files ready)
+
+City layer: [Road_Information/7](https://maps.ottawa.ca/arcgis/rest/services/Road_Information/MapServer/7). The portal item was last modified 2026-08-12, and the newest pole is from June 2024.
+- **Compared with the 2019 zip:**
+  - The 2019 export had 142,446 records, but 76,013 of them were stacked duplicates: 66,433 distinct lights. Today there are 74,435.
+  - Every ID changed. Matched by position:
+    - 9,233 lights are new or moved since 2019, and 1,217 are gone.
+    - 8,973 lights changed from high-pressure sodium to LED.
+- **OSM has about 93,000 street lamps.** 66,345 are from the 2019 import, which has `lamp_ref`. zzptichka has mapped 23,924 more since, mostly bare `highway=street_lamp`, including a 2024 batch of 14,644.
+- [ ] **New lamps:** [Ottawa-street-lights/update.js](Ottawa-street-lights/update.js) wrote `new-lamps-01.osm` … `new-lamps-06.osm`, 2,979 lamps in compact areas of about 500 (`--chunk` changes that). These are city lights since 2019 with no OSM lamp within 10 m (matched one to one).
+  - Most are on rebuilt streets (Elgin, Montreal Road, Airport Parkway, Rideau), at the LRT stations (Tunney's Pasture, St-Laurent, Blair, Tremblay), and in new subdivisions (Meynell, Cope, Conservancy, Emmerson).
+  - **Tags:** follow the 2019 import: `lamp_type`, `lamp_mount`, `material`, `lamp_flames`, `height`. No `source`, and no `lamp_ref`, since the city renumbered its lights.
+  - 448 of them have an OSM lamp no city light claims 10–30 m away. That's often the old pole of a rebuilt street, which can go.
+- [ ] **Removed lamps:** 893 lights from the 2019 data are missing from OSM; mappers may have deleted them on purpose, so they're not written. Separately, about 22,000 OSM lamps match no city light (NCC, private, parking lots, or removed poles). The 1,217 lights gone since 2019 are the next thing to check.
+- [ ] **LED changes:** `lamp_type` on the imported lamps whose light source changed.
+
 ## Nothing to do
 
 These layers are already fully or almost fully in OSM:
@@ -178,7 +194,3 @@ These layers are already fully or almost fully in OSM:
 - public toilets (the 60 park portables were uploaded on 2026-11-14)
 - water fountains, bike repair stations, sidewalks and pathway links (updated on 2026-11-13)
 - winter-maintained cycling network (12,600 Ottawa ways already have `winter_service`)
-
-## Not checked yet
-
-- Street lights ([Road_Information/7](https://maps.ottawa.ca/arcgis/rest/services/Road_Information/MapServer/7), 80,670 points). They were last looked at in 2019 ([Ottawa-street-lights](Ottawa-street-lights/)).

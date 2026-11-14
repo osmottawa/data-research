@@ -1,0 +1,3206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.2942171' lon='-76.1136918'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3113012' lon='-76.0733982'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.3096922' lon='-76.0702775'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.3108210' lon='-76.0686438'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.3136536' lon='-76.0429658'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.3127241' lon='-76.0427099'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.3128385' lon='-76.0425368'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.3129414' lon='-76.0422590'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.3131958' lon='-76.0420940'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.3132834' lon='-76.0417664'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.3124136' lon='-76.0413651'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.3135409' lon='-76.0381740'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.3129188' lon='-76.0359403'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.3119264' lon='-76.0348725'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.3118535' lon='-76.0343985'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.3120697' lon='-76.0337652'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.2533819' lon='-76.0094552'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='45.3095508' lon='-75.9948569'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='45.3034710' lon='-75.9828278'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='45.3039954' lon='-75.9819827'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='45.3044606' lon='-75.9809838'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.2932134' lon='-75.9718241'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='45.2721780' lon='-75.9689088'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='45.2688597' lon='-75.9605984'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.2820853' lon='-75.9582445'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='45.2799258' lon='-75.9555007'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='45.2794463' lon='-75.9551551'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.2791916' lon='-75.9548722'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='45.3114308' lon='-75.9487130'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='45.3110352' lon='-75.9482327'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='45.3106584' lon='-75.9477778'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='45.3102885' lon='-75.9473119'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='45.3096218' lon='-75.9465908'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='45.2968317' lon='-75.9464569'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.3092727' lon='-75.9462097'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='45.3095813' lon='-75.9461399'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='45.2976066' lon='-75.9452079'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.2932620' lon='-75.9449644'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='45.2979961' lon='-75.9445800'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='45.2926422' lon='-75.9444142'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='45.2928959' lon='-75.9440064'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='45.2675084' lon='-75.9392932'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-43' action='modify' visible='true' lat='45.2554562' lon='-75.9378227'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='45.2845761' lon='-75.9376706'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-45' action='modify' visible='true' lat='45.2937000' lon='-75.9376627'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='45.2842252' lon='-75.9375253'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-47' action='modify' visible='true' lat='45.2860443' lon='-75.9374591'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='45.2839066' lon='-75.9372947'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-49' action='modify' visible='true' lat='45.2862961' lon='-75.9370576'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='45.2893505' lon='-75.9370229'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-51' action='modify' visible='true' lat='45.2835330' lon='-75.9368266'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='45.2865421' lon='-75.9366656'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='45.2892497' lon='-75.9366467'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='45.2831566' lon='-75.9363551'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-55' action='modify' visible='true' lat='45.2889132' lon='-75.9362229'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='45.2828526' lon='-75.9361300'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-57' action='modify' visible='true' lat='45.2847990' lon='-75.9359835'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='45.2830426' lon='-75.9359366'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-59' action='modify' visible='true' lat='45.2919855' lon='-75.9358214'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-60' action='modify' visible='true' lat='45.2885767' lon='-75.9357992'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-61' action='modify' visible='true' lat='45.2922055' lon='-75.9357187'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-62' action='modify' visible='true' lat='45.2852401' lon='-75.9356773'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-63' action='modify' visible='true' lat='45.3066016' lon='-75.9356751'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-64' action='modify' visible='true' lat='45.2845132' lon='-75.9356255'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-65' action='modify' visible='true' lat='45.2842274' lon='-75.9352675'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-66' action='modify' visible='true' lat='45.2839855' lon='-75.9349642'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-67' action='modify' visible='true' lat='45.2845737' lon='-75.9347127'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-68' action='modify' visible='true' lat='45.2842542' lon='-75.9343124'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-69' action='modify' visible='true' lat='45.3048195' lon='-75.9339176'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-70' action='modify' visible='true' lat='45.3050734' lon='-75.9338514'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-71' action='modify' visible='true' lat='45.2843601' lon='-75.9338387'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-72' action='modify' visible='true' lat='45.2697211' lon='-75.9329235'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-73' action='modify' visible='true' lat='45.2892634' lon='-75.9327524'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-74' action='modify' visible='true' lat='45.2890084' lon='-75.9327156'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-75' action='modify' visible='true' lat='45.2889341' lon='-75.9323941'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-76' action='modify' visible='true' lat='45.2892215' lon='-75.9320023'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-77' action='modify' visible='true' lat='45.2708240' lon='-75.9312606'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-78' action='modify' visible='true' lat='45.2812475' lon='-75.9311656'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-79' action='modify' visible='true' lat='45.3043002' lon='-75.9305672'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-80' action='modify' visible='true' lat='45.2676439' lon='-75.9303203'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-81' action='modify' visible='true' lat='45.2674233' lon='-75.9301545'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-82' action='modify' visible='true' lat='45.2919249' lon='-75.9300439'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-83' action='modify' visible='true' lat='45.2676308' lon='-75.9297918'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-84' action='modify' visible='true' lat='45.2662793' lon='-75.9292759'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-85' action='modify' visible='true' lat='45.3051429' lon='-75.9288787'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-86' action='modify' visible='true' lat='45.3045176' lon='-75.9287680'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-87' action='modify' visible='true' lat='45.2657374' lon='-75.9281082'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-88' action='modify' visible='true' lat='45.2704771' lon='-75.9264943'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-89' action='modify' visible='true' lat='45.2656881' lon='-75.9264454'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-90' action='modify' visible='true' lat='45.2625856' lon='-75.9254008'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-91' action='modify' visible='true' lat='45.2625082' lon='-75.9253148'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-92' action='modify' visible='true' lat='45.2893756' lon='-75.9249880'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-93' action='modify' visible='true' lat='45.2859919' lon='-75.9248123'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-94' action='modify' visible='true' lat='45.2886504' lon='-75.9240714'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-95' action='modify' visible='true' lat='45.2868636' lon='-75.9234226'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-96' action='modify' visible='true' lat='45.2782057' lon='-75.9228316'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-97' action='modify' visible='true' lat='45.3062959' lon='-75.9225818'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-98' action='modify' visible='true' lat='45.3062751' lon='-75.9223629'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-99' action='modify' visible='true' lat='45.3110254' lon='-75.9221487'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-100' action='modify' visible='true' lat='45.2571056' lon='-75.9208576'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-101' action='modify' visible='true' lat='45.2812515' lon='-75.9207809'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-102' action='modify' visible='true' lat='45.2569812' lon='-75.9207047'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-103' action='modify' visible='true' lat='45.2570961' lon='-75.9205169'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-104' action='modify' visible='true' lat='45.2573492' lon='-75.9204679'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-105' action='modify' visible='true' lat='45.2583215' lon='-75.9204662'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-106' action='modify' visible='true' lat='45.2584937' lon='-75.9204561'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-107' action='modify' visible='true' lat='45.2830615' lon='-75.9204392'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-108' action='modify' visible='true' lat='45.2572109' lon='-75.9203291'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-109' action='modify' visible='true' lat='45.2573499' lon='-75.9201811'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-110' action='modify' visible='true' lat='45.2827449' lon='-75.9200325'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-111' action='modify' visible='true' lat='45.2824449' lon='-75.9196472'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-112' action='modify' visible='true' lat='45.3077125' lon='-75.9195075'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-113' action='modify' visible='true' lat='45.2718973' lon='-75.9191403'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-114' action='modify' visible='true' lat='45.2493293' lon='-75.9185887'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-115' action='modify' visible='true' lat='45.2900944' lon='-75.9182693'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-116' action='modify' visible='true' lat='45.2600887' lon='-75.9181184'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-117' action='modify' visible='true' lat='45.3095047' lon='-75.9180025'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-118' action='modify' visible='true' lat='45.2603877' lon='-75.9176424'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-119' action='modify' visible='true' lat='45.2792196' lon='-75.9174578'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-120' action='modify' visible='true' lat='45.2906965' lon='-75.9172976'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-121' action='modify' visible='true' lat='45.3111203' lon='-75.9172785'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-122' action='modify' visible='true' lat='45.2664328' lon='-75.9172323'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-123' action='modify' visible='true' lat='45.2908644' lon='-75.9159965'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-124' action='modify' visible='true' lat='45.2916599' lon='-75.9157476'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-125' action='modify' visible='true' lat='45.2811070' lon='-75.9148858'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-126' action='modify' visible='true' lat='45.2927596' lon='-75.9144353'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-127' action='modify' visible='true' lat='45.2815805' lon='-75.9140302'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-128' action='modify' visible='true' lat='45.2808078' lon='-75.9134377'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-129' action='modify' visible='true' lat='45.2933244' lon='-75.9133576'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-130' action='modify' visible='true' lat='45.2522018' lon='-75.9130152'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-131' action='modify' visible='true' lat='45.2830916' lon='-75.9125130'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-132' action='modify' visible='true' lat='45.2474207' lon='-75.9124383'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-133' action='modify' visible='true' lat='45.2793676' lon='-75.9121067'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-134' action='modify' visible='true' lat='45.2638890' lon='-75.9120237'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_mount' v='straight_mast' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-135' action='modify' visible='true' lat='45.2473505' lon='-75.9117168'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-136' action='modify' visible='true' lat='45.2836671' lon='-75.9116138'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-137' action='modify' visible='true' lat='45.2944923' lon='-75.9114965'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-138' action='modify' visible='true' lat='45.2948047' lon='-75.9109961'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-139' action='modify' visible='true' lat='45.2820817' lon='-75.9107147'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-140' action='modify' visible='true' lat='45.2842878' lon='-75.9106354'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-141' action='modify' visible='true' lat='45.2483458' lon='-75.9103987'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-142' action='modify' visible='true' lat='45.3042995' lon='-75.9103959'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-143' action='modify' visible='true' lat='45.2844736' lon='-75.9103424'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-144' action='modify' visible='true' lat='45.2991778' lon='-75.9102714'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-145' action='modify' visible='true' lat='45.2816162' lon='-75.9101498'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-146' action='modify' visible='true' lat='45.2691854' lon='-75.9099621'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-147' action='modify' visible='true' lat='45.2811275' lon='-75.9095991'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-148' action='modify' visible='true' lat='45.2509222' lon='-75.9094132'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-149' action='modify' visible='true' lat='45.2738519' lon='-75.9091287'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-150' action='modify' visible='true' lat='45.2687365' lon='-75.9088640'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-151' action='modify' visible='true' lat='45.2849605' lon='-75.9087061'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-152' action='modify' visible='true' lat='45.2964718' lon='-75.9084900'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-153' action='modify' visible='true' lat='45.2571571' lon='-75.9083271'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-154' action='modify' visible='true' lat='45.2573610' lon='-75.9082961'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-155' action='modify' visible='true' lat='45.3005821' lon='-75.9082218'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-156' action='modify' visible='true' lat='45.2967628' lon='-75.9080280'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-157' action='modify' visible='true' lat='45.2571302' lon='-75.9080211'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-158' action='modify' visible='true' lat='45.2579824' lon='-75.9076730'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-159' action='modify' visible='true' lat='45.2568114' lon='-75.9076412'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-160' action='modify' visible='true' lat='45.2970449' lon='-75.9075890'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-161' action='modify' visible='true' lat='45.2579640' lon='-75.9073580'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-162' action='modify' visible='true' lat='45.2565722' lon='-75.9073562'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-163' action='modify' visible='true' lat='45.2972448' lon='-75.9072618'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-164' action='modify' visible='true' lat='45.2580609' lon='-75.9071705'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-165' action='modify' visible='true' lat='45.2567995' lon='-75.9070149'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-166' action='modify' visible='true' lat='45.2576687' lon='-75.9070065'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-167' action='modify' visible='true' lat='45.2562534' lon='-75.9069763'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-168' action='modify' visible='true' lat='45.2861244' lon='-75.9068704'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-169' action='modify' visible='true' lat='45.2599319' lon='-75.9068352'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-170' action='modify' visible='true' lat='45.2604181' lon='-75.9068106'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-171' action='modify' visible='true' lat='45.2596177' lon='-75.9066603'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-172' action='modify' visible='true' lat='45.2573641' lon='-75.9066446'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-173' action='modify' visible='true' lat='45.2607545' lon='-75.9065714'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-174' action='modify' visible='true' lat='45.2570778' lon='-75.9065646'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-175' action='modify' visible='true' lat='45.2561550' lon='-75.9065638'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-176' action='modify' visible='true' lat='45.2570700' lon='-75.9062949'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-177' action='modify' visible='true' lat='45.2592790' lon='-75.9062805'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-178' action='modify' visible='true' lat='45.2564199' lon='-75.9061339'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-179' action='modify' visible='true' lat='45.2610790' lon='-75.9060844'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-180' action='modify' visible='true' lat='45.2554800' lon='-75.9060548'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-181' action='modify' visible='true' lat='45.2557397' lon='-75.9059490'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-182' action='modify' visible='true' lat='45.2567463' lon='-75.9059108'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-183' action='modify' visible='true' lat='45.2601235' lon='-75.9058299'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-184' action='modify' visible='true' lat='45.2588675' lon='-75.9057911'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-185' action='modify' visible='true' lat='45.2982025' lon='-75.9057398'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-186' action='modify' visible='true' lat='45.2610312' lon='-75.9057320'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-187' action='modify' visible='true' lat='45.2566919' lon='-75.9056906'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-188' action='modify' visible='true' lat='45.2551611' lon='-75.9056748'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-189' action='modify' visible='true' lat='45.2613486' lon='-75.9056402'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-190' action='modify' visible='true' lat='45.2604119' lon='-75.9055954'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-191' action='modify' visible='true' lat='45.2564759' lon='-75.9055839'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-192' action='modify' visible='true' lat='45.2589949' lon='-75.9055703'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-193' action='modify' visible='true' lat='45.2598013' lon='-75.9055496'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-194' action='modify' visible='true' lat='45.2560122' lon='-75.9055068'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-195' action='modify' visible='true' lat='45.2608214' lon='-75.9054826'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-196' action='modify' visible='true' lat='45.2584670' lon='-75.9053148'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-197' action='modify' visible='true' lat='45.2605127' lon='-75.9052811'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-198' action='modify' visible='true' lat='45.2569644' lon='-75.9052504'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-199' action='modify' visible='true' lat='45.2495159' lon='-75.9052434'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-200' action='modify' visible='true' lat='45.2591847' lon='-75.9052089'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-201' action='modify' visible='true' lat='45.3011925' lon='-75.9051985'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-202' action='modify' visible='true' lat='45.2616190' lon='-75.9051948'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-203' action='modify' visible='true' lat='45.2561497' lon='-75.9051887'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-204' action='modify' visible='true' lat='45.2594547' lon='-75.9051374'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-205' action='modify' visible='true' lat='45.2551810' lon='-75.9051211'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-206' action='modify' visible='true' lat='45.2589574' lon='-75.9050619'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-207' action='modify' visible='true' lat='45.2568966' lon='-75.9049785'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-208' action='modify' visible='true' lat='45.2571702' lon='-75.9049167'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-209' action='modify' visible='true' lat='45.2601882' lon='-75.9048953'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-210' action='modify' visible='true' lat='45.2580804' lon='-75.9048551'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-211' action='modify' visible='true' lat='45.2588608' lon='-75.9048237'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-212' action='modify' visible='true' lat='45.2594269' lon='-75.9048101'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-213' action='modify' visible='true' lat='45.2558236' lon='-75.9047936'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-214' action='modify' visible='true' lat='45.2618480' lon='-75.9047256'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-215' action='modify' visible='true' lat='45.2586584' lon='-75.9047064'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-216' action='modify' visible='true' lat='45.2554758' lon='-75.9046429'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-217' action='modify' visible='true' lat='45.2566185' lon='-75.9046416'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-218' action='modify' visible='true' lat='45.2543835' lon='-75.9045570'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-219' action='modify' visible='true' lat='45.2546033' lon='-75.9045471'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-220' action='modify' visible='true' lat='45.2598464' lon='-75.9044889'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-221' action='modify' visible='true' lat='45.2574408' lon='-75.9044773'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-222' action='modify' visible='true' lat='45.2585370' lon='-75.9044386'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-223' action='modify' visible='true' lat='45.2591030' lon='-75.9044250'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-224' action='modify' visible='true' lat='45.2577181' lon='-75.9044243'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-225' action='modify' visible='true' lat='45.2596716' lon='-75.9044072'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-226' action='modify' visible='true' lat='45.2554832' lon='-75.9043810'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-227' action='modify' visible='true' lat='45.2583832' lon='-75.9043791'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-228' action='modify' visible='true' lat='45.2563269' lon='-75.9042882'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-229' action='modify' visible='true' lat='45.2540623' lon='-75.9041742'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-230' action='modify' visible='true' lat='45.2574541' lon='-75.9041070'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-231' action='modify' visible='true' lat='45.2595241' lon='-75.9041070'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-232' action='modify' visible='true' lat='45.2549065' lon='-75.9040551'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-233' action='modify' visible='true' lat='45.2884512' lon='-75.9040493'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-234' action='modify' visible='true' lat='45.2593477' lon='-75.9040220'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-235' action='modify' visible='true' lat='45.2879542' lon='-75.9040145'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-236' action='modify' visible='true' lat='45.2580602' lon='-75.9039950'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-237' action='modify' visible='true' lat='45.2588193' lon='-75.9039736'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-238' action='modify' visible='true' lat='45.2551421' lon='-75.9039669'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-239' action='modify' visible='true' lat='45.2542070' lon='-75.9039014'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-240' action='modify' visible='true' lat='45.2559865' lon='-75.9038757'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-241' action='modify' visible='true' lat='45.2536955' lon='-75.9037372'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-242' action='modify' visible='true' lat='45.2592099' lon='-75.9037319'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-243' action='modify' visible='true' lat='45.2571126' lon='-75.9036932'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-244' action='modify' visible='true' lat='45.2551714' lon='-75.9036252'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-245' action='modify' visible='true' lat='45.2591180' lon='-75.9034821'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-246' action='modify' visible='true' lat='45.2556604' lon='-75.9034805'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-247' action='modify' visible='true' lat='45.2544714' lon='-75.9034725'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-248' action='modify' visible='true' lat='45.2535254' lon='-75.9034276'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-249' action='modify' visible='true' lat='45.2567581' lon='-75.9032638'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-250' action='modify' visible='true' lat='45.2994961' lon='-75.9031983'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-251' action='modify' visible='true' lat='45.2554871' lon='-75.9031131'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-252' action='modify' visible='true' lat='45.2593454' lon='-75.9031073'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-253' action='modify' visible='true' lat='45.2547121' lon='-75.9030820'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-254' action='modify' visible='true' lat='45.2537843' lon='-75.9029960'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-255' action='modify' visible='true' lat='45.2885371' lon='-75.9029598'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-256' action='modify' visible='true' lat='45.2564720' lon='-75.9029171'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-257' action='modify' visible='true' lat='45.2594255' lon='-75.9028289'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-258' action='modify' visible='true' lat='45.2575798' lon='-75.9027714'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-259' action='modify' visible='true' lat='45.2595852' lon='-75.9027121'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-260' action='modify' visible='true' lat='45.2887986' lon='-75.9027016'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-261' action='modify' visible='true' lat='45.3058397' lon='-75.9026983'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-262' action='modify' visible='true' lat='45.2549581' lon='-75.9026828'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-263' action='modify' visible='true' lat='45.2557666' lon='-75.9026595'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-264' action='modify' visible='true' lat='45.2561859' lon='-75.9025704'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-265' action='modify' visible='true' lat='45.2540441' lon='-75.9025646'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-266' action='modify' visible='true' lat='45.3056072' lon='-75.9024669'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-267' action='modify' visible='true' lat='45.2889583' lon='-75.9024533'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-268' action='modify' visible='true' lat='45.2590993' lon='-75.9024318'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-269' action='modify' visible='true' lat='45.2547937' lon='-75.9024304'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-270' action='modify' visible='true' lat='45.2578304' lon='-75.9023573'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-271' action='modify' visible='true' lat='45.2551874' lon='-75.9023106'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-272' action='modify' visible='true' lat='45.2559355' lon='-75.9022670'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-273' action='modify' visible='true' lat='45.2598566' lon='-75.9022651'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-274' action='modify' visible='true' lat='45.2543092' lon='-75.9021244'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-275' action='modify' visible='true' lat='45.2545131' lon='-75.9020904'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-276' action='modify' visible='true' lat='45.3052259' lon='-75.9020005'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-277' action='modify' visible='true' lat='45.2554135' lon='-75.9019435'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-278' action='modify' visible='true' lat='45.2590821' lon='-75.9019192'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-279' action='modify' visible='true' lat='45.2893112' lon='-75.9019044'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-280' action='modify' visible='true' lat='45.2581212' lon='-75.9018798'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-281' action='modify' visible='true' lat='45.2555728' lon='-75.9018274'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-282' action='modify' visible='true' lat='45.3050936' lon='-75.9018114'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-283' action='modify' visible='true' lat='45.2899607' lon='-75.9016925'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-284' action='modify' visible='true' lat='45.3049785' lon='-75.9016258'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-285' action='modify' visible='true' lat='45.2591794' lon='-75.9016123'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-286' action='modify' visible='true' lat='45.2552748' lon='-75.9014665'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-287' action='modify' visible='true' lat='45.2584043' lon='-75.9014127'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-288' action='modify' visible='true' lat='45.2896825' lon='-75.9013608'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='metal-halide' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-289' action='modify' visible='true' lat='45.3046581' lon='-75.9013440'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-290' action='modify' visible='true' lat='45.3041289' lon='-75.9013337'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-291' action='modify' visible='true' lat='45.3050740' lon='-75.9012776'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-292' action='modify' visible='true' lat='45.2588668' lon='-75.9012317'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-293' action='modify' visible='true' lat='45.2586721' lon='-75.9009842'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-294' action='modify' visible='true' lat='45.2867983' lon='-75.9009190'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-295' action='modify' visible='true' lat='45.2534032' lon='-75.9008937'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-296' action='modify' visible='true' lat='45.2535790' lon='-75.9006373'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-297' action='modify' visible='true' lat='45.2866294' lon='-75.9005999'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-298' action='modify' visible='true' lat='45.3051661' lon='-75.9005863'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-299' action='modify' visible='true' lat='45.3059436' lon='-75.9003774'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-300' action='modify' visible='true' lat='45.2864028' lon='-75.9003163'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-301' action='modify' visible='true' lat='45.2908913' lon='-75.9001843'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-302' action='modify' visible='true' lat='45.3054884' lon='-75.9001084'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-303' action='modify' visible='true' lat='45.3017702' lon='-75.9000039'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-304' action='modify' visible='true' lat='45.2556403' lon='-75.8999678'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-305' action='modify' visible='true' lat='45.2906351' lon='-75.8998619'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-306' action='modify' visible='true' lat='45.2832958' lon='-75.8992250'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-307' action='modify' visible='true' lat='45.2996092' lon='-75.8988522'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-308' action='modify' visible='true' lat='45.3091902' lon='-75.8984328'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-309' action='modify' visible='true' lat='45.3093763' lon='-75.8981423'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-310' action='modify' visible='true' lat='45.2650178' lon='-75.8980445'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-311' action='modify' visible='true' lat='45.2723154' lon='-75.8979457'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-312' action='modify' visible='true' lat='45.3002595' lon='-75.8978816'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-313' action='modify' visible='true' lat='45.2647506' lon='-75.8977160'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-314' action='modify' visible='true' lat='45.2720297' lon='-75.8975856'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-315' action='modify' visible='true' lat='45.2644613' lon='-75.8973602'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-316' action='modify' visible='true' lat='45.2855212' lon='-75.8973344'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-317' action='modify' visible='true' lat='45.2921679' lon='-75.8973295'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-318' action='modify' visible='true' lat='45.2717466' lon='-75.8972288'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-319' action='modify' visible='true' lat='45.2642721' lon='-75.8971276'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-320' action='modify' visible='true' lat='45.2812994' lon='-75.8970984'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-321' action='modify' visible='true' lat='45.2715073' lon='-75.8969277'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-322' action='modify' visible='true' lat='45.2710992' lon='-75.8968250'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-323' action='modify' visible='true' lat='45.2639952' lon='-75.8967873'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-324' action='modify' visible='true' lat='45.2522415' lon='-75.8967362'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-325' action='modify' visible='true' lat='45.2708620' lon='-75.8966459'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-326' action='modify' visible='true' lat='45.3093208' lon='-75.8965907'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-327' action='modify' visible='true' lat='45.2637118' lon='-75.8964394'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-328' action='modify' visible='true' lat='45.2634637' lon='-75.8961338'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-329' action='modify' visible='true' lat='45.3084464' lon='-75.8959441'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-330' action='modify' visible='true' lat='45.2634159' lon='-75.8959060'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-331' action='modify' visible='true' lat='45.2632382' lon='-75.8958567'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-332' action='modify' visible='true' lat='45.3084106' lon='-75.8958054'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='2' />
+  </node>
+  <node id='-333' action='modify' visible='true' lat='45.3036738' lon='-75.8957983'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-334' action='modify' visible='true' lat='45.3025526' lon='-75.8955483'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-335' action='modify' visible='true' lat='45.2989657' lon='-75.8952297'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-336' action='modify' visible='true' lat='45.2945194' lon='-75.8944011'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-337' action='modify' visible='true' lat='45.2711278' lon='-75.8941416'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-338' action='modify' visible='true' lat='45.3051970' lon='-75.8940636'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-339' action='modify' visible='true' lat='45.3024675' lon='-75.8940295'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-340' action='modify' visible='true' lat='45.3118490' lon='-75.8938659'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-341' action='modify' visible='true' lat='45.2712546' lon='-75.8938050'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-342' action='modify' visible='true' lat='45.2967557' lon='-75.8935449'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-343' action='modify' visible='true' lat='45.2713815' lon='-75.8934679'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-344' action='modify' visible='true' lat='45.2666210' lon='-75.8934369'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-345' action='modify' visible='true' lat='45.2801128' lon='-75.8933782'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-346' action='modify' visible='true' lat='45.3042360' lon='-75.8931873'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-347' action='modify' visible='true' lat='45.3124556' lon='-75.8931777'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-348' action='modify' visible='true' lat='45.2651268' lon='-75.8931609'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-349' action='modify' visible='true' lat='45.2976644' lon='-75.8930011'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-350' action='modify' visible='true' lat='45.2949424' lon='-75.8929169'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-351' action='modify' visible='true' lat='45.2651231' lon='-75.8928979'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-352' action='modify' visible='true' lat='45.2653002' lon='-75.8928144'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-353' action='modify' visible='true' lat='45.2950485' lon='-75.8926514'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-354' action='modify' visible='true' lat='45.2971740' lon='-75.8925294'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-355' action='modify' visible='true' lat='45.2654826' lon='-75.8925217'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-356' action='modify' visible='true' lat='45.2647480' lon='-75.8924290'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-357' action='modify' visible='true' lat='45.2948249' lon='-75.8923671'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-358' action='modify' visible='true' lat='45.3129644' lon='-75.8922131'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='2' />
+  </node>
+  <node id='-359' action='modify' visible='true' lat='45.3110428' lon='-75.8921846'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='7' />
+  </node>
+  <node id='-360' action='modify' visible='true' lat='45.2644504' lon='-75.8920575'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-361' action='modify' visible='true' lat='45.2976744' lon='-75.8920410'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-362' action='modify' visible='true' lat='45.3106513' lon='-75.8920299'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='7' />
+  </node>
+  <node id='-363' action='modify' visible='true' lat='45.3129190' lon='-75.8920284'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='2' />
+  </node>
+  <node id='-364' action='modify' visible='true' lat='45.2809079' lon='-75.8918272'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-365' action='modify' visible='true' lat='45.2641970' lon='-75.8916777'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-366' action='modify' visible='true' lat='45.2985716' lon='-75.8916584'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-367' action='modify' visible='true' lat='45.2929396' lon='-75.8915032'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-368' action='modify' visible='true' lat='45.2980299' lon='-75.8914560'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-369' action='modify' visible='true' lat='45.2935143' lon='-75.8914317'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-370' action='modify' visible='true' lat='45.2649783' lon='-75.8913911'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-371' action='modify' visible='true' lat='45.2644587' lon='-75.8912569'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-372' action='modify' visible='true' lat='45.2677072' lon='-75.8911831'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-373' action='modify' visible='true' lat='45.3082537' lon='-75.8911171'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-374' action='modify' visible='true' lat='45.2962400' lon='-75.8910968'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-375' action='modify' visible='true' lat='45.2647410' lon='-75.8910963'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-376' action='modify' visible='true' lat='45.3063253' lon='-75.8907172'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-377' action='modify' visible='true' lat='45.3085923' lon='-75.8901467'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-378' action='modify' visible='true' lat='45.2892033' lon='-75.8901152'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-379' action='modify' visible='true' lat='45.3121141' lon='-75.8900382'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-380' action='modify' visible='true' lat='45.2892193' lon='-75.8898242'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-381' action='modify' visible='true' lat='45.2828745' lon='-75.8888975'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-382' action='modify' visible='true' lat='45.3058620' lon='-75.8886459'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-383' action='modify' visible='true' lat='45.3082277' lon='-75.8885317'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-384' action='modify' visible='true' lat='45.3078507' lon='-75.8881016'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-385' action='modify' visible='true' lat='45.3039684' lon='-75.8879605'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-386' action='modify' visible='true' lat='45.3106231' lon='-75.8875126'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-387' action='modify' visible='true' lat='45.3046149' lon='-75.8872434'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-388' action='modify' visible='true' lat='45.2860955' lon='-75.8864045'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-389' action='modify' visible='true' lat='45.2863164' lon='-75.8863473'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-390' action='modify' visible='true' lat='45.3135917' lon='-75.8862992'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='electric' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='2' />
+  </node>
+  <node id='-391' action='modify' visible='true' lat='45.2730406' lon='-75.8855589'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-392' action='modify' visible='true' lat='45.3001738' lon='-75.8853790'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-393' action='modify' visible='true' lat='45.3029654' lon='-75.8853627'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-394' action='modify' visible='true' lat='45.2710616' lon='-75.8852468'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-395' action='modify' visible='true' lat='45.3003045' lon='-75.8851782'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-396' action='modify' visible='true' lat='45.2771582' lon='-75.8851215'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-397' action='modify' visible='true' lat='45.2945138' lon='-75.8846610'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-398' action='modify' visible='true' lat='45.3006362' lon='-75.8846066'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-399' action='modify' visible='true' lat='45.3008400' lon='-75.8842484'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-400' action='modify' visible='true' lat='45.3051329' lon='-75.8841174'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-401' action='modify' visible='true' lat='45.3101695' lon='-75.8838225'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-402' action='modify' visible='true' lat='45.3010648' lon='-75.8836064'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='8' />
+  </node>
+  <node id='-403' action='modify' visible='true' lat='45.2712536' lon='-75.8835829'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-404' action='modify' visible='true' lat='45.2709805' lon='-75.8834059'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-405' action='modify' visible='true' lat='45.3105416' lon='-75.8830733'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-406' action='modify' visible='true' lat='45.3013377' lon='-75.8830202'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='8' />
+  </node>
+  <node id='-407' action='modify' visible='true' lat='45.2679032' lon='-75.8828277'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-408' action='modify' visible='true' lat='45.2682229' lon='-75.8823146'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-409' action='modify' visible='true' lat='45.2712693' lon='-75.8814292'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-410' action='modify' visible='true' lat='45.2683179' lon='-75.8811161'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-411' action='modify' visible='true' lat='45.2836567' lon='-75.8807169'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-412' action='modify' visible='true' lat='45.2696246' lon='-75.8804971'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-413' action='modify' visible='true' lat='45.2746571' lon='-75.8803187'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-414' action='modify' visible='true' lat='45.2698247' lon='-75.8801681'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-415' action='modify' visible='true' lat='45.3044255' lon='-75.8797360'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-416' action='modify' visible='true' lat='45.3037756' lon='-75.8793682'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-417' action='modify' visible='true' lat='45.2729213' lon='-75.8793548'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-418' action='modify' visible='true' lat='45.2731139' lon='-75.8790675'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-419' action='modify' visible='true' lat='45.2689274' lon='-75.8787410'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-420' action='modify' visible='true' lat='45.3037001' lon='-75.8780641'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-421' action='modify' visible='true' lat='45.2743670' lon='-75.8770816'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-422' action='modify' visible='true' lat='45.2741207' lon='-75.8768402'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-423' action='modify' visible='true' lat='45.2913424' lon='-75.8758204'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-424' action='modify' visible='true' lat='45.3005043' lon='-75.8753322'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='8' />
+  </node>
+  <node id='-425' action='modify' visible='true' lat='45.2765004' lon='-75.8730522'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-426' action='modify' visible='true' lat='45.2764334' lon='-75.8727449'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-427' action='modify' visible='true' lat='45.2875414' lon='-75.8726761'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='12' />
+  </node>
+  <node id='-428' action='modify' visible='true' lat='45.2970208' lon='-75.8709081'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-429' action='modify' visible='true' lat='45.2951443' lon='-75.8682599'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-430' action='modify' visible='true' lat='45.2957324' lon='-75.8676830'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-431' action='modify' visible='true' lat='45.2973875' lon='-75.8673690'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-432' action='modify' visible='true' lat='45.2963390' lon='-75.8670879'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-433' action='modify' visible='true' lat='45.2764281' lon='-75.8669252'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-434' action='modify' visible='true' lat='45.2766898' lon='-75.8665013'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-435' action='modify' visible='true' lat='45.2895877' lon='-75.8657264'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-436' action='modify' visible='true' lat='45.2741780' lon='-75.8653874'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-437' action='modify' visible='true' lat='45.2859807' lon='-75.8647631'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='lamp_mount' v='straight_mast' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='5' />
+  </node>
+  <node id='-438' action='modify' visible='true' lat='45.2796170' lon='-75.8644380'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-439' action='modify' visible='true' lat='45.2810721' lon='-75.8641453'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-440' action='modify' visible='true' lat='45.2912605' lon='-75.8635883'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-441' action='modify' visible='true' lat='45.2907548' lon='-75.8632158'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-442' action='modify' visible='true' lat='45.2907553' lon='-75.8631791'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='3' />
+  </node>
+  <node id='-443' action='modify' visible='true' lat='45.2699885' lon='-75.8621747'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-444' action='modify' visible='true' lat='45.2734407' lon='-75.8618992'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-445' action='modify' visible='true' lat='45.2734801' lon='-75.8611381'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-446' action='modify' visible='true' lat='45.2717547' lon='-75.8606170'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-447' action='modify' visible='true' lat='45.2709059' lon='-75.8605028'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-448' action='modify' visible='true' lat='45.2741256' lon='-75.8604382'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-449' action='modify' visible='true' lat='45.2712008' lon='-75.8603149'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-450' action='modify' visible='true' lat='45.2706665' lon='-75.8602788'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-451' action='modify' visible='true' lat='45.2729781' lon='-75.8601279'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-452' action='modify' visible='true' lat='45.2719346' lon='-75.8599635'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-453' action='modify' visible='true' lat='45.2713833' lon='-75.8596513'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-454' action='modify' visible='true' lat='45.2708465' lon='-75.8596389'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-455' action='modify' visible='true' lat='45.2719717' lon='-75.8595712'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-456' action='modify' visible='true' lat='45.2715470' lon='-75.8593372'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-457' action='modify' visible='true' lat='45.2707287' lon='-75.8593143'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-458' action='modify' visible='true' lat='45.2709611' lon='-75.8592192'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-459' action='modify' visible='true' lat='45.2704309' lon='-75.8591494'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-460' action='modify' visible='true' lat='45.2701346' lon='-75.8589875'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-461' action='modify' visible='true' lat='45.2708325' lon='-75.8589451'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-462' action='modify' visible='true' lat='45.2705336' lon='-75.8587799'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-463' action='modify' visible='true' lat='45.2699559' lon='-75.8586745'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-464' action='modify' visible='true' lat='45.2702367' lon='-75.8586137'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-465' action='modify' visible='true' lat='45.2828560' lon='-75.8544374'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-466' action='modify' visible='true' lat='45.2763738' lon='-75.8520761'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-467' action='modify' visible='true' lat='45.2513951' lon='-75.8500250'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-468' action='modify' visible='true' lat='45.2795955' lon='-75.8495713'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-469' action='modify' visible='true' lat='45.2514619' lon='-75.8492771'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-470' action='modify' visible='true' lat='45.2804014' lon='-75.8491909'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='6' />
+  </node>
+  <node id='-471' action='modify' visible='true' lat='45.2845867' lon='-75.8480763'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-472' action='modify' visible='true' lat='45.2841158' lon='-75.8434882'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-473' action='modify' visible='true' lat='45.2755036' lon='-75.8402068'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-474' action='modify' visible='true' lat='45.2680564' lon='-75.8071061'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-475' action='modify' visible='true' lat='45.2694855' lon='-75.7870446'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='2' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-476' action='modify' visible='true' lat='45.2742893' lon='-75.7869793'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-477' action='modify' visible='true' lat='45.2747170' lon='-75.7864291'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-478' action='modify' visible='true' lat='45.2644903' lon='-75.7779720'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-479' action='modify' visible='true' lat='45.2647313' lon='-75.7773257'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-480' action='modify' visible='true' lat='45.2815363' lon='-75.7731541'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-481' action='modify' visible='true' lat='45.2606051' lon='-75.7731263'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='10' />
+  </node>
+  <node id='-482' action='modify' visible='true' lat='45.2599782' lon='-75.7724600'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-483' action='modify' visible='true' lat='45.2651538' lon='-75.7720111'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-484' action='modify' visible='true' lat='45.2718348' lon='-75.7704689'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-485' action='modify' visible='true' lat='45.2597797' lon='-75.7674211'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='metal' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-486' action='modify' visible='true' lat='45.2616095' lon='-75.7665028'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-487' action='modify' visible='true' lat='45.2553913' lon='-75.7663963'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-488' action='modify' visible='true' lat='45.2550376' lon='-75.7661984'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='wood' />
+    <tag k='lamp_flames' v='1' />
+  </node>
+  <node id='-489' action='modify' visible='true' lat='45.2553722' lon='-75.7661488'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-490' action='modify' visible='true' lat='45.2564145' lon='-75.7659848'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-491' action='modify' visible='true' lat='45.2566714' lon='-75.7658288'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-492' action='modify' visible='true' lat='45.2560224' lon='-75.7657675'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-493' action='modify' visible='true' lat='45.2555157' lon='-75.7656288'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='11' />
+  </node>
+  <node id='-494' action='modify' visible='true' lat='45.2556267' lon='-75.7655483'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-495' action='modify' visible='true' lat='45.2565970' lon='-75.7654429'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-496' action='modify' visible='true' lat='45.2551881' lon='-75.7653051'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+  <node id='-497' action='modify' visible='true' lat='45.2561437' lon='-75.7651915'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_type' v='led' />
+    <tag k='material' v='concrete' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='height' v='9' />
+  </node>
+</osm>
