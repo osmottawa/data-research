@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.4832714' lon='-75.5483783'>
+    <tag k='leisure' v='slipway' />
+    <tag k='surface' v='gravel' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.2729522' lon='-75.7002737'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='gravel' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.2834406' lon='-75.6964723'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='gravel' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.4122442' lon='-75.6725839'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='dirt' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.4412457' lon='-75.9527479'>
+    <tag k='waterway' v='access_point' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.2604436' lon='-75.7079609'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='dirt' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.2211048' lon='-75.6726782'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='dirt' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.2263550' lon='-75.6816763'>
+    <tag k='waterway' v='access_point' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.4361662' lon='-75.6884293'>
+    <tag k='waterway' v='access_point' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.2436254' lon='-75.6961628'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='gravel' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.2451679' lon='-75.6987152'>
+    <tag k='waterway' v='access_point' />
+    <tag k='canoe' v='yes' />
+    <tag k='trailer' v='no' />
+    <tag k='surface' v='gravel' />
+  </node>
+</osm>

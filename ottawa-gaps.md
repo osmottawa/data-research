@@ -91,6 +91,19 @@ Things for the console, not the files:
   - **Cobble Hill:** the pad is the bare concrete shape about 20 m south of the point.
 - [ ] **Closed splash pads:** 8 pads from the 2022 import are now closed in the city data: Whitehaven / George C. Brown, Walter Baker, Cyrville, Big Bird, Whiterock, Lawson, Boothfield and Kaladar. Tierney Park is gone from the city data altogether. These may be decommissioned or under renovation; check before removing them.
 
+## Boat launches (file ready)
+
+- [ ] [Ottawa-boat-launches/boat-launches.osm](Ottawa-boat-launches/boat-launches.osm): 11 launches. The city has 28 (it lists Roslyn and Dick Bell twice), and 17 are already in OSM as slipways or piers. The first scan said 18 were missing because it only looked for slipways.
+  - **Canoe launches (7):** `waterway=access_point` + `canoe=yes` + `trailer=no`, the most common combination worldwide. JOSM doesn't know `canoe=put_in`, which the 3 older Ottawa put-ins use.
+    - Claudette Cain, Honey Gables, Springhurst, Jock River Landing, Barney McCarney Landing, and 2 at David Barlett Park
+  - **Docks (3):** a `waterway=access_point` node each. The wiki says `man_made=pier` is for ways and areas only, not nodes. Draw the pier as a way (`floating=yes` if it floats, `surface=wood`) and put the node on its end.
+    - Pinhey's Point: the T-shaped dock in imagery is about 15 m from the point.
+    - Tighe Street and Bordeleau
+  - **How to place them:** put each node on the water's edge, joined to the water area's outline. Connect the path or road that leads to it.
+    - At Roslyn, end the `highway=service` at the slipway node. `service=slipway` on the road is optional. Don't tag the road itself `leisure=slipway` as well, or the map shows two icons.
+  - **Boat ramp (1):** Roslyn Park, as `leisure=slipway`.
+  - Every point is on the shoreline in imagery. Names are left off; the city's names are mostly "<park> Canoe Launch".
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -100,7 +113,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | [ ] Play structures | Parks_Inventory/15 | 1,719 | 43 |
 | [ ] Ball diamonds | Parks_Inventory/1, /2 | 355 | 39 |
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
-| [ ] Boat launches | Parks_Inventory/4 | 30 | 18 |
 | [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
