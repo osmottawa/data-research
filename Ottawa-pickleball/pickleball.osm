@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.2609271' lon='-75.5567177'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on the outdoor rink pad' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3396651' lon='-75.9295529'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='3' />
+    <tag k='description' v='Pickleball lines on a basketball court' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.3594726' lon='-75.7018630'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.4285481' lon='-75.6683930'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.3696780' lon='-75.6190554'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.2600698' lon='-75.9253348'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='3' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.3980447' lon='-75.7189726'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.4498787' lon='-75.6569796'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.3945250' lon='-75.6754471'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.3182604' lon='-75.9201625'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.1967717' lon='-75.8431110'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.4714487' lon='-75.4628827'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='3' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.1471310' lon='-75.6020669'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.3450918' lon='-75.6595094'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.4195849' lon='-75.4247836'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.3364414' lon='-75.6067239'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.1309033' lon='-75.7115221'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='4' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='45.2540007' lon='-75.7371328'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='45.2663915' lon='-75.5509217'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='45.3624703' lon='-75.7988065'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='clay' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='45.3206706' lon='-75.8959305'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.3269531' lon='-75.7835651'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='3' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='45.2709176' lon='-75.7334435'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='45.2209422' lon='-75.6870860'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='4' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.4559533' lon='-75.6775258'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='private' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='45.3883946' lon='-75.6853879'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='clay' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='private' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='45.2428471' lon='-75.9090504'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='3' />
+    <tag k='description' v='2 pickleball courts and lines on 1 tennis court' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.3209543' lon='-75.9399921'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='1' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='45.4785855' lon='-75.4544602'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='45.3665815' lon='-75.6902417'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='45.4195951' lon='-75.6038820'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='45.4596164' lon='-75.6139647'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='45.2734907' lon='-75.8465422'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='45.4070735' lon='-75.6726345'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.3497044' lon='-76.0393846'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on the outdoor rink pad' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='45.1627479' lon='-75.9396307'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='45.2395416' lon='-75.7311089'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.4989088' lon='-76.0925435'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='4' />
+    <tag k='description' v='Pickleball lines on the outdoor rink pad' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='45.2755712' lon='-75.6900144'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='45.3831699' lon='-75.7659266'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='45.3994210' lon='-75.6419263'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='4' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='45.3490041' lon='-75.9381964'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-43' action='modify' visible='true' lat='45.2301482' lon='-75.6420537'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='45.3111717' lon='-75.8901739'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-45' action='modify' visible='true' lat='45.3696789' lon='-75.7129014'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='45.2302695' lon='-75.4683876'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-47' action='modify' visible='true' lat='45.3769355' lon='-75.6589924'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='customers' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='45.2679148' lon='-75.6958239'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-49' action='modify' visible='true' lat='45.3613273' lon='-75.6818618'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='45.4404729' lon='-75.6323981'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-51' action='modify' visible='true' lat='45.3282095' lon='-75.9023620'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='acrylic' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='45.3236796' lon='-75.5831383'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='courts' v='2' />
+    <tag k='description' v='Pickleball lines on tennis courts' />
+    <tag k='outdoor' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+    <tag k='access' v='permissive' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='45.4420084' lon='-75.4801641'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='access' v='permissive' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='45.4419853' lon='-75.4802647'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='pickleball' />
+    <tag k='access' v='permissive' />
+  </node>
+</osm>

@@ -73,9 +73,14 @@ Things for the console, not the files:
   - Bingham Park is mapped 65 m away.
   - Ottawa Athletic Club is mapped 65 m away as one pitch with `courts=1`, but the city says 6 outdoor courts. Worth checking.
 
-## Next
+## Pickleball courts (file ready)
 
-- [ ] **Pickleball**: 47 outdoor tennis courts have pickleball lines that OSM doesn't record. The tennis layer's own `PICKLEBALL` count shows the same: 71 sites have lines. Add `pickleball` to `sport` on the existing courts. About 13 pickleball records (Parks_Inventory/27) have no court nearby in OSM. The 17 indoor courts in gyms are skipped.
+- [ ] [Ottawa-pickleball/pickleball.osm](Ottawa-pickleball/pickleball.osm): 54 sites, 112 courts. The city has 86 outdoor sites; 32 are already in OSM.
+  - **What they are:** 47 sites with lines on tennis courts, 3 on rink pads, 1 on a basketball court, and Parade Drive (2 dedicated courts plus lines on a tennis court).
+  - **How they're mapped:** Ottawa draws each pickleball court as its own `leisure=pitch` + `sport=pickleball` over the court it's painted on, and has 101 such courts. Nothing uses `sport=tennis;pickleball`. So each site is one node with `courts=N` and a description of what it's painted on, to redraw as courts if you want.
+  - **Tags:** follow the existing pickleball courts: `outdoor`, `seasonal`, `surface`, `lit`, `access` and `wheelchair` from the city data.
+  - **Sweetvalley Drive (2 nodes):** these are city records added in September 2025 with no details. OSM has a court at the spot tagged `sport=tennis`. If it's really a pickleball court, change that court's `sport` and drop the 2 nodes.
+- Indoor courts (17, in gyms) are left out.
 
 ## Small leftovers: spot-check before building
 
