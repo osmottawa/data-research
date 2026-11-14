@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.5154901' lon='-75.3843482'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3653185' lon='-75.6426121'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.2472180' lon='-75.9148291'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.1594307' lon='-75.6463666'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.4232487' lon='-75.6521146'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.2664825' lon='-75.7565706'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.3502639' lon='-75.9500766'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.2659816' lon='-75.7573054'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.4668682' lon='-75.5455415'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.2675670' lon='-75.8269570'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.3611333' lon='-75.6441333'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.3579887' lon='-75.6423972'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.3626774' lon='-75.6404326'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.4295357' lon='-75.5630603'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.4375033' lon='-75.5667321'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.3971511' lon='-75.7316846'>
+    <tag k='leisure' v='playground' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.4567887' lon='-75.5446217'>
+    <tag k='leisure' v='playground' />
+  </node>
+</osm>

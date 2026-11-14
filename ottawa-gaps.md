@@ -119,13 +119,25 @@ Things for the console, not the files:
     - The console prints what imagery showed for each.
 - Not written: Norman Johnston (an OSM diamond 112 m away is probably it).
 
+## Playgrounds (file ready)
+
+- [ ] [Ottawa-playgrounds/playgrounds.osm](Ottawa-playgrounds/playgrounds.osm): 17 `leisure=playground` nodes, to redraw as areas if you want.
+  - **How the city records become playgrounds:** the city has 1,719 records, play areas and single structures by age group. Records of a park within 40 m of each other are grouped into one playground, which gives 794, and 769 are already in OSM.
+  - **Visible in imagery:** Hillside Estates, William Bradley and Lola. Small structures show at Harthill Way (2 nodes), unnamed park 1644 and Forest Glen.
+  - **Not visible:**
+    - under trees: Rooney, Blackburn, Isaiah Scharfe, and unnamed parks 1645 (2 nodes) and 1647
+    - Louis Turner is a new park whose imagery still shows a meadow
+    - Cobe Parkette has no imagery
+  - **Bob MacQuarrie:** the point is on the building, so it may be an indoor play area.
+  - **Fisher Park:** don't add the node. The area there tagged `leisure=water_park` (w154548031) is really the playground: sand and equipment, with the splash pad mapped next to it. Retag it instead.
+- Not written, 8 playgrounds with an OSM playground 68–109 m away, probably the same one: Trend, Notre-Dame-des-Champs, Green Briar, Village Green, Riverain, Glebe, Centennial and Stanstead.
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
 
 | | City layer | City | Missing |
 |---|---|---|---|
-| [ ] Play structures | Parks_Inventory/15 | 1,719 | 43 |
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
 | [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
