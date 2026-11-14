@@ -155,6 +155,11 @@ Things for the console, not the files:
 - Not written, 3 sites with OSM bike parking 27–44 m away, probably the same: a hanger rack, 2 U-racks at a pharmacy, and a ring-and-post.
 - [ ] **Idea:** the 42 mapped sites' bike parking has no `seasonal` tag. Adding `seasonal=no` + `winter_service=yes` would show which racks are usable in winter; no OSM bike parking in Ottawa says so yet.
 
+## Sports fields (file ready)
+
+- [ ] [Ottawa-sports-fields/sports-fields.osm](Ottawa-sports-fields/sports-fields.osm): 1 field, the Kings Grant Park general open field (`sport=multi`, 50 × 70 m), visible in imagery. It's written over the 2018 output, with tags following that import. The city has 526 park fields, and 525 are already in OSM.
+- School-ground fields are left out. Their points are poor: on portables, between walkways, on small lawns.
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -162,7 +167,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | | City layer | City | Missing |
 |---|---|---|---|
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
-| [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
 
 ## Nothing to do
 
