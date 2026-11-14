@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.4239469' lon='-76.2596661'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3687071' lon='-75.7143325'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.4507814' lon='-75.5384513'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.4364817' lon='-75.6528900'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.2869219' lon='-75.7150941'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.4020615' lon='-75.6827248'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.5153413' lon='-75.3888264'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.3140949' lon='-75.6103177'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.3206123' lon='-75.7075295'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.3510348' lon='-75.8159385'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.2613063' lon='-75.5557113'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.3735455' lon='-75.7398638'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.2858217' lon='-75.8591897'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.2328106' lon='-75.9023073'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.2720149' lon='-75.7225532'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.3766146' lon='-75.6401601'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.3154316' lon='-75.8350909'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='45.4087308' lon='-75.7035589'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='45.2821353' lon='-75.7634258'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='45.3196467' lon='-75.8216789'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='45.3741648' lon='-75.6090064'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.2587460' lon='-75.9197745'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='45.4281476' lon='-75.6185794'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='45.3319611' lon='-75.7923678'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.3702245' lon='-75.6860691'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='45.3075657' lon='-75.8876542'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='45.3463163' lon='-75.6451420'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.3355794' lon='-75.7458046'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='45.1880967' lon='-75.8338127'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='45.1506094' lon='-75.4499194'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='45.3819139' lon='-75.6579598'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='45.3613461' lon='-75.6816340'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='45.4130147' lon='-75.7003547'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='45.4136946' lon='-75.6736933'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.3671719' lon='-75.7454004'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='45.2883647' lon='-75.8456918'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='45.2372303' lon='-75.4662910'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.3634169' lon='-75.6719595'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='45.3631303' lon='-75.7493572'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='45.4801352' lon='-75.5233216'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='45.3514768' lon='-75.8284764'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='45.4255757' lon='-75.6714962'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-43' action='modify' visible='true' lat='45.2358582' lon='-75.4739013'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-44' action='modify' visible='true' lat='45.4813444' lon='-75.4889855'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-45' action='modify' visible='true' lat='45.3861417' lon='-75.7297288'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-46' action='modify' visible='true' lat='45.4625612' lon='-75.4964901'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-47' action='modify' visible='true' lat='45.3980554' lon='-75.7184468'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-48' action='modify' visible='true' lat='45.4667702' lon='-75.4836370'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-49' action='modify' visible='true' lat='45.4297697' lon='-75.6699482'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-50' action='modify' visible='true' lat='45.2663450' lon='-75.5514697'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-51' action='modify' visible='true' lat='45.2671311' lon='-75.6962029'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='45.4513264' lon='-75.6316143'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='45.3238738' lon='-75.5838063'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-54' action='modify' visible='true' lat='45.2763833' lon='-75.8815561'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-55' action='modify' visible='true' lat='45.2604744' lon='-75.6923152'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-56' action='modify' visible='true' lat='45.4253938' lon='-75.5123198'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-57' action='modify' visible='true' lat='45.3073843' lon='-75.6006408'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='45.2361191' lon='-75.7301208'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-59' action='modify' visible='true' lat='45.1808344' lon='-75.8414397'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='05:00-23:00' />
+  </node>
+  <node id='-60' action='modify' visible='true' lat='45.4518508' lon='-75.5769845'>
+    <tag k='amenity' v='toilets' />
+    <tag k='access' v='yes' />
+    <tag k='fee' v='no' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='portable' v='yes' />
+    <tag k='toilets:disposal' v='chemical' />
+    <tag k='unisex' v='yes' />
+    <tag k='seasonal' v='yes' />
+    <tag k='opening_hours' v='Apr-Oct 05:00-23:00' />
+  </node>
+</osm>
