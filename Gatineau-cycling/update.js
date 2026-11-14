@@ -617,7 +617,9 @@ async function main() {
   if (run("roads")) await onRoad(city, osmWays, local(ROAD_OUTPUT));
 }
 
-main().catch(e => {
-  console.error(`\n${e.message}`);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch(e => {
+    console.error(`\n${e.message}`);
+    process.exit(1);
+  });
+} else module.exports = { SegmentIndex, toXY, toLonLat, sample, uncovered, alongside, overpass, buildFixOSM };
