@@ -106,18 +106,11 @@ Things for the console, not the files:
 
 ## Ball diamonds (file ready)
 
-- [ ] [Ottawa-ball-diamonds/ball-diamonds.osm](Ottawa-ball-diamonds/ball-diamonds.osm): 42 diamonds. The city has 354 in two layers, parks and school grounds, and 312 are already in OSM.
-  - **6 in parks:** Village Green, Connaught, Princess Louise, Laroche, Bingham and Whitehaven.
-  - **36 at schools.** The school layer was never imported; Ottawa's existing diamonds come from the park layer.
-  - **Tags:** follow the earlier import: `sport=baseball` with `baseball:diamond=softball|baseball|t-ball` (Ottawa doesn't use `sport=softball`), the `baseball:*` details for park diamonds, and `ref` / `ref:park`.
+- [ ] [Ottawa-ball-diamonds/ball-diamonds.osm](Ottawa-ball-diamonds/ball-diamonds.osm): 6 diamonds in parks: Village Green, Connaught, Princess Louise, Laroche, Bingham and Whitehaven. The city has 280 park diamonds, and 274 are already in OSM.
+  - **Tags:** follow the earlier import: `sport=baseball` with `baseball:diamond=softball|baseball|t-ball` (Ottawa doesn't use `sport=softball`), the `baseball:*` details, `access=yes`, and `ref` / `ref:park`.
     - Generic names ("Ball Diamond", "T-Ball") are dropped, and so are the city's notes in brackets.
-    - Park diamonds get `access=yes` like the existing ones; school diamonds get no `access`.
-  - **Imagery:**
-    - 14 school diamonds show an infield at the point.
-    - At 10, the point is clearly off: on a rink pad, a parking lot, the Laroche basketball court, the Bingham tennis court, a playground or a construction site, or under trees.
-    - The rest showed nothing clear; a school diamond can be just a backstop on grass.
-    - The console prints what imagery showed for each.
-- Not written: Norman Johnston (an OSM diamond 112 m away is probably it).
+  - **Imagery:** at 5 of the 6 the point is off: on a rink pad, in a parking lot, under trees, in the Laroche basketball court (the dirt field west of it may be the diamond), and at the Bingham tennis court. Whitehaven showed nothing clear. The console prints these notes.
+- School-ground diamonds are left out. Their points are poor.
 
 ## Playgrounds (file ready)
 
@@ -160,13 +153,14 @@ Things for the console, not the files:
 - [ ] [Ottawa-sports-fields/sports-fields.osm](Ottawa-sports-fields/sports-fields.osm): 1 field, the Kings Grant Park general open field (`sport=multi`, 50 × 70 m), visible in imagery. It's written over the 2018 output, with tags following that import. The city has 526 park fields, and 525 are already in OSM.
 - School-ground fields are left out. Their points are poor: on portables, between walkways, on small lawns.
 
-## Small leftovers: spot-check before building
+## Sledding hills (file ready)
 
-Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
-
-| | City layer | City | Missing |
-|---|---|---|---|
-| [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
+- [ ] [Ottawa-sledding-hills/sledding-hills.osm](Ottawa-sledding-hills/sledding-hills.osm): 18 hills, written over the 2017 output. The city lists 74 approved hills, and 56 are in OSM. Most of the missing ones were approved in 2024.
+  - **Tags:** what the 2017 hills carry now that mappers have tidied them: `piste:type=sled`, `piste:difficulty=novice`, `seasonal=winter`, `operator=City of Ottawa`, `ref`, and the city's site notes as `description` ("gradual slope to the east, unlit, no parking").
+    - Not included: `source`, the 2017 `area=yes` and `route=piste` (wrong on nodes), and the generic name "Sledding Hill".
+  - **Imagery can't confirm these,** since any grassy hill looks the same in summer. Every city hill is "Approved site", 64 of them conditionally.
+  - **Uplands Riverside** has 2 records 36 m apart, written as one hill.
+- Already in OSM but more than 150 m from the city point: Alfred Taylor (183 m) and Gardenway (160 m), found by their 2017 `ref`; Conroy Pit (582 m), found by name.
 
 ## Nothing to do
 
