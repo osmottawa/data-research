@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.4495743' lon='-75.6768517'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='t-ball' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='no' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='standard' />
+    <tag k='baseball:centrefield' v='20' />
+    <tag k='baseball:rightfield' v='20' />
+    <tag k='baseball:warning_track' v='no' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='no' />
+    <tag k='baseball:dugout_fence' v='no' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='no' />
+    <tag k='baseball:bleachers' v='no' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='no' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='33139' />
+    <tag k='ref:park' v='1142' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3590425' lon='-75.7797955'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='no' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='baseball' />
+    <tag k='baseball:centrefield' v='120' />
+    <tag k='baseball:rightfield' v='90' />
+    <tag k='baseball:warning_track' v='no' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='yes' />
+    <tag k='baseball:dugout_fence' v='yes' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='no' />
+    <tag k='baseball:bleachers' v='yes' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='yes' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='33045' />
+    <tag k='ref:park' v='275' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.4823484' lon='-75.4945484'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='t-ball' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='no' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='other' />
+    <tag k='baseball:centrefield' v='40' />
+    <tag k='baseball:rightfield' v='30' />
+    <tag k='baseball:warning_track' v='no' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='no' />
+    <tag k='baseball:dugout_fence' v='no' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='no' />
+    <tag k='baseball:bleachers' v='no' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='no' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='33207' />
+    <tag k='ref:park' v='1329' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.4090114' lon='-75.7281046'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 02' />
+    <tag k='name:fr' v='Terrain de balle 02' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='yes' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='baseball' />
+    <tag k='baseball:centrefield' v='60' />
+    <tag k='baseball:rightfield' v='55' />
+    <tag k='baseball:warning_track' v='no' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='no' />
+    <tag k='baseball:dugout_fence' v='yes' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='no' />
+    <tag k='baseball:bleachers' v='yes' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='yes' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='3846' />
+    <tag k='ref:park' v='76' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.4331562' lon='-75.6963456'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='yes' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='baseball' />
+    <tag k='baseball:centrefield' v='57' />
+    <tag k='baseball:rightfield' v='58' />
+    <tag k='baseball:warning_track' v='yes' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='no' />
+    <tag k='baseball:dugout_fence' v='yes' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='no' />
+    <tag k='baseball:bleachers' v='no' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='yes' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='3892' />
+    <tag k='ref:park' v='208' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.3619003' lon='-75.7763620'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='t-ball' />
+    <tag k='access' v='yes' />
+    <tag k='lit' v='no' />
+    <tag k='wheelchair' v='no' />
+    <tag k='baseball:backstop' v='standard' />
+    <tag k='baseball:centrefield' v='75' />
+    <tag k='baseball:rightfield' v='70' />
+    <tag k='baseball:warning_track' v='no' />
+    <tag k='baseball:outfield_fence' v='no' />
+    <tag k='baseball:line_fence' v='no' />
+    <tag k='baseball:dugout_fence' v='no' />
+    <tag k='baseball:scoreboard' v='no' />
+    <tag k='baseball:irrigation' v='yes' />
+    <tag k='baseball:bleachers' v='no' />
+    <tag k='baseball:safety_net' v='no' />
+    <tag k='baseball:players_benches' v='yes' />
+    <tag k='baseball:bullpen' v='no' />
+    <tag k='ref' v='3884' />
+    <tag k='ref:park' v='797' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.3628684' lon='-75.6776950'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36050' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.3479456' lon='-75.7217875'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36018' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.3929857' lon='-75.6206219'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36055' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.3493823' lon='-75.8093504'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - Softball East' />
+    <tag k='name:fr' v='Terrain de balle - Balle molle Est' />
+    <tag k='ref' v='36048' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.3748861' lon='-75.7714584'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36013' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.4681904' lon='-76.2129557'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36037' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.3558792' lon='-75.7282485'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - Softball South East' />
+    <tag k='name:fr' v='Terrain de balle - Balle molle Sud-est' />
+    <tag k='ref' v='36061' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.4565075' lon='-75.6037894'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - East' />
+    <tag k='name:fr' v='Terrain de balle - Est' />
+    <tag k='ref' v='36006' />
+  </node>
+  <node id='-15' action='modify' visible='true' lat='45.2900489' lon='-75.8853039'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Diamond 01' />
+    <tag k='name:fr' v='Terrain de balle 01' />
+    <tag k='ref' v='36020' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.4564838' lon='-75.6051458'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - West' />
+    <tag k='name:fr' v='Terrain de balle - Ouest' />
+    <tag k='ref' v='36005' />
+  </node>
+  <node id='-17' action='modify' visible='true' lat='45.2922878' lon='-75.8833891'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36043' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='45.3320076' lon='-75.9094557'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36069' />
+  </node>
+  <node id='-19' action='modify' visible='true' lat='45.3936433' lon='-75.6454145'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 02' />
+    <tag k='name:fr' v='Terrain de balle 02' />
+    <tag k='ref' v='36063' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='45.1633610' lon='-75.9409899'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36059' />
+  </node>
+  <node id='-21' action='modify' visible='true' lat='45.3581590' lon='-75.7828875'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36030' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.3295460' lon='-75.7592301'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36027' />
+  </node>
+  <node id='-23' action='modify' visible='true' lat='45.2150802' lon='-75.5170607'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36017' />
+  </node>
+  <node id='-24' action='modify' visible='true' lat='45.3816913' lon='-75.7573718'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36072' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.2753169' lon='-75.7822842'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36049' />
+  </node>
+  <node id='-26' action='modify' visible='true' lat='45.3599138' lon='-75.7014910'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36016' />
+  </node>
+  <node id='-27' action='modify' visible='true' lat='45.3318466' lon='-75.9077978'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36071' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.3560800' lon='-75.7288088'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - Softball South West' />
+    <tag k='name:fr' v='Terrain de balle - Balle molle Sud-ouest' />
+    <tag k='ref' v='36060' />
+  </node>
+  <node id='-29' action='modify' visible='true' lat='45.2299946' lon='-75.9005097'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 02' />
+    <tag k='name:fr' v='Terrain de balle 02' />
+    <tag k='ref' v='36053' />
+  </node>
+  <node id='-30' action='modify' visible='true' lat='45.2292462' lon='-75.9015538'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 01' />
+    <tag k='name:fr' v='Terrain de balle 01' />
+    <tag k='ref' v='36026' />
+  </node>
+  <node id='-31' action='modify' visible='true' lat='45.3055824' lon='-75.8968817'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36066' />
+  </node>
+  <node id='-32' action='modify' visible='true' lat='45.2972937' lon='-75.8838728'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 01' />
+    <tag k='name:fr' v='Terrain de balle 01' />
+    <tag k='ref' v='36024' />
+  </node>
+  <node id='-33' action='modify' visible='true' lat='45.3895141' lon='-76.1887099'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36036' />
+  </node>
+  <node id='-34' action='modify' visible='true' lat='45.2829356' lon='-75.7610864'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36008' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.3029457' lon='-75.8993955'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36040' />
+  </node>
+  <node id='-36' action='modify' visible='true' lat='45.1271108' lon='-75.7198083'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='baseball' />
+    <tag k='ref' v='36041' />
+  </node>
+  <node id='-37' action='modify' visible='true' lat='45.1852949' lon='-75.8368645'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36064' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.3338599' lon='-75.7945376'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='ref' v='36010' />
+  </node>
+  <node id='-39' action='modify' visible='true' lat='45.2947238' lon='-75.8790191'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 02' />
+    <tag k='name:fr' v='Terrain de balle 02' />
+    <tag k='ref' v='36025' />
+  </node>
+  <node id='-40' action='modify' visible='true' lat='45.3122246' lon='-75.8828041'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond - West' />
+    <tag k='name:fr' v='Terrain de balle - Ouest' />
+    <tag k='ref' v='36035' />
+  </node>
+  <node id='-41' action='modify' visible='true' lat='45.4259387' lon='-75.6442335'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 02' />
+    <tag k='name:fr' v='Terrain de balle 02' />
+    <tag k='ref' v='36029' />
+  </node>
+  <node id='-42' action='modify' visible='true' lat='45.3936037' lon='-75.6467892'>
+    <tag k='leisure' v='pitch' />
+    <tag k='sport' v='baseball' />
+    <tag k='baseball:diamond' v='softball' />
+    <tag k='name' v='Ball Diamond 01' />
+    <tag k='name:fr' v='Terrain de balle 01' />
+    <tag k='ref' v='36062' />
+  </node>
+</osm>

@@ -104,6 +104,21 @@ Things for the console, not the files:
   - **Boat ramp (1):** Roslyn Park, as `leisure=slipway`.
   - Every point is on the shoreline in imagery. Names are left off; the city's names are mostly "<park> Canoe Launch".
 
+## Ball diamonds (file ready)
+
+- [ ] [Ottawa-ball-diamonds/ball-diamonds.osm](Ottawa-ball-diamonds/ball-diamonds.osm): 42 diamonds. The city has 354 in two layers, parks and school grounds, and 312 are already in OSM.
+  - **6 in parks:** Village Green, Connaught, Princess Louise, Laroche, Bingham and Whitehaven.
+  - **36 at schools.** The school layer was never imported; Ottawa's existing diamonds come from the park layer.
+  - **Tags:** follow the earlier import: `sport=baseball` with `baseball:diamond=softball|baseball|t-ball` (Ottawa doesn't use `sport=softball`), the `baseball:*` details for park diamonds, and `ref` / `ref:park`.
+    - Generic names ("Ball Diamond", "T-Ball") are dropped, and so are the city's notes in brackets.
+    - Park diamonds get `access=yes` like the existing ones; school diamonds get no `access`.
+  - **Imagery:**
+    - 14 school diamonds show an infield at the point.
+    - At 10, the point is clearly off: on a rink pad, a parking lot, the Laroche basketball court, the Bingham tennis court, a playground or a construction site, or under trees.
+    - The rest showed nothing clear; a school diamond can be just a backstop on grass.
+    - The console prints what imagery showed for each.
+- Not written: Norman Johnston (an OSM diamond 112 m away is probably it).
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -111,12 +126,10 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | | City layer | City | Missing |
 |---|---|---|---|
 | [ ] Play structures | Parks_Inventory/15 | 1,719 | 43 |
-| [ ] Ball diamonds | Parks_Inventory/1, /2 | 355 | 39 |
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
 | [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
-| [ ] Skateparks | Parks_Inventory/16 | 32 | 7 |
 
 ## Nothing to do
 
@@ -124,6 +137,9 @@ These layers are already fully or almost fully in OSM:
 - volleyball courts (37 of 39)
 - wading pools (52 of 53)
 - outdoor pools (11 of 11)
+- skateparks (checked 2026-11-14): every permanent skatepark is in OSM. Of the 7 left:
+  - 6 are "Roving Skateboard Park Location" records. These are stops of the city's portable summer ramps; the data is from 2018–2022 and nothing permanent is there. The 2017 import file had 7 of them, and none are in OSM now.
+  - #59126 (2025) is the Trillium Park BMX track, already mapped as "Dragon Canyon BMX track".
 - park parking lots (404 of 409, checked 2026-11-14). The first scan said 19 were missing, but most are mapped as multipolygons, many with the city's `ref`. Of the 5 left:
   - Barnett Park is mapped 55 m away.
   - Reid Park, Ottawa South Community Centre and Sindy Hooper show no lot in imagery.
