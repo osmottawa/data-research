@@ -39,9 +39,9 @@ Things for the console, not the files:
 - 50 benches from the 2020 import aren't in the city inventory anymore; they may have been removed or moved.
 - The 10 "Transfer Bench" records are skipped. They're sandbox transfer stations at playgrounds.
 
-## Basketball courts (file ready)
+## Basketball courts (done 2026-11-14)
 
-- [ ] [Ottawa-Basketball-Courts/basketball.osm](Ottawa-Basketball-Courts/basketball.osm): 10 courts, written over the 2017 output.
+- [x] [Ottawa-Basketball-Courts/basketball.osm](Ottawa-Basketball-Courts/basketball.osm): 10 courts, written over the 2017 output.
   - 8 are hoops on summer rink pads, added as `leisure=pitch` + `sport=basketball` inside the rink, the way Ottawa maps the others: Optimiste ×2, Heatherington ×2, Eugène Martineau ×2, Alfred Taylor, Dunrobin.
   - 2 are standalone courts visible in imagery: Kilreen Park (`hoops=2`, a full court even though the city says "key") and Barry Mullen Park.
   - `hoops` comes from the city's court type: full = 2, half or key = 1, none for small or non-standard courts.
@@ -49,6 +49,19 @@ Things for the console, not the files:
   - 3 courts are already in OSM 47–78 m from the city point: Laroche, Westcliffe and Reid parks.
   - 11 showed no court in imagery and are listed in `CHECKED` in [update.js](Ottawa-Basketball-Courts/update.js).
 - 5 courts from the 2017 import (`ref` 26036, 26167, 35185, 26212, 3728) are no longer in the city data. They may have been removed; check them in the field.
+
+## Outdoor rinks (file ready)
+
+- [ ] [Ottawa-rinks/outdoor-rinks.osm](Ottawa-rinks/outdoor-rinks.osm): 20 rinks, written over the 2018 output.
+  - **9 puddles:** unboarded flooded patches that summer imagery can't confirm, written as the city has them.
+  - **10 rinks with boards or a refrigerated surface:**
+    - Canterbury Park (refrigerated)
+    - Centennial Park in Manotick (its pad is mapped only as two basketball courts)
+    - Cattail Creek, Laroche, Glebe Memorial, Riverain, Richmond Lions, Lyndon Hooper, Bradley-Craig and Roland Ashman
+  - **Brewer Park oval:** the city now lists it separately from the rink. The existing node has `ice_rink:type=rink_with_puddle_and_oval`.
+  - Tags copy the 2018 import, including `operator=Community` for rinks maintained by the community (19 of the 20).
+- Not written, 5 rinks the OSM rink of the same park 75–154 m away probably is: Nimiq, Water Dragon, Guinness, Babe McRae (an untagged rink area, w1316373217), Harkness. At Harkness, imagery shows a boarded rink at the city point, not at the OSM node.
+- [ ] **31 rinks from the 2018 import whose park has no open city rink anymore.** 26 parks dropped out of the city's list since 2018 and 7 records are marked closed, among them Clarke Fields, Lincoln Heights, Butterfly, Paget and the Glebe Community Centre rink. `node update.js` lists them. These are candidates to delete or mark disused, so check before removing; community rinks come and go.
 
 ## Next
 
@@ -62,15 +75,13 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 |---|---|---|---|
 | [ ] Play structures | Parks_Inventory/15 | 1,719 | 43 |
 | [ ] Ball diamonds | Parks_Inventory/1, /2 | 355 | 39 |
-| [ ] Outdoor rinks | Parks_Inventory/13 | 270 | 26 |
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
-| [ ] Park parking lots | Parks_Inventory/14 | 409 | 19 |
 | [ ] Boat launches | Parks_Inventory/4 | 30 | 18 |
 | [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
 | [ ] Splash pads | Parks_Inventory/18 | 161 | 14 |
-| [ ] Tennis courts | Parks_Inventory/21 | 132 | 9 |
+| [ ] Tennis courts | Parks_Inventory/21 | 132 | 4 |
 | [ ] Skateparks | Parks_Inventory/16 | 32 | 7 |
 
 ## Nothing to do
@@ -79,6 +90,10 @@ These layers are already fully or almost fully in OSM:
 - volleyball courts (37 of 39)
 - wading pools (52 of 53)
 - outdoor pools (11 of 11)
+- park parking lots (404 of 409, checked 2026-11-14). The first scan said 19 were missing, but most are mapped as multipolygons, many with the city's `ref`. Of the 5 left:
+  - Barnett Park is mapped 55 m away.
+  - Reid Park, Ottawa South Community Centre and Sindy Hooper show no lot in imagery.
+  - François Dupuis has no position.
 - public toilets (the 60 park portables were uploaded on 2026-11-14)
 - water fountains, bike repair stations, sidewalks and pathway links (updated on 2026-11-13)
 - winter-maintained cycling network (12,600 Ottawa ways already have `winter_service`)
