@@ -72,6 +72,8 @@ const FIX_SHARE = 0.7;     // an OSM way is changed only if this share of it run
 // on the centreline), so the side is taken from where the line runs relative to the OSM road
 const ROAD_DIST = 12;      // a city on-road line belongs to the nearest parallel OSM road this close
 const CENTRE = 1.5;        // ...and to both sides of it when closer than this (one-way roads: the right side)
+const CENTRE_TWO_WAY = 4;  // ...or this, for a line the city marks as two-way (DIREC_UNIQ "Non") along a two-way road:
+                           // one line for both directions, a few meters off the OSM centreline
 const SEPARATE = 4;        // parts with an OSM cycleway or path that allows bikes this close are mapped separately
 const BIN = 2;             // road coverage is counted in stretches this long
 const ROAD_GAP = 30;       // a road side is tagged if the stretch without the facility is at most this long
@@ -281,7 +283,9 @@ function buildNewOSM(ways) {
       for (const [other, first] of grid.get(key(px, py)) || []) {
         const target = lines[other];
         if (other === l || target.includes(node)) continue; // own line or already connected
-        const i = target.indexOf(first), a = first.p, b = target[i + 1].p;
+        const i = target.indexOf(first);
+        if (i < 0) continue; // the segment's first node was replaced, its new segment is registered too
+        const a = first.p, b = target[i + 1].p;
         const len = dist(a, b), t = Math.max(0, Math.min(len, ((px - a[0]) * (b[0] - a[0]) + (py - a[1]) * (b[1] - a[1])) / len));
         const d = Math.hypot(px - a[0] - (b[0] - a[0]) * t / len, py - a[1] - (b[1] - a[1]) * t / len);
         if (d <= SNAP && (!best || d < best.d)) best = { d, other, i, t, len };
@@ -289,9 +293,10 @@ function buildNewOSM(ways) {
       if (!best) continue;
       const { other, i, t, len } = best, target = lines[other];
       // reuse the target's node if the endpoint is right next to it, otherwise insert the endpoint into the target
-      if (t <= SNAP) line[end] = target[i];
-      else if (len - t <= SNAP) line[end] = target[i + 1];
-      else {
+      if (t <= SNAP || len - t <= SNAP) {
+        line[end] = target[t <= SNAP ? i : i + 1];
+        if (end === 0) register(l, line[0], line[1]);
+      } else {
         target.splice(i + 1, 0, node);
         register(other, node, target[i + 2]);
       }
@@ -462,7 +467,7 @@ const shoulderSide = (t, side) => t[`shoulder:${side}`] ?? t["shoulder:both"]
 async function onRoad(city, osmWays, file) {
   const lines = city.features
     .filter(f => f.properties.STATUT === BUILT && ON_ROAD[f.properties.TYPE])
-    .flatMap(f => toLines(f.geometry).map(pts => ({ pts, type: f.properties.TYPE })));
+    .flatMap(f => toLines(f.geometry).map(pts => ({ pts, type: f.properties.TYPE, twoWay: f.properties.DIREC_UNIQ === "Non" })));
   console.log(`\nCity built on-road facilities: ${lines.length} lines, ${km(lines.map(l => l.pts))} km`);
 
   console.log("Downloading OSM roads in Gatineau ...");
@@ -480,13 +485,14 @@ async function onRoad(city, osmWays, file) {
 
   // where each city line runs: which road, which side, how far along it
   const separate = {}, noRoad = {}, add = (o, type, m) => { o[type] = (o[type] || 0) + m; };
-  for (const { pts, type } of lines) {
+  for (const { pts, type, twoWay } of lines) {
     const samples = sample(pts, 1), step = lineLength(pts) / (samples.length - 1 || 1);
     for (const p of samples) {
       if (bikeWays.nearest(p.x, p.y, SEPARATE, p.ux, p.uy)) { add(separate, type, step); continue; }
       const hit = roadIndex.nearest(p.x, p.y, ROAD_DIST, p.ux, p.uy);
       if (!hit) { add(noRoad, type, step); continue; }
-      const cover = hit.payload.cover[hit.d < CENTRE ? "centre" : hit.left ? "left" : "right"];
+      const wide = twoWay && !["yes", "1", "true", "-1"].includes(hit.payload.tags.oneway); // not on one-way roads: contraflow
+      const cover = hit.payload.cover[hit.d < (wide ? CENTRE_TWO_WAY : CENTRE) ? "centre" : hit.left ? "left" : "right"];
       if (!cover[type]) cover[type] = new Set();
       cover[type].add(Math.floor(hit.along / BIN));
     }
