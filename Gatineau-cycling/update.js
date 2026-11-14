@@ -1,16 +1,19 @@
-// Compares the City of Gatineau cycling network (built off-road paths) with OSM and writes two files to
-// review and upload from JOSM:
+// Compares the City of Gatineau cycling network (built facilities) with OSM and writes three files to
+// review and upload from JOSM, one per step:
 //
-//   new-paths.osm    city paths that are not in OSM at all, as new ways
-//   bike-access.osm  existing OSM footways and crossings that run along a city bike path but don't allow
-//                    bikes, with their tags changed (they keep their ids and versions, so they upload as
-//                    modifications; JOSM reports a conflict if one was edited in the meantime)
+//   paths    new-paths.osm    city off-road paths that are not in OSM at all, as new ways
+//   access   bike-access.osm  existing OSM footways and crossings that run along a city bike path but don't
+//                             allow bikes, with their tags changed
+//   roads    on-road.osm      existing OSM roads along the city's painted lanes, designated roadways and paved
+//                             shoulders, with cycleway:left/right/both tags added
 //
-// Painted lanes, shoulders and designated roadways are tags on roads and are not handled here.
+// Changed existing ways keep their ids and versions, so they upload as modifications; JOSM reports a
+// conflict if one was edited in the meantime.
 //
-//   node update.js [--new <snapshot>]
+//   node update.js [--new <snapshot>] [paths] [access] [roads]
 //
 //   --new   city dataset; downloaded and saved as pistes-cyclables-<today>.json if omitted
+//   steps   only run these steps (and overwrite only their files); all three if none are given
 //
 // Licence: CC BY 4.0, the city gave permission to use its open data in OSM with attribution on the
 // Contributors wiki page: https://wiki.openstreetmap.org/wiki/Gatineau/Import
@@ -31,6 +34,7 @@ const MAX_OSM_AGE = 48; // hours; some Overpass mirrors lag months behind, their
 const AREA = 'area["name"="Gatineau"]["admin_level"="8"]["boundary"="administrative"]';
 const NEW_OUTPUT = "new-paths.osm";
 const FIX_OUTPUT = "bike-access.osm";
+const ROAD_OUTPUT = "on-road.osm";
 
 // city TYPE -> tags of a new way, and the tags added to an OSM footway that runs along it
 // (no tags: never added as a new way)
@@ -43,9 +47,13 @@ const TYPES = {
   "Jointure": { fix: { bicycle: "designated" } }, // short connectors between paths, mostly across roads
   "Autre": { tags: { highway: "path", bicycle: "yes" }, fix: { bicycle: "yes" } }, // mostly unpaved trails
 };
-// hiking trails ("Sentier de randonnée") and on-road types are left out
+// hiking trails ("Sentier de randonnée") are left out
 const BUILT = "T.Q.C"; // "tel que construit"; the others are "Plan d'ensemble" (planned) and "En construction"
 const SURFACE = { Flexible: "asphalt", Gravier: "gravel", Rigide: "concrete" };
+
+// city on-road TYPE -> value of cycleway:left/right/both on the road it runs along
+const ON_ROAD = { "Bande cyclable": "lane", "Chaussée désignée": "shared_lane", "Accotement asphalté": "shoulder" };
+const ROADS = "^((trunk|primary|secondary|tertiary)(_link)?|unclassified|residential|living_street)$";
 
 // all distances in meters
 const STEP = 2;            // sampling interval along the lines
@@ -60,6 +68,15 @@ const MIN_WHOLE = 10;      // shorter paths are dropped even if completely unmat
 const MAX_NEAR = 0.8;      // unmatched pieces with this share of points next to a line in any direction are dropped
 const SNAP = 0.5;          // endpoints this close to another new way are connected to it
 const FIX_SHARE = 0.7;     // an OSM way is changed only if this share of it runs along a city bike path
+// on-road facilities: the city draws them along the side of the road they are on (shared roadways often
+// on the centreline), so the side is taken from where the line runs relative to the OSM road
+const ROAD_DIST = 12;      // a city on-road line belongs to the nearest parallel OSM road this close
+const CENTRE = 1.5;        // ...and to both sides of it when closer than this (one-way roads: the right side)
+const SEPARATE = 4;        // parts with an OSM cycleway or path that allows bikes this close are mapped separately
+const BIN = 2;             // road coverage is counted in stretches this long
+const ROAD_GAP = 30;       // a road side is tagged if the stretch without the facility is at most this long
+const ROAD_GAP_SHARE = 0.1; // ...or this share of the road (lines often stop short of intersections)
+const MIN_PARTLY = 50;     // sides with at least this much facility that don't qualify are listed for splitting
 
 // ---------------------------------------------------------------------------------------------------------
 // geometry, in a local equirectangular projection
@@ -80,14 +97,16 @@ function toLines(geometry) {
     .filter(pts => pts.length > 1);
 }
 
-// grid index of line segments, each remembers what it belongs to
+// grid index of line segments, each remembers what it belongs to and where along its line it starts
 class SegmentIndex {
   constructor(cell = 25) { this.cell = cell; this.cells = new Map(); }
   addLine(pts, payload) {
+    let along = 0;
     for (let i = 1; i < pts.length; i++) {
       const [ax, ay] = pts[i - 1], [bx, by] = pts[i], len = Math.hypot(bx - ax, by - ay);
       if (len < 0.01) continue;
-      const seg = { ax, ay, ux: (bx - ax) / len, uy: (by - ay) / len, len, payload }, c = this.cell;
+      const seg = { ax, ay, ux: (bx - ax) / len, uy: (by - ay) / len, len, along, payload }, c = this.cell;
+      along += len;
       for (let cx = Math.floor(Math.min(ax, bx) / c); cx <= Math.floor(Math.max(ax, bx) / c); cx++)
         for (let cy = Math.floor(Math.min(ay, by) / c); cy <= Math.floor(Math.max(ay, by) / c); cy++) {
           const k = `${cx},${cy}`;
@@ -97,7 +116,8 @@ class SegmentIndex {
     }
   }
   // nearest segment within maxDist; with a direction (ux, uy) only roughly parallel segments that run
-  // alongside the point count. Returns { d, payload } or undefined
+  // alongside the point count. Returns { d, payload, along (position of the point along the line),
+  // left (point is on the left of the line as drawn) } or undefined
   nearest(px, py, maxDist, ux, uy) {
     const c = this.cell, minCos = Math.cos(MAX_ANGLE * RAD);
     let best;
@@ -110,7 +130,8 @@ class SegmentIndex {
             if (t < -OVERSHOOT || t > s.len + OVERSHOOT) continue;
           }
           const tc = Math.max(0, Math.min(s.len, t)), d = Math.hypot(px - s.ax - tc * s.ux, py - s.ay - tc * s.uy);
-          if (d <= maxDist && (!best || d < best.d)) best = { d, payload: s.payload };
+          if (d <= maxDist && (!best || d < best.d))
+            best = { d, payload: s.payload, along: s.along + tc, left: s.ux * (py - s.ay) - s.uy * (px - s.ax) > 0 };
         }
     return best;
   }
@@ -226,7 +247,8 @@ async function overpass(query) {
 }
 
 const xmlEscape = s => String(s).replace(/[&<>'"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&apos;", '"': "&quot;" })[c]);
-const tagXml = tags => Object.entries(tags).map(([k, v]) => `    <tag k='${xmlEscape(k)}' v='${xmlEscape(v)}' />`);
+// a null value removes the tag
+const tagXml = tags => Object.entries(tags).filter(([, v]) => v != null).map(([k, v]) => `    <tag k='${xmlEscape(k)}' v='${xmlEscape(v)}' />`);
 
 // new ways; shared coordinates become shared nodes, and an endpoint lying on another new way gets joined to it
 function buildNewOSM(ways) {
@@ -305,40 +327,27 @@ function buildFixOSM(elements, changes) {
 
 // ---------------------------------------------------------------------------------------------------------
 
-async function main() {
-  const args = process.argv.slice(2);
-  const arg = name => args.includes(name) ? args[args.indexOf(name) + 1] : undefined;
-  const local = file => path.resolve(__dirname, file);
+const allowsBikes = t => t.highway === "cycleway" || ["yes", "designated", "permissive"].includes(t.bicycle)
+  || (["path", "track"].includes(t.highway) && !t.bicycle); // allowed by default in Canada
 
-  let city;
-  if (arg("--new")) city = JSON.parse(fs.readFileSync(arg("--new"), "utf8").replace(/^﻿/, ""));
-  else {
-    city = await downloadCity();
-    const file = local(`pistes-cyclables-${new Date().toLocaleDateString("en-CA")}.json`);
-    fs.writeFileSync(file, `{"type":"FeatureCollection","features":[\n${city.features.map(f => JSON.stringify(f)).join(",\n")}\n]}\n`);
-    console.log(`Saved ${path.basename(file)}`);
+const midpoint = pts => {
+  const [lon, lat] = toLonLat(pts[Math.floor(pts.length / 2)]);
+  return `${lat.toFixed(5)},${lon.toFixed(5)}`;
+};
+
+// downloads the current version of the changed ways and their nodes, and writes them with the changes
+async function saveChanges(file, ways, changes) {
+  let elements = [];
+  if (ways.length) {
+    console.log("Downloading the current version of the ways to change ...");
+    elements = (await overpass(`[out:json][timeout:120];way(id:${ways.map(w => w.id).join(",")});(._;>;);out meta;`)).elements;
   }
+  fs.writeFileSync(file, buildFixOSM(elements, changes));
+  console.log(`Saved ${path.basename(file)}`);
+}
 
-  // built off-road paths of the city
-  const paths = city.features
-    .filter(f => f.properties.STATUT === BUILT && TYPES[f.properties.TYPE])
-    .flatMap(f => toLines(f.geometry).map(pts => ({ pts, p: f.properties })));
-  const cityIndex = new SegmentIndex();
-  for (const path_ of paths) cityIndex.addLine(path_.pts, path_);
-  console.log(`City built off-road paths: ${paths.length} lines, ${km(paths.map(p => p.pts))} km`);
-
-  console.log("Downloading OSM paths in Gatineau ...");
-  const osm = await overpass(`[out:json][timeout:300];${AREA}->.g;way(area.g)[highway~"^(footway|path|pedestrian|cycleway|steps|construction|track|bridleway)$"];out body geom qt;`);
-  const osmWays = osm.elements.filter(el => el.type === "way" && el.geometry);
-  if (!osmWays.length) throw new Error("No ways in the OSM data, refusing to treat everything as missing");
-  const allIndex = new SegmentIndex(), pathIndex = new SegmentIndex();
-  for (const way of osmWays) {
-    way.pts = way.geometry.filter(Boolean).map(p => toXY([p.lon, p.lat]));
-    allIndex.addLine(way.pts, way);
-    if (!["sidewalk", "crossing"].includes(way.tags.footway)) pathIndex.addLine(way.pts, way);
-  }
-
-  // 1. new paths
+// 1. city off-road paths missing in OSM, as new ways
+function newPaths(paths, allIndex, pathIndex, file) {
   const newWays = [], beside = [];
   for (const { pts, p } of paths.filter(({ p }) => TYPES[p.TYPE].tags))
     for (const piece of uncovered(pts, allIndex, TOLERANCE)) {
@@ -350,15 +359,18 @@ async function main() {
     }
   console.log(`\nMissing in OSM: ${newWays.length} ways, ${km(newWays.map(w => w.pts))} km`);
   const byType = {};
-  for (const w of newWays) (byType[w.type] = byType[w.type] || []).push(w.pts);
+  for (const w of newWays) {
+    if (!byType[w.type]) byType[w.type] = [];
+    byType[w.type].push(w.pts);
+  }
   for (const [type, lines] of Object.entries(byType)) console.log(`  ${type}: ${lines.length} ways, ${km(lines)} km`);
   console.log(`  (skipped ${beside.length} more, ${km(beside)} km, that have an OSM path running within ${LOOSE} m beside them)`);
-  fs.writeFileSync(local(NEW_OUTPUT), buildNewOSM(newWays));
-  console.log(`Saved ${NEW_OUTPUT}`);
+  fs.writeFileSync(file, buildNewOSM(newWays));
+  console.log(`Saved ${path.basename(file)}`);
+}
 
-  // 2. OSM ways along city bike paths that don't allow bikes
-  const allowsBikes = t => t.highway === "cycleway" || ["yes", "designated", "permissive"].includes(t.bicycle)
-    || (["path", "track"].includes(t.highway) && !t.bicycle); // allowed by default in Canada
+// 2. OSM footways and crossings along city bike paths that don't allow bikes
+async function bikeAccess(osmWays, cityIndex, file) {
   const changes = new Map(), left = { sidewalk: [], refused: [], other: [], partly: [] }, crossingItems = [];
   for (const way of osmWays) {
     const t = way.tags;
@@ -423,10 +435,8 @@ async function main() {
   const show = (title, items, limit = Infinity) => {
     if (!items.length) return;
     console.log(`  ${title}: ${items.length}, ${km(items.map(i => i.way.pts))} km${items.length > limit ? `, the ${limit} longest:` : ""}`);
-    for (const { way, share, type, length } of items.sort((a, b) => b.length * b.share - a.length * a.share).slice(0, limit)) {
-      const [lon, lat] = toLonLat(way.pts[Math.floor(way.pts.length / 2)]);
-      console.log(`    w${way.id} ${way.tags.highway}${way.tags.footway ? `/${way.tags.footway}` : ""}${way.tags.bicycle ? ` bicycle=${way.tags.bicycle}` : ""}: ${Math.round(length)} m, ${Math.round(share * 100)}% along a city "${type}"; ${lat.toFixed(5)},${lon.toFixed(5)}`);
-    }
+    for (const { way, share, type, length } of items.sort((a, b) => b.length * b.share - a.length * a.share).slice(0, limit))
+      console.log(`    w${way.id} ${way.tags.highway}${way.tags.footway ? `/${way.tags.footway}` : ""}${way.tags.bicycle ? ` bicycle=${way.tags.bicycle}` : ""}: ${Math.round(length)} m, ${Math.round(share * 100)}% along a city "${type}"; ${midpoint(way.pts)}`);
   };
   console.log("Not changed, check by hand:");
   show("sidewalks (a separate cycle path may be missing next to them, or the sidewalk is the path)", left.sidewalk.filter(i => i.share >= 0.5 && i.length >= 20), 15);
@@ -436,13 +446,175 @@ async function main() {
   for (const reason of ["an end touches only footways or sidewalks without bikes", "an end touches no path (a road, or nothing)"])
     show(`crossings where ${reason}`, crossingResult[reason], 10);
 
-  if (fixed.length) {
-    console.log("Downloading the current version of the ways to change ...");
-    const ids = fixed.map(w => w.id).join(",");
-    const full = await overpass(`[out:json][timeout:120];way(id:${ids});(._;>;);out meta;`);
-    fs.writeFileSync(local(FIX_OUTPUT), buildFixOSM(full.elements, changes));
-  } else fs.writeFileSync(local(FIX_OUTPUT), buildFixOSM([], changes));
-  console.log(`Saved ${FIX_OUTPUT}`);
+  await saveChanges(file, fixed, changes);
+}
+
+// cycleway value on each side of a road as OSM has it now (cycleway=* counts for both sides)
+const cyclewaySides = t => {
+  const both = t["cycleway:both"] ?? t.cycleway;
+  return { left: t["cycleway:left"] ?? both, right: t["cycleway:right"] ?? both };
+};
+// "no" if OSM says that side of the road has no shoulder
+const shoulderSide = (t, side) => t[`shoulder:${side}`] ?? t["shoulder:both"]
+  ?? ({ both: "yes", yes: "yes", no: "no", left: side === "left" ? "yes" : "no", right: side === "right" ? "yes" : "no" })[t.shoulder];
+
+// 3. painted lanes, designated roadways and paved shoulders: cycleway:left/right/both on the roads they run along
+async function onRoad(city, osmWays, file) {
+  const lines = city.features
+    .filter(f => f.properties.STATUT === BUILT && ON_ROAD[f.properties.TYPE])
+    .flatMap(f => toLines(f.geometry).map(pts => ({ pts, type: f.properties.TYPE })));
+  console.log(`\nCity built on-road facilities: ${lines.length} lines, ${km(lines.map(l => l.pts))} km`);
+
+  console.log("Downloading OSM roads in Gatineau ...");
+  const osm = await overpass(`[out:json][timeout:300];${AREA}->.g;way(area.g)[highway~"${ROADS}"];out body geom qt;`);
+  const roads = osm.elements.filter(el => el.type === "way" && el.geometry);
+  if (!roads.length) throw new Error("No roads in the OSM data");
+  const roadIndex = new SegmentIndex(), bikeWays = new SegmentIndex();
+  for (const way of roads) {
+    way.pts = way.geometry.filter(Boolean).map(p => toXY([p.lon, p.lat]));
+    way.length = lineLength(way.pts);
+    way.cover = { left: {}, right: {}, centre: {} }; // side -> city type -> stretches (BIN m) along the way
+    roadIndex.addLine(way.pts, way);
+  }
+  for (const way of osmWays) if (allowsBikes(way.tags)) bikeWays.addLine(way.pts, way);
+
+  // where each city line runs: which road, which side, how far along it
+  const separate = {}, noRoad = {}, add = (o, type, m) => { o[type] = (o[type] || 0) + m; };
+  for (const { pts, type } of lines) {
+    const samples = sample(pts, 1), step = lineLength(pts) / (samples.length - 1 || 1);
+    for (const p of samples) {
+      if (bikeWays.nearest(p.x, p.y, SEPARATE, p.ux, p.uy)) { add(separate, type, step); continue; }
+      const hit = roadIndex.nearest(p.x, p.y, ROAD_DIST, p.ux, p.uy);
+      if (!hit) { add(noRoad, type, step); continue; }
+      const cover = hit.payload.cover[hit.d < CENTRE ? "centre" : hit.left ? "left" : "right"];
+      if (!cover[type]) cover[type] = new Set();
+      cover[type].add(Math.floor(hit.along / BIN));
+    }
+  }
+
+  const changes = new Map(), same = [], conflicts = [], partly = [], wrongSide = [], roundabouts = [];
+  for (const way of roads) {
+    const t = way.tags, { cover, length } = way;
+    if (![cover.left, cover.right, cover.centre].some(c => Object.keys(c).length)) continue;
+    // the city draws its lines around them, lanes don't continue through
+    if (["roundabout", "circular"].includes(t.junction)) { roundabouts.push(way); continue; }
+    const oneway = ["yes", "1", "true", "-1"].includes(t.oneway);
+    const rideSide = t.oneway === "-1" ? "left" : "right"; // of a one-way road, as the way is drawn
+    const want = {};
+    for (const side of ["left", "right"]) {
+      const bySide = {};
+      for (const [type, bins] of Object.entries(cover[side])) bySide[type] = new Set(bins);
+      if (!oneway || side === rideSide) for (const [type, bins] of Object.entries(cover.centre)) bySide[type] = new Set([...(bySide[type] || []), ...bins]);
+      const [type, bins] = Object.entries(bySide).sort((a, b) => b[1].size - a[1].size)[0] || [];
+      if (!type) continue;
+      const covered = Math.min(length, bins.size * BIN), item = { way, side, type, covered };
+      if (length - covered <= Math.max(ROAD_GAP, ROAD_GAP_SHARE * length)) {
+        if (oneway && side !== rideSide) wrongSide.push(item); // contraflow, or a lane on the left
+        else want[side] = item;
+      } else if (covered >= MIN_PARTLY) partly.push(item);
+    }
+    if (!Object.keys(want).length) continue;
+
+    const has = cyclewaySides(t);
+    const problem = Object.values(want).map(w => t.bicycle === "no" ? "bicycle=no"
+      : has[w.side] !== undefined && has[w.side] !== ON_ROAD[w.type] ? `cycleway on the ${w.side} is ${has[w.side]}`
+      : ON_ROAD[w.type] === "shoulder" && shoulderSide(t, w.side) === "no" ? `no shoulder on the ${w.side}` : null).find(Boolean);
+    if (problem) { conflicts.push({ way, want, problem }); continue; }
+    const missing = Object.values(want).filter(w => has[w.side] === undefined);
+    if (!missing.length) { same.push(way); continue; }
+
+    const after = { ...has };
+    for (const w of missing) after[w.side] = ON_ROAD[w.type];
+    const change = {};
+    if (after.left && after.left === after.right) Object.assign(change, { "cycleway:both": after.left, "cycleway:left": null, "cycleway:right": null });
+    else for (const w of missing) change[`cycleway:${w.side}`] = ON_ROAD[w.type];
+    changes.set(way.id, change);
+  }
+
+  const kms = o => Object.entries(o).filter(([, m]) => m >= 50).map(([type, m]) => `${type} ${(m / 1000).toFixed(1)}`).join(", ") || "none";
+  const fixed = roads.filter(w => changes.has(w.id)), byTag = {};
+  for (const way of fixed) {
+    const tag = Object.entries(changes.get(way.id)).filter(([, v]) => v).map(([k, v]) => `${k}=${v}`).join(" + ");
+    if (!byTag[tag]) byTag[tag] = [];
+    byTag[tag].push(way.pts);
+  }
+  console.log(`\nOSM roads along city on-road facilities: ${fixed.length} to tag, ${km(fixed.map(w => w.pts))} km`);
+  for (const [tag, pts] of Object.entries(byTag).sort((a, b) => b[1].length - a[1].length)) console.log(`  ${tag}: ${pts.length} ways, ${km(pts)} km`);
+  console.log(`  already tagged the same: ${same.length} ways, ${km(same.map(w => w.pts))} km`);
+  console.log(`  roundabouts, left out: ${roundabouts.length} ways`);
+  console.log(`  city lines mapped in OSM as a separate cycleway or path (km): ${kms(separate)}`);
+  console.log(`  city lines with no OSM road within ${ROAD_DIST} m (km): ${kms(noRoad)}`);
+
+  // "lane on both sides", "shoulder on the left and shared_lane on the right"
+  const describe = items => items.length === 2 && items[0].type === items[1].type ? `${ON_ROAD[items[0].type]} on both sides`
+    : items.map(w => `${ON_ROAD[w.type]} on the ${w.side}`).join(" and ");
+  // one line per street and finding, with the ids of its ways
+  const show = (title, rows) => {
+    if (!rows.length) return;
+    const groups = new Map();
+    for (const { way, text } of rows) {
+      const k = `${way.tags.name || `(no name ${way.tags.highway})`}: ${text}`;
+      if (!groups.has(k)) groups.set(k, []);
+      groups.get(k).push(way);
+    }
+    console.log(`  ${title}: ${rows.length} ways, ${km(rows.map(r => r.way.pts))} km`);
+    for (const [k, ways] of [...groups].sort((a, b) => lineLength(b[1].flatMap(w => w.pts)) - lineLength(a[1].flatMap(w => w.pts)))) {
+      const longest = ways.reduce((a, b) => b.length > a.length ? b : a), total = ways.reduce((s, w) => s + w.length, 0);
+      console.log(`    ${k}; ${ways.length > 1 ? `${ways.length} ways, ` : ""}${Math.round(total)} m; ${midpoint(longest.pts)} (${ways.map(w => `w${w.id}`).join(", ")})`);
+    }
+  };
+  const perWay = items => {
+    const byWay = new Map();
+    for (const item of items) byWay.set(item.way, [...(byWay.get(item.way) || []), item]);
+    return [...byWay].map(([way, its]) => ({ way, its }));
+  };
+  console.log("Not changed, check by hand:");
+  show("OSM says otherwise", conflicts.map(({ way, want, problem }) => ({ way, text: `city ${describe(Object.values(want))}, OSM ${problem}` })));
+  show("the facility covers only part of the road, split it first", perWay(partly).map(({ way, its }) =>
+    ({ way, text: `${describe(its)}, along ${Math.round(Math.max(...its.map(i => i.covered)))} of ${Math.round(way.length)} m` })));
+  show("on the left of a one-way road (a contraflow lane, or a lane on the left side)", wrongSide.map(({ way, type }) => ({ way, text: ON_ROAD[type] })));
+
+  await saveChanges(file, fixed, changes);
+}
+
+async function main() {
+  const args = process.argv.slice(2);
+  const arg = name => args.includes(name) ? args[args.indexOf(name) + 1] : undefined;
+  const local = file => path.resolve(__dirname, file);
+  const steps = ["paths", "access", "roads"].filter(s => args.includes(s));
+  const run = step => !steps.length || steps.includes(step);
+
+  let city;
+  if (arg("--new")) city = JSON.parse(fs.readFileSync(arg("--new"), "utf8").replace(/^﻿/, ""));
+  else {
+    city = await downloadCity();
+    const file = local(`pistes-cyclables-${new Date().toLocaleDateString("en-CA")}.json`);
+    fs.writeFileSync(file, `{"type":"FeatureCollection","features":[\n${city.features.map(f => JSON.stringify(f)).join(",\n")}\n]}\n`);
+    console.log(`Saved ${path.basename(file)}`);
+  }
+
+  // built off-road paths of the city
+  const paths = city.features
+    .filter(f => f.properties.STATUT === BUILT && TYPES[f.properties.TYPE])
+    .flatMap(f => toLines(f.geometry).map(pts => ({ pts, p: f.properties })));
+  const cityIndex = new SegmentIndex();
+  for (const path_ of paths) cityIndex.addLine(path_.pts, path_);
+  console.log(`City built off-road paths: ${paths.length} lines, ${km(paths.map(p => p.pts))} km`);
+
+  console.log("Downloading OSM paths in Gatineau ...");
+  const osm = await overpass(`[out:json][timeout:300];${AREA}->.g;way(area.g)[highway~"^(footway|path|pedestrian|cycleway|steps|construction|track|bridleway)$"];out body geom qt;`);
+  const osmWays = osm.elements.filter(el => el.type === "way" && el.geometry);
+  if (!osmWays.length) throw new Error("No ways in the OSM data, refusing to treat everything as missing");
+  const allIndex = new SegmentIndex(), pathIndex = new SegmentIndex();
+  for (const way of osmWays) {
+    way.pts = way.geometry.filter(Boolean).map(p => toXY([p.lon, p.lat]));
+    allIndex.addLine(way.pts, way);
+    if (!["sidewalk", "crossing"].includes(way.tags.footway)) pathIndex.addLine(way.pts, way);
+  }
+
+  if (run("paths")) newPaths(paths, allIndex, pathIndex, local(NEW_OUTPUT));
+  if (run("access")) await bikeAccess(osmWays, cityIndex, local(FIX_OUTPUT));
+  if (run("roads")) await onRoad(city, osmWays, local(ROAD_OUTPUT));
 }
 
 main().catch(e => {
