@@ -132,6 +132,18 @@ Things for the console, not the files:
   - **Fisher Park:** don't add the node. The area there tagged `leisure=water_park` (w154548031) is really the playground: sand and equipment, with the splash pad mapped next to it. Retag it instead.
 - Not written, 8 playgrounds with an OSM playground 68–109 m away, probably the same one: Trend, Notre-Dame-des-Champs, Green Briar, Village Green, Riverain, Glebe, Centennial and Stanstead.
 
+## Community gardens (file ready)
+
+- [ ] [Ottawa-allotments/ottawa-allotments.osm](Ottawa-allotments/ottawa-allotments.osm): 9 gardens, written over the 2018 output. The city lists 80 that exist, and 71 are in OSM, 8 of them under the same name 62–276 m from the city point.
+  - **Which ones:**
+    - Urban Shades, St. Joe's Supper Table, West Barrhaven and Greenstar
+    - new since 2018: Heron Gate, Kitigànensag, Westboro Food Bank and 2 Ottawa Salus sites
+  - **Tags:** `landuse=allotments` with the name, French name and website, like the 2018 import. The 2018 `operator=City of Ottawa` is dropped (community groups run the gardens), and so is the address description.
+  - **Every node needs moving.** The city points are the street addresses: rooftops, yards and parking lots. None of the gardens shows at its point, and some are probably small gardens behind or on top of the building.
+  - **St. Joe's and West Barrhaven:** an unnamed allotments area 129–143 m away may be the garden. If so, name it and drop the node.
+  - **Kitigànensag:** OSM has a garden of that name 3.2 km away. The garden may have moved, so check whether the old one still exists.
+- Not written: 3 gardens the city lists as "In Development": Lindenlea, Queensway Terrace North and South Nepean Muslim Centre.
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -139,7 +151,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | | City layer | City | Missing |
 |---|---|---|---|
 | [ ] Sledding hills | Parks_Inventory/17 | 75 | 22 |
-| [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
 
