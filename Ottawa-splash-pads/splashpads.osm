@@ -1,1 +1,169 @@
-<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="https://github.com/Rub21/geojson2osm"><node lat="45.382448" lon="-75.639279"  id="-1"  changeset="false" ><tag k="name" v="Splash Pad - Sharel Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Sharel"/><tag k="addr:housenumber" v="1900"/><tag k="addr:street" v="Florida Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="52289"/></node><node lat="45.242166" lon="-75.74138"  id="-2"  changeset="false" ><tag k="name" v="Splash Pad - Black Raven Community Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc communautaire de Black Raven"/><tag k="addr:housenumber" v="675"/><tag k="addr:street" v="Dundonald Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="52493"/></node><node lat="45.389504" lon="-75.628509"  id="-3"  changeset="false" ><tag k="name" v="Splash Pad - Canterbury Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Canterbury"/><tag k="addr:housenumber" v="2185"/><tag k="addr:street" v="Arch Street"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="34770"/></node><node lat="45.374167" lon="-75.608196"  id="-4"  changeset="false" ><tag k="name" v="Splash Pad - Calzavara Family Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc de la famille Calzavara"/><tag k="addr:housenumber" v="1602"/><tag k="addr:street" v="Blohm Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="35603"/></node><node lat="45.239484" lon="-75.732185"  id="-5"  changeset="false" ><tag k="name" v="Splash Pad - Guinness Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Guinness"/><tag k="addr:housenumber" v="120"/><tag k="addr:street" v="Ramsgrange Street"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49233"/></node><node lat="45.262806" lon="-75.755675"  id="-6"  changeset="false" ><tag k="name" v="Splash Pad - Clarity Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Clarity"/><tag k="addr:housenumber" v="825"/><tag k="addr:street" v="Clarity Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="53711"/></node><node lat="45.352657" lon="-75.736737"  id="-7"  changeset="false" ><tag k="name" v="Splash Pad - City View Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc City View"/><tag k="addr:housenumber" v="7"/><tag k="addr:street" v="Canter Boulevard"/><tag k="wheelchair" v="no"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="57381"/></node><node lat="45.285794" lon="-75.75473"  id="-8"  changeset="false" ><tag k="name" v="Splash Pad - Greenbank Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Greenbank"/><tag k="addr:housenumber" v="895"/><tag k="addr:street" v="Greenbank Road"/><tag k="wheelchair" v="no"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="31579"/></node><node lat="45.356314" lon="-75.77588"  id="-9"  changeset="false" ><tag k="name" v="Splash Pad - Parkway Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Parkway"/><tag k="addr:housenumber" v="2095"/><tag k="addr:street" v="Kingsley Road"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="53545"/></node><node lat="45.325445" lon="-75.770851"  id="-10"  changeset="false" ><tag k="name" v="Splash Pad - Ben Franklin Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Ben-Franklin Est"/><tag k="addr:housenumber" v="180"/><tag k="addr:street" v="Knoxdale Road"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="51887"/></node><node lat="45.320437" lon="-75.940639"  id="-11"  changeset="false" ><tag k="name" v="Splash Pad - Devonian Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Devonian"/><tag k="addr:housenumber" v="171"/><tag k="addr:street" v="Escarpment Crescent"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49215"/></node><node lat="45.35238" lon="-75.813583"  id="-12"  changeset="false" ><tag k="name" v="Splash Pad - Andrew Haydon Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Andrew-Haydon"/><tag k="addr:housenumber" v="3127"/><tag k="addr:street" v="Carling Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49225"/></node><node lat="45.346291" lon="-75.783332"  id="-13"  changeset="false" ><tag k="name" v="Splash Pad - Kilreen Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Kilreen"/><tag k="addr:housenumber" v="1250"/><tag k="addr:street" v="Southwood Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="32143"/></node><node lat="45.445587" lon="-75.65108"  id="-14"  changeset="false" ><tag k="name" v="Splash Pad - Cardinal Glen Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Cardinal Glen"/><tag k="addr:housenumber" v="11"/><tag k="addr:street" v="Dunbarton Court"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="31437"/></node><node lat="45.451602" lon="-75.592576"  id="-15"  changeset="false" ><tag k="name" v="Splash Pad - Loyola Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Loyola"/><tag k="addr:housenumber" v="956"/><tag k="addr:street" v="Loyola Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49231"/></node><node lat="45.444167" lon="-75.538734"  id="-16"  changeset="false" ><tag k="name" v="Splash Pad - Gérald Poulin Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Gérald-Poulin"/><tag k="addr:housenumber" v="1899"/><tag k="addr:street" v="Du Clairvaux Road"/><tag k="wheelchair" v="no"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="31810"/></node><node lat="45.449863" lon="-75.63684"  id="-17"  changeset="false" ><tag k="name" v="Splash Pad - Wing Officer Willa Walker Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc de l’Officière-d’Escadre-Willa-Walker"/><tag k="addr:housenumber" v="305"/><tag k="addr:street" v="Lysander Place"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49221"/></node><node lat="45.486559" lon="-75.507665"  id="-18"  changeset="false" ><tag k="name" v="Splash Pad - Big Bird Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Big Bird"/><tag k="addr:housenumber" v="936"/><tag k="addr:street" v="Lawnsberry Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="35687"/></node><node lat="45.45054" lon="-75.632379"  id="-19"  changeset="false" ><tag k="name" v="Splash Pad - Eugène Martineau Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Eugène-Martineau - (FUTUR)"/><tag k="addr:housenumber" v="710"/><tag k="addr:street" v="Mikinak Road"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49245"/></node><node lat="45.471902" lon="-75.473069"  id="-20"  changeset="false" ><tag k="name" v="Splash Pad - Marcel Lalande Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Marcel-Lalande"/><tag k="addr:housenumber" v="2157"/><tag k="addr:street" v="Northlands Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="56735"/></node><node lat="45.433073" lon="-75.637311"  id="-21"  changeset="false" ><tag k="name" v="Splash Pad - Trojan Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Trojan"/><tag k="addr:housenumber" v="901"/><tag k="addr:street" v="Trojan Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49223"/></node><node lat="45.351648" lon="-75.941842"  id="-22"  changeset="false" ><tag k="name" v="Splash Pad - W.C. Bowes Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc W.-C.-Bowes"/><tag k="addr:housenumber" v="1251"/><tag k="addr:street" v="Halton Terrace"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="52215"/></node><node lat="45.276561" lon="-75.88203"  id="-23"  changeset="false" ><tag k="name" v="Splash Pad - Rouncey Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Rouncey"/><tag k="addr:housenumber" v="590"/><tag k="addr:street" v="Rouncey Road"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="53009"/></node><node lat="45.442146" lon="-75.480704"  id="-24"  changeset="false" ><tag k="name" v="Splash Pad - Sweetvalley Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Sweetvalley"/><tag k="addr:housenumber" v="180"/><tag k="addr:street" v="Sweetvalley Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="53067"/></node><node lat="45.429595" lon="-75.563711"  id="-25"  changeset="false" ><tag k="name" v="Splash Pad - Blackburn Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Blackburn"/><tag k="addr:housenumber" v="190"/><tag k="addr:street" v="Glen Park Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="53607"/></node><node lat="45.436043" lon="-75.509982"  id="-26"  changeset="false" ><tag k="name" v="Splash Pad - Patrick Dugas Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Patrick-Dugas"/><tag k="addr:housenumber" v="550"/><tag k="addr:street" v="Compass Street"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="52911"/></node><node lat="45.358826" lon="-75.722727"  id="-27"  changeset="false" ><tag k="name" v="Splash Pad - Inverness Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Inverness"/><tag k="addr:housenumber" v="76"/><tag k="addr:street" v="Inverness Avenue"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="website" v="http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="35593"/></node><node lat="45.312278" lon="-75.596226"  id="-28"  changeset="false" ><tag k="name" v="Splash Pad - Anishà Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Anishà"/><tag k="addr:housenumber" v="4355"/><tag k="addr:street" v="Kelly Farm Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49213"/></node><node lat="45.446523" lon="-75.483708"  id="-29"  changeset="false" ><tag k="name" v="Splash Pad - Henri-Rocque Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Henri-Rocque"/><tag k="addr:housenumber" v="229"/><tag k="addr:street" v="Hepatica Way"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49217"/></node><node lat="45.284101" lon="-75.67301"  id="-30"  changeset="false" ><tag k="name" v="Splash Pad - Nimiq Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Nimiq"/><tag k="addr:housenumber" v="5058"/><tag k="addr:street" v="North Bluff Drive"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="49229"/></node><node lat="45.431032" lon="-75.670107"  id="-31"  changeset="false" ><tag k="name" v="Splash Pad - Riverain Park"/><tag k="leisure" v="playground"/><tag k="playground" v="splash_pad"/><tag k="name:fr" v="Aires de jeux d'eau - Parc Riverain"/><tag k="addr:housenumber" v="400"/><tag k="addr:street" v="North River Road"/><tag k="wheelchair" v="yes"/><tag k="seasonal" v="summer"/><tag k="operator" v="City of Ottawa"/><tag k="source" v="City of Ottawa"/><tag k="source:date" v="2022-05-28"/><tag k="ref" v="57383"/></node></osm>
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research'>
+  <node id='-1' action='modify' visible='true' lat='45.3490640' lon='-75.7094552'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Citiplace Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Citiplace' />
+    <tag k='addr:housenumber' v='285' />
+    <tag k='addr:street' v='Citiplace Drive' />
+    <tag k='wheelchair' v='no' />
+    <tag k='seasonal' v='summer' />
+    <tag k='website' v='http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='36265' />
+  </node>
+  <node id='-2' action='modify' visible='true' lat='45.3563142' lon='-75.7758798'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Parkway Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Parkway' />
+    <tag k='addr:housenumber' v='2095' />
+    <tag k='addr:street' v='Kingsley Road' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='53545' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.3068099' lon='-75.6008585'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Miikana Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Miikana' />
+    <tag k='addr:housenumber' v='655' />
+    <tag k='addr:street' v='Miikana Road' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59115' />
+  </node>
+  <node id='-4' action='modify' visible='true' lat='45.2910658' lon='-75.9129673'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Maize Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Maize' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Maize Street' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59113' />
+  </node>
+  <node id='-5' action='modify' visible='true' lat='45.5013105' lon='-75.4668623'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Mantha Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Mantha' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59114' />
+  </node>
+  <node id='-6' action='modify' visible='true' lat='45.3066410' lon='-75.9316814'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Lyndon Hooper Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Lyndon-Hooper' />
+    <tag k='addr:housenumber' v='570' />
+    <tag k='addr:street' v='Winterset Road' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59112' />
+  </node>
+  <node id='-7' action='modify' visible='true' lat='45.2641114' lon='-75.7728314'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Cobble Hill Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Cobble Hill' />
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:street' v='Cobble Hill Drive' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59109' />
+  </node>
+  <node id='-8' action='modify' visible='true' lat='45.3507989' lon='-76.0379811'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Carp Water Splash Park' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:street' v='Juanita Avenue' />
+    <tag k='wheelchair' v='no' />
+    <tag k='seasonal' v='summer' />
+    <tag k='website' v='http://ottawa.ca/en/residents/recreation-and-parks/swimming#splash-pads-summer-only' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='36264' />
+  </node>
+  <node id='-9' action='modify' visible='true' lat='45.2846845' lon='-75.8943365'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Bradley-Craig Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Bradley-Craig' />
+    <tag k='addr:housenumber' v='331' />
+    <tag k='addr:street' v='Cranesbill Road' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59108' />
+  </node>
+  <node id='-10' action='modify' visible='true' lat='45.3231915' lon='-75.5835793'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Bert Dowler Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Bert-Dowler' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:street' v='Highgarden Terrace' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='57493' />
+  </node>
+  <node id='-11' action='modify' visible='true' lat='45.3253643' lon='-75.6053413'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Barrett Farm Park' />
+    <tag k='addr:housenumber' v='392' />
+    <tag k='addr:street' v='Barrett Farm Drive' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59107' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='45.4598771' lon='-75.5078533'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Barnabé Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Barnabé' />
+    <tag k='addr:housenumber' v='1797' />
+    <tag k='addr:street' v='Des Épinettes Avenue' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59106' />
+  </node>
+  <node id='-13' action='modify' visible='true' lat='45.2609485' lon='-75.6923803'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Atrium Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Atrium' />
+    <tag k='addr:housenumber' v='886' />
+    <tag k='addr:street' v='Atrium Ridge' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59105' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='45.4128117' lon='-75.7016592'>
+    <tag k='leisure' v='playground' />
+    <tag k='playground' v='splash_pad' />
+    <tag k='name' v='Splash Pad - Dundonald Park' />
+    <tag k='name:fr' v='Aire de jeux d&apos;eau - Parc Dundonald' />
+    <tag k='addr:housenumber' v='516' />
+    <tag k='addr:street' v='Somerset Street West' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='seasonal' v='summer' />
+    <tag k='operator' v='City of Ottawa' />
+    <tag k='ref' v='59111' />
+  </node>
+</osm>

@@ -82,6 +82,15 @@ Things for the console, not the files:
   - **Sweetvalley Drive (2 nodes):** these are city records added in September 2025 with no details. OSM has a court at the spot tagged `sport=tennis`. If it's really a pickleball court, change that court's `sport` and drop the 2 nodes.
 - Indoor courts (17, in gyms) are left out.
 
+## Splash pads (file ready)
+
+- [ ] [Ottawa-splash-pads/splashpads.osm](Ottawa-splash-pads/splashpads.osm): 14 splash pads, written over the 2022 output. The city has 153 open; 139 are already in OSM.
+  - **Which ones:** 11 new in 2024–2025: Atrium, Barnabé, Barrett Farm, Bert Dowler, Bradley-Craig, Cobble Hill, Lyndon Hooper, Maize, Mantha, Miikana and Dundonald. Plus Citiplace, Parkway and the Carp Water Splash Park at the Huntley Community Centre.
+  - **Tagging:** nodes with `leisure=playground` + `playground=splash_pad`, named "Splash Pad - <park>" like the 2022 import.
+  - **Pads already drawn as playgrounds:** 11 of the points sit in an OSM playground area. At Citiplace, Miikana and Atrium, imagery shows that area is the concrete pad itself, drawn without `playground=splash_pad`. Tag the area and drop the node. The console lists the area for each.
+  - **Cobble Hill:** the pad is the bare concrete shape about 20 m south of the point.
+- [ ] **Closed splash pads:** 8 pads from the 2022 import are now closed in the city data: Whitehaven / George C. Brown, Walter Baker, Cyrville, Big Bird, Whiterock, Lawson, Boothfield and Kaladar. Tierney Park is gone from the city data altogether. These may be decommissioned or under renovation; check before removing them.
+
 ## Small leftovers: spot-check before building
 
 Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa bike-lane leftovers were), so check a few in imagery first.
@@ -95,7 +104,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | [ ] Community gardens | Community_Gardens/0 | 83 | 18 |
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
-| [ ] Splash pads | Parks_Inventory/18 | 161 | 14 |
 | [ ] Skateparks | Parks_Inventory/16 | 32 | 7 |
 
 ## Nothing to do
