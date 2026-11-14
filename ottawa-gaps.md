@@ -50,9 +50,9 @@ Things for the console, not the files:
   - 11 showed no court in imagery and are listed in `CHECKED` in [update.js](Ottawa-Basketball-Courts/update.js).
 - 5 courts from the 2017 import (`ref` 26036, 26167, 35185, 26212, 3728) are no longer in the city data. They may have been removed; check them in the field.
 
-## Outdoor rinks (file ready)
+## Outdoor rinks (done 2026-11-14)
 
-- [ ] [Ottawa-rinks/outdoor-rinks.osm](Ottawa-rinks/outdoor-rinks.osm): 20 rinks, written over the 2018 output.
+- [x] [Ottawa-rinks/outdoor-rinks.osm](Ottawa-rinks/outdoor-rinks.osm): 20 rinks, written over the 2018 output.
   - **9 puddles:** unboarded flooded patches that summer imagery can't confirm, written as the city has them.
   - **10 rinks with boards or a refrigerated surface:**
     - Canterbury Park (refrigerated)
@@ -63,9 +63,19 @@ Things for the console, not the files:
 - Not written, 5 rinks the OSM rink of the same park 75–154 m away probably is: Nimiq, Water Dragon, Guinness, Babe McRae (an untagged rink area, w1316373217), Harkness. At Harkness, imagery shows a boarded rink at the city point, not at the OSM node.
 - [ ] **31 rinks from the 2018 import whose park has no open city rink anymore.** 26 parks dropped out of the city's list since 2018 and 7 records are marked closed, among them Clarke Fields, Lincoln Heights, Butterfly, Paget and the Glebe Community Centre rink. `node update.js` lists them. These are candidates to delete or mark disused, so check before removing; community rinks come and go.
 
+## Tennis courts (file ready)
+
+- [ ] [Ottawa-tennis-outdoor/tennis-outdoor.osm](Ottawa-tennis-outdoor/tennis-outdoor.osm): 2 sites, written over the 2018 output. The city has 132 sites and 128 are already in OSM.
+  - **Medhurst Park practice ball wall:** a node with `tennis:backwall=yes`. It sits on the paved pad that OSM maps as a basketball court; you could add `tennis` to that pad's `sport` instead.
+  - **Rideau High School, 4 courts:** imagery shows cracked pavement with weeds and no nets. The school closed in 2017, so these may be disused.
+  - Tags follow the 2018 import, minus `source` and its placeholder operators ("Private Club", "School Board"). The `addr:street` value is taken from the matching OSM street nearby, because the city writes "St. Laurent" and OSM has "St-Laurent".
+- Not written:
+  - Bingham Park is mapped 65 m away.
+  - Ottawa Athletic Club is mapped 65 m away as one pitch with `courts=1`, but the city says 6 outdoor courts. Worth checking.
+
 ## Next
 
-- [ ] **Pickleball** (Parks_Inventory/27): 47 outdoor tennis courts have pickleball lines that OSM doesn't record. Add `pickleball` to `sport` on the existing courts. About 13 more have no court nearby in OSM. The 17 indoor courts in gyms are skipped.
+- [ ] **Pickleball**: 47 outdoor tennis courts have pickleball lines that OSM doesn't record. The tennis layer's own `PICKLEBALL` count shows the same: 71 sites have lines. Add `pickleball` to `sport` on the existing courts. About 13 pickleball records (Parks_Inventory/27) have no court nearby in OSM. The 17 indoor courts in gyms are skipped.
 
 ## Small leftovers: spot-check before building
 
@@ -81,7 +91,6 @@ Counts this small tend to be mostly mismatches rather than real gaps (the Ottawa
 | [ ] Winter-maintained bike racks | Parking/9 | 87 | 18 |
 | [ ] Sports fields | Parks_Inventory/19, /20 | 645 | 14 |
 | [ ] Splash pads | Parks_Inventory/18 | 161 | 14 |
-| [ ] Tennis courts | Parks_Inventory/21 | 132 | 4 |
 | [ ] Skateparks | Parks_Inventory/16 | 32 | 7 |
 
 ## Nothing to do
