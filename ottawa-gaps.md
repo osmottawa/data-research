@@ -162,7 +162,7 @@ Things for the console, not the files:
   - **Uplands Riverside** has 2 records 36 m apart, written as one hill.
 - Already in OSM but more than 150 m from the city point: Alfred Taylor (183 m) and Gardenway (160 m), found by their 2017 `ref`; Conroy Pit (582 m), found by name.
 
-## Street lights (new lamps: files ready)
+## Street lights (new lamps uploaded 2026-11-14)
 
 City layer: [Road_Information/7](https://maps.ottawa.ca/arcgis/rest/services/Road_Information/MapServer/7). The portal item was last modified 2026-08-12, and the newest pole is from June 2024.
 - **Compared with the 2019 zip:**
@@ -171,16 +171,48 @@ City layer: [Road_Information/7](https://maps.ottawa.ca/arcgis/rest/services/Roa
     - 9,233 lights are new or moved since 2019, and 1,217 are gone.
     - 8,973 lights changed from high-pressure sodium to LED.
 - **OSM has about 93,000 street lamps.** 66,345 are from the 2019 import, which has `lamp_ref`. zzptichka has mapped 23,924 more since, mostly bare `highway=street_lamp`, including a 2024 batch of 14,644.
-- [ ] **New lamps:** [Ottawa-street-lights/update.js](Ottawa-street-lights/update.js) wrote `new-lamps-01.osm` … `new-lamps-06.osm`, 2,979 lamps in compact areas of about 500 (`--chunk` changes that). These are city lights since 2019 with no OSM lamp within 10 m (matched one to one).
+- [x] **New lamps:** [Ottawa-street-lights/update.js](Ottawa-street-lights/update.js) wrote `new-lamps-01.osm` … `new-lamps-06.osm`, 2,979 lamps in compact areas of about 500 (`--chunk` changes that). These are city lights since 2019 with no OSM lamp within 10 m (matched one to one).
   - Most are on rebuilt streets (Elgin, Montreal Road, Airport Parkway, Rideau), at the LRT stations (Tunney's Pasture, St-Laurent, Blair, Tremblay), and in new subdivisions (Meynell, Cope, Conservancy, Emmerson).
   - **Tags:** follow the 2019 import: `lamp_type`, `lamp_mount`, `material`, `lamp_flames`, `height`. No `source`, and no `lamp_ref`, since the city renumbered its lights.
   - 448 of them have an OSM lamp no city light claims 10–30 m away. That's often the old pole of a rebuilt street, which can go.
 - [ ] **Removed lamps:** 893 lights from the 2019 data are missing from OSM; mappers may have deleted them on purpose, so they're not written. Separately, about 22,000 OSM lamps match no city light (NCC, private, parking lots, or removed poles). The 1,217 lights gone since 2019 are the next thing to check.
 - [ ] **LED changes:** `lamp_type` on the imported lamps whose light source changed.
 
+## More city datasets (checked 2026-11-14)
+
+A second pass over the rest of [maps.ottawa.ca](https://maps.ottawa.ca/arcgis/rest/services) and [open.ottawa.ca](https://open.ottawa.ca). Rough numbers from position matching; none of these has an `update.js` yet.
+
+**Tag fixes on objects already in OSM:**
+- [ ] **Speed cameras:** Ottawa switched off every automated speed camera on 2025-11-13 (Bill 56). OSM still has 20 `highway=speed_camera` nodes and 2 `enforcement=maxspeed` relations, all at the city's old camera sites. Delete them or make them `disused:`.
+- [ ] **All-way stops** ([Intersections](https://maps.ottawa.ca/arcgis/rest/services/Intersections/MapServer/0), `CONTROLTYPE=4STOP`): 965 in the city layer. 147 have `highway=stop` nodes without `stop=all`, and 21 have no stop node at all.
+- [ ] **PXOs:** 69 of the 220 intersection PXOs and 23 of the 159 mid-block ones have no `crossing_ref=pxo`. 41 of those have a plain crossing node, so only the tag is missing.
+- [ ] **Dogs in parks:** 799 parks already have `dog=*`, 169 named parks don't, and 6 disagree with the city.
+- [ ] **Bus stops:** compared with OC Transpo's current GTFS (service 2026-11-13 to 12-13) and the city's [OC Transpo Stops](https://open.ottawa.ca/datasets/ottawa::oc-transpo-stops) layer (2025-07-21, the only source with shelter and bench flags). Stop codes are compared as numbers, because GTFS writes "0351" and the city layer 351.
+  - **Missing stops:** 351 served stop codes aren't in OSM. 269 of them have no OSM stop within 30 m.
+  - **Possibly removed stops:** 476 OSM refs aren't served now; 402 of them are in neither GTFS nor the city layer.
+  - **Moved stops:** 409 stops with the same code are 30 m or more from the GTFS position (55 over 100 m, a few of them wrong refs many km off).
+  - **Ref format:** 40 OSM refs lack the leading zero.
+  - **Shelters and benches:** OSM and the city agree on 92% of shelters. Only 35 untagged stops get `shelter=yes` and 61 get `bench=yes`; 126 and 40 conflict with an OSM `no`. A blank bench flag doesn't mean "no": 1,009 stops have a bench in OSM and a blank in the city data.
+
+**New objects:**
+- [ ] **Traffic signals:** 38 of 1,235 signalised intersections have no signal node within 40 m.
+- [ ] **Two-way stops and yields:** 1,722 STOP and 359 YIELD intersections have no control node at all. The city gives only the intersection point, so each sign has to go on the minor road's approaches, which needs a rule and review.
+- [ ] **Red-light cameras:** 25 of 86 are missing, all installed 2020–2025. Ottawa maps them as `type=enforcement` relations (54 exist), so each needs a relation, not just a node.
+- [ ] **Pay-and-display machines** ([Parking/0](https://maps.ottawa.ca/arcgis/rest/services/Parking/MapServer/0)): 495 of 623 active machines are missing, mostly in Somerset, Kitchissippi and Rideau-Vanier. 6 decommissioned ones are still in OSM. The rate and hours fields could give `opening_hours` and `charge`.
+- [ ] **Mountain bike trails** ([CyclingMap/17](https://maps.ottawa.ca/arcgis/rest/services/CyclingMap/MapServer/17), from the Ottawa Mountain Bike Association): 76 named trails, 63 of the names already on OSM paths. The Easy/Intermediate/Hard ratings could become `mtb:scale:imba` 1/2/3; only 35 Ottawa paths have any `mtb:scale` now.
+- [ ] **Other park features** ([Parks_Inventory/12](https://maps.ottawa.ca/arcgis/rest/services/Parks_Inventory/MapServer/12)): about 100 missing: 29 gazebos, 27 monuments, 15 fitness stations, 8 game tables, 5 horseshoe pits, 3 orchards and a few others.
+- [ ] **Food banks** ([CommunitySocialServices/8](https://maps.ottawa.ca/arcgis/rest/services/CommunitySocialServices/MapServer/8)): 20 of 23 aren't in OSM.
+- [ ] **Child care centres** ([CommunitySocialServices/4](https://maps.ottawa.ca/arcgis/rest/services/CommunitySocialServices/MapServer/4)): 170 of 433 licensed centres aren't in OSM. 124 of those are programs in schools; 46 are standalone daycares. OSM uses `amenity=kindergarten` (293) here, not `childcare` (2).
+- [ ] **Parks** ([Parks_Inventory/24](https://maps.ottawa.ca/arcgis/rest/services/Parks_Inventory/MapServer/24)): 259 of 1,378 match no OSM park by name or position, 202 of them "passive" (woodlots, ponds). 29 OSM parks have no name and could take the city's.
+- [ ] **Fire hydrants** ([WaterInfrastructure/4](https://maps.ottawa.ca/arcgis/rest/services/WaterInfrastructure/MapServer/4)): 28,168 of 28,635 missing; OSM has 571. That's a full import, which needs a proposal on the community forum first.
+
+Not matched yet: trees (OSM has 231,000, the city inventory 304,000) and truck routes (4,307 city segments, 5 OSM ways with `hgv=designated`).
+
 ## Nothing to do
 
 These layers are already fully or almost fully in OSM:
+- roundabouts (199 of 199), long-term care homes (28 of 28), lawn bowling (4 of 4), beaches (4 of 4)
+- library branches: all mapped; 11 city points are 180 m to 1.2 km off
 - volleyball courts (37 of 39)
 - wading pools (52 of 53)
 - outdoor pools (11 of 11)
