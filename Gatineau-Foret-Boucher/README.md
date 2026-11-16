@@ -104,6 +104,13 @@ The polygon is 123.9 ha, against the 146 ha the Fondation states. The rest is pr
 1. Open the file, then download the area into the **same** layer (untick "Download as new layer"). Your edits are kept, and anything changed on OSM since 2026-11-15 shows up in the Conflict list.
 2. To see the old geometry, download the area again as a **new** layer and keep the file layer active. JOSM draws inactive layers in grey.
 3. Use `Ctrl+F` `fixme=*` to step through the notes, and `Shift+V` to run the validator.
-4. Upload. For a heatmap background, use the "JOSM Strava Heatmap" browser extension.
+4. Upload.
+
+**Strava heatmap background:** install the "JOSM Strava Heatmap" browser extension. Clicking its toolbar icon does nothing; instead:
+1. Log in at strava.com/maps/global-heatmap.
+2. Click the grid button the extension adds to the bottom-right corner of the page.
+3. Click **Open in JOSM**. JOSM remote control must be on.
+
+The access cookies expire after about a day, so repeat this when the tiles stop loading.
 
 The analysis scripts were one-off work and aren't in the repo. Strava heatmap data can't be redistributed, so no derived tiles or images are included either.
