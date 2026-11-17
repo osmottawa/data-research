@@ -1,0 +1,18 @@
+/* JOSM validator rules: stop the upload of review tags left over from the stop-sign files.
+   Add in Preferences > Data Validator > Tag checker rules > "+" (local file). */
+
+meta {
+  title: "Ottawa stop-sign review leftovers";
+  version: "1.0";
+  description: "Errors for fixme / fixme_sv tags still on stop and yield signs from Ottawa-stop-signs";
+}
+
+*[fixme_sv] {
+  throwError: "fixme_sv still set: review this sign before uploading";
+  fixRemove: "fixme_sv";
+}
+
+node[fixme],
+node[fixme] {
+  throwError: "fixme still set: review it before uploading";
+}

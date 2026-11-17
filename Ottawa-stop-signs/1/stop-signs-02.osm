@@ -1,0 +1,763 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research Ottawa-stop-signs'>
+  <node id='-10' action='modify' visible='true' lat='45.4761982' lon='-75.4946563'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47630,-75.49472&amp;heading=154' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='45.4765067' lon='-75.4961290'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47652,-75.49598&amp;heading=264' />
+  </node>
+  <node id='-38' action='modify' visible='true' lat='45.4785902' lon='-75.4881600'>
+    <tag k='highway' v='give_way' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new yield sign (city: yield)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47851,-75.48826&amp;heading=42' />
+  </node>
+  <node id='-35' action='modify' visible='true' lat='45.4799218' lon='-75.5057851'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47988,-75.50592&amp;heading=65' />
+  </node>
+  <node id='-75' action='modify' visible='true' lat='45.4800282' lon='-75.5058826'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47998,-75.50602&amp;heading=65' />
+  </node>
+  <node id='-84' action='modify' visible='true' lat='45.4826172' lon='-75.5044879'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48269,-75.50461&amp;heading=129' />
+  </node>
+  <node id='-78' action='modify' visible='true' lat='45.4828050' lon='-75.4911054'>
+    <tag k='highway' v='give_way' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new yield sign (city: yield)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48278,-75.49096&amp;heading=283' />
+  </node>
+  <node id='-89' action='modify' visible='true' lat='45.4829082' lon='-75.5198429'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48287,-75.51999&amp;heading=69' />
+  </node>
+  <node id='-22' action='modify' visible='true' lat='45.4850176' lon='-75.4914169'>
+    <tag k='highway' v='give_way' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new yield sign (city: yield)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48497,-75.49155&amp;heading=62' />
+  </node>
+  <node id='-25' action='modify' visible='true' lat='45.4871666' lon='-75.5033368'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48721,-75.50320&amp;heading=244' />
+  </node>
+  <node id='-58' action='modify' visible='true' lat='45.4869420' lon='-75.4918613'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48704,-75.49192&amp;heading=159' />
+  </node>
+  <node id='-71' action='modify' visible='true' lat='45.4876245' lon='-75.4921387'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop), guess which road stops' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48772,-75.49206&amp;heading=209' />
+  </node>
+  <node id='-3' action='modify' visible='true' lat='45.4927707' lon='-75.4928980'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.49269,-75.49301&amp;heading=46' />
+  </node>
+  <node id='-28' action='modify' visible='true' lat='45.4929392' lon='-75.4931817'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='backward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.49287,-75.49330&amp;heading=51' />
+  </node>
+  <node id='-87' action='modify' visible='true' lat='45.4934169' lon='-75.4935211'>
+    <tag k='highway' v='stop' />
+    <tag k='direction' v='forward' />
+    <tag k='fixme' v='new stop sign (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.49333,-75.49343&amp;heading=322' />
+  </node>
+  <node id='6133945556' action='modify' visible='true' version='3' lat='45.4765751' lon='-75.5093676'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47661,-75.50922&amp;heading=250' />
+  </node>
+  <node id='901996126' action='modify' visible='true' version='3' lat='45.4770133' lon='-75.4948995'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47701,-75.49490' />
+  </node>
+  <node id='13657727995' action='modify' visible='true' version='1' lat='45.477709' lon='-75.5068525'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='stop=all removed (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47781,-75.50690&amp;heading=163' />
+  </node>
+  <node id='13657727997' action='modify' visible='true' version='1' lat='45.4775972' lon='-75.5069388'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47757,-75.50709&amp;heading=74' />
+  </node>
+  <node id='13657727996' action='modify' visible='true' version='1' lat='45.4776585' lon='-75.5066765'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47770,-75.50653&amp;heading=250' />
+  </node>
+  <node id='1017351132' action='modify' visible='true' version='5' lat='45.4787909' lon='-75.4942379'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47879,-75.49424' />
+  </node>
+  <node id='1017357656' action='modify' visible='true' version='4' lat='45.4798272' lon='-75.4961254'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47983,-75.49613' />
+  </node>
+  <node id='13660180695' action='modify' visible='true' version='1' lat='45.4800389' lon='-75.502158'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='stop=all removed (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.47993,-75.50219&amp;heading=11' />
+  </node>
+  <node id='13660180694' action='modify' visible='true' version='1' lat='45.480248' lon='-75.5021005'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='stop=all removed (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48035,-75.50207&amp;heading=191' />
+  </node>
+  <node id='13660180693' action='modify' visible='true' version='1' lat='45.4801796' lon='-75.502285'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48021,-75.50243&amp;heading=104' />
+  </node>
+  <node id='13660180692' action='modify' visible='true' version='1' lat='45.4801126' lon='-75.501972'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48008,-75.50183&amp;heading=290' />
+  </node>
+  <node id='901441717' action='modify' visible='true' version='3' lat='45.4807398' lon='-75.5139189'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='delete? (city: traffic signals)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48069,-75.51379&amp;heading=300' />
+  </node>
+  <node id='6131853887' action='modify' visible='true' version='3' lat='45.4807426' lon='-75.4936527'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48070,-75.49380&amp;heading=69' />
+  </node>
+  <node id='901400395' action='modify' visible='true' version='3' lat='45.4809142' lon='-75.5091731'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48091,-75.50917' />
+  </node>
+  <node id='6131853888' action='modify' visible='true' version='3' lat='45.4817424' lon='-75.4951355'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48166,-75.49523&amp;heading=37' />
+  </node>
+  <node id='6133848318' action='modify' visible='true' version='3' lat='45.4839556' lon='-75.5166513'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48393,-75.51680&amp;heading=76' />
+  </node>
+  <node id='6133848310' action='modify' visible='true' version='3' lat='45.4844056' lon='-75.5095862'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48432,-75.50967&amp;heading=34' />
+  </node>
+  <node id='901401677' action='modify' visible='true' version='4' lat='45.485248' lon='-75.5172167'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48525,-75.51722' />
+  </node>
+  <node id='901404756' action='modify' visible='true' version='2' lat='45.4858652' lon='-75.5158978'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='new all-way stop (city: all-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48587,-75.51590' />
+  </node>
+  <node id='4740690527' action='modify' visible='true' version='3' lat='45.4859414' lon='-75.5160342'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='delete? (all-way stop moved to the junction node)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48601,-75.51615&amp;heading=128' />
+  </node>
+  <node id='4740690528' action='modify' visible='true' version='3' lat='45.4857909' lon='-75.5157704'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='delete? (all-way stop moved to the junction node)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48572,-75.51565&amp;heading=309' />
+  </node>
+  <node id='6133848298' action='modify' visible='true' version='3' lat='45.4860485' lon='-75.5177899'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48600,-75.51793&amp;heading=62' />
+  </node>
+  <node id='901412311' action='modify' visible='true' version='5' lat='45.4868513' lon='-75.5057571'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48685,-75.50576' />
+  </node>
+  <node id='6133848329' action='modify' visible='true' version='3' lat='45.4873808' lon='-75.5072751'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48728,-75.50721&amp;heading=333' />
+  </node>
+  <node id='13657712636' action='modify' visible='true' version='1' lat='45.4874788' lon='-75.4922687'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='stop=all removed (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48739,-75.49236&amp;heading=35' />
+  </node>
+  <node id='13657712638' action='modify' visible='true' version='1' lat='45.4874732' lon='-75.4921528'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop), guess which road stops' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48737,-75.49209&amp;heading=337' />
+  </node>
+  <node id='13657712637' action='modify' visible='true' version='1' lat='45.4876266' lon='-75.4922411'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='delete? (city: two-way stop, this road doesn&apos;t stop), guess which road stops' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48773,-75.49230&amp;heading=158' />
+  </node>
+  <node id='901451473' action='modify' visible='true' version='6' lat='45.4877169' lon='-75.5103798'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='not all-way? (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48772,-75.51038' />
+  </node>
+  <node id='4740690516' action='modify' visible='true' version='2' lat='45.4897664' lon='-75.5048591'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='stop=all added (city: all-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48982,-75.50473&amp;heading=238' />
+  </node>
+  <node id='901431926' action='modify' visible='true' version='4' lat='45.4895838' lon='-75.5048958'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='stop=all added (city: all-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48954,-75.50476&amp;heading=294' />
+  </node>
+  <node id='4740690517' action='modify' visible='true' version='2' lat='45.4895746' lon='-75.5052902'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+    <tag k='fixme' v='stop=all added (city: all-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48952,-75.50542&amp;heading=57' />
+  </node>
+  <node id='6131854016' action='modify' visible='true' version='3' lat='45.4898665' lon='-75.5025763'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48977,-75.50252&amp;heading=339' />
+  </node>
+  <node id='6131854017' action='modify' visible='true' version='3' lat='45.4900749' lon='-75.4992585'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+    <tag k='fixme' v='yield changed to stop (city: two-way stop)' />
+    <tag k='fixme_sv' v='https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;viewpoint=45.48997,-75.49920&amp;heading=338' />
+  </node>
+  <node id='1017357643' visible='true' version='2' lat='45.4761169' lon='-75.4946004' />
+  <node id='901990210' visible='true' version='3' lat='45.4763474' lon='-75.4947589' />
+  <node id='6937571225' visible='true' version='1' lat='45.4764186' lon='-75.4948544' />
+  <node id='1017353632' visible='true' version='2' lat='45.4764814' lon='-75.4949568' />
+  <node id='5837443556' visible='true' version='2' lat='45.4765039' lon='-75.49502' />
+  <node id='5837443536' visible='true' version='2' lat='45.4765205' lon='-75.4950788' />
+  <node id='6937571224' visible='true' version='1' lat='45.4765418' lon='-75.4951662' />
+  <node id='901992992' visible='true' version='2' lat='45.4765504' lon='-75.4952536' />
+  <node id='901990503' visible='true' version='2' lat='45.4765538' lon='-75.4954192' />
+  <node id='6937571223' visible='true' version='1' lat='45.476539' lon='-75.4957274' />
+  <node id='901996145' visible='true' version='2' lat='45.4764965' lon='-75.4962559' />
+  <node id='901994571' visible='true' version='2' lat='45.4786677' lon='-75.4880628' />
+  <node id='6935086408' visible='true' version='1' lat='45.4786078' lon='-75.4881441' />
+  <node id='6935086407' visible='true' version='1' lat='45.4785631' lon='-75.4881844' />
+  <node id='901991969' visible='true' version='2' lat='45.4785223' lon='-75.4882295' />
+  <node id='901994920' visible='true' version='2' lat='45.4784833' lon='-75.4883075' />
+  <node id='901992831' visible='true' version='2' lat='45.4782708' lon='-75.4889996' />
+  <node id='6935086406' visible='true' version='1' lat='45.4782659' lon='-75.4890474' />
+  <node id='1017355884' visible='true' version='2' lat='45.4782673' lon='-75.4890965' />
+  <node id='901992576' visible='true' version='1' lat='45.4782855' lon='-75.489172' />
+  <node id='6935086402' visible='true' version='1' lat='45.4783017' lon='-75.4892096' />
+  <node id='901994326' visible='true' version='2' lat='45.4783244' lon='-75.4892394' />
+  <node id='901996163' visible='true' version='2' lat='45.4783661' lon='-75.4892831' />
+  <node id='1017340025' visible='true' version='2' lat='45.4794881' lon='-75.4897353' />
+  <node id='901993476' visible='true' version='2' lat='45.4795417' lon='-75.4897601' />
+  <node id='1017337457' visible='true' version='2' lat='45.4795819' lon='-75.4897916' />
+  <node id='1017352673' visible='true' version='2' lat='45.479968' lon='-75.4900788' />
+  <node id='6935086400' visible='true' version='1' lat='45.4800042' lon='-75.4901048' />
+  <node id='1017343103' visible='true' version='3' lat='45.4800286' lon='-75.4901069' />
+  <node id='6935086398' visible='true' version='1' lat='45.4800493' lon='-75.4901062' />
+  <node id='6935086399' visible='true' version='1' lat='45.480069' lon='-75.4900995' />
+  <node id='1017343075' visible='true' version='3' lat='45.4801016' lon='-75.4900774' />
+  <node id='1017350951' visible='true' version='2' lat='45.4804816' lon='-75.4898041' />
+  <node id='1017356281' visible='true' version='2' lat='45.4805124' lon='-75.4897467' />
+  <node id='1017344458' visible='true' version='2' lat='45.4805286' lon='-75.4896953' />
+  <node id='1017338213' visible='true' version='2' lat='45.4805339' lon='-75.4896397' />
+  <node id='1017338079' visible='true' version='2' lat='45.4805319' lon='-75.489565' />
+  <node id='6120096209' visible='true' version='3' lat='45.4802689' lon='-75.4886669'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='1017355071' visible='true' version='3' lat='45.4802371' lon='-75.4885538' />
+  <node id='901405497' visible='true' version='5' lat='45.4799599' lon='-75.5056693' />
+  <node id='901419314' visible='true' version='4' lat='45.4798086' lon='-75.5061288' />
+  <node id='4303492047' visible='true' version='3' lat='45.479805' lon='-75.5062115' />
+  <node id='6951504082' visible='true' version='1' lat='45.4798119' lon='-75.5062357' />
+  <node id='4303492048' visible='true' version='3' lat='45.4798261' lon='-75.5062584' />
+  <node id='6951504083' visible='true' version='1' lat='45.4798528' lon='-75.5062732' />
+  <node id='6951504081' visible='true' version='1' lat='45.4798772' lon='-75.5062725' />
+  <node id='901411239' visible='true' version='4' lat='45.4798994' lon='-75.506262' />
+  <node id='901436010' visible='true' version='4' lat='45.4799228' lon='-75.5062066' />
+  <node id='901441145' visible='true' version='5' lat='45.4800659' lon='-75.5057665' />
+  <node id='9082574147' visible='true' version='2' lat='45.4831132' lon='-75.504866' />
+  <node id='9466378223' visible='true' version='1' lat='45.4830178' lon='-75.5048396' />
+  <node id='9082574144' visible='true' version='2' lat='45.4829133' lon='-75.5047813' />
+  <node id='7880144214' visible='true' version='4' lat='45.4827975' lon='-75.5046698' />
+  <node id='9466315286' visible='true' version='2' lat='45.4825951' lon='-75.5044656'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='8258538331' visible='true' version='3' lat='45.4825689' lon='-75.5044392' />
+  <node id='901425623' visible='true' version='2' lat='45.4825455' lon='-75.5043635' />
+  <node id='901995299' visible='true' version='2' lat='45.4828255' lon='-75.4912298' />
+  <node id='901992754' visible='true' version='2' lat='45.4827762' lon='-75.4909299' />
+  <node id='6932564100' visible='true' version='1' lat='45.4827635' lon='-75.4908284' />
+  <node id='1017349815' visible='true' version='2' lat='45.4827683' lon='-75.4907258' />
+  <node id='1017343326' visible='true' version='2' lat='45.4828026' lon='-75.4905367' />
+  <node id='1017355398' visible='true' version='3' lat='45.4828651' lon='-75.4904692'>
+    <tag k='highway' v='turning_circle' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='5973813348' visible='true' version='3' lat='45.4829525' lon='-75.5196788' />
+  <node id='6791808886' visible='true' version='3' lat='45.4829179' lon='-75.5198071'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='14369274867' visible='true' version='1' lat='45.4826903' lon='-75.5206425' />
+  <node id='9102622721' visible='true' version='2' lat='45.4825905' lon='-75.5210087' />
+  <node id='5973813352' visible='true' version='4' lat='45.4825698' lon='-75.5210918' />
+  <node id='901991594' visible='true' version='4' lat='45.4846877' lon='-75.4921653'>
+    <tag k='highway' v='turning_circle' />
+    <tag k='source' v='Bing' />
+  </node>
+  <node id='5276079729' visible='true' version='1' lat='45.484731' lon='-75.4921192' />
+  <node id='901996160' visible='true' version='2' lat='45.484803' lon='-75.4919803' />
+  <node id='6934813578' visible='true' version='1' lat='45.4848683' lon='-75.4918422' />
+  <node id='6934813579' visible='true' version='1' lat='45.4849266' lon='-75.4916967' />
+  <node id='6934813580' visible='true' version='1' lat='45.4850046' lon='-75.4914513' />
+  <node id='901991071' visible='true' version='2' lat='45.4850604' lon='-75.4913044' />
+  <node id='905129039' visible='true' version='2' lat='45.4871825' lon='-75.5032909' />
+  <node id='905125805' visible='true' version='3' lat='45.4871272' lon='-75.503451' />
+  <node id='5750223952' visible='true' version='1' lat='45.4868867' lon='-75.491832' />
+  <node id='901994466' visible='true' version='3' lat='45.4869759' lon='-75.4918792' />
+  <node id='5588927451' visible='true' version='2' lat='45.4870329' lon='-75.4919083'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6120096020' visible='true' version='3' lat='45.4870634' lon='-75.4919243'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6937090539' visible='true' version='1' lat='45.4874435' lon='-75.4921353' />
+  <node id='902839702' visible='true' version='6' lat='45.4875496' lon='-75.492198' />
+  <node id='902839302' visible='true' version='2' lat='45.4877197' lon='-75.4917508' />
+  <node id='6131854026' visible='true' version='1' lat='45.4876194' lon='-75.4921594' />
+  <node id='902839468' visible='true' version='2' lat='45.4873131' lon='-75.4928386' />
+  <node id='1017357703' visible='true' version='2' lat='45.4872428' lon='-75.4930771' />
+  <node id='902839343' visible='true' version='3' lat='45.4872168' lon='-75.4931347' />
+  <node id='2365709707' visible='true' version='2' lat='45.4929966' lon='-75.493083' />
+  <node id='2365710767' visible='true' version='3' lat='45.4928791' lon='-75.4932849' />
+  <node id='6979781143' visible='true' version='1' lat='45.4928537' lon='-75.4933134' />
+  <node id='2365780275' visible='true' version='2' lat='45.4928171' lon='-75.4933326' />
+  <node id='6979781144' visible='true' version='1' lat='45.4927662' lon='-75.4933295' />
+  <node id='2365710768' visible='true' version='3' lat='45.4927151' lon='-75.493309' />
+  <node id='6979781145' visible='true' version='1' lat='45.4926755' lon='-75.4932739' />
+  <node id='2365710769' visible='true' version='1' lat='45.4926506' lon='-75.4932198' />
+  <node id='6979781146' visible='true' version='1' lat='45.492636' lon='-75.4931505' />
+  <node id='2365710770' visible='true' version='3' lat='45.492654' lon='-75.4930743' />
+  <node id='2365710771' visible='true' version='1' lat='45.4927559' lon='-75.4929194' />
+  <node id='2365709706' visible='true' version='2' lat='45.4928339' lon='-75.4928067' />
+  <node id='2365709684' visible='true' version='4' lat='45.4920645' lon='-75.4923475' />
+  <node id='6131854020' visible='true' version='2' lat='45.4920647' lon='-75.4922398'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='6131854019' visible='true' version='2' lat='45.4920668' lon='-75.4921366' />
+  <node id='6979781147' visible='true' version='1' lat='45.4920532' lon='-75.4920695' />
+  <node id='5355489445' visible='true' version='2' lat='45.4920329' lon='-75.4920025' />
+  <node id='6979781148' visible='true' version='1' lat='45.4920254' lon='-75.4919361' />
+  <node id='2365709685' visible='true' version='2' lat='45.4920306' lon='-75.4918727' />
+  <node id='6979781149' visible='true' version='1' lat='45.4920861' lon='-75.4916706' />
+  <node id='2365709686' visible='true' version='2' lat='45.4921589' lon='-75.4914811' />
+  <node id='2365780277' visible='true' version='2' lat='45.4922521' lon='-75.4913182' />
+  <node id='6979781150' visible='true' version='1' lat='45.4923371' lon='-75.4911871' />
+  <node id='2365709687' visible='true' version='3' lat='45.492347' lon='-75.4911325' />
+  <node id='6979781151' visible='true' version='1' lat='45.4923404' lon='-75.4910517' />
+  <node id='2365709688' visible='true' version='2' lat='45.4923093' lon='-75.4910077' />
+  <node id='2365709689' visible='true' version='2' lat='45.4920959' lon='-75.4908863' />
+  <node id='2365709690' visible='true' version='2' lat='45.4919088' lon='-75.490779' />
+  <node id='2365709691' visible='true' version='2' lat='45.4918091' lon='-75.4907228' />
+  <node id='6979781152' visible='true' version='1' lat='45.4917617' lon='-75.4907117' />
+  <node id='2365709692' visible='true' version='2' lat='45.4917109' lon='-75.4907294' />
+  <node id='6979781154' visible='true' version='1' lat='45.4916357' lon='-75.4908512' />
+  <node id='6979781153' visible='true' version='1' lat='45.4916033' lon='-75.4909142' />
+  <node id='2365709693' visible='true' version='3' lat='45.4915813' lon='-75.490989' />
+  <node id='2365780279' visible='true' version='2' lat='45.4915531' lon='-75.4911331' />
+  <node id='2365709694' visible='true' version='2' lat='45.4915177' lon='-75.4912417' />
+  <node id='2365780278' visible='true' version='2' lat='45.4914483' lon='-75.4913631' />
+  <node id='2365709695' visible='true' version='2' lat='45.4913471' lon='-75.4914938' />
+  <node id='6979781156' visible='true' version='1' lat='45.4912968' lon='-75.4915814' />
+  <node id='6979781155' visible='true' version='1' lat='45.4912743' lon='-75.4916263' />
+  <node id='2365709696' visible='true' version='2' lat='45.4912526' lon='-75.491681' />
+  <node id='6979781158' visible='true' version='1' lat='45.4912221' lon='-75.4917678' />
+  <node id='6979781157' visible='true' version='1' lat='45.4912113' lon='-75.4918114' />
+  <node id='2365709697' visible='true' version='3' lat='45.4912118' lon='-75.4918566' />
+  <node id='6979781159' visible='true' version='1' lat='45.4912211' lon='-75.491912' />
+  <node id='2365709698' visible='true' version='3' lat='45.491248' lon='-75.49196' />
+  <node id='6979781160' visible='true' version='1' lat='45.4912738' lon='-75.4919978' />
+  <node id='6979781161' visible='true' version='1' lat='45.4913109' lon='-75.4920166' />
+  <node id='2365780280' visible='true' version='2' lat='45.4914361' lon='-75.492033' />
+  <node id='6979781162' visible='true' version='1' lat='45.4914839' lon='-75.492038' />
+  <node id='2365709699' visible='true' version='3' lat='45.4915254' lon='-75.4920545' />
+  <node id='2365709700' visible='true' version='2' lat='45.4916832' lon='-75.4921537' />
+  <node id='6979781163' visible='true' version='1' lat='45.4918604' lon='-75.4922674' />
+  <node id='2365709701' visible='true' version='2' lat='45.4919154' lon='-75.4922944' />
+  <node id='2365709703' visible='true' version='2' lat='45.4921974' lon='-75.4923971' />
+  <node id='2365709704' visible='true' version='2' lat='45.4925726' lon='-75.4925271' />
+  <node id='6979781164' visible='true' version='1' lat='45.4926374' lon='-75.4925483' />
+  <node id='2365780276' visible='true' version='2' lat='45.492685' lon='-75.4925761' />
+  <node id='6979781165' visible='true' version='1' lat='45.4927268' lon='-75.4926274' />
+  <node id='2365709705' visible='true' version='1' lat='45.4927634' lon='-75.4926834' />
+  <node id='2365709708' visible='true' version='2' lat='45.4932663' lon='-75.493362' />
+  <node id='6632241254' visible='true' version='2' lat='45.4932909' lon='-75.4933889' />
+  <node id='5594397869' visible='true' version='1' lat='45.4934534' lon='-75.4935594'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='2365709709' visible='true' version='2' lat='45.4934879' lon='-75.4936001' />
+  <way id='76535168' action='modify' visible='true' version='11'>
+    <nd ref='1017357643' />
+    <nd ref='-10' />
+    <nd ref='901990210' />
+    <nd ref='6937571225' />
+    <nd ref='1017353632' />
+    <nd ref='5837443556' />
+    <nd ref='5837443536' />
+    <nd ref='6937571224' />
+    <nd ref='901992992' />
+    <nd ref='901990503' />
+    <nd ref='6937571223' />
+    <nd ref='-16' />
+    <nd ref='901996145' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Sidney Drive' />
+    <tag k='name:en' v='Sidney Drive' />
+    <tag k='name:fr' v='promenade Sidney' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='7.5' />
+  </way>
+  <way id='76534868' action='modify' visible='true' version='16'>
+    <nd ref='901994571' />
+    <nd ref='6935086408' />
+    <nd ref='-38' />
+    <nd ref='6935086407' />
+    <nd ref='901991969' />
+    <nd ref='901994920' />
+    <nd ref='901992831' />
+    <nd ref='6935086406' />
+    <nd ref='1017355884' />
+    <nd ref='901992576' />
+    <nd ref='6935086402' />
+    <nd ref='901994326' />
+    <nd ref='901996163' />
+    <nd ref='1017340025' />
+    <nd ref='901993476' />
+    <nd ref='1017337457' />
+    <nd ref='1017352673' />
+    <nd ref='6935086400' />
+    <nd ref='1017343103' />
+    <nd ref='6935086398' />
+    <nd ref='6935086399' />
+    <nd ref='1017343075' />
+    <nd ref='1017350951' />
+    <nd ref='1017356281' />
+    <nd ref='1017344458' />
+    <nd ref='1017338213' />
+    <nd ref='1017338079' />
+    <nd ref='6120096209' />
+    <nd ref='1017355071' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Briarfield Crescent' />
+    <tag k='name:en' v='Briarfield Crescent' />
+    <tag k='name:fr' v='croissant Briarfield' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+  </way>
+  <way id='76457899' action='modify' visible='true' version='8'>
+    <nd ref='901405497' />
+    <nd ref='-35' />
+    <nd ref='901419314' />
+    <nd ref='4303492047' />
+    <nd ref='6951504082' />
+    <nd ref='4303492048' />
+    <nd ref='6951504083' />
+    <nd ref='6951504081' />
+    <nd ref='901411239' />
+    <nd ref='901436010' />
+    <nd ref='-75' />
+    <nd ref='901441145' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Hinterland Court' />
+    <tag k='name:en' v='Hinterland Court' />
+    <tag k='name:fr' v='cour Hinterland' />
+    <tag k='sidewalk' v='right' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8' />
+  </way>
+  <way id='982057319' action='modify' visible='true' version='3'>
+    <nd ref='9082574147' />
+    <nd ref='9466378223' />
+    <nd ref='9082574144' />
+    <nd ref='7880144214' />
+    <nd ref='-84' />
+    <nd ref='9466315286' />
+    <nd ref='8258538331' />
+    <nd ref='901425623' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Vieux-Silo Street' />
+    <tag k='name:en' v='Vieux-Silo Street' />
+    <tag k='name:fr' v='rue du Vieux-Silo' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='left' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='76534801' action='modify' visible='true' version='11'>
+    <nd ref='901995299' />
+    <nd ref='-78' />
+    <nd ref='901992754' />
+    <nd ref='6932564100' />
+    <nd ref='1017349815' />
+    <nd ref='1017343326' />
+    <nd ref='1017355398' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Glenside Terrace' />
+    <tag k='name:en' v='Glenside Terrace' />
+    <tag k='name:fr' v='terrasse Glenside' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+  </way>
+  <way id='632718841' action='modify' visible='true' version='10'>
+    <nd ref='5973813348' />
+    <nd ref='6791808886' />
+    <nd ref='-89' />
+    <nd ref='14369274867' />
+    <nd ref='9102622721' />
+    <nd ref='5973813352' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='John Holden Way' />
+    <tag k='name:en' v='John Holden Way' />
+    <tag k='name:fr' v='voie John Holden' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='76535367' action='modify' visible='true' version='8'>
+    <nd ref='901991594' />
+    <nd ref='5276079729' />
+    <nd ref='901996160' />
+    <nd ref='6934813578' />
+    <nd ref='6934813579' />
+    <nd ref='6934813580' />
+    <nd ref='-22' />
+    <nd ref='901991071' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Chantal Place' />
+    <tag k='name:en' v='Chantal Place' />
+    <tag k='name:fr' v='place Chantal' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+  </way>
+  <way id='457927000' action='modify' visible='true' version='1'>
+    <nd ref='905129039' />
+    <nd ref='-25' />
+    <nd ref='905125805' />
+    <tag k='highway' v='motorway_link' />
+    <tag k='lanes' v='1' />
+    <tag k='oneway' v='yes' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='76608489' action='modify' visible='true' version='15'>
+    <nd ref='5750223952' />
+    <nd ref='-58' />
+    <nd ref='901994466' />
+    <nd ref='5588927451' />
+    <nd ref='6120096020' />
+    <nd ref='6937090539' />
+    <nd ref='13657712638' />
+    <nd ref='902839702' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='2nd Avenue' />
+    <tag k='name:en' v='2nd Avenue' />
+    <tag k='name:fr' v='avenue 2nd' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8' />
+  </way>
+  <way id='76608493' action='modify' visible='true' version='14'>
+    <nd ref='902839302' />
+    <nd ref='-71' />
+    <nd ref='6131854026' />
+    <nd ref='902839702' />
+    <nd ref='13657712636' />
+    <nd ref='902839468' />
+    <nd ref='1017357703' />
+    <nd ref='902839343' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='South Street' />
+    <tag k='name:en' v='South Street' />
+    <tag k='name:fr' v='rue South' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='6' />
+  </way>
+  <way id='227937829' action='modify' visible='true' version='8'>
+    <nd ref='2365709707' />
+    <nd ref='-28' />
+    <nd ref='2365710767' />
+    <nd ref='6979781143' />
+    <nd ref='2365780275' />
+    <nd ref='6979781144' />
+    <nd ref='2365710768' />
+    <nd ref='6979781145' />
+    <nd ref='2365710769' />
+    <nd ref='6979781146' />
+    <nd ref='2365710770' />
+    <nd ref='2365710771' />
+    <nd ref='-3' />
+    <nd ref='2365709706' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Parkrose Private' />
+    <tag k='name:en' v='Parkrose Private' />
+    <tag k='name:fr' v='privé Parkrose' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8' />
+  </way>
+  <way id='227937671' action='modify' visible='true' version='14'>
+    <nd ref='2365709684' />
+    <nd ref='6131854020' />
+    <nd ref='6131854019' />
+    <nd ref='6979781147' />
+    <nd ref='5355489445' />
+    <nd ref='6979781148' />
+    <nd ref='2365709685' />
+    <nd ref='6979781149' />
+    <nd ref='2365709686' />
+    <nd ref='2365780277' />
+    <nd ref='6979781150' />
+    <nd ref='2365709687' />
+    <nd ref='6979781151' />
+    <nd ref='2365709688' />
+    <nd ref='2365709689' />
+    <nd ref='2365709690' />
+    <nd ref='2365709691' />
+    <nd ref='6979781152' />
+    <nd ref='2365709692' />
+    <nd ref='6979781154' />
+    <nd ref='6979781153' />
+    <nd ref='2365709693' />
+    <nd ref='2365780279' />
+    <nd ref='2365709694' />
+    <nd ref='2365780278' />
+    <nd ref='2365709695' />
+    <nd ref='6979781156' />
+    <nd ref='6979781155' />
+    <nd ref='2365709696' />
+    <nd ref='6979781158' />
+    <nd ref='6979781157' />
+    <nd ref='2365709697' />
+    <nd ref='6979781159' />
+    <nd ref='2365709698' />
+    <nd ref='6979781160' />
+    <nd ref='6979781161' />
+    <nd ref='2365780280' />
+    <nd ref='6979781162' />
+    <nd ref='2365709699' />
+    <nd ref='2365709700' />
+    <nd ref='6979781163' />
+    <nd ref='2365709701' />
+    <nd ref='2365709684' />
+    <nd ref='2365709703' />
+    <nd ref='2365709704' />
+    <nd ref='6979781164' />
+    <nd ref='2365780276' />
+    <nd ref='6979781165' />
+    <nd ref='2365709705' />
+    <nd ref='2365709706' />
+    <nd ref='2365709707' />
+    <nd ref='2365709708' />
+    <nd ref='6632241254' />
+    <nd ref='-87' />
+    <nd ref='5594397869' />
+    <nd ref='2365709709' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='20' />
+    <tag k='name' v='Parkrose Private' />
+    <tag k='name:en' v='Parkrose Private' />
+    <tag k='name:fr' v='privé Parkrose' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8' />
+  </way>
+</osm>

@@ -6,6 +6,10 @@ Checked on 2026-11-14 against live OSM. These are the city's point layers from [
 
 - [ ] [Ottawa-Cycling](Ottawa-Cycling/): `paved-shoulders.osm`, `new-paths.osm`, `path-access.osm`
 - [ ] [Gatineau-cycling](Gatineau-cycling/): `on-road.osm` (2-way fix for Rue des Cerisiers and Rue Wright)
+- [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `3/stop-signs-01..06.osm` (ward 3, Barrhaven West, after the first upload: 286 signs to review, up to 50 per file, each with `fixme` + `fixme_sv`)
+- [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `1/stop-signs-01..05.osm` (ward 1, Orléans East-Cumberland: 239 signs to review)
+- [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `2/stop-signs-01..03.osm` (ward 2, Orléans West-Innes: 148 signs to review)
+- [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `4/stop-signs-01..02.osm` (ward 4, Kanata North: 82 signs to review)
 
 ## Benches (done 2026-11-14)
 
@@ -196,7 +200,7 @@ A second pass over the rest of [maps.ottawa.ca](https://maps.ottawa.ca/arcgis/re
 
 **New objects:**
 - [ ] **Traffic signals:** 38 of 1,235 signalised intersections have no signal node within 40 m.
-- [ ] **Two-way stops and yields:** 1,722 STOP and 359 YIELD intersections have no control node at all. The city gives only the intersection point, so each sign has to go on the minor road's approaches, which needs a rule and review.
+- [ ] **Two-way stops and yields:** 1,722 STOP and 359 YIELD intersections have no control node at all. The city gives only the intersection point, so each sign has to go on the minor road's approaches, which needs a rule and review. [Ottawa-stop-signs/update.js](Ottawa-stop-signs/update.js) does this one ward at a time; wards 1–4 are done.
 - [ ] **Red-light cameras:** 25 of 86 are missing, all installed 2020–2025. Ottawa maps them as `type=enforcement` relations (54 exist), so each needs a relation, not just a node.
 - [ ] **Pay-and-display machines** ([Parking/0](https://maps.ottawa.ca/arcgis/rest/services/Parking/MapServer/0)): 495 of 623 active machines are missing, mostly in Somerset, Kitchissippi and Rideau-Vanier. 6 decommissioned ones are still in OSM. The rate and hours fields could give `opening_hours` and `charge`.
 - [ ] **Mountain bike trails** ([CyclingMap/17](https://maps.ottawa.ca/arcgis/rest/services/CyclingMap/MapServer/17), from the Ottawa Mountain Bike Association): 76 named trails, 63 of the names already on OSM paths. The Easy/Intermediate/Hard ratings could become `mtb:scale:imba` 1/2/3; only 35 Ottawa paths have any `mtb:scale` now.
