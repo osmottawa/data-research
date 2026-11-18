@@ -1,0 +1,4 @@
+.env
+# what Fotoshi returned, to rerun with --from; not shared
+fotoshi-*.json
+fotoshi-*.osm
