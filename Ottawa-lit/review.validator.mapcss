@@ -1,0 +1,12 @@
+/* JOSM validator rule: stop the upload of a "check lit" fixme left over from the Ottawa-lit files.
+   Add in Preferences > Data Validator > Tag checker rules > "+" (local file). */
+
+meta {
+  title: "Ottawa lit review leftovers";
+  version: "1.0";
+  description: "Errors for fixme=check lit still on ways from Ottawa-lit";
+}
+
+way[fixme=~/check lit/] {
+  throwError: "fixme=check lit still set: check the lit tag before uploading";
+}
