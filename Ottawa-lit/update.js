@@ -14,8 +14,9 @@
 // Each way is sampled every 5 m and each sample checked for a lamp nearby. The thresholds were tuned against the
 // ~10k Ottawa ways that already had a lit tag (see README.md):
 //   road  yes: lamps within 30 m cover >= 60% of it (a lamp counts if it stands within 30 m of the centreline)
-//         no:  they cover <= 20%, and the city's road layer says the road is city-owned. Private, federal (NCC) and
-//              provincial (MTO) roads have their own lights, which aren't in the city data, so they never get lit=no.
+//         no:  they cover <= 20%, and the city's road layer says the road is city-owned and Operational. Private,
+//              federal (NCC) and provincial (MTO) roads have their own lights, which aren't in the city data, and so
+//              do new subdivision streets the city hasn't assumed yet (status "Open to Traffic"): no lit=no for them.
 //   path  yes: lamps standing on the path (within 4 m) light >= 60% of it within 15 m and lamps within 12 m of it
 //              light >= 70% within 20 m; or, for a path of 30 m or more, lamps within 12 m light >= 80% of it.
 //         no:  no more than 10% of it is within 30 m of any lamp, it's at least 20 m long, it isn't inside a school,
@@ -43,7 +44,7 @@ const OVERPASS = [
 const MAX_OSM_AGE = 48; // hours; some Overpass mirrors lag months behind, their data is refused
 const UA = "BikeOttawa-data-research/1.0";
 const CITY_BBOX = [44.95, -76.36, 45.54, -75.24]; // s, w, n, e
-const CHUNK = 100;
+const CHUNK = 200;
 const FIXME = "check lit";
 
 const ROAD = /^(trunk|primary|secondary|tertiary|unclassified|residential|living_street|busway)(_link)?$/; // no motorways
@@ -295,7 +296,7 @@ async function runWard(wardFeature, chunk, city) {
 
   // ----- city road ownership; private and parking roads from both sources
   const roads = await cityQuery(ROAD_CLASSES, {
-    where: "1=1", outFields: "OWNERSHIP", geometry: [bbox[1] - mLon, bbox[0] - mLat, bbox[3] + mLon, bbox[2] + mLat].join(","),
+    where: "1=1", outFields: "OWNERSHIP,CURRENT_STATUS", geometry: [bbox[1] - mLon, bbox[0] - mLat, bbox[3] + mLon, bbox[2] + mLat].join(","),
     geometryType: "esriGeometryEnvelope", inSR: 4326, spatialRel: "esriSpatialRelIntersects",
   });
   const owner = segIndex(), privateRoads = segIndex(), parking = segIndex();
@@ -303,7 +304,10 @@ async function runWard(wardFeature, chunk, city) {
     if (!f.geometry) continue;
     for (const line of f.geometry.type === "LineString" ? [f.geometry.coordinates] : f.geometry.coordinates) {
       const pts = line.map(c => xy(c[0], c[1]));
-      owner.add(pts, f.properties.OWNERSHIP);
+      // a public road the city hasn't assumed yet ("Open to Traffic", "Commence Work Issued"): a new subdivision
+      // street whose lights are still the developer's and not in the city's light data
+      const { OWNERSHIP: own, CURRENT_STATUS: status } = f.properties;
+      owner.add(pts, own === "Public" && status && status !== "Operational" ? "new (unassumed)" : own);
       if (f.properties.OWNERSHIP === "Private") privateRoads.add(pts, true);
     }
   }

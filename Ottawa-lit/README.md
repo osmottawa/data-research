@@ -3,7 +3,7 @@
 `node update.js <ward> [<ward> ...]` or `node update.js all` works out `lit=yes` or `lit=no` for the roads and pathways of City of Ottawa wards from the street lamps mapped in OSM. All the city's ~80k lights are in OSM (only 335 have no OSM lamp within 15 m), plus about 15k more. It needs Node 18+ and no packages.
 
 It writes `<ward>/lit-01.osm`, `-02.osm`, and so on:
-- At most 100 ways per file (`--chunk <n>` changes this). Each file is one compact area, numbered roughly north to south.
+- At most 200 ways per file (`--chunk <n>` changes this). Each file is one compact area, numbered roughly north to south.
 - A way belongs to the ward its midpoint is in, so every way is in exactly one file.
 - A rerun reads fresh OSM, so anything already uploaded is skipped, and the old files are replaced.
 - Each file also holds, unchanged, the street lamps the decisions looked at (within 30 m of a way in the file), and the things tagged `lit` (pitches, rinks, parking lots) checked for its `lit=no` paths. They're there to check the result against. Unchanged objects don't upload; search `modified` to select only the changed ways.
@@ -27,7 +27,8 @@ The way is sampled every 5 m, and each sample is checked for a lamp nearby. A la
 
 **Roads**
 - `lit=yes`: lamps light 60% or more of it. A lamp counts if it stands within 30 m of the centreline and lights samples within 30 m.
-- `lit=no`: they light 20% or less, and the city's [road layer](https://maps.ottawa.ca/arcgis/rest/services/Road_Information/MapServer/3) says the road is city-owned (`OWNERSHIP=Public`). Private roads, NCC (federal) roads and MTO (provincial) roads have their own lights, which aren't in the city data, so they never get `lit=no`.
+- `lit=no`: they light 20% or less, and the city's [road layer](https://maps.ottawa.ca/arcgis/rest/services/Road_Information/MapServer/3) says the road is city-owned and in service (`OWNERSHIP=Public`, `CURRENT_STATUS=Operational`). Private roads, NCC (federal) roads and MTO (provincial) roads have their own lights, which aren't in the city data, so they never get `lit=no`.
+  - Neither do new subdivision streets the city hasn't assumed yet (`CURRENT_STATUS=Open to Traffic` or `Commence Work Issued`, about 2,200 city-wide). Their lights still belong to the developer and aren't in the city data. Added 2026-11-19 after ward 3, where 17 new Half Moon Bay streets (Moonrise Terr, Symphony Way, Peachleaf Cres, ...) came out dark with no lamp anywhere near them.
 
 **Pathways**
 - `lit=yes`, either of:
@@ -43,7 +44,7 @@ The way is sampled every 5 m, and each sample is checked for a lamp nearby. A la
 
 **Everything in between is left alone** and counted in the console:
 - partly lit ways, such as rural roads with a lamp at each intersection, or park paths that pass a street lamp at one end
-- dark private roads
+- dark private roads and dark new (unassumed) streets
 - short path pieces
 
 ### Checked against the existing tags
@@ -140,3 +141,37 @@ The `lit=no` roads are rural and country-estate streets with a lamp only at the 
 - Pathways: mostly partly lit (415), short pieces (103 dark ones under 20 m), paths by private roads (67) and in school or similar sites (49).
 
 The `lit=no` pathways are woodland and park trails, nearly all unnamed. The named ones are the Greenbelt Pathway East (3 ways), Trails 61 and 63, and the Green's Creek bridge. `lit-13`, in the Greenbelt by Bearbrook Road, has the most (52). One that's worth a look: [w1341099506](https://osm.org/way/1341099506) (`lit-14`), 42 m around a building and into its parking lot. Lights on the building's walls aren't in the street light data.
+
+## Ward 3, Barrhaven West
+
+**Files** (2026-11-19 04:21 UTC): 1,580 ways in 8 files of 197–198, the first ward at 200 per file. 1,329 get `lit=yes` and 251 get `lit=no`. No existing `lit` tag disagrees, so there's no `fixme=check lit`.
+
+| File | Ways | yes / no | Lamps | Lit things | Main streets |
+|---|---|---|---|---|---|
+| [3/lit-01.osm](3/lit-01.osm) | 198 | 151 / 47 | 406 | 1 | Cedarview Rd, Fallowfield Rd, Strandherd Dr |
+| [3/lit-02.osm](3/lit-02.osm) | 197 | 154 / 43 | 427 | 1 | Jockvale Rd, Greenbank Rd, Larkin Dr |
+| [3/lit-03.osm](3/lit-03.osm) | 197 | 178 / 19 | 492 | 0 | Strandherd Dr, Tartan Dr, Chapman Mills Dr |
+| [3/lit-04.osm](3/lit-04.osm) | 198 | 183 / 15 | 473 | 0 | Greenbank Rd, Longfields Dr, River Run Ave |
+| [3/lit-05.osm](3/lit-05.osm) | 198 | 175 / 23 | 559 | 0 | Borrisokane Rd, Strandherd Dr, Watercolours Way |
+| [3/lit-06.osm](3/lit-06.osm) | 197 | 131 / 66 | 257 | 0 | Longfields Dr, Golflinks Dr, Stonebridge Trail |
+| [3/lit-07.osm](3/lit-07.osm) | 198 | 186 / 12 | 783 | 0 | River Mist Rd, Grand Canal St, Dundonald Dr |
+| [3/lit-08.osm](3/lit-08.osm) | 197 | 171 / 26 | 614 | 0 | Kilbirnie Dr, Greenbank Rd, Longfields Dr |
+
+| | Roads | Pathways |
+|---|---|---|
+| New `lit=yes` | 1,248 | 81 |
+| New `lit=no` | 68 | 183 |
+| Already tagged the same | 11 | 39 |
+| `fixme=check lit` | 0 | 0 |
+| Left alone | 265 | 900 |
+
+**The 68 `lit=no` roads:**
+- 24 ways of rural roads with lamps only at the intersections: Prince of Wales Dr (8), Borrisokane Rd (6), Barnsdale Rd (3), Cambrian, Cedarview and Greenbank Rds (2 each), Fallowfield Rd (1).
+- 44 country-estate streets west and south of Barrhaven, mostly with one lamp at the corner: the Cedarhill golf course streets (Mission Inn Grove, Southern Hills Crt, Swilken Burn, Glen Oaks Circle, ...), Lytle Ave, Roberta, Leetom, Ettrick and Barrhaven Cres, Townsend Dr, Adele and Amherst Cres, Benlark Rd.
+
+**Left alone:**
+- 17 dark streets in new subdivisions the city hasn't assumed (Half Moon Bay, Pumice Pl, Andesite Terr). See the road rule above.
+- 40 dark private roads, 206 partly lit roads.
+- Pathways: mostly partly lit (537), short pieces (146 dark ones under 20 m), paths by private roads (77) and in school or similar sites (44).
+
+The `lit=no` pathways are almost all unnamed; the only named one is Stonebridge Trail (4 ways). `lit-06`, around Stonebridge and the Jock River, has the most (66 `lit=no` in all).
