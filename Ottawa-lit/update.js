@@ -5,7 +5,8 @@
 //   node update.js [--chunk <n>] <ward number> [<ward number> ...]
 //   node update.js [--chunk <n>] all
 //
-// Ways: trunk ... residential, living_street, busway (and links); cycleway, footway, path, pedestrian, bridleway.
+// Ways: trunk ... residential, living_street, busway (and links); cycleway, footway, path, pedestrian, bridleway,
+// corridor.
 // Left out: motorways, sidewalks, crossings, traffic islands, service roads, steps, tracks, areas. A way belongs to
 // the ward its midpoint is in.
 // Each file also holds, unchanged so they don't upload, the street lamps the decisions looked at (within 30 m of a
@@ -23,8 +24,14 @@
 //              campus, hospital, commercial, retail, industrial, railway or military site (they light their own
 //              grounds), it isn't mostly within 40 m of a private road (condo complexes), 25 m of a parking aisle,
 //              15 m of a parking lot or 25 m of something OSM tags lit (a pitch, rink, parking lot, shelter: lights
-//              the street light data doesn't have), and it isn't a tunnel, covered or indoor.
+//              the street light data doesn't have), and it isn't a tunnel or covered.
+//   indoor: an indoor path (indoor=*, highway=corridor) is always lit=yes.
 //   Everything in between is left alone and counted in the console.
+// Levels: a lamp lights its own level. Its layer is its layer tag, or else the layer of the nearest road or path
+// within 15 m (most lamps on bridges have no layer tag). It's left out for a way on another layer that a way on its
+// own layer next to it crosses: a lamp on a bridge doesn't light the road under it, a street lamp doesn't light the
+// tunnel under the street, but lamps at the ends of a bridge still light it. A lit thing with a layer tag counts
+// only on that layer.
 // A way that already has a lit tag saying the same is skipped. One whose tag disagrees gets the computed value and
 // fixme=check lit; lit=no and lit=disused count as no, every other value as yes.
 //
@@ -53,7 +60,7 @@ const CHUNK = 200;
 const FIXME = "check lit";
 
 const ROAD = /^(trunk|primary|secondary|tertiary|unclassified|residential|living_street|busway)(_link)?$/; // no motorways
-const PATH = /^(cycleway|footway|path|pedestrian|bridleway)$/;
+const PATH = /^(cycleway|footway|path|pedestrian|bridleway|corridor)$/;
 const NOT_PATH = /^(sidewalk|crossing|traffic_island|access_aisle)$/;
 // sites that light their own grounds: no lit=no for paths inside them
 const SITES = [
@@ -73,6 +80,7 @@ const ROAD_LAMP = 30, ROAD_REACH = 30, ROAD_YES = 0.6, ROAD_NO = 0.2, OWNER_SNAP
 const PATH_NEAR = 12, PATH_REACH = 20, PATH_ON = 4, PATH_ON_REACH = 15;
 const PATH_DARK = 30, PATH_DARK_SHARE = 0.1, PATH_MIN_NO = 20, PATH_MIN_SIDE = 30;
 const PRIVATE_ROAD = 40, PARKING = 25, PARKING_LOT = 15, LIT_THING = 25;
+const LAMP_SNAP = 15; // a lamp with no layer tag takes the layer of the nearest road or path within this
 
 // ---------------------------------------------------------------------------------------------------------
 
@@ -198,6 +206,17 @@ function segIndex(cell = 50) {
     },
   };
 }
+// lines that cross without sharing a node: one passes over the other
+function crosses(v, w) {
+  const ns = w.nodeSet || (w.nodeSet = new Set(w.nodes));
+  if (v.nodes.some(id => ns.has(id))) return false;
+  const o = (a, b, c) => (b[0] - a[0]) * (c[1] - a[1]) - (b[1] - a[1]) * (c[0] - a[0]);
+  for (let i = 1; i < v.pts.length; i++) for (let j = 1; j < w.pts.length; j++) {
+    const a = v.pts[i - 1], b = v.pts[i], c = w.pts[j - 1], d = w.pts[j];
+    if (o(a, b, c) * o(a, b, d) < 0 && o(c, d, a) * o(c, d, b) < 0) return true;
+  }
+  return false;
+}
 function lengthOf(pts) { let l = 0; for (let i = 1; i < pts.length; i++) l += dist(pts[i - 1], pts[i]); return l; }
 function pointAt(pts, at) {
   for (let i = 1; i < pts.length; i++) {
@@ -244,6 +263,7 @@ function rings(e) {
 // ---------------------------------------------------------------------------------------------------------
 
 const isYes = v => v !== "no" && v !== "disused";
+const layerOf = t => { const v = parseFloat(String(t.layer ?? 0).split(";")[0]); return Number.isFinite(v) ? v : 0; };
 
 async function cityWide() {
   const bbox = CITY_BBOX.join(",");
@@ -341,6 +361,19 @@ async function runWard(wardFeature, chunk, city) {
     if (t.highway === "service" && /^(parking_aisle|drive-through)$/.test(t.service || "")) parking.add(w.pts, true);
   }
 
+  // ----- levels: which lamps light which ways (see the header)
+  const level = segIndex();
+  for (const w of ways) if (w.len > 0 && w.tags.area !== "yes" && !/^(proposed|construction|abandoned|razed)$/.test(w.tags.highway)) level.add(w.pts, w);
+  const lampLevel = new Map();
+  function lightsWay(l, w) {
+    if (!lampLevel.has(l.id)) {
+      const L = l.tags.layer !== undefined ? layerOf(l.tags) : layerOf(level.nearest(l.q, LAMP_SNAP)?.tags || {});
+      lampLevel.set(l.id, { L, mine: [...level.within(l.q, LAMP_SNAP)].filter(v => layerOf(v.tags) === L) });
+    }
+    const { L, mine } = lampLevel.get(l.id);
+    return L === layerOf(w.tags) || !mine.some(v => crosses(v, w));
+  }
+
   // ----- decide each way
   const isCandidate = w => w.tags.area !== "yes" && w.len > 0 &&
     (ROAD.test(w.tags.highway) || (PATH.test(w.tags.highway) && !NOT_PATH.test(w.tags.footway || w.tags.path || w.tags.cycleway || "")));
@@ -350,9 +383,13 @@ async function runWard(wardFeature, chunk, city) {
     if (!isCandidate(w)) continue;
     const mid = pointAt(w.pts, w.len / 2);
     if (!inPolygon([mid[0] / KX, mid[1] / KY], wardFeature.geometry)) continue;
-    const isRoad = ROAD.test(w.tags.highway), kind = isRoad ? "road" : "path";
+    const isRoad = ROAD.test(w.tags.highway), wl = layerOf(w.tags);
+    const indoor = !isRoad && (w.tags.highway === "corridor" || (w.tags.indoor !== undefined && w.tags.indoor !== "no"));
+    const kind = isRoad ? "road" : indoor ? "indoor path" : "path";
     const sm = samples(w.pts, STEP);
-    const lamps = city.lamps.near(mid, w.len / 2 + 80).map(l => ({ l, q: l.q, d: lineDist(l.q, w.pts) })).filter(l => l.d <= 30);
+    const around = city.lamps.near(mid, w.len / 2 + 80).map(l => ({ l, q: l.q, d: lineDist(l.q, w.pts) })).filter(l => l.d <= 30);
+    const lamps = around.filter(x => lightsWay(x.l, w));
+    if (lamps.length < around.length) count(`(info) ${kind}s with lamps over or under them left out`);
     const litSeen = new Set(); // lit things checked for a dark path
     const share = (maxD, reach) => { const ls = lamps.filter(l => l.d <= maxD); return sm.filter(p => ls.some(l => dist(p, l.q) <= reach)).length / sm.length; };
     let value = null, why;
@@ -366,18 +403,19 @@ async function runWard(wardFeature, chunk, city) {
         const own = Object.entries(votes).sort((a, b) => b[1] - a[1])[0][0];
         if (own === "Public") value = "no"; else why = `dark, ${own.toLowerCase()} road`;
       }
-    } else {
+    } else if (indoor) value = "yes";
+    else {
       const near = share(PATH_NEAR, PATH_REACH), on = share(PATH_ON, PATH_ON_REACH);
       if ((near >= 0.7 && on >= 0.6) || (near >= 0.8 && w.len >= PATH_MIN_SIDE)) value = "yes";
       else if (near >= 0.7) why = `lit by street lamps but under ${PATH_MIN_SIDE} m`;
       else if (share(PATH_DARK, PATH_DARK) > PATH_DARK_SHARE) why = "partly lit";
       else if (w.len < PATH_MIN_NO) why = `dark but under ${PATH_MIN_NO} m`;
-      else if (w.tags.tunnel || w.tags.covered === "yes" || w.tags.indoor === "yes") why = "dark, tunnel or indoor";
+      else if (w.tags.tunnel || w.tags.covered === "yes") why = "dark, tunnel or covered";
       else if (city.inSite(mid)) why = "dark, in a school, campus, mall or similar site";
       else {
         const sm10 = samples(w.pts, 10);
         const mostly = test => sm10.filter(test).length / sm10.length >= 0.5;
-        const byLit = p => { const found = city.litThings.near(p, LIT_THING); for (const e of found) litSeen.add(e); return found.length > 0; };
+        const byLit = p => { const found = city.litThings.near(p, LIT_THING).filter(e => e.tags?.layer === undefined || layerOf(e.tags) === wl); for (const e of found) litSeen.add(e); return found.length > 0; };
         if (mostly(p => privateRoads.nearest(p, PRIVATE_ROAD))) why = "dark, by a private road";
         else if (mostly(p => parking.nearest(p, PARKING) || city.parkingLots.near(p, PARKING_LOT).length)) why = "dark, by a parking lot";
         else if (mostly(byLit)) why = "dark, by something tagged lit (pitch, rink, parking, ...)";

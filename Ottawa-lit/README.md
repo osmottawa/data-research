@@ -9,7 +9,7 @@ It writes `<ward>/lit-01.osm`, `-02.osm`, and so on:
 - The `.osm` files aren't committed (see `.gitignore`). Instead each ward folder gets `last-update.txt`, the run's console report: the command, OSM data date and server, the files and the counts. Rebuild a ward's files with `node update.js <ward>`.
 - Each file also holds, unchanged, the street lamps the decisions looked at (within 30 m of a way in the file), and the things tagged `lit` (pitches, rinks, parking lots) checked for its `lit=no` paths. They're there to check the result against. Unchanged objects don't upload; search `modified` to select only the changed ways.
 
-**Ways:** `trunk` to `residential`, `living_street` and `busway` (and links); `cycleway`, `footway`, `path`, `pedestrian` and `bridleway`.
+**Ways:** `trunk` to `residential`, `living_street` and `busway` (and links); `cycleway`, `footway`, `path`, `pedestrian`, `bridleway` and `corridor`.
 **Left out:** motorways and their links, sidewalks, crossings, traffic islands, service roads, steps, tracks, and areas.
 
 ## Reviewing in JOSM
@@ -38,10 +38,17 @@ The way is sampled every 5 m, and each sample is checked for a lamp nearby. A la
 - `lit=no`, all of:
   - No more than 10% of it is within 30 m of any lamp.
   - It's at least 20 m long.
-  - It isn't a tunnel, covered or indoor.
+  - It isn't a tunnel or covered.
   - It isn't inside a school, campus, hospital, mall, commercial, retail, industrial, railway or military site. These light their own grounds.
   - It isn't mostly within 40 m of a private road (condo and townhouse complexes), 25 m of a parking aisle or 15 m of a parking lot.
   - It isn't mostly within 25 m of something OSM already tags `lit` (a pitch, rink, parking lot or shelter). Those lights aren't in the street light data.
+- Indoor paths (`indoor=*` other than `no`, or `highway=corridor`) are always `lit=yes`, whatever the lamps. Added 2026-11-19, from ward 8 on.
+
+**Levels** (added 2026-11-19, from ward 8 on): a lamp lights only its own level, so a lamp on a bridge doesn't light the road under it, and a street lamp doesn't light the tunnel under the street.
+- A lamp's level is its `layer` tag. Most lamps on bridges have none (about 260 of the 2,600 near bridges and tunnels have one), so a lamp with no `layer` takes the layer of the nearest road or path within 15 m.
+- A lamp is left out for a way on another layer only where a way on the lamp's own layer, within 15 m of it, crosses that way. Lamps at the ends of a bridge still light it: a plain layer match would have left about 200 short bridges with no lamps (Carkner St, Eagleson Rd, ...), as their lamps stand on the approaches.
+- A lit thing with a `layer` tag counts only for paths on that layer.
+- The console counts the ways that had a lamp left out this way, as `(info) ... with lamps over or under them left out`.
 
 **Everything in between is left alone** and counted in the console:
 - partly lit ways, such as rural roads with a lamp at each intersection, or park paths that pass a street lamp at one end
