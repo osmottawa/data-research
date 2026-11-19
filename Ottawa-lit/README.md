@@ -175,3 +175,38 @@ The `lit=no` pathways are woodland and park trails, nearly all unnamed. The name
 - Pathways: mostly partly lit (537), short pieces (146 dark ones under 20 m), paths by private roads (77) and in school or similar sites (44).
 
 The `lit=no` pathways are almost all unnamed; the only named one is Stonebridge Trail (4 ways). `lit-06`, around Stonebridge and the Jock River, has the most (66 `lit=no` in all).
+
+## Ward 4, Kanata North
+
+**Files** (2026-11-19 05:56 UTC): 1,477 ways in 8 files of 184–185. 1,258 get `lit=yes` and 219 get `lit=no`.
+
+| File | Ways | yes / no | Lamps | Lit things | Main streets |
+|---|---|---|---|---|---|
+| [4/lit-01.osm](4/lit-01.osm) | 184 | 167 / 17 | 616 | 0 | March Rd, Klondike Rd, Celtic Ridge Cres |
+| [4/lit-02.osm](4/lit-02.osm) | 185 | 163 / 22 | 617 | 3 | Goulbourn Forced Rd, Terry Fox Dr, Forestbrook St |
+| [4/lit-03.osm](4/lit-03.osm) | 184 | 154 / 30 | 506 | 0 | Terry Fox Dr, March Rd, March Valley Rd |
+| [4/lit-04.osm](4/lit-04.osm) | 185 | 171 / 14 | 830 | 0 | March Rd, Varley Dr, Penfield Dr |
+| [4/lit-05.osm](4/lit-05.osm) | 185 | 138 / 47 | 613 | 0 | Huntsville Dr, Kanata Ave, Keyrock Dr |
+| [4/lit-06.osm](4/lit-06.osm) | 184 | 142 / 42 | 843 | 1 | Knudson Dr, Shaughnessy Cres, Beaverbrook Rd |
+| [4/lit-07.osm](4/lit-07.osm) | 185 | 159 / 26 | 557 | 1 | Kanata Ave, Maritime Way, Hemlo Cres |
+| [4/lit-08.osm](4/lit-08.osm) | 185 | 164 / 21 | 677 | 0 | Campeau Dr, Palladium Dr, Huntmar Dr |
+
+| | Roads | Pathways |
+|---|---|---|
+| New `lit=yes` | 1,078 | 179 |
+| New `lit=no` | 16 | 202 |
+| Already tagged the same | 196 | 80 |
+| `fixme=check lit` | 1 | 1 |
+| Left alone | 128 | 1,070 |
+
+**`fixme=check lit`** (2):
+- **The Parkway, [w76282154](https://osm.org/way/76282154)** (`lit-06`), no → yes: 156 m with 6 lamps within 12 m of it.
+- **[w161269748](https://osm.org/way/161269748)** (`lit-05`), yes → no: a 155 m winter-maintained gravel path with no lamp within 30 m. It may have path lights that aren't in the street light data.
+
+**The 16 `lit=no` roads:** rural roads with lamps only at the intersections: March Valley Rd (6 ways), Goulbourn Forced Rd (2), Station Rd (2), Murphy Crt (2, unpaved), March Rd, Klondike Rd and Didsbury Rd (1 each). Plus one worth a look: the Huntmar Dr bridge over Highway 417, [w141510409](https://osm.org/way/141510409) (`lit-08`, 75 m).
+
+**Left alone:**
+- 24 dark streets in new subdivisions the city hasn't assumed, 58 dark private roads, 46 partly lit roads.
+- Pathways: mostly partly lit (669), short pieces (281: 170 lit ones under 30 m, 111 dark ones under 20 m), in school or similar sites (57) and by private roads (41).
+
+The named `lit=no` pathways are Kizell Pond Trail North and South (7 ways), and woodland trails, most of them in the South March Highlands: Marathon NE and NW, Skid Row, Northwest Passage, Lumberjack, Cow Path, Stone Dust Path, Richcraft.
