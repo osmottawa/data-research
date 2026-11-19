@@ -1,0 +1,18 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 17:24 UTC.
+The full console report of that run wasn't kept. The next `node update.js 9` writes it here.
+
+=== Ward 9, Knoxdale-Merivale
+
+  9/stop-signs-01.osm: 43 signs; Woodroffe Avenue, Grady Crescent, Oakmore Place
+    new yield sign 9, new stop sign 9, delete? 8, new all-way stop 6, place by hand 4, stop=all added 3, yield changed to stop 3, stop changed to yield 1
+  9/stop-signs-02.osm: 44 signs; Pineglen Crescent, Wigan Drive, Bongard Avenue
+    new stop sign 11, delete? 11, new yield sign 8, place by hand 6, yield changed to stop 4, stop changed to yield 2, new all-way stop 2
+
+  new stop sign: 20
+  delete?: 19
+  new yield sign: 17
+  place by hand: 10
+  new all-way stop: 8
+  yield changed to stop: 7
+  stop=all added: 3
+  stop changed to yield: 3

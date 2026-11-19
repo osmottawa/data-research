@@ -62,6 +62,15 @@ const GUESS = ", guess which road stops";
 
 // ---------------------------------------------------------------------------------------------------------
 
+// the report is printed and kept: each ward's goes to <ward>/last-update.txt, which is committed in place of the
+// .osm files (they're in .gitignore)
+const printed = [];
+function log(...a) { console.log(...a); printed.push(a.join(" ")); }
+function writeLastUpdate(dir, lines) {
+  const run = `node update.js ${process.argv.slice(2).join(" ")}, run ${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC`;
+  fs.writeFileSync(path.join(dir, "last-update.txt"), [run, "", ...lines.join("\n").replace(/^\n+/, "").split("\n"), ""].join("\n"));
+}
+
 async function get(url, options = {}) {
   for (let attempt = 1; ; attempt++) {
     try {
@@ -101,7 +110,7 @@ async function overpass(bbox) {
       if (osm.remark) throw new Error(osm.remark);
       const age = (Date.now() - Date.parse(osm.osm3s?.timestamp_osm_base)) / 3600000;
       if (!(age < MAX_OSM_AGE)) throw new Error(`its data is as of ${osm.osm3s?.timestamp_osm_base}, too old`);
-      console.log(`OSM data as of ${osm.osm3s.timestamp_osm_base} from ${new URL(url).host}`);
+      log(`OSM data as of ${osm.osm3s.timestamp_osm_base} from ${new URL(url).host}`);
       return osm.elements;
     } catch (e) {
       console.log(`  ${new URL(url).host} failed: ${e.message}`);
@@ -171,11 +180,12 @@ function onewayOf(w) {
 }
 
 async function runWard(ward, chunk) {
-  console.log(`\n=== Ward ${ward}`);
+  const from = printed.length;
+  log(`\n=== Ward ${ward}`);
   const [wardFeature] = await cityQuery(WARDS, { where: `WARD_NUM='${ward}'` });
   if (!wardFeature) throw new Error(`No ward ${ward} in the city's Wards layer`);
   const wardName = wardFeature.properties.WARD_NAME_EN;
-  console.log(`${wardName}`);
+  log(`${wardName}`);
   const coords = [];
   (function walk(c) { if (typeof c[0] === "number") coords.push(c); else c.forEach(walk); })(wardFeature.geometry.coordinates);
   const mLon = MARGIN / KX, mLat = MARGIN / KY;
@@ -189,7 +199,7 @@ async function runWard(ward, chunk) {
   }));
   const counts = {};
   for (const c of city) if (c.inWard) counts[c.type] = (counts[c.type] || 0) + 1;
-  console.log(`City intersections in the ward: ${city.filter(c => c.inWard).length} (${Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} ${v}`).join(", ")})`);
+  log(`City intersections in the ward: ${city.filter(c => c.inWard).length} (${Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k} ${v}`).join(", ")})`);
 
   // ----- OSM road graph
   const elements = await overpass(bbox);
@@ -204,7 +214,7 @@ async function runWard(ward, chunk) {
   for (const w of ways.values()) if (inGraph(w)) w.nodes.forEach((n, i) => { (memb.get(n) || memb.set(n, []).get(n)).push({ w, i }); });
   const legsAt = n => (memb.get(n) || []).flatMap(({ w, i }) => [...(i > 0 ? [{ w, i, step: -1 }] : []), ...(i < w.nodes.length - 1 ? [{ w, i, step: 1 }] : [])]);
   const deg = n => legsAt(n).length;
-  console.log(`OSM: ${ways.size} road ways, ${nodes.size} nodes`);
+  log(`OSM: ${ways.size} road ways, ${nodes.size} nodes`);
 
   // street length per name, the tie-break for two equal roads crossing
   const streetLen = new Map();
@@ -571,22 +581,23 @@ async function runWard(ward, chunk) {
   const dir = path.join(__dirname, String(ward));
   fs.mkdirSync(dir, { recursive: true });
   for (const f of fs.readdirSync(dir)) if (/^stop-signs.*\.osm$/.test(f)) fs.unlinkSync(path.join(dir, f));
-  console.log(`\n${added.length} new signs, ${edits.size} existing nodes changed or flagged, ${modifiedWays.size} ways get a new node, ${manual.length} loose signs to place by hand`);
+  log(`\n${added.length} new signs, ${edits.size} existing nodes changed or flagged, ${modifiedWays.size} ways get a new node, ${manual.length} loose signs to place by hand`);
   chunks.forEach((c, i) => {
     const list = c.flatMap(g => g.list), file = `stop-signs-${String(i + 1).padStart(2, "0")}.osm`;
     fs.writeFileSync(path.join(dir, file), buildOSM(list));
     const streets = {};
     for (const it of list) for (const k of it.kind === "edit" ? it.e.keys : [it.s.key]) for (const n of (k.p.LOCATION_DESCRIPTION || "").split(/\s*[,:]\s*/).filter(Boolean)) streets[n] = (streets[n] || 0) + 1;
-    console.log(`  ${ward}/${file}: ${list.length} signs; ${Object.entries(streets).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => titleCase(k)).join(", ")}`);
+    log(`  ${ward}/${file}: ${list.length} signs; ${Object.entries(streets).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => titleCase(k)).join(", ")}`);
   });
 
   // ----- report
-  console.log("");
-  for (const [k, v] of Object.entries(report.counts).sort()) console.log(`  ${k}: ${v}`);
-  if (report.manual.length) console.log(`\nIn the files as loose signs at the city's point, to place by hand:\n  ${report.manual.join("\n  ")}`);
-  if (report.unmatched.length) console.log(`\nNot in the files, no matching OSM junction:\n  ${report.unmatched.join("\n  ")}`);
-  if (report.short.length) console.log(`\nNot placed, approach under ${MIN_LEG} m:\n  ${report.short.join("\n  ")}`);
-  if (report.junctionSigns.length) console.log(`\nYield signs tagged on the junction node, not touched:\n  ${report.junctionSigns.join("\n  ")}`);
+  log("");
+  for (const [k, v] of Object.entries(report.counts).sort()) log(`  ${k}: ${v}`);
+  if (report.manual.length) log(`\nIn the files as loose signs at the city's point, to place by hand:\n  ${report.manual.join("\n  ")}`);
+  if (report.unmatched.length) log(`\nNot in the files, no matching OSM junction:\n  ${report.unmatched.join("\n  ")}`);
+  if (report.short.length) log(`\nNot placed, approach under ${MIN_LEG} m:\n  ${report.short.join("\n  ")}`);
+  if (report.junctionSigns.length) log(`\nYield signs tagged on the junction node, not touched:\n  ${report.junctionSigns.join("\n  ")}`);
+  writeLastUpdate(dir, printed.slice(from));
 }
 
 async function main() {

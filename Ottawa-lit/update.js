@@ -76,6 +76,15 @@ const PRIVATE_ROAD = 40, PARKING = 25, PARKING_LOT = 15, LIT_THING = 25;
 
 // ---------------------------------------------------------------------------------------------------------
 
+// the report is printed and kept: each ward's part goes to <ward>/last-update.txt, which is committed in place of
+// the .osm files (they're in .gitignore)
+const printed = [];
+function log(...a) { console.log(...a); printed.push(a.join(" ")); }
+function writeLastUpdate(dir, lines) {
+  const run = `node update.js ${process.argv.slice(2).join(" ")}, run ${new Date().toISOString().slice(0, 16).replace("T", " ")} UTC`;
+  fs.writeFileSync(path.join(dir, "last-update.txt"), [run, "", ...lines.join("\n").replace(/^\n+/, "").split("\n"), ""].join("\n"));
+}
+
 async function get(url, options = {}) {
   for (let attempt = 1; ; attempt++) {
     try {
@@ -114,6 +123,7 @@ async function overpass(data) {
       if (osm.remark) throw new Error(osm.remark);
       const age = (Date.now() - Date.parse(osm.osm3s?.timestamp_osm_base)) / 3600000;
       if (!(age < MAX_OSM_AGE)) throw new Error(`its data is as of ${osm.osm3s?.timestamp_osm_base}, too old`);
+      osm.host = new URL(url).host;
       return osm;
     } catch (e) {
       console.log(`  ${new URL(url).host} failed: ${e.message}`);
@@ -238,7 +248,7 @@ const isYes = v => v !== "no" && v !== "disused";
 async function cityWide() {
   const bbox = CITY_BBOX.join(",");
   const lampsOsm = await overpass(`[out:json][timeout:600];node["highway"="street_lamp"](${bbox});out meta;`);
-  console.log(`OSM data as of ${lampsOsm.osm3s.timestamp_osm_base}: ${lampsOsm.elements.length} street lamps`);
+  log(`OSM data as of ${lampsOsm.osm3s.timestamp_osm_base} from ${lampsOsm.host}: ${lampsOsm.elements.length} street lamps`);
   const lamps = grid(50);
   for (const e of lampsOsm.elements) { const q = xy(e.lon, e.lat); lamps.add(q, { ...e, tags: e.tags || {}, q }); }
 
@@ -252,7 +262,7 @@ async function cityWide() {
     for (let x = Math.floor(bb[0] / 500); x <= Math.floor(bb[2] / 500); x++) for (let y = Math.floor(bb[1] / 500); y <= Math.floor(bb[3] / 500); y++) sites.add([x * 500 + 1, y * 500 + 1], site);
     n++;
   }
-  console.log(`Sites with their own lighting (schools, campuses, malls, ...): ${n}`);
+  log(`Sites with their own lighting (schools, campuses, malls, ...): ${n}`);
   const inSite = q => sites.near(q, 0).some(s => q[0] >= s.bb[0] && q[0] <= s.bb[2] && q[1] >= s.bb[1] && q[1] <= s.bb[3] && ringHas(s.ring, q));
 
   // things OSM already says are lit (pitches, rinks, parking lots, shelters, ...), and surface parking lots
@@ -262,7 +272,7 @@ async function cityWide() {
     if (e.tags?.lit && e.tags.lit !== "no") litThings.add(e);
     if (e.tags?.amenity === "parking") parkingLots.add(e);
   }
-  console.log(`Lit things (pitches, rinks, ...) and parking lots: ${litOsm.elements.length}`);
+  log(`Lit things (pitches, rinks, ...) and parking lots: ${litOsm.elements.length}`);
   return { lamps, inSite, litThings, parkingLots };
 }
 
@@ -291,7 +301,8 @@ function areaIndex() {
 
 async function runWard(wardFeature, chunk, city) {
   const ward = wardFeature.properties.WARD_NUM, wardName = wardFeature.properties.WARD_NAME_EN;
-  console.log(`\n=== Ward ${ward}, ${wardName}`);
+  const from = printed.length;
+  log(`\n=== Ward ${ward}, ${wardName}`);
   const coords = [];
   (function walk(c) { if (typeof c[0] === "number") coords.push(c); else c.forEach(walk); })(wardFeature.geometry.coordinates);
   const mLon = MARGIN / KX, mLat = MARGIN / KY;
@@ -299,7 +310,7 @@ async function runWard(wardFeature, chunk, city) {
 
   // ----- OSM highways in and around the ward, with their nodes
   const osm = await overpass(`[out:json][timeout:600];way["highway"](${bbox.join(",")})->.w;.w out meta;node(w.w);out meta;`);
-  console.log(`OSM data as of ${osm.osm3s.timestamp_osm_base}`);
+  log(`OSM data as of ${osm.osm3s.timestamp_osm_base} from ${osm.host}`);
   const nodes = new Map(), ways = [];
   for (const e of osm.elements) {
     if (e.type === "node") nodes.set(e.id, { ...e, tags: e.tags || {}, q: xy(e.lon, e.lat) });
@@ -447,7 +458,7 @@ async function runWard(wardFeature, chunk, city) {
   const dir = path.join(__dirname, String(ward));
   fs.mkdirSync(dir, { recursive: true });
   for (const f of fs.readdirSync(dir)) if (/^lit-.*\.osm$/.test(f)) fs.unlinkSync(path.join(dir, f));
-  console.log("");
+  log("");
   const files = chunks.map((list, i) => {
     const file = `lit-${String(i + 1).padStart(2, "0")}.osm`;
     const { xml, lampCount, litCount } = buildOSM(list);
@@ -456,13 +467,14 @@ async function runWard(wardFeature, chunk, city) {
     for (const { w } of list) if (w.tags.name) streets[w.tags.name] = (streets[w.tags.name] || 0) + w.len;
     const top = Object.entries(streets).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => k);
     const yes = list.filter(c => c.tags.lit === "yes").length, check = list.filter(c => c.check).length;
-    console.log(`  ${ward}/${file}: ${list.length} ways (${yes} yes, ${list.length - yes} no${check ? `, ${check} ${FIXME}` : ""}), ${lampCount} lamps, ${litCount} lit things; ${top.join(", ")}`);
+    log(`  ${ward}/${file}: ${list.length} ways (${yes} yes, ${list.length - yes} no${check ? `, ${check} ${FIXME}` : ""}), ${lampCount} lamps, ${litCount} lit things; ${top.join(", ")}`);
     return { file, n: list.length, yes, check, top, lampCount, litCount };
   });
 
-  console.log("");
-  for (const [k, v] of Object.entries(counts).sort()) console.log(`  ${k}: ${v}`);
+  log("");
+  for (const [k, v] of Object.entries(counts).sort()) log(`  ${k}: ${v}`);
   const yes = changes.filter(c => c.tags.lit === "yes").length, check = changes.filter(c => c.check).length;
+  writeLastUpdate(dir, [...city.log, ...printed.slice(from)]);
   return { ward, wardName, files, ways: changes.length, yes, no: changes.length - yes, check, counts };
 }
 
@@ -476,20 +488,21 @@ async function main() {
   const wards = (await cityQuery(WARDS, { where: "1=1" })).sort((a, b) => a.properties.WARD_NUM - b.properties.WARD_NUM);
   const wanted = args[0] === "all" ? wards : args.map(n => wards.find(f => f.properties.WARD_NUM === n) || (() => { throw new Error(`No ward ${n} in the city's Wards layer`); })());
   const city = await cityWide();
+  city.log = printed.slice();   // the city-wide lines, at the top of every ward's last-update.txt
   const results = [], failed = [];
   for (const f of wanted) {
     try {
       results.push(await runWard(f, chunk, city));
     } catch (e) {
-      console.log(`\nWard ${f.properties.WARD_NUM} failed: ${e.message}`);
+      log(`\nWard ${f.properties.WARD_NUM} failed: ${e.message}`);
       failed.push(f.properties.WARD_NUM);
     }
   }
   if (results.length > 1) {
-    console.log("\n| Ward | Files | Ways | lit=yes | lit=no | check lit |\n|---|---|---|---|---|---|");
-    for (const r of results) console.log(`| ${r.ward} ${r.wardName} | ${r.files.length} | ${r.ways} | ${r.yes} | ${r.no} | ${r.check} |`);
+    log("\n| Ward | Files | Ways | lit=yes | lit=no | check lit |\n|---|---|---|---|---|---|");
+    for (const r of results) log(`| ${r.ward} ${r.wardName} | ${r.files.length} | ${r.ways} | ${r.yes} | ${r.no} | ${r.check} |`);
   }
-  if (failed.length) { console.log(`\nFailed, run again: node update.js ${failed.join(" ")}`); process.exitCode = 1; }
+  if (failed.length) { log(`\nFailed, run again: node update.js ${failed.join(" ")}`); process.exitCode = 1; }
 }
 
 if (require.main === module) main().catch(e => {

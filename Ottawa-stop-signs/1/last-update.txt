@@ -1,0 +1,26 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-16 04:03 UTC.
+The full console report of that run wasn't kept. The next `node update.js 1` writes it here.
+
+=== Ward 1, Orléans East-Cumberland
+
+  1/stop-signs-01.osm: 49 signs; Cumberland Ridge Drive, Manse Road, Minogue Crescent
+    new stop sign 30, new yield sign 13, delete? 2, not all-way? 2, yield changed to stop 1, stop changed to yield 1
+  1/stop-signs-02.osm: 48 signs; Parkrose Private, Sidney Drive, Briarfield Crescent
+    new stop sign 12, yield changed to stop 9, delete? 9, not all-way? 7, stop=all removed 4, new yield sign 3, stop=all added 3, new all-way stop 1
+  1/stop-signs-03.osm: 46 signs; Proulx Drive, Marsala Crescent, Marinoff Way
+    stop=all added 15, new stop sign 6, yield changed to stop 6, new yield sign 5, delete? 5, stop changed to yield 4, stop=all removed 3, not all-way? 2, direction flipped 1
+  1/stop-signs-04.osm: 49 signs; Saintonge Lane, Gosnell Terrace, Antigonish Avenue
+    new stop sign 18, yield changed to stop 10, delete? 6, new yield sign 5, stop=all added 3, stop changed to yield 3, stop=all removed 2, new all-way stop 1, direction flipped 1
+  1/stop-signs-05.osm: 47 signs; Omer-Lacasse Avenue, Brock Place, Duvernay Drive
+    yield changed to stop 12, delete? 11, not all-way? 9, new yield sign 4, stop=all removed 4, new stop sign 3, new all-way stop 2, stop changed to yield 2
+
+  new stop sign: 69
+  yield changed to stop: 38
+  delete?: 33
+  new yield sign: 30
+  stop=all added: 21
+  not all-way?: 20
+  stop=all removed: 13
+  stop changed to yield: 10
+  new all-way stop: 4
+  direction flipped: 2

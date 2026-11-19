@@ -6,6 +6,7 @@ It writes `<ward>/lit-01.osm`, `-02.osm`, and so on:
 - At most 200 ways per file (`--chunk <n>` changes this). Each file is one compact area, numbered roughly north to south.
 - A way belongs to the ward its midpoint is in, so every way is in exactly one file.
 - A rerun reads fresh OSM, so anything already uploaded is skipped, and the old files are replaced.
+- The `.osm` files aren't committed (see `.gitignore`). Instead each ward folder gets `last-update.txt`, the run's console report: the command, OSM data date and server, the files and the counts. Rebuild a ward's files with `node update.js <ward>`.
 - Each file also holds, unchanged, the street lamps the decisions looked at (within 30 m of a way in the file), and the things tagged `lit` (pitches, rinks, parking lots) checked for its `lit=no` paths. They're there to check the result against. Unchanged objects don't upload; search `modified` to select only the changed ways.
 
 **Ways:** `trunk` to `residential`, `living_street` and `busway` (and links); `cycleway`, `footway`, `path`, `pedestrian` and `bridleway`.
@@ -75,18 +76,18 @@ Only 5 of the 121 `lit=no` tags where lamps say yes were older than the newest l
 
 | File | Ways | yes / no | Lamps | Lit things | Main streets |
 |---|---|---|---|---|---|
-| [1/lit-01.osm](1/lit-01.osm) | 95 | 28 / 67 | 167 | 0 | Wilhaven Dr, Old Montréal Rd, Cox Country Rd |
-| [1/lit-02.osm](1/lit-02.osm) | 95 | 50 / 45 | 162 | 0 | St. Joseph Blvd, Jeanne-d'Arc Blvd N, Tweddle Rd |
-| [1/lit-03.osm](1/lit-03.osm) | 96 | 93 / 3 | 279 | 0 | Trim Rd, Regional Road 174, Talcy Cres |
-| [1/lit-04.osm](1/lit-04.osm) | 96 | 84 / 12 | 286 | 3 | Old Montréal Rd, Regional Road 174, Baie-des-Castors St |
-| [1/lit-05.osm](1/lit-05.osm) | 96 | 60 / 36 | 188 | 5 | Duford Dr, Lacroix Ave, Bonneville Cres |
-| [1/lit-06.osm](1/lit-06.osm) | 96 | 90 / 6 | 266 | 1 | Place-d'Orléans Dr, Prestone Dr, Delia Cres |
-| [1/lit-07.osm](1/lit-07.osm) | 96 | 87 / 9 | 256 | 1 | St. Joseph Blvd, Princess Louise Dr, Turner Cres |
-| [1/lit-08.osm](1/lit-08.osm) | 95 | 88 / 7 | 304 | 3 | Apollo Way, Tompkins Ave, Charlemagne Blvd |
-| [1/lit-09.osm](1/lit-09.osm) | 96 | 93 / 3 | 304 | 0 | Charlemagne Blvd, Gardenway Dr, Taché Way |
-| [1/lit-10.osm](1/lit-10.osm) | 96 | 95 / 1 | 384 | 0 | Portobello Blvd, Innes Rd, Valin St |
-| [1/lit-11.osm](1/lit-11.osm) | 95 | 80 / 15 | 294 | 0 | Innes Rd, Valin St, Trail Side Circle |
-| [1/lit-12.osm](1/lit-12.osm) | 96 | 80 / 16 | 235 | 1 | Prestwick Dr, Tenth Line Rd, Prairies Ave |
+| `1/lit-01.osm` | 95 | 28 / 67 | 167 | 0 | Wilhaven Dr, Old Montréal Rd, Cox Country Rd |
+| `1/lit-02.osm` | 95 | 50 / 45 | 162 | 0 | St. Joseph Blvd, Jeanne-d'Arc Blvd N, Tweddle Rd |
+| `1/lit-03.osm` | 96 | 93 / 3 | 279 | 0 | Trim Rd, Regional Road 174, Talcy Cres |
+| `1/lit-04.osm` | 96 | 84 / 12 | 286 | 3 | Old Montréal Rd, Regional Road 174, Baie-des-Castors St |
+| `1/lit-05.osm` | 96 | 60 / 36 | 188 | 5 | Duford Dr, Lacroix Ave, Bonneville Cres |
+| `1/lit-06.osm` | 96 | 90 / 6 | 266 | 1 | Place-d'Orléans Dr, Prestone Dr, Delia Cres |
+| `1/lit-07.osm` | 96 | 87 / 9 | 256 | 1 | St. Joseph Blvd, Princess Louise Dr, Turner Cres |
+| `1/lit-08.osm` | 95 | 88 / 7 | 304 | 3 | Apollo Way, Tompkins Ave, Charlemagne Blvd |
+| `1/lit-09.osm` | 96 | 93 / 3 | 304 | 0 | Charlemagne Blvd, Gardenway Dr, Taché Way |
+| `1/lit-10.osm` | 96 | 95 / 1 | 384 | 0 | Portobello Blvd, Innes Rd, Valin St |
+| `1/lit-11.osm` | 95 | 80 / 15 | 294 | 0 | Innes Rd, Valin St, Trail Side Circle |
+| `1/lit-12.osm` | 96 | 80 / 16 | 235 | 1 | Prestwick Dr, Tenth Line Rd, Prairies Ave |
 
 | | Roads | Pathways |
 |---|---|---|
@@ -109,20 +110,20 @@ The `lit=no` roads are rural and country-estate streets with a lamp only at the 
 
 | File | Ways | yes / no | Lamps | Lit things | Main streets |
 |---|---|---|---|---|---|
-| [2/lit-01.osm](2/lit-01.osm) | 93 | 58 / 35 | 151 | 0 | Jeanne-d'Arc Blvd N, Décarie Dr, Bilberry Dr |
-| [2/lit-02.osm](2/lit-02.osm) | 94 | 69 / 25 | 167 | 0 | Voyageur Dr, Ravine Way, Jeanne-d'Arc Blvd N |
-| [2/lit-03.osm](2/lit-03.osm) | 93 | 65 / 28 | 180 | 0 | Jeanne-d'Arc Blvd N, Fortune Dr, St-Jérôme Cres |
-| [2/lit-04.osm](2/lit-04.osm) | 94 | 77 / 17 | 213 | 0 | Bilberry Dr, Du Bois Ave, St. Jean St |
-| [2/lit-05.osm](2/lit-05.osm) | 94 | 65 / 29 | 173 | 0 | Vineyard Dr, Youville Dr, Bordeau Grove |
-| [2/lit-06.osm](2/lit-06.osm) | 93 | 75 / 18 | 200 | 0 | Jeanne-d'Arc Blvd S, Forest Valley Dr, Grey Nuns Dr |
-| [2/lit-07.osm](2/lit-07.osm) | 94 | 83 / 11 | 203 | 1 | Jeanne-d'Arc Blvd S, St. Joseph Blvd, Henri Lauzon St |
-| [2/lit-08.osm](2/lit-08.osm) | 93 | 73 / 20 | 236 | 0 | Sunview Dr, Des Épinettes Ave, Champneuf Dr |
-| [2/lit-09.osm](2/lit-09.osm) | 93 | 80 / 13 | 219 | 0 | Beauséjour Dr, Innes Rd, Meadowglen Dr |
-| [2/lit-10.osm](2/lit-10.osm) | 94 | 92 / 2 | 273 | 0 | Jeanne-d'Arc Blvd S, Viseneau Dr, Boyer Rd |
-| [2/lit-11.osm](2/lit-11.osm) | 93 | 84 / 9 | 278 | 0 | Innes Rd, Jeanne-d'Arc Blvd S, Tooney Dr |
-| [2/lit-12.osm](2/lit-12.osm) | 93 | 73 / 20 | 309 | 1 | Blackburn Hamlet Bypass, Innes Rd, Meadowglen Dr |
-| [2/lit-13.osm](2/lit-13.osm) | 93 | 41 / 52 | 114 | 0 | Innes Rd, Trail 61, Bearbrook Rd |
-| [2/lit-14.osm](2/lit-14.osm) | 94 | 84 / 10 | 351 | 1 | Blackburn Hamlet Bypass, Innes Rd, Bearbrook Rd |
+| `2/lit-01.osm` | 93 | 58 / 35 | 151 | 0 | Jeanne-d'Arc Blvd N, Décarie Dr, Bilberry Dr |
+| `2/lit-02.osm` | 94 | 69 / 25 | 167 | 0 | Voyageur Dr, Ravine Way, Jeanne-d'Arc Blvd N |
+| `2/lit-03.osm` | 93 | 65 / 28 | 180 | 0 | Jeanne-d'Arc Blvd N, Fortune Dr, St-Jérôme Cres |
+| `2/lit-04.osm` | 94 | 77 / 17 | 213 | 0 | Bilberry Dr, Du Bois Ave, St. Jean St |
+| `2/lit-05.osm` | 94 | 65 / 29 | 173 | 0 | Vineyard Dr, Youville Dr, Bordeau Grove |
+| `2/lit-06.osm` | 93 | 75 / 18 | 200 | 0 | Jeanne-d'Arc Blvd S, Forest Valley Dr, Grey Nuns Dr |
+| `2/lit-07.osm` | 94 | 83 / 11 | 203 | 1 | Jeanne-d'Arc Blvd S, St. Joseph Blvd, Henri Lauzon St |
+| `2/lit-08.osm` | 93 | 73 / 20 | 236 | 0 | Sunview Dr, Des Épinettes Ave, Champneuf Dr |
+| `2/lit-09.osm` | 93 | 80 / 13 | 219 | 0 | Beauséjour Dr, Innes Rd, Meadowglen Dr |
+| `2/lit-10.osm` | 94 | 92 / 2 | 273 | 0 | Jeanne-d'Arc Blvd S, Viseneau Dr, Boyer Rd |
+| `2/lit-11.osm` | 93 | 84 / 9 | 278 | 0 | Innes Rd, Jeanne-d'Arc Blvd S, Tooney Dr |
+| `2/lit-12.osm` | 93 | 73 / 20 | 309 | 1 | Blackburn Hamlet Bypass, Innes Rd, Meadowglen Dr |
+| `2/lit-13.osm` | 93 | 41 / 52 | 114 | 0 | Innes Rd, Trail 61, Bearbrook Rd |
+| `2/lit-14.osm` | 94 | 84 / 10 | 351 | 1 | Blackburn Hamlet Bypass, Innes Rd, Bearbrook Rd |
 
 | | Roads | Pathways |
 |---|---|---|
@@ -148,14 +149,14 @@ The `lit=no` pathways are woodland and park trails, nearly all unnamed. The name
 
 | File | Ways | yes / no | Lamps | Lit things | Main streets |
 |---|---|---|---|---|---|
-| [3/lit-01.osm](3/lit-01.osm) | 198 | 151 / 47 | 406 | 1 | Cedarview Rd, Fallowfield Rd, Strandherd Dr |
-| [3/lit-02.osm](3/lit-02.osm) | 197 | 154 / 43 | 427 | 1 | Jockvale Rd, Greenbank Rd, Larkin Dr |
-| [3/lit-03.osm](3/lit-03.osm) | 197 | 178 / 19 | 492 | 0 | Strandherd Dr, Tartan Dr, Chapman Mills Dr |
-| [3/lit-04.osm](3/lit-04.osm) | 198 | 183 / 15 | 473 | 0 | Greenbank Rd, Longfields Dr, River Run Ave |
-| [3/lit-05.osm](3/lit-05.osm) | 198 | 175 / 23 | 559 | 0 | Borrisokane Rd, Strandherd Dr, Watercolours Way |
-| [3/lit-06.osm](3/lit-06.osm) | 197 | 131 / 66 | 257 | 0 | Longfields Dr, Golflinks Dr, Stonebridge Trail |
-| [3/lit-07.osm](3/lit-07.osm) | 198 | 186 / 12 | 783 | 0 | River Mist Rd, Grand Canal St, Dundonald Dr |
-| [3/lit-08.osm](3/lit-08.osm) | 197 | 171 / 26 | 614 | 0 | Kilbirnie Dr, Greenbank Rd, Longfields Dr |
+| `3/lit-01.osm` | 198 | 151 / 47 | 406 | 1 | Cedarview Rd, Fallowfield Rd, Strandherd Dr |
+| `3/lit-02.osm` | 197 | 154 / 43 | 427 | 1 | Jockvale Rd, Greenbank Rd, Larkin Dr |
+| `3/lit-03.osm` | 197 | 178 / 19 | 492 | 0 | Strandherd Dr, Tartan Dr, Chapman Mills Dr |
+| `3/lit-04.osm` | 198 | 183 / 15 | 473 | 0 | Greenbank Rd, Longfields Dr, River Run Ave |
+| `3/lit-05.osm` | 198 | 175 / 23 | 559 | 0 | Borrisokane Rd, Strandherd Dr, Watercolours Way |
+| `3/lit-06.osm` | 197 | 131 / 66 | 257 | 0 | Longfields Dr, Golflinks Dr, Stonebridge Trail |
+| `3/lit-07.osm` | 198 | 186 / 12 | 783 | 0 | River Mist Rd, Grand Canal St, Dundonald Dr |
+| `3/lit-08.osm` | 197 | 171 / 26 | 614 | 0 | Kilbirnie Dr, Greenbank Rd, Longfields Dr |
 
 | | Roads | Pathways |
 |---|---|---|
@@ -182,14 +183,14 @@ The `lit=no` pathways are almost all unnamed; the only named one is Stonebridge 
 
 | File | Ways | yes / no | Lamps | Lit things | Main streets |
 |---|---|---|---|---|---|
-| [4/lit-01.osm](4/lit-01.osm) | 184 | 167 / 17 | 616 | 0 | March Rd, Klondike Rd, Celtic Ridge Cres |
-| [4/lit-02.osm](4/lit-02.osm) | 185 | 163 / 22 | 617 | 3 | Goulbourn Forced Rd, Terry Fox Dr, Forestbrook St |
-| [4/lit-03.osm](4/lit-03.osm) | 184 | 154 / 30 | 506 | 0 | Terry Fox Dr, March Rd, March Valley Rd |
-| [4/lit-04.osm](4/lit-04.osm) | 185 | 171 / 14 | 830 | 0 | March Rd, Varley Dr, Penfield Dr |
-| [4/lit-05.osm](4/lit-05.osm) | 185 | 138 / 47 | 613 | 0 | Huntsville Dr, Kanata Ave, Keyrock Dr |
-| [4/lit-06.osm](4/lit-06.osm) | 184 | 142 / 42 | 843 | 1 | Knudson Dr, Shaughnessy Cres, Beaverbrook Rd |
-| [4/lit-07.osm](4/lit-07.osm) | 185 | 159 / 26 | 557 | 1 | Kanata Ave, Maritime Way, Hemlo Cres |
-| [4/lit-08.osm](4/lit-08.osm) | 185 | 164 / 21 | 677 | 0 | Campeau Dr, Palladium Dr, Huntmar Dr |
+| `4/lit-01.osm` | 184 | 167 / 17 | 616 | 0 | March Rd, Klondike Rd, Celtic Ridge Cres |
+| `4/lit-02.osm` | 185 | 163 / 22 | 617 | 3 | Goulbourn Forced Rd, Terry Fox Dr, Forestbrook St |
+| `4/lit-03.osm` | 184 | 154 / 30 | 506 | 0 | Terry Fox Dr, March Rd, March Valley Rd |
+| `4/lit-04.osm` | 185 | 171 / 14 | 830 | 0 | March Rd, Varley Dr, Penfield Dr |
+| `4/lit-05.osm` | 185 | 138 / 47 | 613 | 0 | Huntsville Dr, Kanata Ave, Keyrock Dr |
+| `4/lit-06.osm` | 184 | 142 / 42 | 843 | 1 | Knudson Dr, Shaughnessy Cres, Beaverbrook Rd |
+| `4/lit-07.osm` | 185 | 159 / 26 | 557 | 1 | Kanata Ave, Maritime Way, Hemlo Cres |
+| `4/lit-08.osm` | 185 | 164 / 21 | 677 | 0 | Campeau Dr, Palladium Dr, Huntmar Dr |
 
 | | Roads | Pathways |
 |---|---|---|
@@ -217,14 +218,14 @@ The named `lit=no` pathways are Kizell Pond Trail North and South (7 ways), and 
 
 | File | Ways | yes / no | Lamps | Lit things | Main streets |
 |---|---|---|---|---|---|
-| [5/lit-01.osm](5/lit-01.osm) | 184 | 11 / 173 | 104 | 3 | Dunrobin Rd, Trail 1, Greenland Rd |
-| [5/lit-02.osm](5/lit-02.osm) | 184 | 11 / 173 | 66 | 0 | Torbolton Ridge Rd, Kinburn Side Rd, Stonecrest Rd |
-| [5/lit-03.osm](5/lit-03.osm) | 185 | 24 / 161 | 68 | 0 | Galetta Side Rd, Loggers Way, Upper Dwyer Hill Rd |
-| [5/lit-04.osm](5/lit-04.osm) | 185 | 15 / 170 | 128 | 0 | Thomas A. Dolan Pkwy, Dunrobin Rd, Old Second Line Rd |
-| [5/lit-05.osm](5/lit-05.osm) | 184 | 48 / 136 | 203 | 0 | Donald B. Munro Dr, Upper Dwyer Hill Rd, Old Coach Rd |
-| [5/lit-06.osm](5/lit-06.osm) | 184 | 25 / 159 | 113 | 0 | Old Carp Rd, March Rd, Crazy Horse Trail |
-| [5/lit-07.osm](5/lit-07.osm) | 185 | 38 / 147 | 183 | 0 | Richardson Side Rd, David Manchester Rd, Carp Rd |
-| [5/lit-08.osm](5/lit-08.osm) | 185 | 23 / 162 | 97 | 0 | Upper Dwyer Hill Rd, March Rd, Old Almonte Rd |
+| `5/lit-01.osm` | 184 | 11 / 173 | 104 | 3 | Dunrobin Rd, Trail 1, Greenland Rd |
+| `5/lit-02.osm` | 184 | 11 / 173 | 66 | 0 | Torbolton Ridge Rd, Kinburn Side Rd, Stonecrest Rd |
+| `5/lit-03.osm` | 185 | 24 / 161 | 68 | 0 | Galetta Side Rd, Loggers Way, Upper Dwyer Hill Rd |
+| `5/lit-04.osm` | 185 | 15 / 170 | 128 | 0 | Thomas A. Dolan Pkwy, Dunrobin Rd, Old Second Line Rd |
+| `5/lit-05.osm` | 184 | 48 / 136 | 203 | 0 | Donald B. Munro Dr, Upper Dwyer Hill Rd, Old Coach Rd |
+| `5/lit-06.osm` | 184 | 25 / 159 | 113 | 0 | Old Carp Rd, March Rd, Crazy Horse Trail |
+| `5/lit-07.osm` | 185 | 38 / 147 | 183 | 0 | Richardson Side Rd, David Manchester Rd, Carp Rd |
+| `5/lit-08.osm` | 185 | 23 / 162 | 97 | 0 | Upper Dwyer Hill Rd, March Rd, Old Almonte Rd |
 
 | | Roads | Pathways |
 |---|---|---|

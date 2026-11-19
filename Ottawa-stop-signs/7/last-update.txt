@@ -1,0 +1,17 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 05:09 UTC.
+The full console report of that run wasn't kept. The next `node update.js 7` writes it here.
+
+=== Ward 7, Bay
+
+  7/stop-signs-01.osm: 50 signs; Richmond Road, Lauder Drive, Carling Avenue
+    new stop sign 23, delete? 9, new yield sign 8, stop changed to yield 7, direction flipped 1, new all-way stop 1, stop=all added 1
+  7/stop-signs-02.osm: 49 signs; Snider Road, Des Burke Road, Lewis Gun Road
+    new stop sign 38, delete? 5, stop changed to yield 3, new yield sign 2, stop=all added 1
+
+  new stop sign: 61
+  delete?: 14
+  new yield sign: 10
+  stop changed to yield: 10
+  stop=all added: 2
+  direction flipped: 1
+  new all-way stop: 1

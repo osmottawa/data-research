@@ -1,0 +1,23 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 04:05 UTC.
+The full console report of that run wasn't kept. The next `node update.js 6` writes it here.
+
+=== Ward 6, Stittsville
+
+  6/stop-signs-01.osm: 44 signs; Merrill Street, Allan Moore Place, Hawks Landing Crescent
+    new stop sign 35, direction flipped 4, new yield sign 3, delete? 1, stop changed to yield 1
+  6/stop-signs-02.osm: 46 signs; Energy Street, Finsbury Avenue, Clapham Terrace
+    new stop sign 45, new yield sign 1
+  6/stop-signs-03.osm: 46 signs; Axel Crescent, Brittanic Road, Paseana Place
+    new stop sign 46
+  6/stop-signs-04.osm: 46 signs; Barnsbury Road, Dagenham Street, Beckton Heights
+    new stop sign 46
+  6/stop-signs-05.osm: 41 signs; Purchase Crescent, Samara Place, Thresher Avenue
+    new stop sign 32, delete? 4, new all-way stop 3, new yield sign 1, yield changed to stop 1
+
+  new stop sign: 204
+  new yield sign: 5
+  delete?: 5
+  direction flipped: 4
+  new all-way stop: 3
+  stop changed to yield: 1
+  yield changed to stop: 1

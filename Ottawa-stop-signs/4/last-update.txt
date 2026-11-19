@@ -1,0 +1,16 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-19 05:54 UTC.
+The full console report of that run wasn't kept. The next `node update.js 4` writes it here.
+
+=== Ward 4, Kanata North
+
+  4/stop-signs-01.osm: 41 signs; Catherwood Court, Jackson Court, Petrie Lane
+    new stop sign 23, new yield sign 9, yield changed to stop 5, stop changed to yield 3, delete? 1
+  4/stop-signs-02.osm: 41 signs; Natare Place, Upper Canada Street, Nipissing Court
+    new stop sign 29, new yield sign 7, direction flipped 3, delete? 1, stop changed to yield 1
+
+  new stop sign: 52
+  new yield sign: 16
+  yield changed to stop: 5
+  stop changed to yield: 4
+  direction flipped: 3
+  delete?: 2

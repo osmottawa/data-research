@@ -1,0 +1,18 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 15:33 UTC.
+The full console report of that run wasn't kept. The next `node update.js 8` writes it here.
+
+=== Ward 8, College
+
+  8/stop-signs-01.osm: 42 signs; Rosemeade Place, Hemmingwood Way, Sandcliffe Terrace
+    new yield sign 15, new stop sign 8, delete? 6, stop changed to yield 5, direction flipped 3, new all-way stop 2, yield changed to stop 2, stop=all added 1
+  8/stop-signs-02.osm: 41 signs; Shatner Gate, Mill Hill Road, Lovell Lane
+    new yield sign 12, stop changed to yield 10, new stop sign 7, yield changed to stop 4, stop=all added 3, new all-way stop 2, delete? 2, direction flipped 1
+
+  new yield sign: 27
+  new stop sign: 15
+  stop changed to yield: 15
+  delete?: 8
+  yield changed to stop: 6
+  new all-way stop: 4
+  direction flipped: 4
+  stop=all added: 4

@@ -1,0 +1,23 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 04:04 UTC.
+The full console report of that run wasn't kept. The next `node update.js 1` writes it here.
+
+=== Ward 1, Orléans East-Cumberland
+
+  1/lit-01.osm: 95 ways (28 yes, 67 no), 167 lamps, 0 lit things; Wilhaven Drive, Old Montréal Road, Cox Country Road
+  1/lit-02.osm: 95 ways (50 yes, 45 no), 162 lamps, 0 lit things; St. Joseph Boulevard, Jeanne-d'Arc Boulevard North, Tweddle Road
+  1/lit-03.osm: 96 ways (93 yes, 3 no), 279 lamps, 0 lit things; Trim Road, Regional Road 174, Talcy Crescent
+  1/lit-04.osm: 96 ways (84 yes, 12 no, 1 check lit), 286 lamps, 3 lit things; Old Montréal Road, Regional Road 174, Baie-des-Castors Street
+  1/lit-05.osm: 96 ways (60 yes, 36 no), 188 lamps, 5 lit things; Duford Drive, Lacroix Avenue, Bonneville Crescent
+  1/lit-06.osm: 96 ways (90 yes, 6 no), 266 lamps, 1 lit things; Place-d'Orléans Drive, Prestone Drive, Delia Crescent
+  1/lit-07.osm: 96 ways (87 yes, 9 no), 256 lamps, 1 lit things; St. Joseph Boulevard, Princess Louise Drive, Turner Crescent
+  1/lit-08.osm: 95 ways (88 yes, 7 no), 304 lamps, 3 lit things; Apollo Way, Tompkins Avenue, Charlemagne Boulevard
+  1/lit-09.osm: 96 ways (93 yes, 3 no), 304 lamps, 0 lit things; Charlemagne Boulevard, Gardenway Drive, Taché Way
+  1/lit-10.osm: 96 ways (95 yes, 1 no, 2 check lit), 384 lamps, 0 lit things; Portobello Boulevard, Innes Road, Valin Street
+  1/lit-11.osm: 95 ways (80 yes, 15 no, 2 check lit), 294 lamps, 0 lit things; Innes Road, Valin Street, Trail Side Circle
+  1/lit-12.osm: 96 ways (80 yes, 16 no), 235 lamps, 1 lit things; Prestwick Drive, Tenth Line Road, Prairies Avenue
+
+  fixme=check lit: 5
+  path lit=no: 170
+  path lit=yes: 53
+  road lit=no: 50
+  road lit=yes: 875

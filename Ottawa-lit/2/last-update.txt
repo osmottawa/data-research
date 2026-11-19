@@ -1,0 +1,24 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-18 16:28 UTC.
+The full console report of that run wasn't kept. The next `node update.js 2` writes it here.
+
+=== Ward 2, Orléans West-Innes
+
+  2/lit-01.osm: 93 ways (58 yes, 35 no), 151 lamps, 0 lit things; Jeanne-d'Arc Boulevard North, Décarie Drive, Bilberry Drive
+  2/lit-02.osm: 94 ways (69 yes, 25 no), 167 lamps, 0 lit things; Voyageur Drive, Ravine Way, Jeanne-d'Arc Boulevard North
+  2/lit-03.osm: 93 ways (65 yes, 28 no), 180 lamps, 0 lit things; Jeanne-d'Arc Boulevard North, Fortune Drive, St-Jérôme Crescent
+  2/lit-04.osm: 94 ways (77 yes, 17 no), 213 lamps, 0 lit things; Bilberry Drive, Du Bois Avenue, St. Jean Street
+  2/lit-05.osm: 94 ways (65 yes, 29 no), 173 lamps, 0 lit things; Vineyard Drive, Youville Drive, Bordeau Grove
+  2/lit-06.osm: 93 ways (75 yes, 18 no), 200 lamps, 0 lit things; Jeanne-d'Arc Boulevard South, Forest Valley Drive, Grey Nuns Drive
+  2/lit-07.osm: 94 ways (83 yes, 11 no), 203 lamps, 1 lit things; Jeanne-d'Arc Boulevard South, St. Joseph Boulevard, Henri Lauzon Street
+  2/lit-08.osm: 93 ways (73 yes, 20 no), 236 lamps, 0 lit things; Sunview Drive, Des Épinettes Avenue, Champneuf Drive
+  2/lit-09.osm: 93 ways (80 yes, 13 no), 219 lamps, 0 lit things; Beauséjour Drive, Innes Road, Meadowglen Drive
+  2/lit-10.osm: 94 ways (92 yes, 2 no), 273 lamps, 0 lit things; Jeanne-d'Arc Boulevard South, Viseneau Drive, Boyer Road
+  2/lit-11.osm: 93 ways (84 yes, 9 no), 278 lamps, 0 lit things; Innes Road, Jeanne-d'Arc Boulevard South, Tooney Drive
+  2/lit-12.osm: 93 ways (73 yes, 20 no), 309 lamps, 1 lit things; Blackburn Hamlet Bypass, Innes Road, Meadowglen Drive
+  2/lit-13.osm: 93 ways (41 yes, 52 no), 114 lamps, 0 lit things; Innes Road, Trail 61, Bearbrook Road
+  2/lit-14.osm: 94 ways (84 yes, 10 no), 351 lamps, 1 lit things; Blackburn Hamlet Bypass, Innes Road, Bearbrook Road
+
+  path lit=no: 285
+  path lit=yes: 34
+  road lit=no: 4
+  road lit=yes: 985

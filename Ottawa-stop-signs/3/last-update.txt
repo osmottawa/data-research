@@ -1,0 +1,27 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-16 03:40 UTC.
+The full console report of that run wasn't kept. The next `node update.js 3` writes it here.
+
+=== Ward 3, Barrhaven West
+
+  3/stop-signs-01.osm: 48 signs; Liebe Terrace, Beatrice Peak Court, Garibaldi Lane
+    new stop sign 36, not all-way? 6, new yield sign 3, delete? 2, stop changed to yield 1
+  3/stop-signs-02.osm: 48 signs; Proxima Terrace, Horseshoe Falls Way, Chromite Private
+    new stop sign 34, delete? 5, new yield sign 3, stop=all removed 2, not all-way? 2, yield changed to stop 1, stop changed to yield 1
+  3/stop-signs-03.osm: 48 signs; Kirkstone Private, Goldgate Private, Evenwood Private
+    new stop sign 27, new yield sign 11, stop changed to yield 5, delete? 3, stop=all removed 1, direction flipped 1
+  3/stop-signs-04.osm: 47 signs; Watercolours Way, Alcor Terrace, Aphelion Crescent
+    new stop sign 45, not all-way? 1, new all-way stop 1
+  3/stop-signs-05.osm: 49 signs; Egret Way, River Mist Road, Fameflower Street
+    new stop sign 44, not all-way? 2, new yield sign 1, new all-way stop 1, delete? 1
+  3/stop-signs-06.osm: 46 signs; Lynn Coulter Street, Inver Lane, Lurgan Way
+    new stop sign 38, stop=all removed 2, delete? 2, new all-way stop 2, direction flipped 2
+
+  new stop sign: 224
+  new yield sign: 18
+  delete?: 13
+  not all-way?: 11
+  stop changed to yield: 7
+  stop=all removed: 5
+  new all-way stop: 4
+  direction flipped: 3
+  yield changed to stop: 1

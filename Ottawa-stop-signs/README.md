@@ -6,6 +6,7 @@ It writes `<ward>/stop-signs-01.osm`, `-02.osm`, and so on:
 - At most 50 signs per file (`--chunk <n>` changes this), each file one compact area, numbered roughly north to south.
 - Signs on the same road, or at the same intersection, always share a file, because a way can be modified in only one file.
 - A rerun reads fresh OSM, so anything already uploaded is taken into account, and the old files are replaced.
+- The `.osm` files aren't committed (see `.gitignore`). Instead each ward folder gets `last-update.txt`, the run's console report: the command, OSM data date and server, the files and the counts. Rebuild a ward's files with `node update.js <ward>`.
 
 Traffic signals aren't mapped.
 
@@ -68,12 +69,12 @@ Left alone, and only listed in the console:
 
 | File | Signs | Main streets |
 |---|---|---|
-| [3/stop-signs-01.osm](3/stop-signs-01.osm) | 48 | Aura Ave, Larkin Dr, Apolune St |
-| [3/stop-signs-02.osm](3/stop-signs-02.osm) | 48 | Point Prim Cres, Chapman Mills Dr, Wessex Rd |
-| [3/stop-signs-03.osm](3/stop-signs-03.osm) | 48 | Jockvale Rd, Fieldberry Priv, Rhyolite Way |
-| [3/stop-signs-04.osm](3/stop-signs-04.osm) | 47 | Watercolours Way, Travertine Way, Parallax Priv |
-| [3/stop-signs-05.osm](3/stop-signs-05.osm) | 49 | Fameflower St, Alex Polowin Ave, Rye Grass Way |
-| [3/stop-signs-06.osm](3/stop-signs-06.osm) | 46 | Alex Polowin Ave, Barnsdale Rd, Lynn Coulter St |
+| `3/stop-signs-01.osm` | 48 | Aura Ave, Larkin Dr, Apolune St |
+| `3/stop-signs-02.osm` | 48 | Point Prim Cres, Chapman Mills Dr, Wessex Rd |
+| `3/stop-signs-03.osm` | 48 | Jockvale Rd, Fieldberry Priv, Rhyolite Way |
+| `3/stop-signs-04.osm` | 47 | Watercolours Way, Travertine Way, Parallax Priv |
+| `3/stop-signs-05.osm` | 49 | Fameflower St, Alex Polowin Ave, Rye Grass Way |
+| `3/stop-signs-06.osm` | 46 | Alex Polowin Ave, Barnsdale Rd, Lynn Coulter St |
 
 | Note | Count |
 |---|---|
@@ -107,11 +108,11 @@ Not in the files:
 
 | File | Signs | Main streets |
 |---|---|---|
-| [1/stop-signs-01.osm](1/stop-signs-01.osm) | 49 | Cameron St, Gauthier St, Fieldown St |
-| [1/stop-signs-02.osm](1/stop-signs-02.osm) | 48 | Jeanne D'Arc Blvd, Prestone Dr, Second St |
-| [1/stop-signs-03.osm](1/stop-signs-03.osm) | 46 | Charlemagne Blvd, Jeanne D'Arc Blvd N, Trim Rd |
-| [1/stop-signs-04.osm](1/stop-signs-04.osm) | 49 | Portobello Blvd, Cap-Diamant Way, Saintonge |
-| [1/stop-signs-05.osm](1/stop-signs-05.osm) | 47 | Prestwick Dr, Payette Dr, Duford Dr |
+| `1/stop-signs-01.osm` | 49 | Cameron St, Gauthier St, Fieldown St |
+| `1/stop-signs-02.osm` | 48 | Jeanne D'Arc Blvd, Prestone Dr, Second St |
+| `1/stop-signs-03.osm` | 46 | Charlemagne Blvd, Jeanne D'Arc Blvd N, Trim Rd |
+| `1/stop-signs-04.osm` | 49 | Portobello Blvd, Cap-Diamant Way, Saintonge |
+| `1/stop-signs-05.osm` | 47 | Prestwick Dr, Payette Dr, Duford Dr |
 
 | Note | Count |
 |---|---|
@@ -138,9 +139,9 @@ Not in the files: 20 intersections with no matching junction, mostly around the 
 
 | File | Signs | Main streets |
 |---|---|---|
-| [2/stop-signs-01.osm](2/stop-signs-01.osm) | 50 | Belcourt Blvd, Des Epinettes Ave, D'Orleans Blvd |
-| [2/stop-signs-02.osm](2/stop-signs-02.osm) | 49 | St. Andre Dr, Glen Park Dr, Ridgeburn Gt |
-| [2/stop-signs-03.osm](2/stop-signs-03.osm) | 49 | Beausejour Dr, Ashmont St, Meadowglen Dr |
+| `2/stop-signs-01.osm` | 50 | Belcourt Blvd, Des Epinettes Ave, D'Orleans Blvd |
+| `2/stop-signs-02.osm` | 49 | St. Andre Dr, Glen Park Dr, Ridgeburn Gt |
+| `2/stop-signs-03.osm` | 49 | Beausejour Dr, Ashmont St, Meadowglen Dr |
 
 | Note | Count |
 |---|---|
@@ -165,8 +166,8 @@ Not in the files: 18 intersections with no matching junction, mostly Regional Ro
 
 | File | Signs | Main streets |
 |---|---|---|
-| [4/stop-signs-01.osm](4/stop-signs-01.osm) | 41 | Catherwood Crt, Selwyn Cres, Teron Rd |
-| [4/stop-signs-02.osm](4/stop-signs-02.osm) | 41 | Arkose St, Upper Canada St, Natare Pl |
+| `4/stop-signs-01.osm` | 41 | Catherwood Crt, Selwyn Cres, Teron Rd |
+| `4/stop-signs-02.osm` | 41 | Arkose St, Upper Canada St, Natare Pl |
 
 | Note | Count |
 |---|---|

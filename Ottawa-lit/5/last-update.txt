@@ -1,0 +1,19 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-19 16:03 UTC.
+The full console report of that run wasn't kept. The next `node update.js 5` writes it here.
+
+=== Ward 5, West Carleton-March
+
+  5/lit-01.osm: 184 ways (11 yes, 173 no, 5 check lit), 104 lamps, 3 lit things; Dunrobin Road, Trail 1, Greenland Road
+  5/lit-02.osm: 184 ways (11 yes, 173 no), 66 lamps, 0 lit things; Torbolton Ridge Road, Kinburn Side Road, Stonecrest Road
+  5/lit-03.osm: 185 ways (24 yes, 161 no), 68 lamps, 0 lit things; Galetta Side Road, Loggers Way, Upper Dwyer Hill Road
+  5/lit-04.osm: 185 ways (15 yes, 170 no), 128 lamps, 0 lit things; Thomas A. Dolan Parkway, Dunrobin Road, Old Second Line Road
+  5/lit-05.osm: 184 ways (48 yes, 136 no), 203 lamps, 0 lit things; Donald B. Munro Drive, Upper Dwyer Hill Road, Old Coach Road
+  5/lit-06.osm: 184 ways (25 yes, 159 no), 113 lamps, 0 lit things; Old Carp Road, March Road, Crazy Horse Trail
+  5/lit-07.osm: 185 ways (38 yes, 147 no), 183 lamps, 0 lit things; Richardson Side Road, David Manchester Road, Carp Road
+  5/lit-08.osm: 185 ways (23 yes, 162 no, 1 check lit), 97 lamps, 0 lit things; Upper Dwyer Hill Road, March Road, Old Almonte Road
+
+  fixme=check lit: 6
+  path lit=no: 373
+  path lit=yes: 2
+  road lit=no: 908
+  road lit=yes: 193

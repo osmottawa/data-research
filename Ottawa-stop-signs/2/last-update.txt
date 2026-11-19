@@ -1,0 +1,20 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-16 04:50 UTC.
+The full console report of that run wasn't kept. The next `node update.js 2` writes it here.
+
+=== Ward 2, Orléans West-Innes
+
+  2/stop-signs-01.osm: 50 signs; Boyer Road, Zachary Street, Cedar Mills Road
+    delete? 16, new stop sign 15, stop=all removed 6, not all-way? 6, yield changed to stop 3, new all-way stop 2, new yield sign 1, stop changed to yield 1
+  2/stop-signs-02.osm: 49 signs; St. André Drive, Paxton Lane, Hart Road
+    new stop sign 21, delete? 11, not all-way? 7, stop=all removed 4, new all-way stop 2, yield changed to stop 2, new yield sign 1, stop changed to yield 1
+  2/stop-signs-03.osm: 49 signs; Ashmont Street, Loranger Court, Mary Jane Crescent
+    new stop sign 20, not all-way? 11, delete? 8, yield changed to stop 6, stop=all removed 4
+
+  new stop sign: 56
+  delete?: 35
+  not all-way?: 24
+  stop=all removed: 14
+  yield changed to stop: 11
+  new all-way stop: 4
+  new yield sign: 2
+  stop changed to yield: 2

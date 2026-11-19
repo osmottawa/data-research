@@ -1,0 +1,19 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-19 05:58 UTC.
+The full console report of that run wasn't kept. The next `node update.js 4` writes it here.
+
+=== Ward 4, Kanata North
+
+  4/lit-01.osm: 184 ways (167 yes, 17 no), 616 lamps, 0 lit things; March Road, Klondike Road, Celtic Ridge Crescent
+  4/lit-02.osm: 185 ways (163 yes, 22 no), 617 lamps, 3 lit things; Goulbourn Forced Road, Terry Fox Drive, Forestbrook Street
+  4/lit-03.osm: 184 ways (154 yes, 30 no), 506 lamps, 0 lit things; Terry Fox Drive, March Road, March Valley Road
+  4/lit-04.osm: 185 ways (171 yes, 14 no), 830 lamps, 0 lit things; March Road, Varley Drive, Penfield Drive
+  4/lit-05.osm: 185 ways (138 yes, 47 no, 1 check lit), 613 lamps, 0 lit things; Huntsville Drive, Kanata Avenue, Keyrock Drive
+  4/lit-06.osm: 184 ways (142 yes, 42 no, 1 check lit), 843 lamps, 1 lit things; Knudson Drive, Shaughnessy Crescent, Beaverbrook Road
+  4/lit-07.osm: 185 ways (159 yes, 26 no), 557 lamps, 1 lit things; Kanata Avenue, Maritime Way, Hemlo Crescent
+  4/lit-08.osm: 185 ways (164 yes, 21 no), 677 lamps, 0 lit things; Campeau Drive, Palladium Drive, Huntmar Drive
+
+  fixme=check lit: 2
+  path lit=no: 203
+  path lit=yes: 179
+  road lit=no: 16
+  road lit=yes: 1079

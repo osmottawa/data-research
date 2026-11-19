@@ -1,0 +1,18 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-19 15:50 UTC.
+The full console report of that run wasn't kept. The next `node update.js 5` writes it here.
+
+=== Ward 5, West Carleton-March
+
+  5/stop-signs-01.osm: 44 signs; Diamondview Road, Torwood Drive, Mast Lane
+    new stop sign 21, delete? 11, new yield sign 8, stop changed to yield 2, yield changed to stop 1, new all-way stop 1
+  5/stop-signs-02.osm: 43 signs; Grants Side Road, Ritchie Side Road, Dominion Springs Road
+    new stop sign 31, delete? 6, new yield sign 5, yield changed to stop 1
+  5/stop-signs-03.osm: 44 signs; Barrdon Road, Albert Boyd Private, Fleet Canuck Private
+    new stop sign 31, new yield sign 6, delete? 4, stop changed to yield 3
+
+  new stop sign: 83
+  delete?: 21
+  new yield sign: 19
+  stop changed to yield: 5
+  yield changed to stop: 2
+  new all-way stop: 1

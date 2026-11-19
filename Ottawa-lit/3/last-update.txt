@@ -1,0 +1,18 @@
+Rebuilt on 2026-11-19 from the .osm files, which are no longer in git; they were written 2026-11-19 04:23 UTC.
+The full console report of that run wasn't kept. The next `node update.js 3` writes it here.
+
+=== Ward 3, Barrhaven West
+
+  3/lit-01.osm: 198 ways (151 yes, 47 no), 406 lamps, 1 lit things; Cedarview Road, Fallowfield Road, Strandherd Drive
+  3/lit-02.osm: 197 ways (154 yes, 43 no), 427 lamps, 1 lit things; Jockvale Road, Greenbank Road, Larkin Drive
+  3/lit-03.osm: 197 ways (178 yes, 19 no), 492 lamps, 0 lit things; Strandherd Drive, Tartan Drive, Chapman Mills Drive
+  3/lit-04.osm: 198 ways (183 yes, 15 no), 473 lamps, 0 lit things; Greenbank Road, Longfields Drive, River Run Avenue
+  3/lit-05.osm: 198 ways (175 yes, 23 no), 559 lamps, 0 lit things; Borrisokane Road, Strandherd Drive, Watercolours Way
+  3/lit-06.osm: 197 ways (131 yes, 66 no), 257 lamps, 0 lit things; Longfields Drive, Golflinks Drive, Stonebridge Trail
+  3/lit-07.osm: 198 ways (186 yes, 12 no), 783 lamps, 0 lit things; River Mist Road, Grand Canal Street, Dundonald Drive
+  3/lit-08.osm: 197 ways (171 yes, 26 no), 614 lamps, 0 lit things; Kilbirnie Drive, Greenbank Road, Longfields Drive
+
+  path lit=no: 183
+  path lit=yes: 81
+  road lit=no: 68
+  road lit=yes: 1248
