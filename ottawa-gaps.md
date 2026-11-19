@@ -11,6 +11,7 @@ Checked on 2026-11-14 against live OSM. These are the city's point layers from [
 - [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `2/stop-signs-01..03.osm` (ward 2, Orléans West-Innes: 148 signs to review)
 - [ ] [Ottawa-stop-signs](Ottawa-stop-signs/): `4/stop-signs-01..02.osm` (ward 4, Kanata North: 82 signs to review)
 - [ ] [Ottawa-lit](Ottawa-lit/): `1/lit-01..12.osm` (ward 1, Orléans East-Cumberland: `lit=*` on 1,148 roads and pathways, 95–96 per file with their lamps for reference, 5 with `fixme=check lit`)
+- [ ] [Ottawa-lit](Ottawa-lit/): `2/lit-01..14.osm` (ward 2, Orléans West-Innes: `lit=*` on 1,308 roads and pathways, 93–94 per file, no `fixme=check lit`)
 
 ## Benches (done 2026-11-14)
 

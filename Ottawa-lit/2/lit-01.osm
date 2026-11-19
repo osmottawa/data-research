@@ -1,0 +1,3756 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='BikeOttawa/data-research Ottawa-lit'>
+  <node id='6753886249' visible='true' version='3' lat='45.4814866' lon='-75.5323868'>
+    <tag k='crossing' v='no' />
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='5131422375' visible='true' version='3' lat='45.4815434' lon='-75.532439'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='crossing:markings' v='lines' />
+    <tag k='crossing:signals' v='yes' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901438722' visible='true' version='2' lat='45.4816932' lon='-75.5325844' />
+  <node id='5973813352' visible='true' version='4' lat='45.4825698' lon='-75.5210918' />
+  <node id='14369274859' visible='true' version='1' lat='45.4821246' lon='-75.5208523' />
+  <node id='5973813353' visible='true' version='4' lat='45.4819052' lon='-75.5207275' />
+  <node id='9413836091' visible='true' version='1' lat='45.4818434' lon='-75.5207089' />
+  <node id='8285261998' visible='true' version='2' lat='45.4817625' lon='-75.5206847' />
+  <node id='9413836090' visible='true' version='1' lat='45.4812003' lon='-75.5205318' />
+  <node id='5973813351' visible='true' version='3' lat='45.4811271' lon='-75.5205101' />
+  <node id='9413836089' visible='true' version='1' lat='45.4810592' lon='-75.5204809' />
+  <node id='8285261999' visible='true' version='2' lat='45.4809689' lon='-75.5204339' />
+  <node id='12142464642' visible='true' version='2' lat='45.4807228' lon='-75.5202998'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='10695944236' visible='true' version='3' lat='45.4806812' lon='-75.5202775'>
+    <tag k='crossing' v='unmarked' />
+    <tag k='crossing:markings' v='no' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='8098054674' visible='true' version='4' lat='45.4806058' lon='-75.5202358' />
+  <node id='412656491' visible='true' version='3' lat='45.481127' lon='-75.5244857' />
+  <node id='5468399286' visible='true' version='2' lat='45.4811797' lon='-75.5244326' />
+  <node id='6976914559' visible='true' version='1' lat='45.4812656' lon='-75.5243171' />
+  <node id='901396981' visible='true' version='2' lat='45.4813466' lon='-75.524195' />
+  <node id='6976914558' visible='true' version='1' lat='45.481394' lon='-75.5241166' />
+  <node id='901411488' visible='true' version='1' lat='45.4814325' lon='-75.5240373' />
+  <node id='3632921971' visible='true' version='1' lat='45.4814935' lon='-75.5238963' />
+  <node id='901440420' visible='true' version='1' lat='45.4815384' lon='-75.5237924' />
+  <node id='6538590286' visible='true' version='1' lat='45.481674' lon='-75.523421' />
+  <node id='3632921983' visible='true' version='1' lat='45.4817835' lon='-75.523121' />
+  <node id='901445524' visible='true' version='2' lat='45.4818133' lon='-75.5230492' />
+  <node id='5468399224' visible='true' version='2' lat='45.4818552' lon='-75.5229657' />
+  <node id='901435135' visible='true' version='2' lat='45.4819023' lon='-75.5228895' />
+  <node id='6976914557' visible='true' version='1' lat='45.481953' lon='-75.5228197' />
+  <node id='901396652' visible='true' version='2' lat='45.4820047' lon='-75.522757' />
+  <node id='6976914556' visible='true' version='1' lat='45.482063' lon='-75.5227024' />
+  <node id='901398718' visible='true' version='2' lat='45.4821195' lon='-75.5226601' />
+  <node id='6976914555' visible='true' version='1' lat='45.4821833' lon='-75.5226206' />
+  <node id='901396601' visible='true' version='2' lat='45.4822464' lon='-75.5225906' />
+  <node id='6976914554' visible='true' version='1' lat='45.4823018' lon='-75.522571' />
+  <node id='901448167' visible='true' version='3' lat='45.4823603' lon='-75.5225583' />
+  <node id='901401405' visible='true' version='8' lat='45.4809324' lon='-75.5219522' />
+  <node id='13657750936' visible='true' version='2' lat='45.4810476' lon='-75.5218628'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901412077' visible='true' version='3' lat='45.4811435' lon='-75.5217883' />
+  <node id='901402392' visible='true' version='2' lat='45.4812779' lon='-75.5217193' />
+  <node id='901412226' visible='true' version='2' lat='45.4814208' lon='-75.5216973' />
+  <node id='901422659' visible='true' version='3' lat='45.4815268' lon='-75.5217105'>
+    <tag k='traffic_calming' v='bump' />
+  </node>
+  <node id='6977689998' visible='true' version='1' lat='45.4816243' lon='-75.5217401' />
+  <node id='901418768' visible='true' version='2' lat='45.4820522' lon='-75.5219738' />
+  <node id='6977689997' visible='true' version='1' lat='45.4821029' lon='-75.522011' />
+  <node id='901406879' visible='true' version='2' lat='45.4821494' lon='-75.5220572' />
+  <node id='6977689996' visible='true' version='1' lat='45.4822068' lon='-75.5221291' />
+  <node id='901429936' visible='true' version='2' lat='45.4822481' lon='-75.5222146' />
+  <node id='6977689995' visible='true' version='1' lat='45.4822891' lon='-75.5223141' />
+  <node id='6133848286' visible='true' version='3' lat='45.4823247' lon='-75.5224148'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='5131401737' visible='true' version='2' lat='45.4823337' lon='-75.5224482'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6753886252' visible='true' version='1' lat='45.4820352' lon='-75.531553' />
+  <node id='6753886251' visible='true' version='1' lat='45.4818763' lon='-75.5318481' />
+  <node id='6753886250' visible='true' version='2' lat='45.4815474' lon='-75.5323099'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='crossing:markings' v='lines' />
+    <tag k='crossing:signals' v='yes' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901413909' visible='true' version='2' lat='45.4815485' lon='-75.5320941' />
+  <node id='6753886256' visible='true' version='1' lat='45.4817964' lon='-75.5317971' />
+  <node id='901448765' visible='true' version='2' lat='45.4818989' lon='-75.5316264' />
+  <node id='901410365' visible='true' version='2' lat='45.4819735' lon='-75.5314982' />
+  <node id='904035382' visible='true' version='1' lat='45.482002' lon='-75.5328027' />
+  <node id='901430325' visible='true' version='3' lat='45.4824196' lon='-75.5193741' />
+  <node id='6987523469' visible='true' version='1' lat='45.4823507' lon='-75.5193785' />
+  <node id='901398698' visible='true' version='3' lat='45.4815466' lon='-75.5189658' />
+  <node id='901428690' visible='true' version='2' lat='45.4821225' lon='-75.5311523' />
+  <node id='6753886255' visible='true' version='1' lat='45.4821716' lon='-75.5309576' />
+  <node id='901407478' visible='true' version='1' lat='45.4822193' lon='-75.5308418' />
+  <node id='6753886254' visible='true' version='1' lat='45.4822233' lon='-75.5309992' />
+  <node id='6753886253' visible='true' version='1' lat='45.4821678' lon='-75.5312151' />
+  <node id='901418470' visible='true' version='1' lat='45.4822693' lon='-75.5303676' />
+  <node id='901403285' visible='true' version='2' lat='45.4822762' lon='-75.5301279' />
+  <node id='6970683295' visible='true' version='1' lat='45.4822959' lon='-75.5294291' />
+  <node id='3632922024' visible='true' version='2' lat='45.4822973' lon='-75.5293763' />
+  <node id='6970683292' visible='true' version='1' lat='45.4822989' lon='-75.5293223' />
+  <node id='6970683301' visible='true' version='1' lat='45.4823123' lon='-75.5288446' />
+  <node id='3632922025' visible='true' version='1' lat='45.4823168' lon='-75.5286848' />
+  <node id='6970683298' visible='true' version='1' lat='45.4823198' lon='-75.5285792' />
+  <node id='6970683307' visible='true' version='1' lat='45.4823368' lon='-75.5279741' />
+  <node id='3632922026' visible='true' version='1' lat='45.4823376' lon='-75.5279473' />
+  <node id='6970683304' visible='true' version='1' lat='45.4823423' lon='-75.5277817' />
+  <node id='5711805853' visible='true' version='2' lat='45.482362' lon='-75.5270805'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901429404' visible='true' version='5' lat='45.4823666' lon='-75.5269585'>
+    <tag k='crossing' v='no' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='8388026906' visible='true' version='4' lat='45.4826243' lon='-75.5212249' />
+  <node id='9413836094' visible='true' version='2' lat='45.4826093' lon='-75.5212862' />
+  <node id='10695944258' visible='true' version='1' lat='45.4825994' lon='-75.5213177' />
+  <node id='8388026905' visible='true' version='3' lat='45.4825857' lon='-75.5213459' />
+  <node id='8388026904' visible='true' version='3' lat='45.4825646' lon='-75.5213727' />
+  <node id='10695944259' visible='true' version='1' lat='45.4825388' lon='-75.5213989' />
+  <node id='10695944260' visible='true' version='1' lat='45.482504' lon='-75.5214331' />
+  <node id='8388026903' visible='true' version='3' lat='45.482465' lon='-75.5214813' />
+  <node id='10695944261' visible='true' version='1' lat='45.4824372' lon='-75.5215249' />
+  <node id='8388026902' visible='true' version='3' lat='45.4824128' lon='-75.5215711' />
+  <node id='10695944262' visible='true' version='1' lat='45.4823817' lon='-75.5216416' />
+  <node id='8388026901' visible='true' version='3' lat='45.4823643' lon='-75.5217' />
+  <node id='8388026900' visible='true' version='3' lat='45.4823498' lon='-75.5217575' />
+  <node id='9413836093' visible='true' version='2' lat='45.4823389' lon='-75.5218314' />
+  <node id='10695944263' visible='true' version='1' lat='45.4823371' lon='-75.5218984' />
+  <node id='8388026899' visible='true' version='3' lat='45.4823385' lon='-75.5219621' />
+  <node id='8388026898' visible='true' version='3' lat='45.4823445' lon='-75.5220218' />
+  <node id='10695944264' visible='true' version='1' lat='45.4823559' lon='-75.5220748' />
+  <node id='10695944254' visible='true' version='1' lat='45.48237' lon='-75.5221264' />
+  <node id='8388026897' visible='true' version='3' lat='45.4823883' lon='-75.5221766' />
+  <node id='10695944255' visible='true' version='1' lat='45.4824076' lon='-75.522223' />
+  <node id='8388026896' visible='true' version='3' lat='45.4824307' lon='-75.5222658' />
+  <node id='8388026895' visible='true' version='3' lat='45.4824527' lon='-75.5223015' />
+  <node id='10695944256' visible='true' version='1' lat='45.4824706' lon='-75.5223356' />
+  <node id='8388026894' visible='true' version='3' lat='45.4824865' lon='-75.5223738' />
+  <node id='8388026893' visible='true' version='3' lat='45.4825005' lon='-75.5224351' />
+  <node id='5132959274' visible='true' version='3' lat='45.482425' lon='-75.5320821' />
+  <node id='6749938123' visible='true' version='1' lat='45.4822872' lon='-75.5321847'>
+    <tag k='highway' v='turning_circle' />
+  </node>
+  <node id='687062461' visible='true' version='2' lat='45.4823345' lon='-75.5338509' />
+  <node id='687062466' visible='true' version='2' lat='45.4825141' lon='-75.5340722' />
+  <node id='5711805851' visible='true' version='2' lat='45.4823689' lon='-75.5268436'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6970683310' visible='true' version='1' lat='45.4823885' lon='-75.5261714' />
+  <node id='3632922030' visible='true' version='1' lat='45.4823908' lon='-75.5260935' />
+  <node id='901426909' visible='true' version='2' lat='45.4823976' lon='-75.5260024' />
+  <node id='901426431' visible='true' version='1' lat='45.4824449' lon='-75.5256569' />
+  <node id='6970683315' visible='true' version='1' lat='45.4824543' lon='-75.5256199' />
+  <node id='3632922069' visible='true' version='1' lat='45.4824948' lon='-75.5254607' />
+  <node id='901408630' visible='true' version='2' lat='45.4825211' lon='-75.525367' />
+  <node id='6970683318' visible='true' version='1' lat='45.4825453' lon='-75.5252921' />
+  <node id='3632922322' visible='true' version='1' lat='45.4827863' lon='-75.5246738' />
+  <node id='901434321' visible='true' version='1' lat='45.4830605' lon='-75.5239706' />
+  <node id='3632922422' visible='true' version='1' lat='45.4830956' lon='-75.5238822' />
+  <node id='6976914552' visible='true' version='1' lat='45.4824259' lon='-75.5225448' />
+  <node id='901444168' visible='true' version='2' lat='45.4825184' lon='-75.5225576' />
+  <node id='6976914553' visible='true' version='1' lat='45.4826229' lon='-75.522585' />
+  <node id='3632922303' visible='true' version='2' lat='45.4827167' lon='-75.5226196' />
+  <node id='5973813348' visible='true' version='3' lat='45.4829525' lon='-75.5196788' />
+  <node id='6791808886' visible='true' version='3' lat='45.4829179' lon='-75.5198071'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='14382558440' visible='true' version='1' lat='45.4829082' lon='-75.5198429'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='14369274867' visible='true' version='1' lat='45.4826903' lon='-75.5206425' />
+  <node id='9102622721' visible='true' version='2' lat='45.4825905' lon='-75.5210087' />
+  <node id='4423077169' visible='true' version='1' lat='45.483863' lon='-75.5337622' />
+  <node id='687062469' visible='true' version='2' lat='45.483551' lon='-75.5337643' />
+  <node id='687062470' visible='true' version='2' lat='45.4833959' lon='-75.533907' />
+  <node id='687062450' visible='true' version='3' lat='45.4833185' lon='-75.534109' />
+  <node id='3708192326' visible='true' version='2' lat='45.4831778' lon='-75.5340435' />
+  <node id='687062471' visible='true' version='3' lat='45.4830322' lon='-75.5340323' />
+  <node id='687062472' visible='true' version='2' lat='45.482908' lon='-75.5340427' />
+  <node id='5132959260' visible='true' version='1' lat='45.4827734' lon='-75.5341118' />
+  <node id='687062473' visible='true' version='2' lat='45.4826485' lon='-75.5341258' />
+  <node id='687062460' visible='true' version='2' lat='45.482327' lon='-75.5340937' />
+  <node id='5132959261' visible='true' version='2' lat='45.4822327' lon='-75.5342084' />
+  <node id='5297742413' visible='true' version='1' lat='45.4821424' lon='-75.5342647' />
+  <node id='687062474' visible='true' version='2' lat='45.4820628' lon='-75.5344691' />
+  <node id='1532874457' visible='true' version='1' lat='45.4818996' lon='-75.5347397' />
+  <node id='6976914549' visible='true' version='2' lat='45.4829687' lon='-75.5227562' />
+  <node id='901397453' visible='true' version='3' lat='45.4830096' lon='-75.5227779' />
+  <node id='6987523470' visible='true' version='1' lat='45.4833451' lon='-75.5198925' />
+  <node id='5131430621' visible='true' version='2' lat='45.4823733' lon='-75.5301342'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3708208650' visible='true' version='3' lat='45.4824008' lon='-75.5301364'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901435427' visible='true' version='2' lat='45.4830144' lon='-75.5301684' />
+  <node id='901451698' visible='true' version='2' lat='45.4831852' lon='-75.5302051' />
+  <node id='6977680711' visible='true' version='1' lat='45.4833563' lon='-75.5302736' />
+  <node id='901402693' visible='true' version='2' lat='45.4834729' lon='-75.5303363' />
+  <node id='901415343' visible='true' version='1' lat='45.4822355' lon='-75.5328635' />
+  <node id='937385927' visible='true' version='1' lat='45.4822553' lon='-75.5328647' />
+  <node id='937385929' visible='true' version='1' lat='45.4824134' lon='-75.5328747' />
+  <node id='937385928' visible='true' version='1' lat='45.4828769' lon='-75.5329039' />
+  <node id='937385926' visible='true' version='1' lat='45.4830545' lon='-75.532915' />
+  <node id='806068512' visible='true' version='2' lat='45.4839831' lon='-75.5329735' />
+  <node id='5131426114' visible='true' version='4' lat='45.4824524' lon='-75.5269636'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901423151' visible='true' version='3' lat='45.4826857' lon='-75.5269855' />
+  <node id='901445399' visible='true' version='4' lat='45.4827806' lon='-75.5270081' />
+  <node id='6977099585' visible='true' version='1' lat='45.4828932' lon='-75.5270657' />
+  <node id='901428941' visible='true' version='2' lat='45.4829887' lon='-75.5271381' />
+  <node id='3632923487' visible='true' version='3' lat='45.4832105' lon='-75.5273162' />
+  <node id='901448657' visible='true' version='2' lat='45.4835913' lon='-75.5276164' />
+  <node id='901412022' visible='true' version='2' lat='45.4840188' lon='-75.5306036' />
+  <node id='5594382675' visible='true' version='2' lat='45.4840803' lon='-75.5306465' />
+  <node id='6977680708' visible='true' version='1' lat='45.484109' lon='-75.5307148' />
+  <node id='901438290' visible='true' version='3' lat='45.4841152' lon='-75.5307912' />
+  <node id='901431157' visible='true' version='3' lat='45.4840862' lon='-75.5309142' />
+  <node id='901448143' visible='true' version='3' lat='45.4838089' lon='-75.5320448' />
+  <node id='901424091' visible='true' version='3' lat='45.4837706' lon='-75.5321789' />
+  <node id='6977680707' visible='true' version='1' lat='45.48374' lon='-75.5322155' />
+  <node id='6977680706' visible='true' version='1' lat='45.4836962' lon='-75.5322309' />
+  <node id='901396322' visible='true' version='3' lat='45.4836397' lon='-75.5322278' />
+  <node id='6977680705' visible='true' version='1' lat='45.482512' lon='-75.5321705' />
+  <node id='901411800' visible='true' version='4' lat='45.4824547' lon='-75.5321306' />
+  <node id='901449812' visible='true' version='2' lat='45.4824031' lon='-75.5320118' />
+  <node id='6977680704' visible='true' version='1' lat='45.4824019' lon='-75.5319567' />
+  <node id='901440827' visible='true' version='2' lat='45.4824072' lon='-75.5319019' />
+  <node id='901415645' visible='true' version='3' lat='45.482627' lon='-75.5312507' />
+  <node id='6749938122' visible='true' version='2' lat='45.482676' lon='-75.5311862' />
+  <node id='901406777' visible='true' version='3' lat='45.4827327' lon='-75.5311677' />
+  <node id='901425876' visible='true' version='3' lat='45.4831921' lon='-75.5311905' />
+  <node id='901448787' visible='true' version='3' lat='45.483242' lon='-75.5311605' />
+  <node id='6749961777' visible='true' version='2' lat='45.4832816' lon='-75.5311057' />
+  <node id='901426078' visible='true' version='3' lat='45.483303' lon='-75.531028' />
+  <node id='6977680710' visible='true' version='1' lat='45.483441' lon='-75.530466' />
+  <node id='14382689626' visible='true' version='1' lat='45.4834477' lon='-75.5304388'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='4677539542' visible='true' version='2' lat='45.4828518' lon='-75.5258567' />
+  <node id='5501654430' visible='true' version='1' lat='45.4829539' lon='-75.5254751' />
+  <node id='3007214336' visible='true' version='4' lat='45.4831459' lon='-75.5251181' />
+  <node id='4774992664' visible='true' version='3' lat='45.4833424' lon='-75.5245824' />
+  <node id='5132959259' visible='true' version='1' lat='45.482968' lon='-75.5339844' />
+  <node id='5132959258' visible='true' version='1' lat='45.4830884' lon='-75.5338409' />
+  <node id='5132959257' visible='true' version='1' lat='45.4831372' lon='-75.5337336' />
+  <node id='5132959256' visible='true' version='1' lat='45.4831457' lon='-75.5335647' />
+  <node id='687062453' visible='true' version='2' lat='45.4831206' lon='-75.5333749' />
+  <node id='5973813350' visible='true' version='4' lat='45.483834' lon='-75.5217797' />
+  <node id='6791808887' visible='true' version='5' lat='45.4837421' lon='-75.5217298'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='14382689625' visible='true' version='1' lat='45.4837167' lon='-75.5217161'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='8285262016' visible='true' version='2' lat='45.4831514' lon='-75.5214116' />
+  <node id='8285261997' visible='true' version='3' lat='45.4828824' lon='-75.5212654' />
+  <node id='6976914550' visible='true' version='2' lat='45.4830569' lon='-75.5228049' />
+  <node id='901445019' visible='true' version='6' lat='45.4832871' lon='-75.5229419'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='5131422415' visible='true' version='3' lat='45.483327' lon='-75.522968'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901396273' visible='true' version='4' lat='45.483429' lon='-75.5230316' />
+  <node id='687062451' visible='true' version='2' lat='45.4832645' lon='-75.5337721' />
+  <node id='687062452' visible='true' version='2' lat='45.483224' lon='-75.533529' />
+  <node id='687062454' visible='true' version='1' lat='45.4830434' lon='-75.5331726' />
+  <node id='5297742417' visible='true' version='1' lat='45.4837922' lon='-75.5334007' />
+  <node id='5297742418' visible='true' version='1' lat='45.4837118' lon='-75.5333259' />
+  <node id='5297742419' visible='true' version='1' lat='45.4835801' lon='-75.5333139' />
+  <node id='687062456' visible='true' version='2' lat='45.4834666' lon='-75.5333118' />
+  <node id='5297742416' visible='true' version='1' lat='45.483455' lon='-75.533311' />
+  <node id='5132959255' visible='true' version='1' lat='45.483283' lon='-75.5332991' />
+  <node id='687062457' visible='true' version='1' lat='45.4831676' lon='-75.5332474' />
+  <node id='5132959280' visible='true' version='2' lat='45.48295' lon='-75.5330726' />
+  <node id='6976914548' visible='true' version='2' lat='45.4831232' lon='-75.5228063' />
+  <node id='6976914547' visible='true' version='2' lat='45.483203' lon='-75.5228204' />
+  <node id='412654143' visible='true' version='3' lat='45.4832942' lon='-75.5228285' />
+  <node id='6133848287' visible='true' version='1' lat='45.4833577' lon='-75.5228154'>
+    <tag k='highway' v='give_way' />
+  </node>
+  <node id='5131422417' visible='true' version='2' lat='45.4833822' lon='-75.5228072'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='412659461' visible='true' version='2' lat='45.4834092' lon='-75.5227973' />
+  <node id='8388026892' visible='true' version='1' lat='45.4834786' lon='-75.5227259' />
+  <node id='412660102' visible='true' version='2' lat='45.4835319' lon='-75.5226447' />
+  <node id='412660511' visible='true' version='1' lat='45.4836273' lon='-75.5224747' />
+  <node id='5131546263' visible='true' version='1' lat='45.4844527' lon='-75.5301462' />
+  <node id='5501654018' visible='true' version='1' lat='45.4843013' lon='-75.5300751' />
+  <node id='5594382676' visible='true' version='1' lat='45.4841901' lon='-75.5299967' />
+  <node id='5501654017' visible='true' version='1' lat='45.4840747' lon='-75.5299155' />
+  <node id='1997648115' visible='true' version='1' lat='45.4838733' lon='-75.5298131' />
+  <node id='5131546264' visible='true' version='1' lat='45.4836055' lon='-75.5297788' />
+  <node id='1997648112' visible='true' version='1' lat='45.4834072' lon='-75.529712' />
+  <node id='1997648109' visible='true' version='2' lat='45.4832078' lon='-75.5295382' />
+  <node id='5131546265' visible='true' version='1' lat='45.4830047' lon='-75.5294877' />
+  <node id='1997648102' visible='true' version='2' lat='45.4828742' lon='-75.5295096' />
+  <node id='5131546267' visible='true' version='1' lat='45.4827991' lon='-75.5295319' />
+  <node id='1997648099' visible='true' version='2' lat='45.4826903' lon='-75.529559' />
+  <node id='5501654016' visible='true' version='1' lat='45.4824932' lon='-75.5295789' />
+  <node id='5131546266' visible='true' version='2' lat='45.482387' lon='-75.5295623' />
+  <node id='5132959250' visible='true' version='1' lat='45.483551' lon='-75.5350405' />
+  <node id='5132959254' visible='true' version='1' lat='45.4835077' lon='-75.5349165' />
+  <node id='5132959253' visible='true' version='1' lat='45.4834381' lon='-75.5345598' />
+  <node id='5132959252' visible='true' version='1' lat='45.4833338' lon='-75.5343157' />
+  <node id='5132959251' visible='true' version='1' lat='45.4833131' lon='-75.5342513' />
+  <node id='5501654429' visible='true' version='1' lat='45.4833375' lon='-75.5243674' />
+  <node id='5501654427' visible='true' version='2' lat='45.4833831' lon='-75.5244022' />
+  <node id='7168110210' visible='true' version='1' lat='45.483527' lon='-75.5245053' />
+  <node id='7168110209' visible='true' version='1' lat='45.4835606' lon='-75.5245223' />
+  <node id='5297742415' visible='true' version='1' lat='45.483448' lon='-75.5337538' />
+  <node id='5297742414' visible='true' version='1' lat='45.4835181' lon='-75.5337564' />
+  <node id='935859822' visible='true' version='3' lat='45.4836149' lon='-75.5245214' />
+  <node id='412676959' visible='true' version='2' lat='45.4837858' lon='-75.5201309' />
+  <node id='901409857' visible='true' version='3' lat='45.4837439' lon='-75.5220976' />
+  <node id='901424438' visible='true' version='3' lat='45.4840369' lon='-75.5210936' />
+  <node id='7390080003' visible='true' version='1' lat='45.4840573' lon='-75.5279918' />
+  <node id='7390080105' visible='true' version='1' lat='45.484161' lon='-75.5280754' />
+  <node id='901428718' visible='true' version='2' lat='45.4842056' lon='-75.5281113' />
+  <node id='6133847077' visible='true' version='3' lat='45.4836324' lon='-75.5275006'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901453155' visible='true' version='2' lat='45.4838929' lon='-75.5268471' />
+  <node id='6977099593' visible='true' version='1' lat='45.483897' lon='-75.5267961' />
+  <node id='6977099595' visible='true' version='1' lat='45.4838942' lon='-75.5267431' />
+  <node id='6977099594' visible='true' version='1' lat='45.4838805' lon='-75.5266996' />
+  <node id='901428636' visible='true' version='2' lat='45.4838583' lon='-75.5266574' />
+  <node id='901453170' visible='true' version='1' lat='45.4832957' lon='-75.5262054' />
+  <node id='6977099591' visible='true' version='1' lat='45.4832618' lon='-75.5261698' />
+  <node id='901445774' visible='true' version='2' lat='45.4832384' lon='-75.5261155' />
+  <node id='6977099592' visible='true' version='1' lat='45.4832308' lon='-75.5260484' />
+  <node id='901396483' visible='true' version='2' lat='45.4832444' lon='-75.5259848' />
+  <node id='901450943' visible='true' version='3' lat='45.4834867' lon='-75.5253659' />
+  <node id='6977099589' visible='true' version='1' lat='45.4835134' lon='-75.5253289' />
+  <node id='901415914' visible='true' version='2' lat='45.4835461' lon='-75.5253018' />
+  <node id='6977099590' visible='true' version='1' lat='45.4835975' lon='-75.5253021' />
+  <node id='901447202' visible='true' version='2' lat='45.4836366' lon='-75.5253188' />
+  <node id='937386662' visible='true' version='3' lat='45.4843982' lon='-75.5259235' />
+  <node id='901445357' visible='true' version='2' lat='45.4849258' lon='-75.526345' />
+  <node id='6977099588' visible='true' version='1' lat='45.4849651' lon='-75.5263938' />
+  <node id='5565480577' visible='true' version='2' lat='45.4849872' lon='-75.5264508' />
+  <node id='6977099587' visible='true' version='1' lat='45.4849877' lon='-75.5265178' />
+  <node id='901398258' visible='true' version='2' lat='45.4849748' lon='-75.5265764' />
+  <node id='901398240' visible='true' version='2' lat='45.4848766' lon='-75.5268212' />
+  <node id='6977099586' visible='true' version='1' lat='45.484841' lon='-75.5269027' />
+  <node id='901429519' visible='true' version='1' lat='45.4843968' lon='-75.5276447' />
+  <node id='6133847076' visible='true' version='3' lat='45.4842497' lon='-75.5280069'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='13875625150' visible='true' version='1' lat='45.4838966' lon='-75.5201898' />
+  <node id='5711805860' visible='true' version='3' lat='45.484152' lon='-75.5203378'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901407777' visible='true' version='5' lat='45.4842304' lon='-75.5203847'>
+    <tag k='crossing' v='no' />
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='12285714156' visible='true' version='1' lat='45.4840601' lon='-75.5209637' />
+  <node id='6970683332' visible='true' version='2' lat='45.4840724' lon='-75.5208651' />
+  <node id='12285714157' visible='true' version='1' lat='45.484078' lon='-75.5207605' />
+  <node id='4702372258' visible='true' version='3' lat='45.4840732' lon='-75.5206532' />
+  <node id='12285714158' visible='true' version='1' lat='45.4840564' lon='-75.5205406' />
+  <node id='901438419' visible='true' version='2' lat='45.4840202' lon='-75.5204171'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='901450069' visible='true' version='1' lat='45.4839488' lon='-75.5202885' />
+  <node id='1642721659' visible='true' version='2' lat='45.4843872' lon='-75.5355866' />
+  <node id='1642721651' visible='true' version='1' lat='45.4840653' lon='-75.5363347' />
+  <node id='1642721639' visible='true' version='1' lat='45.4836918' lon='-75.5370194' />
+  <node id='5131525800' visible='true' version='2' lat='45.4842005' lon='-75.5204962'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='305316335' visible='true' version='4' lat='45.4843594' lon='-75.5353457' />
+  <node id='904035355' visible='true' version='2' lat='45.4840241' lon='-75.5346487' />
+  <node id='5501654424' visible='true' version='1' lat='45.484057' lon='-75.5329823' />
+  <node id='901443903' visible='true' version='2' lat='45.4841048' lon='-75.532988' />
+  <node id='901420345' visible='true' version='2' lat='45.4842308' lon='-75.533038' />
+  <node id='901449107' visible='true' version='2' lat='45.4844775' lon='-75.5331558' />
+  <node id='901427881' visible='true' version='3' lat='45.4851424' lon='-75.5245711' />
+  <node id='6133848291' visible='true' version='3' lat='45.4850624' lon='-75.5245277'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901449929' visible='true' version='2' lat='45.4847135' lon='-75.5243371' />
+  <node id='6977107683' visible='true' version='1' lat='45.4846595' lon='-75.5243271' />
+  <node id='901439454' visible='true' version='2' lat='45.4841281' lon='-75.5241879' />
+  <node id='6977107682' visible='true' version='1' lat='45.4839731' lon='-75.5241166' />
+  <node id='901448576' visible='true' version='3' lat='45.4838103' lon='-75.5240208' />
+  <node id='901444659' visible='true' version='3' lat='45.483788' lon='-75.5240063' />
+  <node id='6977107681' visible='true' version='1' lat='45.4837461' lon='-75.5239738' />
+  <node id='4774992665' visible='true' version='2' lat='45.4837163' lon='-75.5239246' />
+  <node id='6977107680' visible='true' version='1' lat='45.4837009' lon='-75.5238598' />
+  <node id='901432573' visible='true' version='2' lat='45.4837051' lon='-75.5237845' />
+  <node id='6977107679' visible='true' version='1' lat='45.4841048' lon='-75.5227728' />
+  <node id='6977107678' visible='true' version='1' lat='45.4841424' lon='-75.5226668' />
+  <node id='901435262' visible='true' version='2' lat='45.4841753' lon='-75.5225538' />
+  <node id='901446511' visible='true' version='2' lat='45.4844615' lon='-75.5214908' />
+  <node id='6977107676' visible='true' version='1' lat='45.4844893' lon='-75.5214451' />
+  <node id='901422851' visible='true' version='2' lat='45.4845281' lon='-75.5214124' />
+  <node id='6977107677' visible='true' version='1' lat='45.4845744' lon='-75.5214076' />
+  <node id='901429783' visible='true' version='2' lat='45.4846178' lon='-75.5214243' />
+  <node id='901420176' visible='true' version='2' lat='45.4853339' lon='-75.5218125' />
+  <node id='6977107675' visible='true' version='1' lat='45.4853798' lon='-75.5218642' />
+  <node id='901406151' visible='true' version='2' lat='45.4854009' lon='-75.521938' />
+  <node id='6977107674' visible='true' version='1' lat='45.4853976' lon='-75.5220077' />
+  <node id='901436776' visible='true' version='2' lat='45.4853785' lon='-75.5220706' />
+  <node id='901430992' visible='true' version='2' lat='45.4848189' lon='-75.5229926' />
+  <node id='6977107673' visible='true' version='1' lat='45.4847987' lon='-75.5230866' />
+  <node id='901403498' visible='true' version='2' lat='45.4848094' lon='-75.5231878' />
+  <node id='6977107672' visible='true' version='1' lat='45.4848485' lon='-75.5232623' />
+  <node id='901418559' visible='true' version='2' lat='45.4849011' lon='-75.5233107' />
+  <node id='6133848293' visible='true' version='3' lat='45.4853375' lon='-75.5235514'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901414579' visible='true' version='2' lat='45.4854212' lon='-75.5235947' />
+  <node id='305316313' visible='true' version='5' lat='45.4846491' lon='-75.5365155' />
+  <node id='305316333' visible='true' version='3' lat='45.4844735' lon='-75.5361336' />
+  <node id='1642721649' visible='true' version='2' lat='45.4844001' lon='-75.5356875' />
+  <node id='305316334' visible='true' version='4' lat='45.4843774' lon='-75.5354972' />
+  <node id='5131525793' visible='true' version='3' lat='45.4843176' lon='-75.5204318'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4702366560' visible='true' version='3' lat='45.4847791' lon='-75.520689' />
+  <node id='5501654438' visible='true' version='1' lat='45.4846088' lon='-75.5251023' />
+  <node id='5835456114' visible='true' version='1' lat='45.4845411' lon='-75.5250916' />
+  <node id='5835456113' visible='true' version='1' lat='45.4844386' lon='-75.5250473' />
+  <node id='5835456112' visible='true' version='1' lat='45.4844188' lon='-75.5250661' />
+  <node id='5594382674' visible='true' version='2' lat='45.4846019' lon='-75.5285949' />
+  <node id='5594382673' visible='true' version='1' lat='45.4845147' lon='-75.5289298' />
+  <node id='5594382672' visible='true' version='1' lat='45.4844546' lon='-75.529131' />
+  <node id='6133847072' visible='true' version='3' lat='45.4845113' lon='-75.5330034'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901450134' visible='true' version='2' lat='45.4846404' lon='-75.5324741' />
+  <node id='1997648121' visible='true' version='3' lat='45.484678' lon='-75.5304723' />
+  <node id='5131546261' visible='true' version='1' lat='45.4846558' lon='-75.530346' />
+  <node id='5131546262' visible='true' version='1' lat='45.4846003' lon='-75.5302615' />
+  <node id='5131546260' visible='true' version='1' lat='45.4846041' lon='-75.5301006' />
+  <node id='5131546256' visible='true' version='1' lat='45.4846906' lon='-75.5300657' />
+  <node id='5131546259' visible='true' version='1' lat='45.4847545' lon='-75.5300228' />
+  <node id='305316223' visible='true' version='5' lat='45.4848355' lon='-75.5369746' />
+  <node id='305316312' visible='true' version='5' lat='45.4846257' lon='-75.5366717' />
+  <node id='2000332561' visible='true' version='1' lat='45.4847876' lon='-75.5361836' />
+  <node id='305316224' visible='true' version='5' lat='45.485029' lon='-75.535904' />
+  <node id='5131546257' visible='true' version='1' lat='45.4847564' lon='-75.5301207' />
+  <node id='5131546258' visible='true' version='1' lat='45.4847451' lon='-75.530232' />
+  <node id='1997648123' visible='true' version='2' lat='45.4849946' lon='-75.5292983' />
+  <node id='5131546252' visible='true' version='1' lat='45.4849172' lon='-75.5294649' />
+  <node id='5131546253' visible='true' version='1' lat='45.4848307' lon='-75.5295695' />
+  <node id='5131546254' visible='true' version='1' lat='45.4848062' lon='-75.5296581' />
+  <node id='5131546255' visible='true' version='1' lat='45.48481' lon='-75.5298404' />
+  <node id='305317092' visible='true' version='6' lat='45.4853563' lon='-75.5336152'>
+    <tag k='highway' v='turning_circle' />
+  </node>
+  <node id='901418193' visible='true' version='2' lat='45.4845314' lon='-75.5283679' />
+  <node id='915759012' visible='true' version='2' lat='45.4845841' lon='-75.5284004' />
+  <node id='6977085884' visible='true' version='1' lat='45.4846294' lon='-75.5284155' />
+  <node id='901431207' visible='true' version='2' lat='45.4846788' lon='-75.5284169' />
+  <node id='6977085883' visible='true' version='1' lat='45.4847385' lon='-75.5284135' />
+  <node id='901406357' visible='true' version='2' lat='45.4847976' lon='-75.5284007' />
+  <node id='6977085882' visible='true' version='1' lat='45.4848523' lon='-75.5283759' />
+  <node id='901449484' visible='true' version='2' lat='45.4849014' lon='-75.5283431' />
+  <node id='937386580' visible='true' version='2' lat='45.4849483' lon='-75.5282961' />
+  <node id='901411464' visible='true' version='2' lat='45.4850009' lon='-75.5282404' />
+  <node id='901400024' visible='true' version='2' lat='45.4854316' lon='-75.5275185' />
+  <node id='6977085881' visible='true' version='1' lat='45.4854954' lon='-75.5273761' />
+  <node id='901438240' visible='true' version='3' lat='45.485644' lon='-75.5270001' />
+  <node id='901421050' visible='true' version='3' lat='45.485308' lon='-75.5297485' />
+  <node id='6970649079' visible='true' version='1' lat='45.4853346' lon='-75.5296473' />
+  <node id='901425670' visible='true' version='3' lat='45.4853793' lon='-75.5295893' />
+  <node id='6970649077' visible='true' version='1' lat='45.4854597' lon='-75.5295803' />
+  <node id='901412281' visible='true' version='2' lat='45.4855445' lon='-75.5296199' />
+  <node id='6133847074' visible='true' version='3' lat='45.4859694' lon='-75.5298284'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901400832' visible='true' version='2' lat='45.4860499' lon='-75.5298678' />
+  <node id='901406852' visible='true' version='2' lat='45.4853554' lon='-75.5237899' />
+  <node id='901425341' visible='true' version='3' lat='45.4861062' lon='-75.5273669' />
+  <node id='5131546242' visible='true' version='2' lat='45.4860812' lon='-75.5274117' />
+  <node id='5131546243' visible='true' version='2' lat='45.4860163' lon='-75.5275291' />
+  <node id='5131546244' visible='true' version='2' lat='45.4859256' lon='-75.5276833' />
+  <node id='5131546245' visible='true' version='2' lat='45.4858198' lon='-75.5278676' />
+  <node id='5131546246' visible='true' version='2' lat='45.4856148' lon='-75.5282251' />
+  <node id='5131546247' visible='true' version='2' lat='45.4854399' lon='-75.5284973' />
+  <node id='5131546248' visible='true' version='1' lat='45.4852989' lon='-75.5287313' />
+  <node id='5501654433' visible='true' version='2' lat='45.4852073' lon='-75.5288711' />
+  <node id='5131546249' visible='true' version='2' lat='45.4851165' lon='-75.529017' />
+  <node id='5131546250' visible='true' version='2' lat='45.4850234' lon='-75.5291893' />
+  <node id='901441493' visible='true' version='4' lat='45.4863165' lon='-75.5215316' />
+  <node id='6133847073' visible='true' version='3' lat='45.4847204' lon='-75.5325139'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901412621' visible='true' version='2' lat='45.4852216' lon='-75.5327651' />
+  <node id='6970649080' visible='true' version='1' lat='45.4852849' lon='-75.5327623' />
+  <node id='6977680107' visible='true' version='1' lat='45.4853158' lon='-75.5327486' />
+  <node id='901399265' visible='true' version='3' lat='45.4853448' lon='-75.5327191' />
+  <node id='901437481' visible='true' version='3' lat='45.4853789' lon='-75.5326187' />
+  <node id='901433720' visible='true' version='2' lat='45.4850967' lon='-75.5247578' />
+  <node id='901426371' visible='true' version='2' lat='45.4850745' lon='-75.5249143' />
+  <node id='901445981' visible='true' version='3' lat='45.4850732' lon='-75.5249825' />
+  <node id='938410633' visible='true' version='5' lat='45.485075' lon='-75.525033'>
+    <tag k='crossing' v='unmarked' />
+    <tag k='crossing:markings' v='no' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6977085876' visible='true' version='1' lat='45.4850949' lon='-75.5251385' />
+  <node id='901417640' visible='true' version='2' lat='45.4851308' lon='-75.5252484' />
+  <node id='6977085877' visible='true' version='1' lat='45.4851776' lon='-75.525337' />
+  <node id='901396335' visible='true' version='2' lat='45.4852372' lon='-75.5254147' />
+  <node id='901415297' visible='true' version='2' lat='45.4856837' lon='-75.5257763' />
+  <node id='901403393' visible='true' version='2' lat='45.4857712' lon='-75.5258798' />
+  <node id='6977085878' visible='true' version='1' lat='45.4858052' lon='-75.5259485' />
+  <node id='901430608' visible='true' version='2' lat='45.485835' lon='-75.5260197' />
+  <node id='6977085879' visible='true' version='1' lat='45.4858569' lon='-75.5261001' />
+  <node id='901409051' visible='true' version='1' lat='45.4858691' lon='-75.5261866' />
+  <node id='901396411' visible='true' version='2' lat='45.4858691' lon='-75.5263583' />
+  <node id='6977085880' visible='true' version='1' lat='45.4858574' lon='-75.5264347' />
+  <node id='901417389' visible='true' version='2' lat='45.4858378' lon='-75.526511' />
+  <node id='901410673' visible='true' version='2' lat='45.4862266' lon='-75.5288481' />
+  <node id='6977680101' visible='true' version='1' lat='45.4861113' lon='-75.5288104' />
+  <node id='901447305' visible='true' version='3' lat='45.4859642' lon='-75.5287918' />
+  <node id='2855250404' visible='true' version='2' lat='45.4859191' lon='-75.5287588' />
+  <node id='2855250403' visible='true' version='2' lat='45.4858921' lon='-75.5287051' />
+  <node id='2855250407' visible='true' version='2' lat='45.4858842' lon='-75.5286448' />
+  <node id='901425999' visible='true' version='3' lat='45.485889' lon='-75.5285971' />
+  <node id='2855250406' visible='true' version='1' lat='45.4859088' lon='-75.5285625' />
+  <node id='2855250402' visible='true' version='2' lat='45.4859309' lon='-75.5285392' />
+  <node id='2855250405' visible='true' version='2' lat='45.485965' lon='-75.528528' />
+  <node id='901402783' visible='true' version='2' lat='45.4860051' lon='-75.5285367' />
+  <node id='6977680100' visible='true' version='1' lat='45.4861451' lon='-75.5285992' />
+  <node id='901414775' visible='true' version='3' lat='45.4862593' lon='-75.5286433' />
+  <node id='901405666' visible='true' version='2' lat='45.4855057' lon='-75.5234303' />
+  <node id='901423425' visible='true' version='2' lat='45.485915' lon='-75.5227583' />
+  <node id='6977085874' visible='true' version='1' lat='45.4859975' lon='-75.5226011' />
+  <node id='901403858' visible='true' version='2' lat='45.4860667' lon='-75.5224397' />
+  <node id='6977085873' visible='true' version='1' lat='45.486123' lon='-75.5222551' />
+  <node id='6133848294' visible='true' version='3' lat='45.48627' lon='-75.5217061'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='5131525774' visible='true' version='2' lat='45.4862827' lon='-75.5216576'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='1642679070' visible='true' version='3' lat='45.486008' lon='-75.5345041' />
+  <node id='1642721653' visible='true' version='2' lat='45.4861113' lon='-75.5341819' />
+  <node id='5132959265' visible='true' version='1' lat='45.4859514' lon='-75.5337002' />
+  <node id='5132959264' visible='true' version='1' lat='45.4860285' lon='-75.5336545' />
+  <node id='5132959263' visible='true' version='1' lat='45.4861207' lon='-75.5335231' />
+  <node id='305316229' visible='true' version='5' lat='45.4862137' lon='-75.5333568' />
+  <node id='901399121' visible='true' version='2' lat='45.4860957' lon='-75.5296863' />
+  <node id='5131525762' visible='true' version='2' lat='45.4854847' lon='-75.523629'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6133848292' visible='true' version='3' lat='45.485519' lon='-75.5236483'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901447362' visible='true' version='2' lat='45.4856395' lon='-75.5237175' />
+  <node id='6977107671' visible='true' version='1' lat='45.4856849' lon='-75.5237538' />
+  <node id='901451295' visible='true' version='2' lat='45.4857222' lon='-75.5237974' />
+  <node id='6977107670' visible='true' version='1' lat='45.4857521' lon='-75.5238665' />
+  <node id='901443505' visible='true' version='2' lat='45.4857708' lon='-75.523936' />
+  <node id='901446553' visible='true' version='2' lat='45.4858662' lon='-75.5244448' />
+  <node id='6977107669' visible='true' version='1' lat='45.4858912' lon='-75.5245129' />
+  <node id='901445795' visible='true' version='2' lat='45.485942' lon='-75.524575' />
+  <node id='901410980' visible='true' version='2' lat='45.4860074' lon='-75.5246302' />
+  <node id='901439587' visible='true' version='2' lat='45.4866373' lon='-75.525133' />
+  <node id='6977107667' visible='true' version='1' lat='45.4866744' lon='-75.5251633' />
+  <node id='6970649075' visible='true' version='1' lat='45.4867163' lon='-75.5251664' />
+  <node id='6977107666' visible='true' version='1' lat='45.4867605' lon='-75.5251278' />
+  <node id='901449906' visible='true' version='4' lat='45.486806' lon='-75.525077' />
+  <node id='901421384' visible='true' version='2' lat='45.4870408' lon='-75.5248171' />
+  <node id='6977107665' visible='true' version='1' lat='45.4870839' lon='-75.5247402' />
+  <node id='901414891' visible='true' version='2' lat='45.4871155' lon='-75.5246531' />
+  <node id='901410274' visible='true' version='3' lat='45.487218' lon='-75.5243068' />
+  <node id='5131537691' visible='true' version='7' lat='45.4857192' lon='-75.5270574'>
+    <tag k='crossing' v='uncontrolled' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='6133847075' visible='true' version='4' lat='45.4857386' lon='-75.5270732'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901416167' visible='true' version='1' lat='45.4862129' lon='-75.52746' />
+  <node id='6977680104' visible='true' version='1' lat='45.4862593' lon='-75.5275223' />
+  <node id='901432161' visible='true' version='2' lat='45.4862984' lon='-75.5275959' />
+  <node id='6977680103' visible='true' version='1' lat='45.4863237' lon='-75.5276605' />
+  <node id='901429977' visible='true' version='2' lat='45.4863436' lon='-75.5277264' />
+  <node id='6977680105' visible='true' version='1' lat='45.4863576' lon='-75.5277979' />
+  <node id='6977680106' visible='true' version='1' lat='45.4863623' lon='-75.527871' />
+  <node id='901397634' visible='true' version='2' lat='45.486361' lon='-75.5280057' />
+  <node id='5565480588' visible='true' version='2' lat='45.4850143' lon='-75.5359561' />
+  <node id='5565480587' visible='true' version='1' lat='45.4852077' lon='-75.5360511' />
+  <node id='5565480586' visible='true' version='1' lat='45.485533' lon='-75.5362147' />
+  <node id='5565480585' visible='true' version='1' lat='45.4858273' lon='-75.536381' />
+  <node id='5565480584' visible='true' version='1' lat='45.4859298' lon='-75.5363998' />
+  <node id='5565480583' visible='true' version='1' lat='45.4863764' lon='-75.5366023' />
+  <node id='5565480582' visible='true' version='1' lat='45.4867271' lon='-75.5367391' />
+  <node id='5565480581' visible='true' version='1' lat='45.4871568' lon='-75.5369309' />
+  <node id='5565480580' visible='true' version='1' lat='45.4875601' lon='-75.5371092' />
+  <node id='5565480579' visible='true' version='1' lat='45.487845' lon='-75.537234' />
+  <node id='6987523471' visible='true' version='1' lat='45.4866733' lon='-75.5217249' />
+  <node id='935873632' visible='true' version='1' lat='45.4863703' lon='-75.5265746' />
+  <node id='935873628' visible='true' version='1' lat='45.4865716' lon='-75.5260749' />
+  <node id='935873642' visible='true' version='3' lat='45.4867143' lon='-75.5258437' />
+  <node id='6133848290' visible='true' version='4' lat='45.4871378' lon='-75.5242551'>
+    <tag k='direction' v='backward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901449227' visible='true' version='2' lat='45.4865847' lon='-75.5239174' />
+  <node id='6977279270' visible='true' version='1' lat='45.4865593' lon='-75.5238893' />
+  <node id='901412054' visible='true' version='2' lat='45.4865397' lon='-75.5238514' />
+  <node id='6977279271' visible='true' version='1' lat='45.4865287' lon='-75.5237994' />
+  <node id='901402107' visible='true' version='2' lat='45.486527' lon='-75.523742' />
+  <node id='901450997' visible='true' version='2' lat='45.4868124' lon='-75.5227936' />
+  <node id='6977279268' visible='true' version='1' lat='45.4868319' lon='-75.522746' />
+  <node id='901431377' visible='true' version='2' lat='45.4868651' lon='-75.5227066' />
+  <node id='6977279269' visible='true' version='1' lat='45.4869123' lon='-75.522691' />
+  <node id='901415051' visible='true' version='2' lat='45.4869591' lon='-75.5227012' />
+  <node id='6133848289' visible='true' version='3' lat='45.4875211' lon='-75.5230075'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='901397939' visible='true' version='3' lat='45.4875997' lon='-75.5230501' />
+  <node id='935873631' visible='true' version='1' lat='45.4865484' lon='-75.5270481' />
+  <node id='935873630' visible='true' version='1' lat='45.4869355' lon='-75.527307' />
+  <node id='1997641992' visible='true' version='1' lat='45.4870452' lon='-75.5275511' />
+  <node id='1997641994' visible='true' version='2' lat='45.4871986' lon='-75.5276579' />
+  <node id='901420195' visible='true' version='4' lat='45.487117' lon='-75.5219653' />
+  <node id='7779697506' visible='true' version='1' lat='45.487806' lon='-75.5335209' />
+  <node id='7779697505' visible='true' version='1' lat='45.487221' lon='-75.5331909' />
+  <node id='7779697504' visible='true' version='1' lat='45.4866891' lon='-75.5328685' />
+  <node id='7779697503' visible='true' version='1' lat='45.4865013' lon='-75.5327228' />
+  <node id='7168110206' visible='true' version='1' lat='45.4868255' lon='-75.5258618' />
+  <node id='935873629' visible='true' version='2' lat='45.4877801' lon='-75.5257964' />
+  <node id='7779697528' visible='true' version='1' lat='45.4869408' lon='-75.5350836' />
+  <node id='7779697502' visible='true' version='1' lat='45.4871438' lon='-75.5347917' />
+  <node id='7779697501' visible='true' version='1' lat='45.487314' lon='-75.5343289' />
+  <node id='7779697500' visible='true' version='1' lat='45.4875108' lon='-75.5338851' />
+  <node id='305316228' visible='true' version='8' lat='45.4861885' lon='-75.5338993' />
+  <node id='7779697531' visible='true' version='1' lat='45.4864604' lon='-75.5341203' />
+  <node id='7779697530' visible='true' version='1' lat='45.4866067' lon='-75.534456' />
+  <node id='7779697529' visible='true' version='1' lat='45.4867901' lon='-75.5348548' />
+  <node id='7779697527' visible='true' version='1' lat='45.4871248' lon='-75.5352652' />
+  <node id='7779697526' visible='true' version='1' lat='45.4877247' lon='-75.5357909' />
+  <node id='7779697525' visible='true' version='1' lat='45.4880143' lon='-75.5358848' />
+  <node id='7779697524' visible='true' version='1' lat='45.4882662' lon='-75.5358526' />
+  <node id='7779697523' visible='true' version='1' lat='45.4886761' lon='-75.5357856' />
+  <node id='7779697522' visible='true' version='1' lat='45.4888658' lon='-75.5356008' />
+  <node id='14382689624' visible='true' version='1' lat='45.4877251' lon='-75.5222978' />
+  <node id='901423518' visible='true' version='4' lat='45.4878095' lon='-75.5223439' />
+  <node id='6133848288' visible='true' version='4' lat='45.4877725' lon='-75.5224675'>
+    <tag k='direction' v='forward' />
+    <tag k='highway' v='stop' />
+  </node>
+  <node id='7779697496' visible='true' version='1' lat='45.4884575' lon='-75.5302853' />
+  <node id='7779697495' visible='true' version='1' lat='45.4883299' lon='-75.5295418' />
+  <node id='7779697494' visible='true' version='1' lat='45.488173' lon='-75.5290108' />
+  <node id='7779697493' visible='true' version='1' lat='45.487689' lon='-75.5282635' />
+  <node id='7779697492' visible='true' version='1' lat='45.4873991' lon='-75.527907' />
+  <node id='7779697499' visible='true' version='1' lat='45.488048' lon='-75.5329557' />
+  <node id='7779697498' visible='true' version='1' lat='45.4882501' lon='-75.5322312' />
+  <node id='7779697497' visible='true' version='1' lat='45.4883777' lon='-75.5308315' />
+  <node id='7779697520' visible='true' version='1' lat='45.489464' lon='-75.5343533' />
+  <node id='7779697507' visible='true' version='1' lat='45.4888059' lon='-75.5340368' />
+  <node id='7779697521' visible='true' version='1' lat='45.4893587' lon='-75.5346429' />
+  <node id='7779697519' visible='true' version='1' lat='45.4897009' lon='-75.5339938' />
+  <node id='7779697518' visible='true' version='1' lat='45.4898589' lon='-75.5335808' />
+  <node id='7779697517' visible='true' version='1' lat='45.4900281' lon='-75.5331892' />
+  <node id='7779697516' visible='true' version='1' lat='45.4901447' lon='-75.5330336' />
+  <node id='7779697515' visible='true' version='1' lat='45.4902613' lon='-75.5325455' />
+  <node id='7779697514' visible='true' version='1' lat='45.4905471' lon='-75.5317032' />
+  <node id='7779697513' visible='true' version='1' lat='45.4908366' lon='-75.5308557' />
+  <node id='7779697512' visible='true' version='1' lat='45.4909908' lon='-75.5301046' />
+  <node id='7779697511' visible='true' version='1' lat='45.4910209' lon='-75.5296218' />
+  <node id='7779697510' visible='true' version='1' lat='45.4911262' lon='-75.5290693' />
+  <node id='7779697509' visible='true' version='1' lat='45.4911563' lon='-75.5285329' />
+  <node id='7779697508' visible='true' version='1' lat='45.4911805' lon='-75.5278159' />
+  <node id='6791817102' visible='true' version='2' lat='45.481348' lon='-75.53268'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='114586' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808935' visible='true' version='2' lat='45.481468' lon='-75.532492'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='141909' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817045' visible='true' version='2' lat='45.48137' lon='-75.532218'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='108842' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817001' visible='true' version='2' lat='45.481811' lon='-75.532562'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='103042' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257112' visible='true' version='1' lat='45.4825434' lon='-75.5213435'>
+    <tag k='height' v='5' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257106' visible='true' version='1' lat='45.4818262' lon='-75.5206298'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257107' visible='true' version='1' lat='45.4821844' lon='-75.5208078'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257108' visible='true' version='1' lat='45.482571' lon='-75.5209231'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257109' visible='true' version='1' lat='45.4824693' lon='-75.5209603'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257110' visible='true' version='1' lat='45.4826935' lon='-75.5210889'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='12142464631' visible='true' version='1' lat='45.4804621' lon='-75.5204299'>
+    <tag k='highway' v='street_lamp' />
+  </node>
+  <node id='12142464639' visible='true' version='1' lat='45.4807607' lon='-75.520106'>
+    <tag k='highway' v='street_lamp' />
+  </node>
+  <node id='14379257102' visible='true' version='1' lat='45.4807899' lon='-75.520254'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257104' visible='true' version='1' lat='45.4810368' lon='-75.52039'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257105' visible='true' version='1' lat='45.4814063' lon='-75.520515'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791817104' visible='true' version='2' lat='45.481118' lon='-75.524617'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='81595' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808897' visible='true' version='2' lat='45.481468' lon='-75.523807'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96396' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817008' visible='true' version='2' lat='45.481807' lon='-75.523233'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='130193' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808936' visible='true' version='2' lat='45.482093' lon='-75.522589'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='108439' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816988' visible='true' version='2' lat='45.482604' lon='-75.522691'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='102968' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257119' visible='true' version='1' lat='45.4824324' lon='-75.5223348'>
+    <tag k='height' v='5' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791816986' visible='true' version='2' lat='45.48084' lon='-75.522106'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='76203' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817047' visible='true' version='2' lat='45.481938' lon='-75.522004'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='99126' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257116' visible='true' version='1' lat='45.4823211' lon='-75.5218012'>
+    <tag k='height' v='5' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257117' visible='true' version='1' lat='45.4823334' lon='-75.5220824'>
+    <tag k='height' v='5' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791808925' visible='true' version='2' lat='45.481412' lon='-75.52179'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='83156' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817155' visible='true' version='2' lat='45.481611' lon='-75.531907'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='117721' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817143' visible='true' version='2' lat='45.482157' lon='-75.531397'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='115682' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817168' visible='true' version='2' lat='45.482269' lon='-75.532776'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='130205' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129182' visible='true' version='2' lat='45.482138' lon='-75.519387'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='90800' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129181' visible='true' version='2' lat='45.482668' lon='-75.519419'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='121615' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129177' visible='true' version='2' lat='45.481449' lon='-75.519038'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='75208' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129178' visible='true' version='2' lat='45.481453' lon='-75.518668'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='130494' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='wood' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129180' visible='true' version='2' lat='45.481724' lon='-75.519167'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='79708' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129179' visible='true' version='2' lat='45.482251' lon='-75.519097'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='81644' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='wood' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817023' visible='true' version='2' lat='45.482183' lon='-75.530507'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='72984' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808964' visible='true' version='2' lat='45.482457' lon='-75.530067'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='113722' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817071' visible='true' version='2' lat='45.482363' lon='-75.529638'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='106065' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817132' visible='true' version='2' lat='45.482232' lon='-75.528812'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='94097' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817108' visible='true' version='2' lat='45.482412' lon='-75.527868'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='139225' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817159' visible='true' version='2' lat='45.482258' lon='-75.527068'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='91808' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817167' visible='true' version='2' lat='45.48257' lon='-75.526902'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='87033' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257114' visible='true' version='1' lat='45.4823943' lon='-75.5215394'>
+    <tag k='height' v='5' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791816996' visible='true' version='2' lat='45.482563' lon='-75.5321'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='97027' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816991' visible='true' version='2' lat='45.48245' lon='-75.526323'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='115497' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808939' visible='true' version='2' lat='45.482393' lon='-75.525523'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='98642' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817124' visible='true' version='2' lat='45.482803' lon='-75.524864'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='88725' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817115' visible='true' version='2' lat='45.482931' lon='-75.52408'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='84247' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257103' visible='true' version='1' lat='45.4827226' lon='-75.520352'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6797129184' visible='true' version='2' lat='45.483157' lon='-75.519902'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='125750' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257100' visible='true' version='1' lat='45.4828584' lon='-75.5198082'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791808946' visible='true' version='2' lat='45.483153' lon='-75.522991'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='98080' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808972' visible='true' version='2' lat='45.482931' lon='-75.530249'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='98557' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808983' visible='true' version='2' lat='45.483492' lon='-75.530266'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='111363' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808940' visible='true' version='2' lat='45.482845' lon='-75.532808'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='103370' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816992' visible='true' version='2' lat='45.483417' lon='-75.532835'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='107272' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817042' visible='true' version='2' lat='45.484045' lon='-75.532889'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='80086' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817076' visible='true' version='2' lat='45.483714' lon='-75.527626'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='76190' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817057' visible='true' version='2' lat='45.483119' lon='-75.527342'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='112038' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817164' visible='true' version='2' lat='45.483108' lon='-75.532283'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='135895' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808923' visible='true' version='2' lat='45.483627' lon='-75.532315'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='76463' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817094' visible='true' version='2' lat='45.482446' lon='-75.531585'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='118075' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817091' visible='true' version='2' lat='45.4838' lon='-75.531837'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='91015' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816987' visible='true' version='2' lat='45.483037' lon='-75.531113'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='141309' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816993' visible='true' version='2' lat='45.483405' lon='-75.53085'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='142094' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817151' visible='true' version='2' lat='45.484101' lon='-75.531086'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='122940' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817160' visible='true' version='2' lat='45.483969' lon='-75.530673'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='115812' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='14379257111' visible='true' version='1' lat='45.4830416' lon='-75.5212793'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257113' visible='true' version='1' lat='45.4833798' lon='-75.5214635'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='14379257115' visible='true' version='1' lat='45.4837221' lon='-75.5216451'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_flames' v='1' />
+    <tag k='lamp_type' v='led' />
+  </node>
+  <node id='6791817154' visible='true' version='2' lat='45.483439' lon='-75.52268'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='83599' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817017' visible='true' version='2' lat='45.483345' lon='-75.523496'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='140730' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817140' visible='true' version='2' lat='45.483868' lon='-75.520309'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='121706' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6797129277' visible='true' version='2' lat='45.483687' lon='-75.519977'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='100943' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817162' visible='true' version='2' lat='45.483826' lon='-75.522187'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='135339' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808924' visible='true' version='2' lat='45.483868' lon='-75.521345'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='112049' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817079' visible='true' version='2' lat='45.484199' lon='-75.52084'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='97831' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808970' visible='true' version='2' lat='45.48418' lon='-75.528184'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='94503' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808910' visible='true' version='2' lat='45.484319' lon='-75.527685'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='120375' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817069' visible='true' version='2' lat='45.483702' lon='-75.52716'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='129754' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817021' visible='true' version='2' lat='45.484635' lon='-75.527133'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='86015' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808953' visible='true' version='2' lat='45.483774' lon='-75.526688'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='80149' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817130' visible='true' version='2' lat='45.484744' lon='-75.526291'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='136978' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808901' visible='true' version='2' lat='45.484985' lon='-75.52672'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='83166' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817011' visible='true' version='2' lat='45.483307' lon='-75.525663'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='73811' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817060' visible='true' version='2' lat='45.483417' lon='-75.526215'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='128895' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808963' visible='true' version='2' lat='45.484282' lon='-75.525754'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='128430' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808966' visible='true' version='2' lat='45.483785' lon='-75.525352'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='92469' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817035' visible='true' version='2' lat='45.484267' lon='-75.520567'>
+    <tag k='height' v='10' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='80374' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='metal' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808912' visible='true' version='2' lat='45.484101' lon='-75.520433'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='140384' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817092' visible='true' version='2' lat='45.484214' lon='-75.520127'>
+    <tag k='height' v='11' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='134208' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817145' visible='true' version='2' lat='45.484364' lon='-75.520363'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='100671' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817110' visible='true' version='2' lat='45.484684' lon='-75.533168'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='114757' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808907' visible='true' version='2' lat='45.48497' lon='-75.524569'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='119039' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817066' visible='true' version='2' lat='45.483947' lon='-75.524027'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='95574' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817135' visible='true' version='2' lat='45.484496' lon='-75.524209'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='121512' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808975' visible='true' version='2' lat='45.485541' lon='-75.523753'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='97528' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817126' visible='true' version='2' lat='45.483785' lon='-75.523442'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='102631' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808959' visible='true' version='2' lat='45.485056' lon='-75.52349'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='111330' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817084' visible='true' version='2' lat='45.485481' lon='-75.523324'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='101358' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817117' visible='true' version='2' lat='45.484154' lon='-75.522814'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='86891' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816995' visible='true' version='2' lat='45.484895' lon='-75.522745'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='90601' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817053' visible='true' version='2' lat='45.484282' lon='-75.521935'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96135' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817009' visible='true' version='2' lat='45.485342' lon='-75.522246'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='82042' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791816985' visible='true' version='2' lat='45.484707' lon='-75.521393'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='114005' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817103' visible='true' version='2' lat='45.485068' lon='-75.521752'>
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='93690' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817043' visible='true' version='2' lat='45.484684' lon='-75.52054'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='115787' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817090' visible='true' version='2' lat='45.484763' lon='-75.528334'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='75050' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808932' visible='true' version='2' lat='45.484519' lon='-75.532722'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='80078' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808948' visible='true' version='2' lat='45.485218' lon='-75.533425'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='109876' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817152' visible='true' version='2' lat='45.485218' lon='-75.527755'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='139181' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817138' visible='true' version='2' lat='45.485538' lon='-75.527117'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='128994' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817100' visible='true' version='2' lat='45.484842' lon='-75.531875'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='121026' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808931' visible='true' version='2' lat='45.48497' lon='-75.530866'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='93745' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817119' visible='true' version='3' lat='45.4860198' lon='-75.5301977'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='124055' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808941' visible='true' version='2' lat='45.485293' lon='-75.530035'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='108427' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817109' visible='true' version='2' lat='45.485451' lon='-75.529477'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96520' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808951' visible='true' version='2' lat='45.485914' lon='-75.52989'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96577' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808927' visible='true' version='2' lat='45.485192' lon='-75.524182'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='120588' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817028' visible='true' version='2' lat='45.485966' lon='-75.52717'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='92750' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808943' visible='true' version='2' lat='45.486124' lon='-75.521532'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='71959' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808933' visible='true' version='2' lat='45.48512' lon='-75.52099'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='76345' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817003' visible='true' version='2' lat='45.485666' lon='-75.521076'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='76645' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808942' visible='true' version='2' lat='45.484932' lon='-75.532545'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='100269' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817051' visible='true' version='3' lat='45.4853217' lon='-75.5326403'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='125778' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817161' visible='true' version='2' lat='45.485662' lon='-75.531698'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='94036' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808892' visible='true' version='2' lat='45.485752' lon='-75.530834'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='72733' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817086' visible='true' version='2' lat='45.485812' lon='-75.526291'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='95630' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808919' visible='true' version='2' lat='45.485395' lon='-75.525636'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='133921' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817074' visible='true' version='2' lat='45.485015' lon='-75.524998'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='74703' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817099' visible='true' version='2' lat='45.486094' lon='-75.528887'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='119436' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817050' visible='true' version='2' lat='45.486335' lon='-75.528511'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='134421' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808899' visible='true' version='2' lat='45.485978' lon='-75.522761'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='83912' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817112' visible='true' version='2' lat='45.486124' lon='-75.52202'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='131956' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817002' visible='true' version='2' lat='45.486087' lon='-75.529348'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='106599' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817046' visible='true' version='2' lat='45.486914' lon='-75.525057'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96277' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817146' visible='true' version='2' lat='45.486068' lon='-75.524778'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='136397' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817158' visible='true' version='2' lat='45.486553' lon='-75.524982'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='96729' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817122' visible='true' version='2' lat='45.487253' lon='-75.524386'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='142163' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808978' visible='true' version='2' lat='45.485748' lon='-75.524172'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='105636' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817041' visible='true' version='2' lat='45.48629' lon='-75.527766'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='118836' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808949' visible='true' version='2' lat='45.486704' lon='-75.52165'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='74143' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817039' visible='true' version='2' lat='45.486794' lon='-75.524134'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='141939' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808915' visible='true' version='2' lat='45.486531' lon='-75.523544'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='104168' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817056' visible='true' version='2' lat='45.487648' lon='-75.523088'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='132379' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817027' visible='true' version='2' lat='45.486805' lon='-75.523002'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='130728' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817105' visible='true' version='2' lat='45.487174' lon='-75.522745'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='75929' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808937' visible='true' version='2' lat='45.48711' lon='-75.522058'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='117275' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791808947' visible='true' version='2' lat='45.487448' lon='-75.523742'>
+    <tag k='height' v='7' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='100085' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817116' visible='true' version='2' lat='45.487591' lon='-75.522138'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='85964' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <node id='6791817007' visible='true' version='2' lat='45.487734' lon='-75.522219'>
+    <tag k='height' v='9' />
+    <tag k='highway' v='street_lamp' />
+    <tag k='lamp_mount' v='bent_mast' />
+    <tag k='lamp_ref' v='95621' />
+    <tag k='lamp_type' v='high_pressure_sodium' />
+    <tag k='light:count' v='1' />
+    <tag k='material' v='concrete' />
+    <tag k='source' v='City of Ottawa' />
+  </node>
+  <way id='76455965' action='modify' visible='true' version='12'>
+    <nd ref='6753886249' />
+    <nd ref='5131422375' />
+    <nd ref='901438722' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='632718842' action='modify' visible='true' version='12'>
+    <nd ref='5973813352' />
+    <nd ref='14369274859' />
+    <nd ref='5973813353' />
+    <nd ref='9413836091' />
+    <nd ref='8285261998' />
+    <nd ref='9413836090' />
+    <nd ref='5973813351' />
+    <nd ref='9413836089' />
+    <nd ref='8285261999' />
+    <nd ref='12142464642' />
+    <nd ref='10695944236' />
+    <nd ref='8098054674' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Famille-Côté Avenue' />
+    <tag k='name:en' v='Famille-Côté Avenue' />
+    <tag k='name:fr' v='avenue de la Famille-Côté' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455917' action='modify' visible='true' version='13'>
+    <nd ref='412656491' />
+    <nd ref='5468399286' />
+    <nd ref='6976914559' />
+    <nd ref='901396981' />
+    <nd ref='6976914558' />
+    <nd ref='901411488' />
+    <nd ref='3632921971' />
+    <nd ref='901440420' />
+    <nd ref='6538590286' />
+    <nd ref='3632921983' />
+    <nd ref='901445524' />
+    <nd ref='5468399224' />
+    <nd ref='901435135' />
+    <nd ref='6976914557' />
+    <nd ref='901396652' />
+    <nd ref='6976914556' />
+    <nd ref='901398718' />
+    <nd ref='6976914555' />
+    <nd ref='901396601' />
+    <nd ref='6976914554' />
+    <nd ref='901448167' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458711' action='modify' visible='true' version='12'>
+    <nd ref='901401405' />
+    <nd ref='13657750936' />
+    <nd ref='901412077' />
+    <nd ref='901402392' />
+    <nd ref='901412226' />
+    <nd ref='901422659' />
+    <nd ref='6977689998' />
+    <nd ref='901418768' />
+    <nd ref='6977689997' />
+    <nd ref='901406879' />
+    <nd ref='6977689996' />
+    <nd ref='901429936' />
+    <nd ref='6977689995' />
+    <nd ref='6133848286' />
+    <nd ref='5131401737' />
+    <nd ref='901448167' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Du Bois Avenue' />
+    <tag k='name:en' v='Du Bois Avenue' />
+    <tag k='name:fr' v='avenue du Bois' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='719437893' action='modify' visible='true' version='3'>
+    <nd ref='6753886252' />
+    <nd ref='6753886251' />
+    <nd ref='6753886250' />
+    <nd ref='6753886249' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='left||' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456908' action='modify' visible='true' version='15'>
+    <nd ref='901413909' />
+    <nd ref='6753886256' />
+    <nd ref='901448765' />
+    <nd ref='901410365' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes' v='|merge_to_left' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455691' action='modify' visible='true' version='10'>
+    <nd ref='901438722' />
+    <nd ref='904035382' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='separate' />
+    <tag k='sidewalk:right' v='no' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456043' action='modify' visible='true' version='13'>
+    <nd ref='901430325' />
+    <nd ref='6987523469' />
+    <nd ref='901398698' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='6.2' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='477046553' action='modify' visible='true' version='12'>
+    <nd ref='901410365' />
+    <nd ref='901428690' />
+    <nd ref='6753886255' />
+    <nd ref='901407478' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='719437892' action='modify' visible='true' version='3'>
+    <nd ref='901407478' />
+    <nd ref='6753886254' />
+    <nd ref='6753886253' />
+    <nd ref='6753886252' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457362' action='modify' visible='true' version='12'>
+    <nd ref='901407478' />
+    <nd ref='901418470' />
+    <nd ref='901403285' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk:both' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457833' action='modify' visible='true' version='20'>
+    <nd ref='901403285' />
+    <nd ref='6970683295' />
+    <nd ref='3632922024' />
+    <nd ref='6970683292' />
+    <nd ref='6970683301' />
+    <nd ref='3632922025' />
+    <nd ref='6970683298' />
+    <nd ref='6970683307' />
+    <nd ref='3632922026' />
+    <nd ref='6970683304' />
+    <nd ref='5711805853' />
+    <nd ref='901429404' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk:both' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='903114651' action='modify' visible='true' version='3'>
+    <nd ref='8388026906' />
+    <nd ref='9413836094' />
+    <nd ref='10695944258' />
+    <nd ref='8388026905' />
+    <nd ref='8388026904' />
+    <nd ref='10695944259' />
+    <nd ref='10695944260' />
+    <nd ref='8388026903' />
+    <nd ref='10695944261' />
+    <nd ref='8388026902' />
+    <nd ref='10695944262' />
+    <nd ref='8388026901' />
+    <nd ref='8388026900' />
+    <nd ref='9413836093' />
+    <nd ref='10695944263' />
+    <nd ref='8388026899' />
+    <nd ref='8388026898' />
+    <nd ref='10695944264' />
+    <nd ref='10695944254' />
+    <nd ref='8388026897' />
+    <nd ref='10695944255' />
+    <nd ref='8388026896' />
+    <nd ref='8388026895' />
+    <nd ref='10695944256' />
+    <nd ref='8388026894' />
+    <nd ref='8388026893' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='718896897' action='modify' visible='true' version='2'>
+    <nd ref='5132959274' />
+    <nd ref='6749938123' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Avignon Court' />
+    <tag k='name:en' v='Avignon Court' />
+    <tag k='name:fr' v='cour Avignon' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='54568818' action='modify' visible='true' version='3'>
+    <nd ref='687062461' />
+    <nd ref='687062466' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Yahoo' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76458099' action='modify' visible='true' version='20'>
+    <nd ref='901429404' />
+    <nd ref='5711805851' />
+    <nd ref='6970683310' />
+    <nd ref='3632922030' />
+    <nd ref='901426909' />
+    <nd ref='901426431' />
+    <nd ref='6970683315' />
+    <nd ref='3632922069' />
+    <nd ref='901408630' />
+    <nd ref='6970683318' />
+    <nd ref='3632922322' />
+    <nd ref='901434321' />
+    <nd ref='3632922422' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457784' action='modify' visible='true' version='10'>
+    <nd ref='901448167' />
+    <nd ref='6976914552' />
+    <nd ref='901444168' />
+    <nd ref='6976914553' />
+    <nd ref='3632922303' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='11.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='632718841' action='modify' visible='true' version='11'>
+    <nd ref='5973813348' />
+    <nd ref='6791808886' />
+    <nd ref='14382558440' />
+    <nd ref='14369274867' />
+    <nd ref='9102622721' />
+    <nd ref='5973813352' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='John Holden Way' />
+    <tag k='name:en' v='John Holden Way' />
+    <tag k='name:fr' v='voie John Holden' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='54568820' action='modify' visible='true' version='10'>
+    <nd ref='4423077169' />
+    <nd ref='687062469' />
+    <nd ref='687062470' />
+    <nd ref='687062450' />
+    <nd ref='3708192326' />
+    <nd ref='687062471' />
+    <nd ref='687062472' />
+    <nd ref='5132959260' />
+    <nd ref='687062473' />
+    <nd ref='687062466' />
+    <nd ref='687062460' />
+    <nd ref='5132959261' />
+    <nd ref='5297742413' />
+    <nd ref='687062474' />
+    <nd ref='1532874457' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Yahoo' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='745331776' action='modify' visible='true' version='2'>
+    <nd ref='3632922303' />
+    <nd ref='6976914549' />
+    <nd ref='901397453' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='14.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455731' action='modify' visible='true' version='13'>
+    <nd ref='6987523470' />
+    <nd ref='5973813348' />
+    <nd ref='901430325' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:both' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='10.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456389' action='modify' visible='true' version='10'>
+    <nd ref='901403285' />
+    <nd ref='5131430621' />
+    <nd ref='3708208650' />
+    <nd ref='901435427' />
+    <nd ref='901451698' />
+    <nd ref='6977680711' />
+    <nd ref='901402693' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Avignon Court' />
+    <tag k='name:en' v='Avignon Court' />
+    <tag k='name:fr' v='cour Avignon' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455947' action='modify' visible='true' version='12'>
+    <nd ref='904035382' />
+    <nd ref='901415343' />
+    <nd ref='937385927' />
+    <nd ref='937385929' />
+    <nd ref='937385928' />
+    <nd ref='937385926' />
+    <nd ref='806068512' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='separate' />
+    <tag k='sidewalk:right' v='no' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458703' action='modify' visible='true' version='14'>
+    <nd ref='901429404' />
+    <nd ref='5131426114' />
+    <nd ref='901423151' />
+    <nd ref='901445399' />
+    <nd ref='6977099585' />
+    <nd ref='901428941' />
+    <nd ref='3632923487' />
+    <nd ref='901448657' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457221' action='modify' visible='true' version='13'>
+    <nd ref='901402693' />
+    <nd ref='901412022' />
+    <nd ref='5594382675' />
+    <nd ref='6977680708' />
+    <nd ref='901438290' />
+    <nd ref='901431157' />
+    <nd ref='901448143' />
+    <nd ref='901424091' />
+    <nd ref='6977680707' />
+    <nd ref='6977680706' />
+    <nd ref='901396322' />
+    <nd ref='6977680705' />
+    <nd ref='901411800' />
+    <nd ref='5132959274' />
+    <nd ref='901449812' />
+    <nd ref='6977680704' />
+    <nd ref='901440827' />
+    <nd ref='901415645' />
+    <nd ref='6749938122' />
+    <nd ref='901406777' />
+    <nd ref='901425876' />
+    <nd ref='901448787' />
+    <nd ref='6749961777' />
+    <nd ref='901426078' />
+    <nd ref='6977680710' />
+    <nd ref='14382689626' />
+    <nd ref='901402693' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Avignon Court' />
+    <tag k='name:en' v='Avignon Court' />
+    <tag k='name:fr' v='cour Avignon' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='767737727' action='modify' visible='true' version='1'>
+    <nd ref='4677539542' />
+    <nd ref='5501654430' />
+    <nd ref='3007214336' />
+    <nd ref='4774992664' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='surface' v='asphalt' />
+    <tag k='survey:date' v='2' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='528117224' action='modify' visible='true' version='1'>
+    <nd ref='687062472' />
+    <nd ref='5132959259' />
+    <nd ref='5132959258' />
+    <nd ref='5132959257' />
+    <nd ref='5132959256' />
+    <nd ref='687062453' />
+    <tag k='highway' v='path' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='632718843' action='modify' visible='true' version='10'>
+    <nd ref='5973813350' />
+    <nd ref='6791808887' />
+    <nd ref='14382689625' />
+    <nd ref='8285262016' />
+    <nd ref='8285261997' />
+    <nd ref='5973813352' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='Famille-Côté Avenue' />
+    <tag k='name:en' v='Famille-Côté Avenue' />
+    <tag k='name:fr' v='avenue de la Famille-Côté' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458254' action='modify' visible='true' version='9'>
+    <nd ref='901397453' />
+    <nd ref='6976914550' />
+    <nd ref='901445019' />
+    <nd ref='5131422415' />
+    <nd ref='901396273' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk' v='no' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='11' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='54568815' action='modify' visible='true' version='7'>
+    <nd ref='687062450' />
+    <nd ref='687062451' />
+    <nd ref='687062452' />
+    <nd ref='687062453' />
+    <nd ref='687062454' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Yahoo' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='605759677' action='modify' visible='true' version='4'>
+    <nd ref='3632922422' />
+    <nd ref='901396273' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:forward' v='|right' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='54568816' action='modify' visible='true' version='7'>
+    <nd ref='5297742417' />
+    <nd ref='5297742418' />
+    <nd ref='5297742419' />
+    <nd ref='687062456' />
+    <nd ref='5297742416' />
+    <nd ref='5132959255' />
+    <nd ref='687062457' />
+    <nd ref='687062454' />
+    <nd ref='5132959280' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Yahoo' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76458562' action='modify' visible='true' version='13'>
+    <nd ref='901397453' />
+    <nd ref='6976914548' />
+    <nd ref='6976914547' />
+    <nd ref='412654143' />
+    <nd ref='6133848287' />
+    <nd ref='5131422417' />
+    <nd ref='412659461' />
+    <nd ref='8388026892' />
+    <nd ref='412660102' />
+    <nd ref='412660511' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='note' v='No name' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='right' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='4' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='189117049' action='modify' visible='true' version='7'>
+    <nd ref='5131546263' />
+    <nd ref='5501654018' />
+    <nd ref='5594382676' />
+    <nd ref='5501654017' />
+    <nd ref='1997648115' />
+    <nd ref='5131546264' />
+    <nd ref='1997648112' />
+    <nd ref='1997648109' />
+    <nd ref='5131546265' />
+    <nd ref='1997648102' />
+    <nd ref='5131546267' />
+    <nd ref='1997648099' />
+    <nd ref='5501654016' />
+    <nd ref='5131546266' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='528117223' action='modify' visible='true' version='1'>
+    <nd ref='5132959250' />
+    <nd ref='5132959254' />
+    <nd ref='5132959253' />
+    <nd ref='5132959252' />
+    <nd ref='5132959251' />
+    <nd ref='687062450' />
+    <tag k='highway' v='path' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='767737729' action='modify' visible='true' version='1'>
+    <nd ref='5501654429' />
+    <nd ref='5501654427' />
+    <nd ref='7168110210' />
+    <nd ref='7168110209' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='548378497' action='modify' visible='true' version='1'>
+    <nd ref='5297742416' />
+    <nd ref='5297742415' />
+    <nd ref='5297742414' />
+    <nd ref='687062469' />
+    <tag k='highway' v='path' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='767737730' action='modify' visible='true' version='1'>
+    <nd ref='4774992664' />
+    <nd ref='7168110209' />
+    <nd ref='935859822' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='surface' v='asphalt' />
+    <tag k='survey:date' v='2' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76455641' action='modify' visible='true' version='15'>
+    <nd ref='901396273' />
+    <nd ref='412660511' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='left;through|through' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='746687216' action='modify' visible='true' version='4'>
+    <nd ref='412676959' />
+    <nd ref='6987523470' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:both' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='11.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458201' action='modify' visible='true' version='16'>
+    <nd ref='412660511' />
+    <nd ref='901409857' />
+    <nd ref='5973813350' />
+    <nd ref='901424438' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='left;through|through' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457759' action='modify' visible='true' version='11'>
+    <nd ref='901448657' />
+    <nd ref='7390080003' />
+    <nd ref='7390080105' />
+    <nd ref='901428718' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456343' action='modify' visible='true' version='14'>
+    <nd ref='901448657' />
+    <nd ref='6133847077' />
+    <nd ref='901453155' />
+    <nd ref='6977099593' />
+    <nd ref='6977099595' />
+    <nd ref='6977099594' />
+    <nd ref='901428636' />
+    <nd ref='901453170' />
+    <nd ref='6977099591' />
+    <nd ref='901445774' />
+    <nd ref='6977099592' />
+    <nd ref='901396483' />
+    <nd ref='901450943' />
+    <nd ref='6977099589' />
+    <nd ref='901415914' />
+    <nd ref='6977099590' />
+    <nd ref='901447202' />
+    <nd ref='937386662' />
+    <nd ref='901445357' />
+    <nd ref='6977099588' />
+    <nd ref='5565480577' />
+    <nd ref='6977099587' />
+    <nd ref='901398258' />
+    <nd ref='901398240' />
+    <nd ref='6977099586' />
+    <nd ref='901429519' />
+    <nd ref='6133847076' />
+    <nd ref='901428718' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Château Crescent' />
+    <tag k='name:en' v='Château Crescent' />
+    <tag k='name:fr' v='croissant du Château' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458419' action='modify' visible='true' version='16'>
+    <nd ref='412676959' />
+    <nd ref='13875625150' />
+    <nd ref='5711805860' />
+    <nd ref='901407777' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:forward' v='left|through;right' />
+    <tag k='width' v='13' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458359' action='modify' visible='true' version='15'>
+    <nd ref='901424438' />
+    <nd ref='12285714156' />
+    <nd ref='6970683332' />
+    <nd ref='12285714157' />
+    <nd ref='4702372258' />
+    <nd ref='12285714158' />
+    <nd ref='901438419' />
+    <nd ref='901450069' />
+    <nd ref='412676959' />
+    <tag k='highway' v='secondary_link' />
+    <tag k='lanes' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='note' v='No name' />
+    <tag k='oneway' v='yes' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='151449572' action='modify' visible='true' version='3'>
+    <nd ref='1642721659' />
+    <nd ref='1642721651' />
+    <nd ref='1642721639' />
+    <tag k='highway' v='footway' />
+    <tag k='surface' v='grass' />
+    <tag k='winter_service' v='no' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76456445' action='modify' visible='true' version='16'>
+    <nd ref='901424438' />
+    <nd ref='5131525800' />
+    <nd ref='901407777' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:backward' v='1' />
+    <tag k='lanes:forward' v='2' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:en' v='Jeanne-d&apos;Arc Boulevard North' />
+    <tag k='name:fr' v='boulevard Jeanne-d&apos;Arc Nord' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:forward' v='left|through' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='151531010' action='modify' visible='true' version='4'>
+    <nd ref='305316335' />
+    <nd ref='904035355' />
+    <tag k='highway' v='footway' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76457571' action='modify' visible='true' version='12'>
+    <nd ref='806068512' />
+    <nd ref='5501654424' />
+    <nd ref='901443903' />
+    <nd ref='901420345' />
+    <nd ref='901449107' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk:left' v='separate' />
+    <tag k='sidewalk:right' v='no' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456137' action='modify' visible='true' version='10'>
+    <nd ref='901427881' />
+    <nd ref='6133848291' />
+    <nd ref='901449929' />
+    <nd ref='6977107683' />
+    <nd ref='901439454' />
+    <nd ref='6977107682' />
+    <nd ref='901448576' />
+    <nd ref='901444659' />
+    <nd ref='6977107681' />
+    <nd ref='4774992665' />
+    <nd ref='6977107680' />
+    <nd ref='901432573' />
+    <nd ref='6977107679' />
+    <nd ref='6977107678' />
+    <nd ref='901435262' />
+    <nd ref='901446511' />
+    <nd ref='6977107676' />
+    <nd ref='901422851' />
+    <nd ref='6977107677' />
+    <nd ref='901429783' />
+    <nd ref='901420176' />
+    <nd ref='6977107675' />
+    <nd ref='901406151' />
+    <nd ref='6977107674' />
+    <nd ref='901436776' />
+    <nd ref='901430992' />
+    <nd ref='6977107673' />
+    <nd ref='901403498' />
+    <nd ref='6977107672' />
+    <nd ref='901418559' />
+    <nd ref='6133848293' />
+    <nd ref='901414579' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Grenoble Crescent' />
+    <tag k='name:en' v='Grenoble Crescent' />
+    <tag k='name:fr' v='croissant Grenoble' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='189408964' action='modify' visible='true' version='1'>
+    <nd ref='305316313' />
+    <nd ref='305316333' />
+    <nd ref='1642721649' />
+    <nd ref='1642721659' />
+    <nd ref='305316334' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76455728' action='modify' visible='true' version='14'>
+    <nd ref='901407777' />
+    <nd ref='5131525793' />
+    <nd ref='4702366560' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='turn:lanes:backward' v='left|right' />
+    <tag k='width' v='11' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='617293003' action='modify' visible='true' version='2'>
+    <nd ref='5501654438' />
+    <nd ref='5835456114' />
+    <nd ref='5835456113' />
+    <nd ref='5835456112' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='585410970' action='modify' visible='true' version='2'>
+    <nd ref='5594382674' />
+    <nd ref='5594382673' />
+    <nd ref='5594382672' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76455645' action='modify' visible='true' version='10'>
+    <nd ref='901449107' />
+    <nd ref='6133847072' />
+    <nd ref='901450134' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Chantenay Drive' />
+    <tag k='name:en' v='Chantenay Drive' />
+    <tag k='name:fr' v='promenade Chantenay' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='767737726' action='modify' visible='true' version='1'>
+    <nd ref='1997648121' />
+    <nd ref='5131546261' />
+    <nd ref='5131546262' />
+    <nd ref='5131546263' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='527932936' action='modify' visible='true' version='2'>
+    <nd ref='5131546263' />
+    <nd ref='5131546260' />
+    <nd ref='5131546256' />
+    <nd ref='5131546259' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='189408965' action='modify' visible='true' version='2'>
+    <nd ref='305316223' />
+    <nd ref='305316312' />
+    <nd ref='305316313' />
+    <nd ref='2000332561' />
+    <nd ref='305316224' />
+    <tag k='highway' v='path' />
+    <tag k='source' v='Bing' />
+    <tag k='surface' v='fine_gravel' />
+    <tag k='width' v='2' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='767737721' action='modify' visible='true' version='1'>
+    <nd ref='5131546259' />
+    <nd ref='5131546257' />
+    <nd ref='5131546258' />
+    <nd ref='1997648121' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='189117048' action='modify' visible='true' version='5'>
+    <nd ref='1997648123' />
+    <nd ref='5131546252' />
+    <nd ref='5131546253' />
+    <nd ref='5131546254' />
+    <nd ref='5131546255' />
+    <nd ref='5131546259' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='430600199' action='modify' visible='true' version='7'>
+    <nd ref='305317092' />
+    <nd ref='901449107' />
+    <tag k='highway' v='unclassified' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Bilberry Drive' />
+    <tag k='name:en' v='Bilberry Drive' />
+    <tag k='name:fr' v='promenade Bilberry' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458325' action='modify' visible='true' version='12'>
+    <nd ref='901428718' />
+    <nd ref='901418193' />
+    <nd ref='915759012' />
+    <nd ref='6977085884' />
+    <nd ref='901431207' />
+    <nd ref='6977085883' />
+    <nd ref='901406357' />
+    <nd ref='6977085882' />
+    <nd ref='901449484' />
+    <nd ref='937386580' />
+    <nd ref='901411464' />
+    <nd ref='901400024' />
+    <nd ref='6977085881' />
+    <nd ref='901438240' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456207' action='modify' visible='true' version='11'>
+    <nd ref='901450134' />
+    <nd ref='901421050' />
+    <nd ref='6970649079' />
+    <nd ref='901425670' />
+    <nd ref='6970649077' />
+    <nd ref='901412281' />
+    <nd ref='6133847074' />
+    <nd ref='901400832' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Chantenay Drive' />
+    <tag k='name:en' v='Chantenay Drive' />
+    <tag k='name:fr' v='promenade Chantenay' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455927' action='modify' visible='true' version='10'>
+    <nd ref='901427881' />
+    <nd ref='901406852' />
+    <nd ref='901414579' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='767737725' action='modify' visible='true' version='1'>
+    <nd ref='901425341' />
+    <nd ref='5131546242' />
+    <nd ref='5131546243' />
+    <nd ref='5131546244' />
+    <nd ref='5131546245' />
+    <nd ref='5131546246' />
+    <nd ref='5131546247' />
+    <nd ref='5131546248' />
+    <nd ref='5501654433' />
+    <nd ref='5131546249' />
+    <nd ref='5131546250' />
+    <nd ref='1997648123' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='476752864' action='modify' visible='true' version='8'>
+    <nd ref='4702366560' />
+    <nd ref='901441493' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='10.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455788' action='modify' visible='true' version='11'>
+    <nd ref='901450134' />
+    <nd ref='6133847073' />
+    <nd ref='901412621' />
+    <nd ref='6970649080' />
+    <nd ref='6977680107' />
+    <nd ref='901399265' />
+    <nd ref='901437481' />
+    <nd ref='901400832' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Beauclaire Drive' />
+    <tag k='name:en' v='Beauclaire Drive' />
+    <tag k='name:fr' v='promenade Beauclaire' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457537' action='modify' visible='true' version='12'>
+    <nd ref='901427881' />
+    <nd ref='901433720' />
+    <nd ref='901426371' />
+    <nd ref='901445981' />
+    <nd ref='938410633' />
+    <nd ref='6977085876' />
+    <nd ref='901417640' />
+    <nd ref='6977085877' />
+    <nd ref='901396335' />
+    <nd ref='901415297' />
+    <nd ref='901403393' />
+    <nd ref='6977085878' />
+    <nd ref='901430608' />
+    <nd ref='6977085879' />
+    <nd ref='901409051' />
+    <nd ref='901396411' />
+    <nd ref='6977085880' />
+    <nd ref='901417389' />
+    <nd ref='901438240' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458225' action='modify' visible='true' version='10'>
+    <nd ref='901410673' />
+    <nd ref='6977680101' />
+    <nd ref='901447305' />
+    <nd ref='2855250404' />
+    <nd ref='2855250403' />
+    <nd ref='2855250407' />
+    <nd ref='901425999' />
+    <nd ref='2855250406' />
+    <nd ref='2855250402' />
+    <nd ref='2855250405' />
+    <nd ref='901402783' />
+    <nd ref='6977680100' />
+    <nd ref='901414775' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Beauclaire Drive' />
+    <tag k='name:en' v='Beauclaire Drive' />
+    <tag k='name:fr' v='promenade Beauclaire' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='7.75' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76455808' action='modify' visible='true' version='12'>
+    <nd ref='901414579' />
+    <nd ref='901405666' />
+    <nd ref='901423425' />
+    <nd ref='6977085874' />
+    <nd ref='901403858' />
+    <nd ref='6977085873' />
+    <nd ref='6133848294' />
+    <nd ref='5131525774' />
+    <nd ref='901441493' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Décarie Drive' />
+    <tag k='name:en' v='Décarie Drive' />
+    <tag k='name:fr' v='promenade Décarie' />
+    <tag k='sidewalk' v='separate' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='151449573' action='modify' visible='true' version='13'>
+    <nd ref='1642679070' />
+    <nd ref='1642721653' />
+    <tag k='bicycle' v='designated' />
+    <tag k='bridge' v='yes' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='layer' v='1' />
+    <tag k='network' v='Ski Heritage East Trail' />
+    <tag k='piste:difficulty' v='novice' />
+    <tag k='piste:grooming' v='classic;skating' />
+    <tag k='piste:name' v='Ski Heritage East 1: Champlain - Bilberry Creek Skate' />
+    <tag k='piste:type' v='nordic' />
+    <tag k='segregated' v='no' />
+    <tag k='smoothness' v='good' />
+    <tag k='surface' v='wood' />
+    <tag k='width' v='3' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='528117225' action='modify' visible='true' version='3'>
+    <nd ref='5132959265' />
+    <nd ref='5132959264' />
+    <nd ref='5132959263' />
+    <nd ref='305316229' />
+    <tag k='highway' v='path' />
+    <tag k='mapillary' v='964653214307763' />
+    <tag k='surface' v='fine_gravel' />
+    <tag k='survey:date' v='2017-04-14' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76457809' action='modify' visible='true' version='9'>
+    <nd ref='901400832' />
+    <nd ref='901399121' />
+    <nd ref='901410673' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Beauclaire Drive' />
+    <tag k='name:en' v='Beauclaire Drive' />
+    <tag k='name:fr' v='promenade Beauclaire' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456145' action='modify' visible='true' version='8'>
+    <nd ref='901410673' />
+    <nd ref='901414775' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Beauclaire Drive' />
+    <tag k='name:en' v='Beauclaire Drive' />
+    <tag k='name:fr' v='promenade Beauclaire' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456129' action='modify' visible='true' version='11'>
+    <nd ref='901414579' />
+    <nd ref='5131525762' />
+    <nd ref='6133848292' />
+    <nd ref='901447362' />
+    <nd ref='6977107671' />
+    <nd ref='901451295' />
+    <nd ref='6977107670' />
+    <nd ref='901443505' />
+    <nd ref='901446553' />
+    <nd ref='6977107669' />
+    <nd ref='901445795' />
+    <nd ref='901410980' />
+    <nd ref='901439587' />
+    <nd ref='6977107667' />
+    <nd ref='6970649075' />
+    <nd ref='6977107666' />
+    <nd ref='901449906' />
+    <nd ref='901421384' />
+    <nd ref='6977107665' />
+    <nd ref='901414891' />
+    <nd ref='901410274' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Terranova Drive' />
+    <tag k='name:en' v='Terranova Drive' />
+    <tag k='name:fr' v='promenade Terranova' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76456181' action='modify' visible='true' version='12'>
+    <nd ref='901438240' />
+    <nd ref='5131537691' />
+    <nd ref='6133847075' />
+    <nd ref='901425341' />
+    <nd ref='901416167' />
+    <nd ref='6977680104' />
+    <nd ref='901432161' />
+    <nd ref='6977680103' />
+    <nd ref='901429977' />
+    <nd ref='6977680105' />
+    <nd ref='6977680106' />
+    <nd ref='901397634' />
+    <nd ref='901414775' />
+    <tag k='cycleway:both' v='no' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Beauclaire Drive' />
+    <tag k='name:en' v='Beauclaire Drive' />
+    <tag k='name:fr' v='promenade Beauclaire' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='581735359' action='modify' visible='true' version='3'>
+    <nd ref='5565480588' />
+    <nd ref='5565480587' />
+    <nd ref='5565480586' />
+    <nd ref='5565480585' />
+    <nd ref='5565480584' />
+    <nd ref='5565480583' />
+    <nd ref='5565480582' />
+    <nd ref='5565480581' />
+    <nd ref='5565480580' />
+    <nd ref='5565480579' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='fine_gravel' />
+    <tag k='width' v='2' />
+    <tag k='winter_service' v='no' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76456883' action='modify' visible='true' version='11'>
+    <nd ref='901441493' />
+    <nd ref='6987523471' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='10' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='767737724' action='modify' visible='true' version='1'>
+    <nd ref='935873632' />
+    <nd ref='935873628' />
+    <nd ref='935873642' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76457722' action='modify' visible='true' version='9'>
+    <nd ref='901410274' />
+    <nd ref='6133848290' />
+    <nd ref='901449227' />
+    <nd ref='6977279270' />
+    <nd ref='901412054' />
+    <nd ref='6977279271' />
+    <nd ref='901402107' />
+    <nd ref='901450997' />
+    <nd ref='6977279268' />
+    <nd ref='901431377' />
+    <nd ref='6977279269' />
+    <nd ref='901415051' />
+    <nd ref='6133848289' />
+    <nd ref='901397939' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Deauville Crescent' />
+    <tag k='name:en' v='Deauville Crescent' />
+    <tag k='name:fr' v='croissant Deauville' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='1014094207' action='modify' visible='true' version='5'>
+    <nd ref='935873632' />
+    <nd ref='935873631' />
+    <nd ref='935873630' />
+    <nd ref='1997641992' />
+    <nd ref='1997641994' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='network' v='Ski Heritage East Trail' />
+    <tag k='piste:difficulty' v='novice' />
+    <tag k='piste:grooming' v='classic;skating' />
+    <tag k='piste:name' v='Ski Heritage East 1: Beauclaire Park' />
+    <tag k='piste:type' v='nordic' />
+    <tag k='surface' v='asphalt' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='746687217' action='modify' visible='true' version='3'>
+    <nd ref='6987523471' />
+    <nd ref='901420195' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='9' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='1289230115' action='modify' visible='true' version='1'>
+    <nd ref='7779697506' />
+    <nd ref='7779697505' />
+    <nd ref='7779697504' />
+    <nd ref='7779697503' />
+    <tag k='highway' v='path' />
+    <tag k='smoothness' v='bad' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='767737723' action='modify' visible='true' version='1'>
+    <nd ref='935873642' />
+    <nd ref='7168110206' />
+    <nd ref='935873629' />
+    <tag k='bicycle' v='yes' />
+    <tag k='highway' v='path' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='1289230114' action='modify' visible='true' version='1'>
+    <nd ref='7779697528' />
+    <nd ref='7779697502' />
+    <nd ref='7779697501' />
+    <nd ref='7779697500' />
+    <nd ref='7779697506' />
+    <tag k='highway' v='path' />
+    <tag k='smoothness' v='bad' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='833385554' action='modify' visible='true' version='2'>
+    <nd ref='305316228' />
+    <nd ref='7779697531' />
+    <nd ref='7779697530' />
+    <nd ref='7779697529' />
+    <nd ref='7779697528' />
+    <nd ref='7779697527' />
+    <nd ref='7779697526' />
+    <nd ref='7779697525' />
+    <nd ref='7779697524' />
+    <nd ref='7779697523' />
+    <nd ref='7779697522' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='fine_gravel' />
+    <tag k='width' v='2' />
+    <tag k='winter_service' v='no' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='76458285' action='modify' visible='true' version='8'>
+    <nd ref='901410274' />
+    <nd ref='901397939' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Terranova Drive' />
+    <tag k='name:en' v='Terranova Drive' />
+    <tag k='name:fr' v='promenade Terranova' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76457932' action='modify' visible='true' version='12'>
+    <nd ref='901420195' />
+    <nd ref='14382689624' />
+    <nd ref='901423518' />
+    <tag k='highway' v='tertiary' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Champlain Street' />
+    <tag k='name:en' v='Champlain Street' />
+    <tag k='name:fr' v='rue Champlain' />
+    <tag k='ref' v='39' />
+    <tag k='sidewalk:left' v='no' />
+    <tag k='sidewalk:right' v='separate' />
+    <tag k='source' v='CanVec 6.0 - NRCan' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='9' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='76458350' action='modify' visible='true' version='9'>
+    <nd ref='901397939' />
+    <nd ref='6133848288' />
+    <nd ref='901423518' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='maxspeed' v='40' />
+    <tag k='name' v='Terranova Drive' />
+    <tag k='name:en' v='Terranova Drive' />
+    <tag k='name:fr' v='promenade Terranova' />
+    <tag k='sidewalk' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='width' v='8.5' />
+    <tag k='lit' v='yes' />
+  </way>
+  <way id='1289230113' action='modify' visible='true' version='1'>
+    <nd ref='7779697496' />
+    <nd ref='7779697495' />
+    <nd ref='7779697494' />
+    <nd ref='7779697493' />
+    <nd ref='7779697492' />
+    <nd ref='1997641994' />
+    <tag k='highway' v='path' />
+    <tag k='smoothness' v='bad' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='833385552' action='modify' visible='true' version='2'>
+    <nd ref='7779697506' />
+    <nd ref='7779697499' />
+    <nd ref='7779697498' />
+    <nd ref='7779697497' />
+    <nd ref='7779697496' />
+    <tag k='highway' v='path' />
+    <tag k='smoothness' v='bad' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='833385553' action='modify' visible='true' version='2'>
+    <nd ref='7779697520' />
+    <nd ref='7779697507' />
+    <nd ref='7779697506' />
+    <tag k='highway' v='path' />
+    <tag k='smoothness' v='bad' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+  <way id='833385555' action='modify' visible='true' version='2'>
+    <nd ref='7779697522' />
+    <nd ref='7779697521' />
+    <nd ref='7779697520' />
+    <nd ref='7779697519' />
+    <nd ref='7779697518' />
+    <nd ref='7779697517' />
+    <nd ref='7779697516' />
+    <nd ref='7779697515' />
+    <nd ref='7779697514' />
+    <nd ref='7779697513' />
+    <nd ref='7779697512' />
+    <nd ref='7779697511' />
+    <nd ref='7779697510' />
+    <nd ref='7779697509' />
+    <nd ref='7779697508' />
+    <tag k='highway' v='path' />
+    <tag k='surface' v='mud' />
+    <tag k='width' v='1' />
+    <tag k='lit' v='no' />
+  </way>
+</osm>

@@ -101,3 +101,42 @@ Only 5 of the 121 `lit=no` tags where lamps say yes were older than the newest l
 - **Cardinal Creek Trail, [w657416029](https://osm.org/way/657416029)** (`lit-10`), yes → no: a park trail with no lamp within 30 m and nothing tagged lit nearby.
 
 The `lit=no` roads are rural and country-estate streets with a lamp only at the intersections: Cox Country Rd, Wilhaven Dr, Meadow Lane Rd, Quigley Hill Rd, Sequoia Dr, Jules-Léger Dr. Most of the pathways left alone are partly lit (356): park paths that pass a street lamp at one end.
+
+## Ward 2, Orléans West-Innes
+
+**Files** (2026-11-18 16:26 UTC): 1,308 ways in 14 files of 93–94. 1,019 get `lit=yes` and 289 get `lit=no`. No existing `lit` tag disagrees, so there's no `fixme=check lit`.
+
+| File | Ways | yes / no | Lamps | Lit things | Main streets |
+|---|---|---|---|---|---|
+| [2/lit-01.osm](2/lit-01.osm) | 93 | 58 / 35 | 151 | 0 | Jeanne-d'Arc Blvd N, Décarie Dr, Bilberry Dr |
+| [2/lit-02.osm](2/lit-02.osm) | 94 | 69 / 25 | 167 | 0 | Voyageur Dr, Ravine Way, Jeanne-d'Arc Blvd N |
+| [2/lit-03.osm](2/lit-03.osm) | 93 | 65 / 28 | 180 | 0 | Jeanne-d'Arc Blvd N, Fortune Dr, St-Jérôme Cres |
+| [2/lit-04.osm](2/lit-04.osm) | 94 | 77 / 17 | 213 | 0 | Bilberry Dr, Du Bois Ave, St. Jean St |
+| [2/lit-05.osm](2/lit-05.osm) | 94 | 65 / 29 | 173 | 0 | Vineyard Dr, Youville Dr, Bordeau Grove |
+| [2/lit-06.osm](2/lit-06.osm) | 93 | 75 / 18 | 200 | 0 | Jeanne-d'Arc Blvd S, Forest Valley Dr, Grey Nuns Dr |
+| [2/lit-07.osm](2/lit-07.osm) | 94 | 83 / 11 | 203 | 1 | Jeanne-d'Arc Blvd S, St. Joseph Blvd, Henri Lauzon St |
+| [2/lit-08.osm](2/lit-08.osm) | 93 | 73 / 20 | 236 | 0 | Sunview Dr, Des Épinettes Ave, Champneuf Dr |
+| [2/lit-09.osm](2/lit-09.osm) | 93 | 80 / 13 | 219 | 0 | Beauséjour Dr, Innes Rd, Meadowglen Dr |
+| [2/lit-10.osm](2/lit-10.osm) | 94 | 92 / 2 | 273 | 0 | Jeanne-d'Arc Blvd S, Viseneau Dr, Boyer Rd |
+| [2/lit-11.osm](2/lit-11.osm) | 93 | 84 / 9 | 278 | 0 | Innes Rd, Jeanne-d'Arc Blvd S, Tooney Dr |
+| [2/lit-12.osm](2/lit-12.osm) | 93 | 73 / 20 | 309 | 1 | Blackburn Hamlet Bypass, Innes Rd, Meadowglen Dr |
+| [2/lit-13.osm](2/lit-13.osm) | 93 | 41 / 52 | 114 | 0 | Innes Rd, Trail 61, Bearbrook Rd |
+| [2/lit-14.osm](2/lit-14.osm) | 94 | 84 / 10 | 351 | 1 | Blackburn Hamlet Bypass, Innes Rd, Bearbrook Rd |
+
+| | Roads | Pathways |
+|---|---|---|
+| New `lit=yes` | 985 | 34 |
+| New `lit=no` | 4 | 285 |
+| Already tagged the same | 201 | 37 |
+| `fixme=check lit` | 0 | 0 |
+| Left alone | 133 | 707 |
+
+**The 4 `lit=no` roads:**
+- Hart Road (2 ways), a rural lane.
+- Two 2.6 km ways of the Blackburn Hamlet Bypass, with lamps only at the intersections.
+
+**Left alone:**
+- 62 dark private roads and 7 federal (NCC) roads.
+- Pathways: mostly partly lit (415), short pieces (103 dark ones under 20 m), paths by private roads (67) and in school or similar sites (49).
+
+The `lit=no` pathways are woodland and park trails, nearly all unnamed. The named ones are the Greenbelt Pathway East (3 ways), Trails 61 and 63, and the Green's Creek bridge. `lit-13`, in the Greenbelt by Bearbrook Road, has the most (52). One that's worth a look: [w1341099506](https://osm.org/way/1341099506) (`lit-14`), 42 m around a building and into its parking lot. Lights on the building's walls aren't in the street light data.
