@@ -1,0 +1,49 @@
+node update.js 7, run 2026-11-19 18:31 UTC
+
+OSM data as of 2026-11-19T18:27:06Z from overpass-api.de: 96021 street lamps
+Sites with their own lighting (schools, campuses, malls, ...): 3285
+Lit things (pitches, rinks, ...) and parking lots: 13836
+
+=== Ward 7, Bay
+OSM data as of 2026-11-19T18:29:05Z from z.overpass-api.de
+
+  7/lit-01.osm: 185 ways (173 yes, 12 no, 2 check lit), 686 lamps, 0 lit things; Iroquois Road, Byron Park Pathway, Lenester Avenue
+  7/lit-02.osm: 186 ways (157 yes, 29 no, 3 check lit), 432 lamps, 0 lit things; Richmond Road, Britannia Road, Regina Street
+  7/lit-03.osm: 185 ways (143 yes, 42 no), 395 lamps, 0 lit things; Moodie Drive, Watts Creek Pathway, Bayshore Drive
+  7/lit-04.osm: 185 ways (136 yes, 49 no, 1 check lit), 485 lamps, 2 lit things; Dumaurier Avenue, Grenon Avenue, Richmond Road
+  7/lit-05.osm: 185 ways (85 yes, 100 no, 5 check lit), 320 lamps, 1 lit things; March Valley Road, Kanata Nordic Snowshoe Trail, Trail 12
+  7/lit-06.osm: 186 ways (141 yes, 45 no, 8 check lit), 283 lamps, 0 lit things; Moodie Drive, Corkstown Road, Holly Acres Road
+
+  path already lit=no: 150
+  path already lit=yes: 46
+  path lit=no -> yes, check lit: 4
+  path lit=yes -> no, check lit: 1
+  path new lit=no: 241
+  path new lit=yes: 112
+  path skipped: dark but under 20 m (has lit): 20
+  path skipped: dark but under 20 m: 158
+  path skipped: dark, by a parking lot (has lit): 1
+  path skipped: dark, by a parking lot: 65
+  path skipped: dark, by a private road (has lit): 5
+  path skipped: dark, by a private road: 22
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...) (has lit): 1
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...): 3
+  path skipped: dark, in a school, campus, mall or similar site (has lit): 5
+  path skipped: dark, in a school, campus, mall or similar site: 94
+  path skipped: dark, tunnel or indoor: 12
+  path skipped: lit by street lamps but under 30 m (has lit): 13
+  path skipped: lit by street lamps but under 30 m: 118
+  path skipped: partly lit (has lit): 70
+  path skipped: partly lit: 604
+  road already lit=no: 15
+  road already lit=yes: 455
+  road lit=no -> yes, check lit: 12
+  road lit=yes -> no, check lit: 2
+  road new lit=no: 33
+  road new lit=yes: 707
+  road skipped: dark, federal road (has lit): 19
+  road skipped: dark, federal road: 4
+  road skipped: dark, not in city data road: 5
+  road skipped: dark, private road: 30
+  road skipped: partly lit (has lit): 23
+  road skipped: partly lit: 79

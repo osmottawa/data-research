@@ -1,0 +1,44 @@
+node update.js 6, run 2026-11-19 17:17 UTC
+
+OSM data as of 2026-11-19T17:11:13Z from lz4.overpass-api.de: 96015 street lamps
+Sites with their own lighting (schools, campuses, malls, ...): 3285
+Lit things (pitches, rinks, ...) and parking lots: 13836
+
+=== Ward 6, Stittsville
+OSM data as of 2026-11-19T17:14:15Z from overpass-api.de
+
+  6/lit-01.osm: 179 ways (154 yes, 25 no), 652 lamps, 0 lit things; Palladium Drive, Stittsville Main Street, Derreen Avenue
+  6/lit-02.osm: 179 ways (177 yes, 2 no), 534 lamps, 1 lit things; Palladium Drive, Hazeldean Road, Huntmar Drive
+  6/lit-03.osm: 179 ways (163 yes, 16 no), 471 lamps, 0 lit things; Iber Road, Huntmar Drive, Fringewood Drive
+  6/lit-04.osm: 180 ways (159 yes, 21 no), 498 lamps, 0 lit things; Abbott Street East, Robert Grant Avenue, Bliss Crescent
+  6/lit-05.osm: 179 ways (156 yes, 23 no), 325 lamps, 0 lit things; Hazeldean Road, Stittsville Main Street, Sirocco Crescent
+  6/lit-06.osm: 179 ways (172 yes, 7 no), 580 lamps, 4 lit things; Rouncey Road, Cope Drive, Tapadero Avenue
+  6/lit-07.osm: 180 ways (154 yes, 26 no, 1 check lit), 468 lamps, 1 lit things; West Ridge Drive, Stittsville Main Street, Landswood Way
+  6/lit-08.osm: 179 ways (111 yes, 68 no, 2 check lit), 397 lamps, 0 lit things; Cope Drive, Shea Road, Trailway Circle
+  6/lit-09.osm: 179 ways (159 yes, 20 no), 536 lamps, 0 lit things; Flewellyn Road, Stittsville Main Street, Parade Drive
+
+  path already lit=no: 7
+  path already lit=yes: 14
+  path lit=no -> yes, check lit: 3
+  path new lit=no: 181
+  path new lit=yes: 102
+  path skipped: dark but under 20 m (has lit): 3
+  path skipped: dark but under 20 m: 66
+  path skipped: dark, by a parking lot: 15
+  path skipped: dark, by a private road (has lit): 1
+  path skipped: dark, by a private road: 4
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...): 2
+  path skipped: dark, in a school, campus, mall or similar site (has lit): 1
+  path skipped: dark, in a school, campus, mall or similar site: 21
+  path skipped: lit by street lamps but under 30 m (has lit): 10
+  path skipped: lit by street lamps but under 30 m: 92
+  path skipped: partly lit (has lit): 40
+  path skipped: partly lit: 498
+  road already lit=yes: 47
+  road new lit=no: 27
+  road new lit=yes: 1300
+  road skipped: dark, new (unassumed) road: 38
+  road skipped: dark, not in city data road: 2
+  road skipped: dark, private road: 36
+  road skipped: partly lit (has lit): 2
+  road skipped: partly lit: 217
