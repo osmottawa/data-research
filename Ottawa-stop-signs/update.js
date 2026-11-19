@@ -21,6 +21,8 @@
 // through road or a stop at traffic signals gets a "delete?" fixme. An all-way stop already in OSM where the city
 // has a two-way stop or yield is left alone: the city layer misses many all-way stops (Des Epinettes / Silver Bark
 // has been all-way for 10+ years, the city says STOP).
+// An intersection whose sign can't be placed (no OSM junction carries the city's names, only 2 road legs, junction
+// node already tagged) gets a loose sign node at the city's point with a "place by hand" fixme.
 // Signs on the same way, and signs of the same intersection, always go in the same file.
 //
 // No dependencies, needs Node 18+.
@@ -265,7 +267,8 @@ async function runWard(ward, chunk) {
   // ----- edits
   const edits = new Map();     // existing node id -> { tags, notes[] }
   const added = [];            // { tags, w, a, b, t, at }  new node on way w between indices a < b, t from a
-  const report = { unmatched: [], short: [], junctionSigns: [], counts: {} };
+  const manual = [];           // { tags, at, q }  loose node at the city point, to be placed by hand
+  const report = { unmatched: [], short: [], junctionSigns: [], manual: [], counts: {} };
   const count = k => { report.counts[k] = (report.counts[k] || 0) + 1; };
   let current = null, currentNodes = new Set(), currentAt = null;   // the city intersection being worked on, its OSM junction(s)
   const viewToward = (from, to) => {
@@ -297,6 +300,23 @@ async function runWard(ward, chunk) {
     added.push({ tags: { ...tags, direction: p1.step === 1 ? "backward" : "forward", fixme: note, fixme_sv: url }, w: p1.w, a: lo, t: p1.step === 1 ? t : 1 - t, at, key: current });
   }
 
+  // an intersection the script can't place: a loose sign node at the city's point, not on any way, for the
+  // reviewer to move onto the right approach. Any existing stop or yield close by is named in the fixme.
+  const KIND = { STOP: "two-way stop", "4STOP": "all-way stop", YIELD: "yield" };
+  function placeholder(c, why) {
+    const tags = { highway: c.type === "YIELD" ? "give_way" : "stop", ...(c.type === "4STOP" ? { stop: "all" } : {}) };
+    let near = null, nd = SNAP;
+    for (const node of nodes.values()) {
+      if (!/^(stop|give_way)$/.test(node.tags.highway || "")) continue;
+      const d = dist(node.q, c.q); if (d < nd) { nd = d; near = node; }
+    }
+    const place_ = cityPlace(c.p), sign = s => s === "give_way" ? "yield" : "stop";
+    const note = `place by hand, ${why}${near ? `, OSM has a ${sign(near.tags.highway)} ${Math.round(nd)} m away` : ""} (city: ${KIND[c.type]}${place_ ? `, ${place_}` : ""})`;
+    manual.push({ tags: { ...tags, fixme: note, fixme_sv: streetView({ q: c.q }) }, at: c.ll, q: c.q, key: c });
+    report.manual.push(`${c.type} ${place_ || "(no name)"}  ${c.ll[1].toFixed(5)},${c.ll[0].toFixed(5)}: ${why}${near ? `, OSM ${near.tags.highway} ${Math.round(nd)} m away` : ""}`);
+    count(`placeholder: ${why.replace(/ is highway=.*/, " taken")}`);
+  }
+
   const handled = new Set(["STOP", "YIELD", "4STOP", "TRAFFICSIG"]);   // signals only to flag stop signs there
   for (const c of city.filter(c => c.inWard && handled.has(c.type))) {
     current = c;
@@ -310,7 +330,11 @@ async function runWard(ward, chunk) {
     let complex = c.nodes.filter(({ n }) => qualifies(n)).map(({ n }) => n);
     if (!complex.length) {
       const near = c.nodes.filter(({ d }) => d < NAMELESS).sort((a, b) => a.d - b.d)[0];
-      if (!near) { report.unmatched.push(`${c.type} ${place_}  ${c.ll[1].toFixed(5)},${c.ll[0].toFixed(5)}`); count(`unmatched ${c.type}`); continue; }
+      if (!near) {
+        if (c.type === "TRAFFICSIG") { report.unmatched.push(`${c.type} ${place_}  ${c.ll[1].toFixed(5)},${c.ll[0].toFixed(5)}`); count(`unmatched ${c.type}`); }
+        else placeholder(c, "no matching OSM junction");
+        continue;
+      }
       complex = [near.n];
     }
     const set = new Set(complex);
@@ -360,7 +384,7 @@ async function runWard(ward, chunk) {
       for (const leg of approaches) for (const sg of leg.signs) onLegs.set(sg.id, sg);
       if (approaches.length && approaches.every(l => l.signs.length)) { onLegs.forEach(fixSign); count("all-way stop mapped on every approach, checked"); continue; }
       const main = complex.map(n => nodes.get(n)).sort((a, b) => dist(a.q, c.q) - dist(b.q, c.q))[0];
-      if (main.tags.highway) { report.unmatched.push(`${c.type} ${place_}: junction node ${main.id} is already highway=${main.tags.highway}`); count("all-way stop not added, junction node taken"); continue; }
+      if (main.tags.highway) { placeholder(c, `junction node is highway=${main.tags.highway}`); continue; }
       edit(main, t => { t.highway = "stop"; t.stop = "all"; }, "new all-way stop (city: all-way stop)");
       count("all-way stop added on the junction node");
       // signs on some approaches only: the junction node sign replaces them
@@ -377,6 +401,7 @@ async function runWard(ward, chunk) {
       if (onNode || everyLeg) { count("all-way stop in OSM, city says not all-way: left alone"); continue; }
     }
 
+    const fewLegs = [];
     for (const n of complex) {
       const node = nodes.get(n);
       if (/^(stop|give_way)$/.test(node.tags.highway || "")) {
@@ -386,7 +411,7 @@ async function runWard(ward, chunk) {
         continue;
       }
       const legs = describeLegs(n, set).filter(l => !(l.service && !l.name));
-      if (legs.length < 3) { report.unmatched.push(`${c.type} ${place_}: only ${legs.length} road legs at node ${n}`); count("too few legs"); continue; }
+      if (legs.length < 3) { fewLegs.push(`only ${legs.length} road legs at node ${n}`); continue; }
 
       // which legs stop
       let minor, through = null, why = "";
@@ -449,13 +474,18 @@ async function runWard(ward, chunk) {
         }
       }
     }
+    // no junction of this intersection could take the signs (the side road is often an unnamed service road)
+    if (fewLegs.length === complex.length) placeholder(c, fewLegs.length > 1 ? "too few road legs at the junction" : fewLegs[0].replace(/ at node \d+/, " at the junction"));
+    else for (const f of fewLegs) { report.unmatched.push(`${c.type} ${place_}: ${f}`); count("too few legs"); }
   }
 
   // ----- group into files: signs on the same way or at the same intersection stay together (a way can be
   // modified in one file only), then the groups are split into compact areas of at most `chunk` signs
   added.forEach((s, k) => { s.id = -(k + 1); });
+  manual.forEach((s, k) => { s.id = -(added.length + k + 1); });
   const items = [
     ...added.map(s => ({ kind: "new", s, q: xy(...s.at), keys: [`w${s.w.id}`, s.key] })),
+    ...manual.map(s => ({ kind: "manual", s, q: s.q, keys: [s.key] })),
     ...[...edits].map(([id, e]) => ({ kind: "edit", id, e, q: nodes.get(id).q, keys: [`n${id}`, ...e.keys] })),
   ];
   const modifiedWays = new Set(added.map(s => s.w.id));
@@ -505,6 +535,10 @@ async function runWard(ward, chunk) {
       (byWay.get(s.w.id) || byWay.set(s.w.id, []).get(s.w.id)).push(s);
       out.push(`  <node id='${s.id}' action='modify' visible='true' lat='${s.at[1].toFixed(7)}' lon='${s.at[0].toFixed(7)}'>`, ...tagLines(s.tags), "  </node>");
     }
+    for (const it of list) if (it.kind === "manual") {
+      const s = it.s;
+      out.push(`  <node id='${s.id}' action='modify' visible='true' lat='${s.at[1].toFixed(7)}' lon='${s.at[0].toFixed(7)}'>`, ...tagLines(s.tags), "  </node>");
+    }
     for (const it of list) if (it.kind === "edit") {
       const nd = nodes.get(it.id), fix = [nd.tags.fixme, ...it.e.notes].filter(Boolean).join("; ");
       written.add(it.id);
@@ -524,19 +558,20 @@ async function runWard(ward, chunk) {
   const dir = path.join(__dirname, String(ward));
   fs.mkdirSync(dir, { recursive: true });
   for (const f of fs.readdirSync(dir)) if (/^stop-signs.*\.osm$/.test(f)) fs.unlinkSync(path.join(dir, f));
-  console.log(`\n${added.length} new signs, ${edits.size} existing nodes changed or flagged, ${modifiedWays.size} ways get a new node`);
+  console.log(`\n${added.length} new signs, ${edits.size} existing nodes changed or flagged, ${modifiedWays.size} ways get a new node, ${manual.length} loose signs to place by hand`);
   chunks.forEach((c, i) => {
     const list = c.flatMap(g => g.list), file = `stop-signs-${String(i + 1).padStart(2, "0")}.osm`;
     fs.writeFileSync(path.join(dir, file), buildOSM(list));
     const streets = {};
-    for (const it of list) for (const k of it.kind === "new" ? [it.s.key] : it.e.keys) for (const n of (k.p.LOCATION_DESCRIPTION || "").split(/\s*[,:]\s*/).filter(Boolean)) streets[n] = (streets[n] || 0) + 1;
+    for (const it of list) for (const k of it.kind === "edit" ? it.e.keys : [it.s.key]) for (const n of (k.p.LOCATION_DESCRIPTION || "").split(/\s*[,:]\s*/).filter(Boolean)) streets[n] = (streets[n] || 0) + 1;
     console.log(`  ${ward}/${file}: ${list.length} signs; ${Object.entries(streets).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => titleCase(k)).join(", ")}`);
   });
 
   // ----- report
   console.log("");
   for (const [k, v] of Object.entries(report.counts).sort()) console.log(`  ${k}: ${v}`);
-  if (report.unmatched.length) console.log(`\nNot placed, no matching OSM junction:\n  ${report.unmatched.join("\n  ")}`);
+  if (report.manual.length) console.log(`\nIn the files as loose signs at the city's point, to place by hand:\n  ${report.manual.join("\n  ")}`);
+  if (report.unmatched.length) console.log(`\nNot in the files, no matching OSM junction:\n  ${report.unmatched.join("\n  ")}`);
   if (report.short.length) console.log(`\nNot placed, approach under ${MIN_LEG} m:\n  ${report.short.join("\n  ")}`);
   if (report.junctionSigns.length) console.log(`\nYield signs tagged on the junction node, not touched:\n  ${report.junctionSigns.join("\n  ")}`);
 }

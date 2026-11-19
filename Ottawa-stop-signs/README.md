@@ -50,8 +50,13 @@ Existing signs settle the harder cases:
 
 From ward 4 on, when OSM already has an all-way stop (a stop on the junction node, or on every approach) and the city has a two-way stop or yield, the intersection is left alone. The city layer misses many all-way stops: Des Épinettes / Silver Bark has been all-way for over 10 years and the city still has it as `STOP`.
 
+**Signs the script can't place** (from 2026-11-18, ward 9 on) go in the files as a loose node at the city's point, not on any way: `highway=stop` or `give_way` (plus `stop=all` for an all-way stop), no `direction`. Its `fixme` starts with `place by hand`, gives the reason and the city's intersection name, and names any stop or yield already in OSM within 30 m, which is often the same sign. Move the node onto the approach (JOSM: `J` joins it to a way), set `direction`, or delete it. This covers:
+- intersections with no OSM junction within 30 m that carries the city's road names (often turn lanes, private roads)
+- junctions with only 2 road legs once unnamed service roads are left out (the stop is usually on that service road)
+- all-way stops whose junction node is already tagged, e.g. a crossing
+
 Left alone, and only listed in the console:
-- intersections with no OSM junction within 30 m that carries the city's road names
+- traffic signals with no matching junction
 - approaches shorter than 8 m
 - yield signs tagged on a junction node
 
