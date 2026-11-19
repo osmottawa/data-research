@@ -210,3 +210,36 @@ The `lit=no` pathways are almost all unnamed; the only named one is Stonebridge 
 - Pathways: mostly partly lit (669), short pieces (281: 170 lit ones under 30 m, 111 dark ones under 20 m), in school or similar sites (57) and by private roads (41).
 
 The named `lit=no` pathways are Kizell Pond Trail North and South (7 ways), and woodland trails, most of them in the South March Highlands: Marathon NE and NW, Skid Row, Northwest Passage, Lumberjack, Cow Path, Stone Dust Path, Richcraft.
+
+## Ward 5, West Carleton-March
+
+**Files** (2026-11-19 16:01 UTC): 1,476 ways in 8 files of 184–185. This ward is mostly rural, so the result flips: 195 get `lit=yes` and 1,281 get `lit=no`.
+
+| File | Ways | yes / no | Lamps | Lit things | Main streets |
+|---|---|---|---|---|---|
+| [5/lit-01.osm](5/lit-01.osm) | 184 | 11 / 173 | 104 | 3 | Dunrobin Rd, Trail 1, Greenland Rd |
+| [5/lit-02.osm](5/lit-02.osm) | 184 | 11 / 173 | 66 | 0 | Torbolton Ridge Rd, Kinburn Side Rd, Stonecrest Rd |
+| [5/lit-03.osm](5/lit-03.osm) | 185 | 24 / 161 | 68 | 0 | Galetta Side Rd, Loggers Way, Upper Dwyer Hill Rd |
+| [5/lit-04.osm](5/lit-04.osm) | 185 | 15 / 170 | 128 | 0 | Thomas A. Dolan Pkwy, Dunrobin Rd, Old Second Line Rd |
+| [5/lit-05.osm](5/lit-05.osm) | 184 | 48 / 136 | 203 | 0 | Donald B. Munro Dr, Upper Dwyer Hill Rd, Old Coach Rd |
+| [5/lit-06.osm](5/lit-06.osm) | 184 | 25 / 159 | 113 | 0 | Old Carp Rd, March Rd, Crazy Horse Trail |
+| [5/lit-07.osm](5/lit-07.osm) | 185 | 38 / 147 | 183 | 0 | Richardson Side Rd, David Manchester Rd, Carp Rd |
+| [5/lit-08.osm](5/lit-08.osm) | 185 | 23 / 162 | 97 | 0 | Upper Dwyer Hill Rd, March Rd, Old Almonte Rd |
+
+| | Roads | Pathways |
+|---|---|---|
+| New `lit=yes` | 193 | 2 |
+| New `lit=no` | 902 | 373 |
+| Already tagged the same | 36 | 4 |
+| `fixme=check lit` | 6 | 0 |
+| Left alone | 410 | 146 |
+
+**`fixme=check lit`** (6), all yes → no, from two edits:
+- **Constance Bay:** Bayview Dr ([w77476919](https://osm.org/way/77476919), [w77476877](https://osm.org/way/77476877), [w77476839](https://osm.org/way/77476839)) and Lane St ([w77476976](https://osm.org/way/77476976), [w77476731](https://osm.org/way/77476731)), all in `lit-01`. Tagged `lit=yes` in 2014 together with speed limits, source "knowledge". The lamps cover 20% or less of them: 0–3 lamps along 105–959 m.
+- **Bearhill Rd, [w84605052](https://osm.org/way/84605052)** (`lit-08`): tagged `lit=yes` in 2021 from a survey. 2 lamps along 345 m. A survey is worth more than the lamp data, so look at this one first.
+
+**`lit=no` by class:** unclassified 299, residential 285, secondary 163, tertiary 151, primary 8; paths 259, footways 113.
+
+**Left alone:** 326 partly lit roads, 24 dark private roads, 24 not in the city road layer, 14 dark provincial roads, 6 new (unassumed) streets; 44 partly lit and 67 short dark paths.
+
+The named `lit=no` pathways are woodland and park trails: Crazy Horse Trail (7 ways), Causeway Trail (6), Trail 1, Chats Falls Trail, Sheila McKee Park Trail, Hidden Lake Trail, and mountain-bike trails whose names carry a difficulty symbol (North Dogsled 🟦, Fastout 🟢, Waterfall ◆◆, ...).

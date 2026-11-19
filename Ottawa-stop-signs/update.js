@@ -34,10 +34,15 @@ const path = require("path");
 // source: https://open.ottawa.ca
 const INTERSECTIONS = "https://maps.ottawa.ca/arcgis/rest/services/Intersections/MapServer/0";
 const WARDS = "https://maps.ottawa.ca/arcgis/rest/services/Wards/MapServer/0";
+// overpass-api.de (and its two servers by name) is the only public instance with current data: on 2026-11-19
+// private.coffee was 4 months behind, kumi.systems and openstreetmap.ru timed out, openstreetmap.fr is
+// whitelist-only. When busy it answers 502/504 "at capacity" and asks for retries with growing waits.
 const OVERPASS = [
   "https://overpass-api.de/api/interpreter",
-  "https://overpass.private.coffee/api/interpreter",
+  "https://z.overpass-api.de/api/interpreter",
+  "https://lz4.overpass-api.de/api/interpreter",
 ];
+const OVERPASS_TRIES = 8; // waits 15, 30, 60, then 120 s between tries: about 10 minutes in all
 const MAX_OSM_AGE = 48; // hours; some Overpass mirrors lag months behind, their data is refused
 const UA = "BikeOttawa-data-research/1.0";
 
@@ -82,9 +87,17 @@ async function cityQuery(layer, params) {
 
 async function overpass(bbox) {
   const data = `[out:json][timeout:300];way["highway"~"^(${ROADS})$"](${bbox.join(",")});(._;>;);out meta;`;
-  for (const url of OVERPASS) {
+  for (let attempt = 0; attempt < OVERPASS_TRIES; attempt++) {
+    const url = OVERPASS[attempt % OVERPASS.length];
+    if (attempt) {
+      const wait = Math.min(15 * 2 ** (attempt - 1), 120);
+      console.log(`  retrying in ${wait} s`);
+      await new Promise(r => setTimeout(r, wait * 1000));
+    }
     try {
-      const osm = await get(url, { method: "POST", body: new URLSearchParams({ data }) });
+      const res = await fetch(url, { method: "POST", body: new URLSearchParams({ data }), headers: { "User-Agent": UA }, signal: AbortSignal.timeout(600000) });
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      const osm = await res.json();
       if (osm.remark) throw new Error(osm.remark);
       const age = (Date.now() - Date.parse(osm.osm3s?.timestamp_osm_base)) / 3600000;
       if (!(age < MAX_OSM_AGE)) throw new Error(`its data is as of ${osm.osm3s?.timestamp_osm_base}, too old`);
