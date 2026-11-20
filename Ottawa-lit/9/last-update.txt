@@ -1,0 +1,47 @@
+node update.js 9, run 2026-11-20 03:42 UTC
+
+OSM data as of 2026-11-20T03:37:59Z from lz4.overpass-api.de: 96047 street lamps
+Sites with their own lighting (schools, campuses, malls, ...): 3285
+Lit things (pitches, rinks, ...) and parking lots: 13836
+
+=== Ward 9, Knoxdale-Merivale
+OSM data as of 2026-11-20T03:40:03Z from overpass-api.de
+
+  9/lit-01.osm: 191 ways (143 yes, 48 no, 2 check lit), 337 lamps, 2 lit things; Meadowlands Drive East, Chesterton Drive, Wigan Drive
+  9/lit-02.osm: 191 ways (141 yes, 50 no), 231 lamps, 0 lit things; Banner Road, Woodfield Drive, Knoxdale Road
+  9/lit-03.osm: 191 ways (171 yes, 20 no, 1 check lit), 350 lamps, 0 lit things; West Hunt Club Road, Merivale Road, Prince Of Wales Drive
+  9/lit-04.osm: 191 ways (78 yes, 113 no, 1 check lit), 145 lamps, 1 lit things; Cedarview Road, McClellan Road, Greenbank Road
+  9/lit-05.osm: 192 ways (143 yes, 49 no), 379 lamps, 0 lit things; Greenbank Road, Fallowfield Road, Knoxdale Road
+  9/lit-06.osm: 191 ways (123 yes, 68 no, 2 check lit), 253 lamps, 1 lit things; Merivale Road, Prince Of Wales Drive, Cleopatra Drive
+
+  (info) paths with lamps over or under them left out: 4
+  (info) roads with lamps over or under them left out: 2
+  path already lit=no: 129
+  path already lit=yes: 20
+  path lit=no -> yes, check lit: 2
+  path lit=yes -> no, check lit: 1
+  path new lit=no: 215
+  path new lit=yes: 65
+  path skipped: dark but under 20 m (has lit): 14
+  path skipped: dark but under 20 m: 235
+  path skipped: dark, by a parking lot (has lit): 2
+  path skipped: dark, by a parking lot: 83
+  path skipped: dark, by a private road (has lit): 13
+  path skipped: dark, by a private road: 65
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...) (has lit): 1
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...): 2
+  path skipped: dark, in a school, campus, mall or similar site: 37
+  path skipped: lit by street lamps but under 30 m (has lit): 2
+  path skipped: lit by street lamps but under 30 m: 84
+  path skipped: partly lit (has lit): 29
+  path skipped: partly lit: 469
+  road already lit=no: 2
+  road already lit=yes: 391
+  road lit=yes -> no, check lit: 3
+  road new lit=no: 129
+  road new lit=yes: 732
+  road skipped: dark, not in city data road (has lit): 1
+  road skipped: dark, not in city data road: 6
+  road skipped: dark, private road: 23
+  road skipped: partly lit (has lit): 12
+  road skipped: partly lit: 273
