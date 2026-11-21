@@ -6,6 +6,7 @@ It writes `<ward>/lit-01.osm`, `-02.osm`, and so on:
 - At most 200 ways per file (`--chunk <n>` changes this). Each file is one compact area, numbered roughly north to south.
 - A way belongs to the ward its midpoint is in, so every way is in exactly one file.
 - A rerun reads fresh OSM, so anything already uploaded is skipped, and the old files are replaced.
+- Each run saves the ward boundaries and the city-wide OSM data (street lamps, sites with their own lighting, lit things, parking lots) to `city-wide.json`, which isn't committed. Downloading that data is the slow part. `node update.js --from city-wide.json <ward>` reuses the saved copy and downloads only the ward's roads and paths. The report gives the saved data's age.
 - The `.osm` files aren't committed (see `.gitignore`). Instead each ward folder gets `last-update.txt`, the run's console report: the command, OSM data date and server, the files and the counts. Rebuild a ward's files with `node update.js <ward>`.
 - Each file also holds, unchanged, the street lamps the decisions looked at (within 30 m of a way in the file), and the things tagged `lit` (pitches, rinks, parking lots) checked for its `lit=no` paths. They're there to check the result against. Unchanged objects don't upload; search `modified` to select only the changed ways.
 

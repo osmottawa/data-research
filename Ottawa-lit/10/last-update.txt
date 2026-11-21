@@ -1,0 +1,48 @@
+node update.js 10, run 2026-11-21 03:37 UTC
+
+OSM data as of 2026-11-21T03:33:21Z from z.overpass-api.de: 96047 street lamps
+Sites with their own lighting (schools, campuses, malls, ...): 3285
+Lit things (pitches, rinks, ...) and parking lots: 13836
+
+=== Ward 10, Gloucester-Southgate
+OSM data as of 2026-11-21T03:35:21Z from overpass-api.de
+
+  10/lit-01.osm: 187 ways (119 yes, 68 no), 288 lamps, 0 lit things; Ramsayville Road, Russell Road, 50
+  10/lit-02.osm: 187 ways (174 yes, 13 no), 519 lamps, 1 lit things; Johnston Road, Lorry Greenberg Drive, Tapiola Crescent
+  10/lit-03.osm: 188 ways (170 yes, 18 no), 608 lamps, 0 lit things; Conroy Road, Swansea Crescent, Blohm Drive
+  10/lit-04.osm: 188 ways (147 yes, 41 no), 426 lamps, 0 lit things; Hunt Club Road, Bank Street, Sable Ridge Drive
+  10/lit-05.osm: 187 ways (143 yes, 44 no), 358 lamps, 1 lit things; Hunt Club Road, Uplands Drive, Daze Street
+  10/lit-06.osm: 188 ways (141 yes, 47 no), 326 lamps, 1 lit things; Lester Road, Bank Street, Albion Road
+  10/lit-07.osm: 187 ways (141 yes, 46 no, 1 check lit), 482 lamps, 5 lit things; Conroy Road, Rosebella Avenue, Kingsdale Avenue
+  10/lit-08.osm: 188 ways (171 yes, 17 no, 11 check lit), 460 lamps, 1 lit things; Limebank Road, Breadner Boulevard, Airport Parkway Private
+
+  (info) paths with lamps over or under them left out: 7
+  (info) roads with lamps over or under them left out: 18
+  indoor path new lit=yes: 4
+  path already lit=no: 97
+  path already lit=yes: 79
+  path new lit=no: 249
+  path new lit=yes: 94
+  path skipped: dark but under 20 m (has lit): 2
+  path skipped: dark but under 20 m: 129
+  path skipped: dark, by a parking lot: 80
+  path skipped: dark, by a private road (has lit): 1
+  path skipped: dark, by a private road: 173
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...): 3
+  path skipped: dark, in a school, campus, mall or similar site (has lit): 1
+  path skipped: dark, in a school, campus, mall or similar site: 49
+  path skipped: dark, tunnel or covered: 1
+  path skipped: lit by street lamps but under 30 m (has lit): 9
+  path skipped: lit by street lamps but under 30 m: 85
+  path skipped: partly lit (has lit): 40
+  path skipped: partly lit: 564
+  road already lit=no: 8
+  road already lit=yes: 355
+  road lit=no -> yes, check lit: 11
+  road lit=yes -> no, check lit: 1
+  road new lit=no: 44
+  road new lit=yes: 1097
+  road skipped: dark, not in city data road: 5
+  road skipped: dark, private road: 145
+  road skipped: partly lit (has lit): 8
+  road skipped: partly lit: 91

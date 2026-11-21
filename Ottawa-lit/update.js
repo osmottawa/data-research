@@ -2,8 +2,12 @@
 // OSM (all ~80k city lights are in, plus ~15k more), written to <ward>/lit-NN.osm, files of at most CHUNK ways, one
 // compact area each, numbered north to south, for review and upload in JOSM.
 //
-//   node update.js [--chunk <n>] <ward number> [<ward number> ...]
-//   node update.js [--chunk <n>] all
+//   node update.js [--chunk <n>] [--from <file>] <ward number> [<ward number> ...]
+//   node update.js [--chunk <n>] [--from <file>] all
+//
+// The city-wide data (ward boundaries; OSM street lamps, sites with their own lighting, lit things and parking
+// lots) is the slow part of a run. Each download is saved to city-wide.json (in .gitignore); --from city-wide.json
+// reuses it instead of downloading it again. The ward's roads and paths are always downloaded fresh.
 //
 // Ways: trunk ... residential, living_street, busway (and links); cycleway, footway, path, pedestrian, bridleway,
 // corridor.
@@ -58,6 +62,7 @@ const UA = "BikeOttawa-data-research/1.0";
 const CITY_BBOX = [44.95, -76.36, 45.54, -75.24]; // s, w, n, e
 const CHUNK = 200;
 const FIXME = "check lit";
+const CITY_FILE = path.join(__dirname, "city-wide.json"); // the last city-wide download, for --from
 
 const ROAD = /^(trunk|primary|secondary|tertiary|unclassified|residential|living_street|busway)(_link)?$/; // no motorways
 const PATH = /^(cycleway|footway|path|pedestrian|bridleway|corridor)$/;
@@ -265,14 +270,38 @@ function rings(e) {
 const isYes = v => v !== "no" && v !== "disused";
 const layerOf = t => { const v = parseFloat(String(t.layer ?? 0).split(";")[0]); return Number.isFinite(v) ? v : 0; };
 
-async function cityWide() {
+// a file saved by an earlier run, for --from
+function readSaved(from) {
+  const data = JSON.parse(fs.readFileSync(from, "utf8"));
+  if (!data.wards || !data.lamps?.elements || !data.sites?.elements || !data.lit?.elements) throw new Error(`${from} isn't a city-wide file saved by update.js`);
+  const age = (Date.now() - Date.parse(data.lamps.osm3s.timestamp_osm_base)) / 3600000;
+  log(`Wards and city-wide OSM data read from ${path.basename(from)}, ${age < 48 ? `${Math.round(age)} hours` : `${Math.round(age / 24)} days`} old`);
+  return data;
+}
+
+// the city-wide OSM data, downloaded and saved with the ward boundaries to CITY_FILE, unless read with --from
+async function cityData(saved, wards) {
+  if (saved) return saved;
   const bbox = CITY_BBOX.join(",");
-  const lampsOsm = await overpass(`[out:json][timeout:600];node["highway"="street_lamp"](${bbox});out meta;`);
+  const data = {
+    wards,
+    lamps: await overpass(`[out:json][timeout:600];node["highway"="street_lamp"](${bbox});out meta;`),
+    sites: await overpass(`[out:json][timeout:600][bbox:${bbox}];(${SITES.join(";")};);out geom;`),
+    // things OSM already says are lit (pitches, rinks, parking lots, shelters, ...), and surface parking lots
+    lit: await overpass(`[out:json][timeout:600][bbox:${bbox}];(nwr["lit"]["lit"!="no"][!"highway"];nwr["amenity"="parking"]["parking"!~"underground|multi-storey|rooftop"];);out geom;`),
+  };
+  fs.writeFileSync(`${CITY_FILE}.tmp`, JSON.stringify(data));
+  fs.renameSync(`${CITY_FILE}.tmp`, CITY_FILE);
+  console.log(`Wards and city-wide OSM data saved to ${path.basename(CITY_FILE)}, rerun with --from ${path.relative(process.cwd(), CITY_FILE)} to reuse them`);
+  return data;
+}
+
+async function cityWide(saved, wards) {
+  const { lamps: lampsOsm, sites: sitesOsm, lit: litOsm } = await cityData(saved, wards);
   log(`OSM data as of ${lampsOsm.osm3s.timestamp_osm_base} from ${lampsOsm.host}: ${lampsOsm.elements.length} street lamps`);
   const lamps = grid(50);
   for (const e of lampsOsm.elements) { const q = xy(e.lon, e.lat); lamps.add(q, { ...e, tags: e.tags || {}, q }); }
 
-  const sitesOsm = await overpass(`[out:json][timeout:600][bbox:${bbox}];(${SITES.join(";")};);out geom;`);
   const sites = grid(500);
   let n = 0;
   for (const e of sitesOsm.elements) for (const ring of rings(e)) {
@@ -285,8 +314,6 @@ async function cityWide() {
   log(`Sites with their own lighting (schools, campuses, malls, ...): ${n}`);
   const inSite = q => sites.near(q, 0).some(s => q[0] >= s.bb[0] && q[0] <= s.bb[2] && q[1] >= s.bb[1] && q[1] <= s.bb[3] && ringHas(s.ring, q));
 
-  // things OSM already says are lit (pitches, rinks, parking lots, shelters, ...), and surface parking lots
-  const litOsm = await overpass(`[out:json][timeout:600][bbox:${bbox}];(nwr["lit"]["lit"!="no"][!"highway"];nwr["amenity"="parking"]["parking"!~"underground|multi-storey|rooftop"];);out geom;`);
   const litThings = areaIndex(), parkingLots = areaIndex();
   for (const e of litOsm.elements) {
     if (e.tags?.lit && e.tags.lit !== "no") litThings.add(e);
@@ -519,13 +546,17 @@ async function runWard(wardFeature, chunk, city) {
 async function main() {
   const args = process.argv.slice(2), i = args.indexOf("--chunk");
   const chunk = i >= 0 ? Number(args.splice(i, 2)[1]) : CHUNK;
-  if (!args.length || !(chunk > 0) || !(args.length === 1 && args[0] === "all" || args.every(w => /^\d+$/.test(w)))) {
-    console.error("usage: node update.js [--chunk <n>] <ward number> [<ward number> ...] | all");
+  const j = args.indexOf("--from"), from = j >= 0 ? args.splice(j, 2)[1] : undefined;
+  if (!args.length || !(chunk > 0) || (j >= 0 && !from) || !(args.length === 1 && args[0] === "all" || args.every(w => /^\d+$/.test(w)))) {
+    console.error("usage: node update.js [--chunk <n>] [--from <file>] <ward number> [<ward number> ...] | all");
     process.exit(2);
   }
-  const wards = (await cityQuery(WARDS, { where: "1=1" })).sort((a, b) => a.properties.WARD_NUM - b.properties.WARD_NUM);
+  if (from && !fs.existsSync(from)) { console.error(`${from} not found; run once without --from to save ${path.basename(CITY_FILE)}`); process.exit(2); }
+  const saved = from ? readSaved(from) : null;
+  const wardLayer = saved ? saved.wards : await cityQuery(WARDS, { where: "1=1" });
+  const wards = [...wardLayer].sort((a, b) => a.properties.WARD_NUM - b.properties.WARD_NUM);
   const wanted = args[0] === "all" ? wards : args.map(n => wards.find(f => f.properties.WARD_NUM === n) || (() => { throw new Error(`No ward ${n} in the city's Wards layer`); })());
-  const city = await cityWide();
+  const city = await cityWide(saved, wardLayer);
   city.log = printed.slice();   // the city-wide lines, at the top of every ward's last-update.txt
   const results = [], failed = [];
   for (const f of wanted) {
