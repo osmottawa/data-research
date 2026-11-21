@@ -1,0 +1,46 @@
+node update.js --from city-wide.json 12, run 2026-11-21 17:59 UTC
+
+Wards and city-wide OSM data read from city-wide.json, 2 hours old
+OSM data as of 2026-11-21T15:33:07Z from overpass-api.de: 96047 street lamps
+Sites with their own lighting (schools, campuses, malls, ...): 3285
+Lit things (pitches, rinks, ...) and parking lots: 13836
+
+=== Ward 12, Rideau-Vanier
+OSM data as of 2026-11-21T17:56:47Z from overpass-api.de
+
+  12/lit-01.osm: 172 ways (168 yes, 4 no, 4 check lit), 1037 lamps, 0 lit things; Sussex Drive, King Edward Avenue, Boteler Street
+  12/lit-02.osm: 171 ways (170 yes, 1 no), 800 lamps, 0 lit things; York Street, Beausoleil Drive, Stewart Street
+  12/lit-03.osm: 172 ways (159 yes, 13 no), 702 lamps, 0 lit things; Wurtemburg Street, Jolliet Avenue, Lavergne Street
+  12/lit-04.osm: 171 ways (135 yes, 36 no), 557 lamps, 1 lit things; Dunbarton Court, Lévis Avenue, Montfort Street
+  12/lit-05.osm: 171 ways (171 yes, 0 no), 553 lamps, 0 lit things; Nicholas Street, Colonel By Drive, Laurier Avenue East
+  12/lit-06.osm: 171 ways (160 yes, 11 no, 6 check lit), 734 lamps, 0 lit things; Chapel Street, Lees Avenue, Daly Avenue
+
+  (info) indoor paths with lamps over or under them left out: 5
+  (info) paths with lamps over or under them left out: 34
+  (info) roads with lamps over or under them left out: 19
+  indoor path new lit=yes: 6
+  path already lit=no: 3
+  path already lit=yes: 129
+  path lit=no -> yes, check lit: 4
+  path lit=yes -> no, check lit: 4
+  path new lit=no: 59
+  path new lit=yes: 241
+  path skipped: dark but under 20 m (has lit): 3
+  path skipped: dark but under 20 m: 69
+  path skipped: dark, by a parking lot (has lit): 1
+  path skipped: dark, by a parking lot: 16
+  path skipped: dark, by a private road (has lit): 3
+  path skipped: dark, by a private road: 23
+  path skipped: dark, by something tagged lit (pitch, rink, parking, ...): 3
+  path skipped: dark, in a school, campus, mall or similar site: 28
+  path skipped: dark, tunnel or covered (has lit): 1
+  path skipped: dark, tunnel or covered: 2
+  path skipped: lit by street lamps but under 30 m (has lit): 45
+  path skipped: lit by street lamps but under 30 m: 194
+  path skipped: partly lit (has lit): 81
+  path skipped: partly lit: 365
+  road already lit=yes: 257
+  road lit=yes -> no, check lit: 2
+  road new lit=yes: 712
+  road skipped: dark, private road: 7
+  road skipped: partly lit: 13
