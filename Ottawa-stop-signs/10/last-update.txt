@@ -1,0 +1,61 @@
+node update.js 10, run 2026-11-25 04:03 UTC
+
+=== Ward 10
+Gloucester-Southgate
+City intersections in the ward: 740 (STOP 305, UNKNOWN 243, TRAFFICSIG 64, YIELD 62, 4STOP 51, PXO4 6, null 3, RAILWAY 3, PXO3 2, PXO11 1)
+OSM data as of 2026-11-25T04:02:20Z from z.overpass-api.de
+OSM: 15795 road ways, 67007 nodes
+
+95 new signs, 26 existing nodes changed or flagged, 88 ways get a new node, 18 loose signs to place by hand
+  10/stop-signs-01.osm: 48 signs; Horsdal Priv, Blohm Dr, Olympic Way
+  10/stop-signs-02.osm: 45 signs; Alderwood St, Autumnwood St, Wyldewood St
+  10/stop-signs-03.osm: 46 signs; Turn Lane, Hunt Club Rd, Mcgill Priv
+
+  added give_way: 27
+  added stop: 69
+  all-way stop added on the junction node: 7
+  all-way stop in OSM, city says not all-way: left alone: 6
+  all-way stop mapped on every approach, checked: 19
+  all-way stop on the junction node, checked: 24
+  approach sign replaced by the junction node sign: flagged: 11
+  placeholder: no matching OSM junction: 13
+  placeholder: only 2 road legs at the junction: 5
+  retagged give_way -> stop: 4
+  retagged stop -> give_way: 2
+  sign on the through road flagged: 1
+  skipped: approach too short: 1
+  stop at signals flagged: 1
+  unmatched TRAFFICSIG: 8
+
+In the files as loose signs at the city's point, to place by hand:
+  STOP Heartleaf Priv / Lorry Greenberg Dr  45.36076,-75.63221: no matching OSM junction, OSM stop 27 m away
+  YIELD Conroy Rd Extension / Conroy Rd  45.33695,-75.60298: no matching OSM junction
+  STOP Alouette Priv / Leckie Priv  45.32720,-75.67236: no matching OSM junction
+  4STOP Ewing St / Johnston Rd  45.37435,-75.62111: no matching OSM junction, OSM stop 1 m away
+  STOP Alderwood St / Mcmahon Ave  45.34397,-75.64004: no matching OSM junction
+  STOP D'Aoust Ave / St. Bernard St  45.34943,-75.63091: only 2 road legs at the junction
+  STOP Treadwell Rd / Treadwell Rd  45.37536,-75.54594: no matching OSM junction
+  STOP Paul Benoit Drwy / Slemon St  45.32737,-75.66942: only 2 road legs at the junction
+  YIELD Hunt Club Rd / Turn Lane  45.35309,-75.64784: no matching OSM junction
+  YIELD Hunt Club Rd / Turn Lane  45.35427,-75.64703: no matching OSM junction
+  YIELD Hunt Club Rd / Turn Lane  45.35317,-75.64799: no matching OSM junction
+  YIELD Riverside Dr / Riverside Dr / Turn Lane  45.33362,-75.69323: no matching OSM junction
+  STOP Hunt Club Rd / Hunt Club Rd / Hunt Club Rd  45.35660,-75.63931: only 2 road legs at the junction
+  STOP Clear Skies Priv / Leckie Priv  45.32654,-75.67305: only 2 road legs at the junction, OSM stop 9 m away
+  YIELD Riverside Dr / Riverside Dr / Turn Lane  45.33371,-75.69305: only 2 road legs at the junction
+  STOP Dean Martin Cres / Paul Anka Dr  45.34191,-75.66995: no matching OSM junction
+  YIELD Hunt Club Rd / Turn Lane  45.35584,-75.64297: no matching OSM junction
+  YIELD Hunt Club Rd / Turn Lane  45.33426,-75.69446: no matching OSM junction
+
+Not in the files, no matching OSM junction:
+  TRAFFICSIG Conroy Rd / 210 N Of Huntclub Rd  45.36692,-75.62068
+  TRAFFICSIG Bank St / Ncc Bike Pathway / 680 N Of Conroy Rd  45.33931,-75.61147
+  TRAFFICSIG 65 W Of Allanford Ave / Johnston Rd  45.36945,-75.62904
+  TRAFFICSIG Albion Rd / 118 S Of Brenda Cr  45.36058,-75.64674
+  TRAFFICSIG Lorry Greenberg Dr / Greenboro Community Centre/75 N Of Lorry Greenberg  45.36289,-75.63463
+  TRAFFICSIG Hawthorne Rd / Hunt Club Rd  45.37404,-75.59725
+  TRAFFICSIG Hunt Club Rd / 275m E Of Hawthorne Rd  45.37521,-75.59450
+  TRAFFICSIG Lester Rd / 900m W Of Albion Rd  45.33398,-75.64366
+
+Not placed, approach under 8 m:
+  two-way stop Bluenose Private at Taxiway Private (4 m)
