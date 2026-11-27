@@ -1,21 +1,23 @@
 // Adds Fotoshi photos to the OSM objects they show, in Ottawa and Gatineau, as image:fotoshi tags. Writes
-// fotoshi-<today>-01.osm, -02.osm, ... to review and upload from JOSM, at most 50 objects each, one compact area
-// each, numbered north to south. They hold:
+// fotoshi-<user>-<today>-01.osm, -02.osm, ... (<user> is "all" without --user) to review and upload from JOSM, at
+// most 50 objects each, one compact area each, numbered north to south. They hold:
 //
 //   - each OSM object Fotoshi links new photos to that has no image:fotoshi yet, with the tag added: ready to upload
 //   - each photographed object Fotoshi has no OSM object for (or one deleted since, or without tags): a new node
 //     at Fotoshi's point with fixme=find an object and the tag, to move onto the right object before uploading
 //
-//   node update.js [--user <name>] [--from <snapshot>] [--again] [--chunk <n>]
+//   node update.js [--user <name>] [--from <snapshot>] [--all] [--again] [--chunk <n>]
 //
 //   --user   only this contributor's photos (FOTOSHI_USER in .env does the same)
 //   --from   the objects an earlier run saved (fotoshi-<date>.json), instead of asking Fotoshi again
-//   --again  also the photos processed.json has as done
+//   --all    all photographed objects, not only those photographed since the last fetch
+//   --again  also the photos processed.json has as done (asks for all objects too)
 //   --chunk  objects per file at most (50)
 //
 // The API key is FOTOSHI_API_KEY in .env next to this script. processed.json lists every photo looked at and
-// what became of it, so a rerun writes only new ones. A free key allows 1,000 photos and objects a day: a run
-// that runs out writes what it has and keeps its place in processed.json, and the next run goes on from there.
+// what became of it, so a rerun writes only new ones, and when each user's last fetch started, so a rerun asks
+// Fotoshi only for objects photographed since that day. A free key allows 1,000 photos and objects a day: a run that runs
+// out writes what it has and keeps its place in processed.json, and the next run goes on from there.
 // No dependencies, needs Node 18+.
 
 "use strict";
@@ -101,9 +103,10 @@ function readFeature(f) {
   };
 }
 
-// The photographed objects in the area, each with all its photos. Starts at `start`, the page a run that ran out
-// of allowance stopped at; returns where this one stopped, or null when it got through.
-async function fetchFeatures(key, user, start) {
+// The photographed objects in the area, each with all its photos; only those whose latest photo, anyone's, is
+// from `since` (YYYY-MM-DD, UTC) on, if given. Starts at `start`, the page a run that ran out of allowance stopped
+// at; returns where this one stopped, or null when it got through.
+async function fetchFeatures(key, user, start, since) {
   const params = new URLSearchParams({
     bbox: [BBOX.west, BBOX.south, BBOX.east, BBOX.north].join(","),
     limit: 100,
@@ -111,6 +114,7 @@ async function fetchFeatures(key, user, start) {
     photo_size: "none",
   });
   if (user) params.set("username", user);
+  if (since) params.set("min_updated_at", `${since}T00:00:00Z`);
   let url = start || `${FOTOSHI}/features?${params}`;
   const features = [];
   try {
@@ -222,7 +226,7 @@ function buildOSM(tagged, find, objects) {
 
 // --- run -------------------------------------------------------------------------------------------------
 
-// a file name not taken yet: fotoshi-<today>.osm, then fotoshi-<today>-2.osm, ...
+// a file name not taken yet: fotoshi-<user>-<today>.json, then fotoshi-<user>-<today>-2.json, ...
 function freeName(base, ext) {
   for (let n = 1; ; n++) {
     const name = `${base}${n > 1 ? `-${n}` : ""}${ext}`;
@@ -234,11 +238,21 @@ function freeName(base, ext) {
 function saveProcessed(state) {
   const ids = Object.keys(state.photos).sort();
   const lines = ids.map((id, i) => `    ${JSON.stringify(id)}: ${JSON.stringify(state.photos[id])}${i < ids.length - 1 ? "," : ""}`);
-  const text = ["{", `  "resume": ${JSON.stringify(state.resume)},`, `  "photos": {`, ...lines, "  }", "}", ""].join("\n");
+  const text = ["{", `  "fetched": ${JSON.stringify(state.fetched)},`, `  "resume": ${JSON.stringify(state.resume)},`, `  "photos": {`, ...lines, "  }", "}", ""].join("\n");
   fs.writeFileSync(local(PROCESSED), text);
 }
 
 let saved = null; // this run's snapshot, for the hint when OSM fails
+
+// The UTC day to ask Fotoshi from: the day this user's last complete fetch started, or, with none recorded, the
+// newest date of a photo put in one of this user's files (Ottawa's date, never later than UTC's). Fotoshi dates
+// objects by UTC day, so that whole day comes back again. null asks for all objects.
+function sinceDay(state, who) {
+  if (state.fetched[who]) return state.fetched[who].slice(0, 10);
+  const dates = Object.values(state.photos).map(String).filter(text => text.includes(`(fotoshi-${who}-`))
+    .map(text => text.match(/^(\d{4}-\d{2}-\d{2}):/)?.[1]).filter(Boolean);
+  return dates.length ? dates.sort().at(-1) : null;
+}
 
 // Where an object is, for grouping: Fotoshi's point, or the node, or the middle of the way's nodes.
 function where(t, objects) {
@@ -270,11 +284,14 @@ async function main() {
   const arg = name => args.includes(name) ? args[args.indexOf(name) + 1] : undefined;
   const env = readEnv(local(".env"));
   const user = arg("--user") || env.FOTOSHI_USER || null;
+  // whose run this is, in file names and processed.json; a snapshot's own, with --from
+  const fromWho = arg("--from") && path.basename(arg("--from")).match(/^fotoshi-(.+)-\d{4}-\d{2}-\d{2}(?:-\d+)?\.json$/)?.[1];
+  const who = fromWho || (user ? user.replace(/[^\w.-]/g, "_") : "all");
   const chunk = Number(arg("--chunk")) || CHUNK;
   const today = new Date().toLocaleDateString("en-CA");
   const state = fs.existsSync(local(PROCESSED))
-    ? { resume: null, photos: {}, ...JSON.parse(fs.readFileSync(local(PROCESSED), "utf8")) }
-    : { resume: null, photos: {} };
+    ? { fetched: {}, resume: {}, photos: {}, ...JSON.parse(fs.readFileSync(local(PROCESSED), "utf8")) }
+    : { fetched: {}, resume: {}, photos: {} };
 
   let features, snapshot;
   if (arg("--from")) {
@@ -284,15 +301,19 @@ async function main() {
   } else {
     const key = env.FOTOSHI_API_KEY;
     if (!key) throw new Error("No FOTOSHI_API_KEY: put it in .env next to update.js (see .env.example)");
-    const start = state.resume && state.resume.user === user ? state.resume.next : null;
-    console.log(`Asking Fotoshi for photographed objects${user ? ` with ${user}'s photos` : ""}${start ? ", going on from where the last run stopped" : ""} ...`);
-    const got = await fetchFeatures(key, user, start);
+    const start = state.resume[who]?.next ?? null;
+    const started = start ? state.resume[who].started : new Date().toISOString(); // when this fetch began
+    const since = args.includes("--all") || args.includes("--again") ? null : sinceDay(state, who);
+    console.log(`Asking Fotoshi for photographed objects${user ? ` with ${user}'s photos` : ""}${start ? ", going on from where the last run stopped" : since ? ` photographed since ${since} (--all for all)` : ""} ...`);
+    const got = await fetchFeatures(key, user, start, since);
     features = got.features;
-    snapshot = freeName(`fotoshi-${today}`, ".json");
+    snapshot = freeName(`fotoshi-${who}-${today}`, ".json");
     fs.writeFileSync(local(snapshot), `[\n${features.map(f => JSON.stringify(f)).join(",\n")}\n]\n`);
     saved = snapshot;
     // kept at once, so a failure below doesn't cost the allowance again: rerun with --from
-    state.resume = got.stopped && { user, next: got.stopped };
+    if (got.stopped) state.resume[who] = { next: got.stopped, started };
+    else delete state.resume[who];
+    if (!got.stopped && started) state.fetched[who] = started;
     saveProcessed(state);
     console.log(`Saved ${snapshot}: ${features.length} objects, ${features.reduce((n, f) => n + f.photos.length, 0)} photos`);
   }
@@ -354,10 +375,10 @@ async function main() {
   const items = [...tagged.map(t => ({ t, at: where(t, objects) })), ...find.map(f => ({ f, at: f.at }))];
   const north = group => group.reduce((sum, x) => sum + x.at[1], 0) / group.length;
   const groups = items.length ? split(items, chunk).sort((a, b) => north(b) - north(a)) : [];
-  const numbered = new RegExp(`^fotoshi-${today}-(\\d+)\\.osm$`);
+  const numbered = new RegExp(`^fotoshi-${who.replace(/\./g, "\\.")}-${today}-(\\d+)\\.osm$`);
   const first = Math.max(0, ...fs.readdirSync(__dirname).map(name => Number(name.match(numbered)?.[1] ?? 0))) + 1;
   const files = groups.map((group, i) => ({
-    name: `fotoshi-${today}-${String(first + i).padStart(2, "0")}.osm`,
+    name: `fotoshi-${who}-${today}-${String(first + i).padStart(2, "0")}.osm`,
     tagged: group.filter(x => x.t).map(x => x.t),
     find: group.filter(x => x.f).map(x => x.f),
   }));
@@ -390,7 +411,7 @@ async function main() {
   }
   for (const [id, text] of results) state.photos[id] = text;
   saveProcessed(state);
-  console.log(`Saved ${PROCESSED}: ${Object.keys(state.photos).length} photos${state.resume ? "; the next run goes on where this one stopped" : ""}`);
+  console.log(`Saved ${PROCESSED}: ${Object.keys(state.photos).length} photos${state.resume[who] ? "; the next run goes on where this one stopped" : ""}`);
 }
 
 if (require.main === module) main().catch(e => {
